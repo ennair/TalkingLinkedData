@@ -9,14 +9,11 @@
 	</prompt>
 	<option dtmf="1" value="Maize">Maize</option>
 	<option dtmf="2" value="Potato">Potato</option>         
-  </field>
+  
    <filled namelist="main">
-      <if cond="main == 'Maize'">
-            <goto next="http://neosound.nl/rianne/wikipedia.php"/>
-      <elseif cond="main == 'Potato'"/>
-            <goto next="http://neosound.nl/rianne/wikipedia.php"/>
-      </if>
+	<submit next="wikipedia.php" namelist="main"/>
   </filled>
+  </field>
  </form>
 
  </vxml>
