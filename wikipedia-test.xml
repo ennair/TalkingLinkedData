@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vxml version = "2.1" >
+<property name="inputmodes" value="dtmf" /> 
+
+ <form>
+   <field name="main">
+	<prompt>Welcome to the voice application for Wikipedia.
+		<enumerate>For <value expr="_prompt"/>, press <value expr="_dtmf"/>.</enumerate>
+	</prompt>
+	<option dtmf="1" value="Maize">Maize</option>
+	<option dtmf="2" value="Potato">Potato</option>         
+  </field>
+   <filled namelist="main">
+      <if cond="main == 'Maize'">
+            <goto next="http://neosound.nl/rianne/wikipedia.php"/>
+      <elseif cond="main == 'Potato'"/>
+            <goto next="http://neosound.nl/rianne/wikipedia.php"/>
+      </if>
+  </filled>
+ </form>
+
+ </vxml>
