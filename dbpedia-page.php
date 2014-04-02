@@ -69,7 +69,7 @@
 	print "\n</enumerate> \n </prompt>";
 
 	$results = file_get_contents($myurl);
-	//print $results;
+	print $results;
 	$results = utf8_encode($results);
 	//print $foo;
 	$jsonArr = json_decode($results);

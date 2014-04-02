@@ -16,7 +16,7 @@
 
 	foreach($html->getElementsByTagName('h2') as $section) {  
 		$sectionName = $section->nodeValue;
-		print "\n<option dtmf=\"" . $i . "\" value=\"" . $url . $sectionName . "\">". $sectionName . "</option>";
+		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $url . "\">". $sectionName . "</option>";
 		$i++;
     	} 
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
@@ -24,7 +24,13 @@
 	print "\n</field>";
         print "\n<filled>";
 	print "\n<submit next=\"wikipedia-section.php\" namelist=\"section\"/>";
-	print "\n</filled> \n </form> \n </vxml>";
+	print "\n</filled> \n </form>"; 
+
+
+		
+
+
+	print "\n </vxml>";
                 
          
   
