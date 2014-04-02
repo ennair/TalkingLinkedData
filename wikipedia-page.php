@@ -16,7 +16,7 @@
 
 	foreach($html->getElementsByTagName('h2') as $section) {  
 		$sectionName = $section->nodeValue;
-		print "\n<option dtmf=\"" . $i . "\" value=\"". $sectionName . "\">". $sectionName . "</option>";
+		print "\n<option dtmf=\"" . $i . "\" value=\"" . $url . $sectionName . "\">". $sectionName . "</option>";
 		$i++;
     	} 
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      

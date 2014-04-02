@@ -1,9 +1,14 @@
 <?php
-	 $sectionHeader = $_GET["section"];
+	$string = $_GET["section"];
+	$sectionHeader = substr($string, 1, strpos($string, ' '));;
 
 	print "\n<vxml version = \"2.1\"> \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"result\">\n <block> \n<prompt bargein=\"true\">\n";
+	print "You have chosen ";
+	print $sectionHeader;
+	print ".";
 
-	$url = 'http://en.wikipedia.org/wiki/Maize';
+	$url = substr($string, 0, strpos($string, ' '));;
+	//$url = 'http://en.wikipedia.org/wiki/' .$page;	
 	$html = new DOMDocument();
 	$html->loadHTMLFile($url);
 
