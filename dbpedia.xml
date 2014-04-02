@@ -4,14 +4,14 @@
 
  <form>
    <field name="main">
-	<prompt>Welcome to the voice application for Wikipedia.
+	<prompt>Welcome to the voice application for DBpedia.
 		<enumerate>For <value expr="_prompt"/>, press <value expr="_dtmf"/>.</enumerate>
 	</prompt>
 	<option dtmf="1" value="Maize">Maize</option>
 	<option dtmf="2" value="Potato">Potato</option>         
   
    <filled namelist="main">
-	<submit next="wikipedia.php" namelist="main"/>
+	<submit next="dbpedia-page.php" namelist="main"/>
   </filled>
   </field>
  </form>

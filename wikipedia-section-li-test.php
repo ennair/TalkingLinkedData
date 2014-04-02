@@ -16,7 +16,11 @@
 	foreach( $domElemsToRemove as $domElement ){ 
   		$domElement->parentNode->removeChild($domElement); 
 	} 
- 
+	
+	$html = str_replace('<ul>', ' ', $html);
+	$html = str_replace('</ul>', ' ', $html);
+	$html = str_replace('</li>', '</p>', $html);
+	$html = str_replace('<li>', '<p>', $html));
         $xpath = new DOMXPath($html);
 	$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //li[preceding-sibling::h2[1][span='{$sectionHeader}']]";
 	$paragraphs = $xpath->query($query);

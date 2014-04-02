@@ -16,13 +16,9 @@
 	foreach( $domElemsToRemove as $domElement ){ 
   		$domElement->parentNode->removeChild($domElement); 
 	} 
-	
-	$html = str_replace('<ul>', ' ', $html);
-	$html = str_replace('</ul>', ' ', $html);
-	$html = str_replace('</li>', '</p>', $html);
-	$html = str_replace('<li>', '<p>', $html));
+ 
         $xpath = new DOMXPath($html);
-	$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //li[preceding-sibling::h2[1][span='{$sectionHeader}']]";
+	$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //p[preceding-sibling::h2[1][span='{$sectionHeader}']]";
 	$paragraphs = $xpath->query($query);
 
 	foreach ($paragraphs as $paragraph) {
@@ -30,6 +26,6 @@
 		print "<p>" . $content . "</p>";
 	}
 
-	print "\n </prompt> \n <goto next=\"wikipedia-test.xml\"/>\n</block> \n </form> \n </vxml>";
+	print "\n </prompt> \n <goto next=\"wikipedia.xml\"/>\n</block> \n </form> \n </vxml>";
 
 ?>

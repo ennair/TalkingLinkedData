@@ -1,0 +1,118 @@
+SELECT ?label ?value
+WHERE {
+<http://dbpedia.org/resource/Maize> ?property ?value .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+FILTER (LANG(?label) = 'en' and LANG(?value) = 'en' )
+}
+
+SELECT ?label ?value
+WHERE {
+<http://dbpedia.org/resource/Maize> ?property ?value .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+MINUS {?property rdfs:range xsd:string}
+FILTER (LANG(?label) = 'en')
+}
+
+Alle properties die zelf ook een page hebben
+
+SELECT DISTINCT ?label ?value
+WHERE {
+<http://dbpedia.org/resource/Maize> ?property ?value2 .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+?value2 rdfs:label ?value .
+MINUS {?property rdfs:range xsd:string} .
+FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+}
+
+
+Alle properties die geen string zijn en die zelf ook geen page hebben
+
+SELECT ?label ?value
+WHERE {
+<http://dbpedia.org/resource/Maize> ?property ?value .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+MINUS {?property rdfs:range xsd:string} .
+MINUS {?value rdfs:label ?x} .
+FILTER (LANG(?label) = 'en')
+}
+
+
+All english string properties (abstract)
+
+SELECT ?label ?value
+WHERE {
+<http://dbpedia.org/resource/Maize> ?property ?value .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+?property rdfs:range xsd:string .
+FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+}
+
+
+
+All properties to Maize
+
+SELECT ?label ?value WHERE {
+?value2 ?property <http://dbpedia.org/resource/Maize> .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value
+FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+}
+
+
+TOTALE QUERY
+
+SELECT ?label ?value
+WHERE {
+   
+   {SELECT ?label ?value 
+      WHERE {
+         ?value2 ?property <http://dbpedia.org/resource/Maize> .
+         ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+         ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
+         FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+      }
+      }
+            
+            UNION
+            
+            {
+            {SELECT ?label ?value
+            WHERE {
+            <http://dbpedia.org/resource/Maize> ?property ?value .
+            ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+            ?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+            FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+      }
+      }
+            
+            UNION
+            
+            {
+            {SELECT DISTINCT ?label ?value
+            WHERE {
+            <http://dbpedia.org/resource/Maize> ?property ?value2 .
+            ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+            ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
+            MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
+            FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+      }
+      }
+            
+            UNION
+            
+            {SELECT ?label ?value
+            WHERE {
+            <http://dbpedia.org/resource/Maize> ?property ?value .
+            ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+            MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
+            MINUS {?value <http://www.w3.org/2000/01/rdf-schema#label> ?x} .
+            FILTER (LANG(?label) = 'en')
+      }
+      }
+      }
+      }
+            
+      }
+            ORDER BY ?label
+
+
