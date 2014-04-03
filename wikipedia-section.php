@@ -32,6 +32,6 @@
 		print "<p>" . $content . "</p>";
 	}
 
-	print "\n </prompt> \n <goto next=\"wikipedia.xml\"/>\n</block> \n </form> \n </vxml>";
+	print "\n </prompt> \n <prompt>You will now return to the main menu.</prompt> \n<goto next=\"wikipedia.xml\"/>\n</block> \n </form> \n </vxml>";
 
 ?>
