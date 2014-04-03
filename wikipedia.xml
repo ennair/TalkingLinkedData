@@ -18,7 +18,7 @@
 	<option dtmf="2" value="Potato">Potato</option>   
 	<noinput>Please enter a number.<reprompt/></noinput>      
   	<nomatch>This is no option. Try again.<reprompt/></nomatch>
-   <filled namelist="main">
+   <filled namelist="page">
 	<submit next="wikipedia-page.php" namelist="page"/>
   </filled>
   </field>

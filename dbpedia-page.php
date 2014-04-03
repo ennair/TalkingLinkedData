@@ -1,5 +1,5 @@
 <?php
-	$page = $_GET["section"];
+	$page = $_GET["page"];
 
 	$myquery = "
 	SELECT ?label ?value
@@ -58,34 +58,47 @@
 	";
 
 	$encoded_query = urlencode($myquery);
-	//print $encoded_query;
-        $myurl = 'http://dbpedia.org/sparql?query=' .$encoded_query. '&format=json';
-	//print "<!--".$myurl."-->";
+        $myurl = 'http://dbpedia.org/sparql?query=' .$encoded_query;
 
-	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"menu1\">\n <field name=\"section\"> \n<prompt>\n";
+	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"menu1\" accept-charset=\"UTF-8\">\n <field name=\"section\"> \n<prompt>\n";
 	print "Which section would you like to read?";
 	print "\n<enumerate>";
 	print "\nFor <value expr=\"_prompt\"/>, press <value expr=\"_dtmf\"/>.";
 	print "\n</enumerate> \n </prompt>";
 
-	$results = file_get_contents($myurl);
-	print $results;
-	$results = utf8_encode($results);
-	//print $foo;
-	$jsonArr = json_decode($results);
-	print $jsonArr;
-	//$html = new DOMDocument();
-	//$html->loadHTMLFile($result);
-	//$xmlresult = simplexml_load_string($result);
+	$query = file_get_contents($myurl);
+	//$encodedquery = json_encode($query, true);
+	//$result = json_decode($encodedquery, true);
 
-	while($item = array_shift($jsonArr))
-	{
-		foreach($item as $key => $value){
-	 		//$property = $value['label']['value'];
-	 		//print "\n<option dtmf=\"" . $i . "\" value=\"". $property . "\">". $property . "</option>";
-			print $key;
-			print $value;
+	$html = new DOMDocument();
+	$html->loadXML($query);
+	$i = 1;
+	$d = 1;
+	$string;
+	
+	foreach($html->getElementsByTagName('binding') as $section) {  
+		//$->evaluate("/sparql/results//binding[@class='label']")
+		if($i % 2 != 0) {
+			$sectionName = $section->nodeValue;
+			
+			if(strcmp($sectionName, $string) != 0) {
+				print "\n<option dtmf=\"" . $d . "\" value=\"" . $sectionName . "," . $page . "\">". $sectionName . "</option>";
+				//print "\n<option dtmf=\"" . $d . "\" value=\"" . $sectionName . "\">". $sectionName . "</option>";
+				$d++;
+			}
+			
+			$string = $sectionName;
 		}
-	}
+		
+		$i++;
+    	} 
+
+	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
+  	print "\n<nomatch>This is no option. Try again.<reprompt/></nomatch>";
+	print "\n</field>";
+        print "\n<filled>";
+	print "\n<submit next=\"dbpedia-section.php\" namelist=\"section\"/>";
+	print "\n</filled> \n </form>"; 
+	print "\n </vxml>";
 
 ?>

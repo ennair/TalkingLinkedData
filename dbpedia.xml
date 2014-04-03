@@ -2,16 +2,24 @@
 <vxml version = "2.1" >
 <property name="inputmodes" value="dtmf" /> 
 
- <form>
-   <field name="main">
-	<prompt>Welcome to the voice application for DBpedia.
+ <form id="menu0">
+   <block>
+   	<prompt bargein="true">Welcome to the voice application for D B pedia.</prompt>
+	<goto next="#menu1"/>
+   </block>
+ </form>
+
+ <form id="menu1">
+   <field name="page">
+	<prompt bargein="true">
 		<enumerate>For <value expr="_prompt"/>, press <value expr="_dtmf"/>.</enumerate>
 	</prompt>
 	<option dtmf="1" value="Maize">Maize</option>
 	<option dtmf="2" value="Potato">Potato</option>         
-  
-   <filled namelist="main">
-	<submit next="dbpedia-page.php" namelist="main"/>
+  	<noinput>Please enter a number.<reprompt/></noinput>      
+  	<nomatch>This is no option. Try again.<reprompt/></nomatch>
+   <filled namelist="page">
+	<submit next="dbpedia-page.php" namelist="page"/>
   </filled>
   </field>
  </form>
