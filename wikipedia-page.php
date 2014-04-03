@@ -12,11 +12,14 @@
 	$url = 'http://en.wikipedia.org/wiki/' .$page;	
 	$html = new DOMDocument();
 	$html->loadHTMLFile($url);
-	$i = 1;
+	$i = 0;
 
-	foreach($html->getElementsByTagName('h2') as $section) {  
-		$sectionName = $section->nodeValue;
+	foreach($html->getElementsByTagName('h2') as $section) {
+		if($i != 0) {
+			$sectionName = $section->nodeValue;
 		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $url . "\">". $sectionName . "</option>";
+		}  
+		
 		$i++;
     	} 
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
