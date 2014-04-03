@@ -7,7 +7,7 @@
    
    	{SELECT ?label ?value 
       	WHERE {
-         ?value2 ?property <http://dbpedia.org/resource/Maize> .
+         ?value2 ?property <http://dbpedia.org/resource/" . $page . "> .
          ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
          ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
          FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
@@ -19,7 +19,7 @@
             {
             {SELECT ?label ?value
             WHERE {
-            <http://dbpedia.org/resource/Maize> ?property ?value .
+            <http://dbpedia.org/resource/" . $page . "> ?property ?value .
             ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
             ?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
             FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
@@ -31,7 +31,7 @@
             {
             {SELECT DISTINCT ?label ?value
             WHERE {
-            <http://dbpedia.org/resource/Maize> ?property ?value2 .
+            <http://dbpedia.org/resource/" . $page . "> ?property ?value2 .
             ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
             ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
             MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
@@ -43,7 +43,7 @@
             
             {SELECT ?label ?value
             WHERE {
-            <http://dbpedia.org/resource/Maize> ?property ?value .
+            <http://dbpedia.org/resource/" . $page . "> ?property ?value .
             ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
             MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
             MINUS {?value <http://www.w3.org/2000/01/rdf-schema#label> ?x} .
@@ -61,7 +61,9 @@
         $myurl = 'http://dbpedia.org/sparql?query=' .$encoded_query;
 
 	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"menu1\" accept-charset=\"UTF-8\">\n <field name=\"section\"> \n<prompt>\n";
-	print "Which section would you like to read?";
+	print "You have chosen ";
+	print $page;
+	print ". Which section would you like to read?";
 	print "\n<enumerate>";
 	print "\nFor <value expr=\"_prompt\"/>, press <value expr=\"_dtmf\"/>.";
 	print "\n</enumerate> \n </prompt>";

@@ -8,7 +8,67 @@
 	print $sectionHeader;
 	print ".";
 
-	$url = $keywords[1];
+	$page = $keywords[1];
+
+	$myquery = "
+	SELECT ?label ?value
+	WHERE {
+   
+   	{SELECT ?label ?value 
+      	WHERE {
+         ?value2 ?property <http://dbpedia.org/resource/" . $page . "> .
+         ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+         ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
+         FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+      	}
+      	}
+            
+            UNION
+            
+            {
+            {SELECT ?label ?value
+            WHERE {
+            <http://dbpedia.org/resource/" . $page . "> ?property ?value .
+            ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+            ?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+            FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+      	}
+      	}
+            
+            UNION
+            
+            {
+            {SELECT DISTINCT ?label ?value
+            WHERE {
+            <http://dbpedia.org/resource/" . $page . "> ?property ?value2 .
+            ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+            ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
+            MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
+            FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+      	}
+      	}
+            
+            UNION
+            
+            {SELECT ?label ?value
+            WHERE {
+            <http://dbpedia.org/resource/" . $page . "> ?property ?value .
+            ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+            MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
+            MINUS {?value <http://www.w3.org/2000/01/rdf-schema#label> ?x} .
+            FILTER (LANG(?label) = 'en')
+      	}
+      	}
+      	}
+      	}
+            
+      	}
+            ORDER BY ?label
+	";
+
+	$encoded_query = urlencode($myquery);
+        $url = 'http://dbpedia.org/sparql?query=' .$encoded_query;
+
 	$query = file_get_contents($url);	
 	$html = new DOMDocument();
 	$html->loadXML($query);
