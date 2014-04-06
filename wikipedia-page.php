@@ -12,13 +12,21 @@
 	$url = 'http://en.wikipedia.org/wiki/' .$page;	
 	$html = new DOMDocument();
 	$html->loadHTMLFile($url);
-	$i = 0;
+	$i = 1;
 
-	foreach($html->getElementsByTagName('h2') as $section) {
-		if($i != 0) {
-			$sectionName = $section->nodeValue;
-		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $url . "\">". $sectionName . "</option>";
-		}  
+	$domNodeList = $html->getElementsByTagname('h3'); 
+	$domElemsToRemove = array(); 
+	foreach ( $domNodeList as $domElement ) { 
+  		$domElemsToRemove[] = $domElement; 
+	} 
+
+	foreach ( $domElemsToRemove as $domElement ) { 
+  		$domElement->parentNode->removeChild($domElement); 
+	} 
+
+	foreach(getElementsByClassName($html, 'mw-headline') as $section) {
+		$sectionName = $section->nodeValue;
+		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $url . "\">". $sectionName . "</option>"; 
 		
 		$i++;
     	} 
@@ -28,83 +36,29 @@
         print "\n<filled>";
 	print "\n<submit next=\"wikipedia-section.php\" namelist=\"section\"/>";
 	print "\n</filled> \n </form>"; 
-
-
-		
-
-
 	print "\n </vxml>";
                 
          
-  
+  	function getElementsByClassName(DOMDocument $DOMDocument, $ClassName) {
+    		$Elements = $DOMDocument -> getElementsByTagName("*");
+    		$Matched = array();
  
-
-
-
-	
-	//$result = file_get_contents($url);
-	//$result1 = strip_tags($result, '<h2>,<p>');
-	//echo $result1;
-
-	//$xml2 = new DOMDocument();
-	//$xml2->loadHTMLFile($url);
-
-	
-
-	//create replacement
-	//$replacement  = $xml1->createDocumentFragment();
-	//$replacement  ->appendXML('<p></p>');
-
-	//make replacement
-	//$xp = new DOMXPath($xml1);
-	//$entries = $xp->query('//li');
-	//foreach($entries as $entry) {
-	//	$entry->parentNode->replaceChild($replacement  , $entry);
-	//	$new_html = $xml1->saveXml($xml1->documentElement);
-	//}
-
-	//echo $new_html;
-
-	//$xml2 = new DOMDocument();
-	//$xml2->loadHTML($new_html);
-
-	//foreach($xml2->getElementsByTagName('h2') as $link) { 
-        //	$xpath = new DOMXPath($xml2);
-	//	$heading = $link->nodeValue;
-	//	$query = "//p[preceding-sibling::h2[1][span='{$heading}']] | //li";
-	//	$entries = $xpath->query($query);
-	//
-	//	foreach ($entries as $entry) {
-	//		print "<p>";
-   	//	 	echo $entry->nodeValue;
-	//		print "</p>";
-	//	}
-	//	print "<br><br><br><br>";
-    	//} 
-
-	
-
-
-	
-	//$body = $xml2->getElementsByTagName('body')->item(0);
-	//print $body;
-
-	//$xml = new DOMDocument(); 
-	//$xml->loadHTMLFile($result1); 
-	//$links = array(); 
-
-	//foreach($xml2->getElementsByTagName('h2') as $link) { 
-        //	$links[] = array('text' => $link->nodeValue); 
-	//	//print $link->nodeValue;
-	//	//print "<br><br>";
-    	//} 
-
-	//$xmlresult = simplexml_load_string($result); 
-
-	
-	//$result2 = preg_replace("(.*)<div>(.*?)</div>(.*)", '', $result1)
-	//echo $xml->saveXML();
-	
-	//print "</prompt>\n</field></form></vxml>";
-
+    		foreach($Elements as $node) {
+        		if( ! $node -> hasAttributes())
+            			continue;
+ 
+        		$classAttribute = $node -> attributes -> getNamedItem('class');
+ 
+        		if( ! $classAttribute)
+            			continue;
+ 
+        		$classes = explode(' ', $classAttribute -> nodeValue);
+ 
+        		if(in_array($ClassName, $classes))
+            			$Matched[] = $node;
+    		}
+ 
+    		return $Matched;
+	}
+ 
 ?>
