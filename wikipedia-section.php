@@ -8,8 +8,7 @@
 	print $sectionHeader;
 	print ".";
 
-	$url = $keywords[1];
-	//$url = 'http://en.wikipedia.org/wiki/' .$page;	
+	$url = $keywords[1];	
 	$html = new DOMDocument();
 	$html->loadHTMLFile($url);
 
@@ -22,15 +21,28 @@
 	foreach( $domElemsToRemove as $domElement ){ 
   		$domElement->parentNode->removeChild($domElement); 
 	} 
+
+	$firstSection = $html->getElementsByTagname('h2')->item(1)->nodeValue;
  
         $xpath = new DOMXPath($html);
-	$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //p[preceding-sibling::h2[1][span='{$sectionHeader}']]";
-	$paragraphs = $xpath->query($query);
 
-	foreach ($paragraphs as $paragraph) {
-		$content = $paragraph->nodeValue;
-		print "<p>" . $content . "</p>";
-	}
+	if(strcmp($sectionHeader, 'Abstract') == 0) {
+		$abstractQuery = "//p[following-sibling::h2[1][span='{$firstSection}']] | //p[following-sibling::h2[1][span='{$firstSection}']]";
+		$abstractParagraphs = $xpath->query($abstractQuery);
+
+		foreach ($abstractParagraphs as $paragraph) {
+			$content = $paragraph->nodeValue;
+			print "<p>" . $content . "</p>";
+		}
+	} else {
+		$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //p[preceding-sibling::h2[1][span='{$sectionHeader}']]";
+		$paragraphs = $xpath->query($query);
+
+		foreach ($paragraphs as $paragraph) {
+			$content = $paragraph->nodeValue;
+			print "<p>" . $content . "</p>";
+		}
+	}		
 
 	print "\n </prompt> \n <prompt>You will now return to the main menu.</prompt> \n<goto next=\"wikipedia.xml\"/>\n</block> \n </form> \n </vxml>";
 

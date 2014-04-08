@@ -12,7 +12,6 @@
 	$url = 'http://en.wikipedia.org/wiki/' .$page;	
 	$html = new DOMDocument();
 	$html->loadHTMLFile($url);
-	$i = 1;
 
 	$domNodeList = $html->getElementsByTagname('h3'); 
 	$domElemsToRemove = array(); 
@@ -23,6 +22,10 @@
 	foreach ( $domElemsToRemove as $domElement ) { 
   		$domElement->parentNode->removeChild($domElement); 
 	} 
+
+	print "\n<option dtmf=\"1" . $i . "\" value=\"Abstract," . $url . "\">Abstract</option>";
+
+	$i = 2;
 
 	foreach(getElementsByClassName($html, 'mw-headline') as $section) {
 		$sectionName = $section->nodeValue;
