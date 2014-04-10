@@ -77,6 +77,8 @@
 	$i = 1;
 	$d = 1;
 	$string;
+
+	print "\n<option dtmf=\"0\" value=\"Back\">Go back to main menu</option>";
 	
 	foreach($html->getElementsByTagName('binding') as $section) {  
 		//$->evaluate("/sparql/results//binding[@class='label']")
@@ -85,7 +87,6 @@
 			
 			if(strcmp($sectionName, $string) != 0) {
 				print "\n<option dtmf=\"" . $d . "\" value=\"" . $sectionName . "," . $page . "\">". $sectionName . "</option>";
-				//print "\n<option dtmf=\"" . $d . "\" value=\"" . $sectionName . "\">". $sectionName . "</option>";
 				$d++;
 			}
 			
@@ -98,9 +99,12 @@
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
   	print "\n<nomatch>This is no option. Try again.<reprompt/></nomatch>";
 	print "\n</field>";
-        print "\n<filled>";
+	print "\n<filled namelist=\"section\">";
+	print "\n<if cond=\"section == 'Back'\">";
+	print "\n<goto next=\"dbpedia.xml\"/>";
+	print "\n<else />";
 	print "\n<submit next=\"dbpedia-section.php\" namelist=\"section\"/>";
-	print "\n</filled> \n </form>"; 
+	print "\n</if> \n </filled> \n </form>"; 
 	print "\n </vxml>";
 
 ?>

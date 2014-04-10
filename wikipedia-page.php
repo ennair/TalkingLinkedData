@@ -22,8 +22,8 @@
 	foreach ( $domElemsToRemove as $domElement ) { 
   		$domElement->parentNode->removeChild($domElement); 
 	} 
-
-	print "\n<option dtmf=\"1" . $i . "\" value=\"Abstract," . $url . "\">Abstract</option>";
+	print "\n<option dtmf=\"0\" value=\"Back\">Go back to main menu</option>";
+	print "\n<option dtmf=\"1\" value=\"Abstract," . $url . "\">Abstract</option>";
 
 	$i = 2;
 
@@ -36,9 +36,12 @@
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
   	print "\n<nomatch>This is no option. Try again.<reprompt/></nomatch>";
 	print "\n</field>";
-        print "\n<filled>";
+        print "\n<filled namelist=\"section\">";
+	print "\n<if cond=\"section == 'Back'\">";
+	print "\n<goto next=\"wikipedia.xml\"/>";
+	print "\n<else />";
 	print "\n<submit next=\"wikipedia-section.php\" namelist=\"section\"/>";
-	print "\n</filled> \n </form>"; 
+	print "\n</if> \n </filled> \n </form>"; 
 	print "\n </vxml>";
                 
          
