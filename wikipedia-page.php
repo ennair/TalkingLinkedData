@@ -22,6 +22,18 @@
 	foreach ( $domElemsToRemove as $domElement ) { 
   		$domElement->parentNode->removeChild($domElement); 
 	} 
+
+	$domNodeList = $html->getElementsByTagname('h4'); 
+	$domElemsToRemove = array(); 
+	foreach ( $domNodeList as $domElement ) { 
+  		$domElemsToRemove[] = $domElement; 
+	} 
+
+	foreach ( $domElemsToRemove as $domElement ) { 
+  		$domElement->parentNode->removeChild($domElement); 
+	} 
+
+
 	print "\n<option dtmf=\"0\" value=\"Back\">Go back to main menu</option>";
 	print "\n<option dtmf=\"1\" value=\"Abstract," . $url . "\">Abstract</option>";
 
@@ -29,9 +41,15 @@
 
 	foreach(getElementsByClassName($html, 'mw-headline') as $section) {
 		$sectionName = $section->nodeValue;
+	
+		if(strcmp($sectionName, 'See also') == 0) {
+			break;
+		}
+
 		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $url . "\">". $sectionName . "</option>"; 
 		
 		$i++;
+
     	} 
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
   	print "\n<nomatch>This is no option. Try again.<reprompt/></nomatch>";
@@ -40,7 +58,7 @@
 	print "\n<if cond=\"section == 'Back'\">";
 	print "\n<goto next=\"wikipedia.xml\"/>";
 	print "\n<else />";
-	print "\n<submit next=\"wikipedia-section.php\" namelist=\"section\"/>";
+	print "\n<submit next=\"wikipedia-subsection.php\" namelist=\"section\"/>";
 	print "\n</if> \n </filled> \n </form>"; 
 	print "\n </vxml>";
                 
