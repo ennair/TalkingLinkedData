@@ -13,7 +13,7 @@ MINUS {?property rdfs:range xsd:string}
 FILTER (LANG(?label) = 'en')
 }
 
-Alle properties die zelf ook een page hebben
+1. Alle properties die zelf ook een page hebben
 
 SELECT DISTINCT ?label ?value
 WHERE {
@@ -25,7 +25,7 @@ FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
 }
 
 
-Alle properties die geen string zijn en die zelf ook geen page hebben
+2. Alle properties die geen string zijn en die zelf ook geen page hebben
 
 SELECT ?label ?value
 WHERE {
@@ -37,7 +37,7 @@ FILTER (LANG(?label) = 'en')
 }
 
 
-All english string properties (abstract)
+3. All english string properties (abstract)
 
 SELECT ?label ?value
 WHERE {
@@ -49,7 +49,7 @@ FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
 
 
 
-All properties to Maize
+4. All properties to Maize
 
 SELECT ?label ?value WHERE {
 ?value2 ?property <http://dbpedia.org/resource/Maize> .

@@ -35,7 +35,7 @@
 			print "<p>" . $content . "</p>";
 		}
 	} else {
-		$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //p[preceding-sibling::h2[1][span='{$sectionHeader}']]";
+		$query = "//p[preceding-sibling::h2[1][span='{$sectionHeader}']] | //ul[preceding-sibling::h2[1][span='{$sectionHeader}']]//li";
 		$paragraphs = $xpath->query($query);
 
 		foreach ($paragraphs as $paragraph) {
