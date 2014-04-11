@@ -37,6 +37,22 @@ FILTER (LANG(?label) = 'en')
 }
 
 
+SELECT ?label ?value
+WHERE {
+<http://dbpedia.org/resource/Maize> ?property ?value .
+?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
+MINUS {?property rdfs:range xsd:string} .
+MINUS {?value rdfs:label ?x} .
+MINUS {?property <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty>} .
+MINUS {?property <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty>} .
+MINUS {?x <http://dbpedia.org/property/align> ?value} .
+MINUS {?x <http://dbpedia.org/property/caption> ?value} .
+MINUS {?x <http://dbpedia.org/property/image> ?value} .
+MINUS {?x <http://dbpedia.org/property/imageCaption> ?value} .
+MINUS {?x <http://dbpedia.org/property/note> ?value} .
+FILTER (LANG(?label) = 'en')
+}
+
 3. All english string properties (abstract)
 
 SELECT ?label ?value

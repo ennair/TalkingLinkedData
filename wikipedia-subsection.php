@@ -2,10 +2,23 @@
 	$string = $_GET["section"];
 	$keywords = preg_split("/[,]+/", $string);
 	$sectionHeader = $keywords[0];
+	//$sectionHeader = 'Uses';
+	//$url = 'http://en.wikipedia.org/wiki/Acacia';
 
 	$url = $keywords[1];	
 	$html = new DOMDocument();
 	$html->loadHTMLFile($url);
+
+	
+	$domNodeList = getElementsByClassName($html, 'mw-editsection'); 
+	$domElemsToRemove = array(); 
+	foreach ( $domNodeList as $domElement ) { 
+  		$domElemsToRemove[] = $domElement; 
+	} 
+
+	foreach ( $domElemsToRemove as $domElement ) { 
+  		$domElement->parentNode->removeChild($domElement); 
+	} 
 
 	$xpath = new DOMXPath($html);
 	$query = "//h3[preceding-sibling::h2[1][span='{$sectionHeader}']] | //h3[preceding-sibling::h2[1][span='{$sectionHeader}']]";
@@ -79,11 +92,11 @@
 	} 
 
 	$firstSection = $html->getElementsByTagname('h2')->item(1)->nodeValue;
- 
+	 
         $xpath2 = new DOMXPath($html);
 
 	if(strcmp($sectionHeader, 'Abstract') == 0) {
-		$abstractQuery = "//p[following-sibling::h2[1][span='{$firstSection}']] | //ul[following-sibling::h2[1][span='{$firstSection}']]//li | //ol[following-sibling::h2[1][span='{$firstSection}']]//li";
+		$abstractQuery = "//p[following-sibling::h2[1][span[1][@id='{$firstSection}']]] | //ul[following-sibling::h2[1][span='{$firstSection}']]//li | //ol[following-sibling::h2[1][span='{$firstSection}']]//li";
 		$abstractParagraphs = $xpath2->query($abstractQuery);
 
 		foreach ($abstractParagraphs as $paragraph) {
@@ -103,5 +116,27 @@
 	print "\n </prompt> \n <prompt>You will now return to the main menu.</prompt> \n<goto next=\"wikipedia.xml\"/>\n</block> \n </form>";
 
 	print "\n </vxml>";
+
+	function getElementsByClassName(DOMDocument $DOMDocument, $ClassName) {
+    		$Elements = $DOMDocument -> getElementsByTagName("*");
+    		$Matched = array();
+ 
+    		foreach($Elements as $node) {
+        		if( ! $node -> hasAttributes())
+            			continue;
+ 
+        		$classAttribute = $node -> attributes -> getNamedItem('class');
+ 
+        		if( ! $classAttribute)
+            			continue;
+ 
+        		$classes = explode(' ', $classAttribute -> nodeValue);
+ 
+        		if(in_array($ClassName, $classes))
+            			$Matched[] = $node;
+    		}
+ 
+    		return $Matched;
+	}
                 
 ?>

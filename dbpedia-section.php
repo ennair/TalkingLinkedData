@@ -63,7 +63,7 @@
       	}
             
       	}
-            ORDER BY ?label
+        ORDER BY ASC(?label);
 	";
 
 	$encoded_query = urlencode($myquery);
