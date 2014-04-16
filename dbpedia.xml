@@ -16,8 +16,9 @@
 	</prompt>
 	<option dtmf="1" value="Maize">Maize</option>
 	<option dtmf="2" value="Potato">Potato</option>
-	<option dtmf="3" value="Ficus">Ficus</option>
-	<option dtmf="4" value="Acacia">Acacia</option>
+	<option dtmf="3" value="Carrot">Carrot</option>
+	<option dtmf="4" value="Cabbage">Cabbage</option>
+	<option dtmf="5" value="Cucumber">Cucumber</option>
 	<option dtmf="0" value="Back">Repeat menu options</option>          
   	<noinput>Please enter a number.<reprompt/></noinput>      
   	<nomatch>This is no option. Try again.<reprompt/></nomatch>
