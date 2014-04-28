@@ -13,7 +13,6 @@
 <dbpediadump>
 a void:Dataset ;
 		a lib:CloudNode ;
-        lib:source dss: ;
         dc:title "DBPEdia dump  " ;
 		dc:description "DBPEdia dump voor Rianne's experiment " ;
         owl:versionInfo "0.1" ;
