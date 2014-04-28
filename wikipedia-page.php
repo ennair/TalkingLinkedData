@@ -58,7 +58,7 @@
 	print "\n<if cond=\"section == 'Back'\">";
 	print "\n<goto next=\"wikipedia.xml\"/>";
 	print "\n<else />";
-	print "\n<submit next=\"wikipedia-subsection.php\" namelist=\"section\"/>";
+	print "\n<submit next=\"wikipedia-section.php\" namelist=\"section\"/>";
 	print "\n</if> \n </filled> \n </form>"; 
 	print "\n </vxml>";
                 
