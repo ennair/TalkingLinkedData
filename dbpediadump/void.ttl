@@ -1,0 +1,30 @@
+@prefix     void: <http://rdfs.org/ns/void#> .
+@prefix     vann: <http://purl.org/vocab/vann/> .
+@prefix      lib: <http://www.swi-prolog.org/rdf/library/> .
+@prefix      owl: <http://www.w3.org/2002/07/owl#> .
+@prefix      rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix     rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix      xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix       dc: <http://purl.org/dc/terms/> .
+
+
+
+
+<dbpediadump>
+a void:Dataset ;
+		a lib:CloudNode ;
+        lib:source dss: ;
+        dc:title "DBPEdia dump  " ;
+		dc:description "DBPEdia dump voor Rianne's experiment " ;
+        owl:versionInfo "0.1" ;
+		void:dataDump
+                <carrot1.ttl>,
+				<carrot2.ttl>,
+				<cucumber1.ttl>,
+				<cucumber2.ttl>
+                <maize1.ttl>,
+				<maize2.ttl>,
+				<potato1.ttl>,
+				<potato2.ttl>
+                <tomato1.ttl>,
+				<tomato2.ttl>.
