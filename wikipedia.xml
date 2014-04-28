@@ -11,7 +11,8 @@
 
  <form id="menu1">
    <field name="page">
-	<prompt bargein="true">
+	<prompt bargein="true">To go back you can always press 0.
+		Which page would you like to read?
 		<enumerate>For <value expr="_prompt"/>, press <value expr="_dtmf"/>.</enumerate>
 	</prompt>
 	<option dtmf="1" value="Carrot">Carrot</option>
