@@ -20,10 +20,10 @@ a void:Dataset ;
                 <carrot1.ttl>,
 				<carrot2.ttl>,
 				<cucumber1.ttl>,
-				<cucumber2.ttl>
+				<cucumber2.ttl>,
                 <maize1.ttl>,
 				<maize2.ttl>,
 				<potato1.ttl>,
-				<potato2.ttl>
+				<potato2.ttl>,
                 <tomato1.ttl>,
 				<tomato2.ttl>.

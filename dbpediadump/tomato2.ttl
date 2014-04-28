@@ -23,18 +23,18 @@ dbpedia:Arrabbiata_sauce	owl:sameAs	ns5:Arrabbiata_sauce ,
 		<http://fr.dbpedia.org/resource/Penne_all\u0027arrabbiata> ,
 		<http://pt.dbpedia.org/resource/Penne_all\u0027arrabbiata> .
 @prefix ns6:	<http://de.dbpedia.org/resource/> .
-dbpedia:Arrabbiata_sauce	owl:sameAs	ns6:Penne_all’arrabbiata .
+dbpedia:Arrabbiata_sauce	owl:sameAs	ns6:Penne_all�arrabbiata .
 @prefix ns7:	<http://www.wikidata.org/entity/> .
 dbpedia:Arrabbiata_sauce	owl:sameAs	ns7:Q1891043 ,
 		<http://rdf.freebase.com/ns/m.06zx72> .
 @prefix ns8:	<http://ru.dbpedia.org/resource/> .
-dbpedia:Arrabbiata_sauce	owl:sameAs	ns8:Аррабиата .
+dbpedia:Arrabbiata_sauce	owl:sameAs	ns8:????????? .
 @prefix ns9:	<http://es.dbpedia.org/resource/> .
 dbpedia:Arrabbiata_sauce	owl:sameAs	ns9:Arrabbiata .
 @prefix ns10:	<http://zh.dbpedia.org/resource/> .
-dbpedia:Arrabbiata_sauce	owl:sameAs	ns10:香辣茄醬直通粉 .
+dbpedia:Arrabbiata_sauce	owl:sameAs	ns10:??????? .
 @prefix ns11:	<http://ja.dbpedia.org/resource/> .
-dbpedia:Arrabbiata_sauce	owl:sameAs	ns11:アラビアータ ,
+dbpedia:Arrabbiata_sauce	owl:sameAs	ns11:?????? ,
 		<http://no.dbpedia.org/resource/Penne_all\u0027arrabbiata> .
 @prefix ns12:	<http://ca.dbpedia.org/resource/> .
 dbpedia:Arrabbiata_sauce	owl:sameAs	ns12:Salsa_arrabbiata .
@@ -114,7 +114,7 @@ dbpedia:Salmorejo	rdf:type	yago:PhysicalEntity100001930 ,
 		yago:Nutriment107570720 ,
 		owl:Thing ,
 		yago:Food100021265 ;
-	owl:sameAs	ns8:Сальморехо .
+	owl:sameAs	ns8:?????????? .
 @prefix ns21:	<http://fr.dbpedia.org/resource/> .
 dbpedia:Salmorejo	owl:sameAs	ns21:Salmorejo .
 @prefix ns22:	<http://pt.dbpedia.org/resource/> .
@@ -128,10 +128,10 @@ dbpedia:Salmorejo	owl:sameAs	ns23:Salmorejo ,
 @prefix ns24:	<http://sv.dbpedia.org/resource/> .
 dbpedia:Salmorejo	owl:sameAs	ns24:Salmorejo ,
 		ns7:Q1635129 ,
-		ns11:サルモレッホ ,
+		ns11:?????? ,
 		ns6:Salmorejo .
 @prefix ns25:	<http://sr.dbpedia.org/resource/> .
-dbpedia:Salmorejo	owl:sameAs	ns25:Салморехо ;
+dbpedia:Salmorejo	owl:sameAs	ns25:????????? ;
 	dcterms:subject	category:Spanish_soups_and_stews ,
 		category:Andalusian_cuisine ,
 		category:Cold_soups ;
@@ -207,9 +207,9 @@ dbpedia:Spaghetti_alla_puttanesca	rdf:type	yago:TomatoSauce107831267 ,
 		dbpedia-owl:Food ,
 		yago:Substance100020090 ;
 	owl:sameAs	ns12:Salsa_puttanesca ,
-		ns11:プッタネスカ .
+		ns11:?????? .
 @prefix ns26:	<http://he.dbpedia.org/resource/> .
-dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns26:ספגטי_אלה_פוטנסקה ,
+dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns26:?????_???_??????? ,
 		ns5:Spaghetti_alla_puttanesca ,
 		ns21:Spaghetti_alla_puttanesca ,
 		ns24:Spaghetti_alla_puttanesca ,
@@ -217,7 +217,7 @@ dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns26:ספגטי_אלה_פוטנסק
 		<http://rdf.freebase.com/ns/m.07nlyz> ,
 		ns9:Spaghetti_alla_puttanesca .
 @prefix ns27:	<http://ar.dbpedia.org/resource/> .
-dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns27:باستا_بوتانيسكا .
+dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns27:?????_????????? .
 @prefix ns28:	<http://cs.dbpedia.org/resource/> .
 dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns28:Spaghetti_alla_puttanesca ,
 		ns22:Spaghetti_alla_puttanesca ,
@@ -285,31 +285,31 @@ dbpedia:Spaghetti_alla_puttanesca	owl:sameAs	ns28:Spaghetti_alla_puttanesca ,
 dbpedia:Tabbouleh	rdf:type	dbpedia-owl:Food ,
 		owl:Thing .
 @prefix ns29:	<http://fa.dbpedia.org/resource/> .
-dbpedia:Tabbouleh	owl:sameAs	ns29:تبوله ,
+dbpedia:Tabbouleh	owl:sameAs	ns29:????? ,
 		ns24:Tabbouleh ,
-		ns6:Taboulé .
+		ns6:Taboul� .
 @prefix ns30:	<http://pl.dbpedia.org/resource/> .
 dbpedia:Tabbouleh	owl:sameAs	ns30:Tabbouleh ,
 		ns9:Tabule ,
-		ns26:טאבולה .
+		ns26:?????? .
 @prefix ns31:	<http://af.dbpedia.org/resource/> .
 dbpedia:Tabbouleh	owl:sameAs	ns31:Taboelie ,
-		ns8:Табуле ,
-		ns12:Tabulé ,
+		ns8:?????? ,
+		ns12:Tabul� ,
 		ns7:Q607690 .
 @prefix ns32:	<http://az.dbpedia.org/resource/> .
 dbpedia:Tabbouleh	owl:sameAs	ns32:Tabule ,
 		ns23:Tabbouleh .
 @prefix ns33:	<http://nl.dbpedia.org/resource/> .
-dbpedia:Tabbouleh	owl:sameAs	ns33:Taboulé ,
-		ns27:تبولة ,
-		ns21:Taboulé .
+dbpedia:Tabbouleh	owl:sameAs	ns33:Taboul� ,
+		ns27:????? ,
+		ns21:Taboul� .
 @prefix ns34:	<http://simple.dbpedia.org/resource/> .
 dbpedia:Tabbouleh	owl:sameAs	ns34:Tabouleh .
 @prefix ns35:	<http://el.dbpedia.org/resource/> .
-dbpedia:Tabbouleh	owl:sameAs	ns35:Ταμπούλι ,
+dbpedia:Tabbouleh	owl:sameAs	ns35:?a�p???? ,
 		<http://rdf.freebase.com/ns/m.040p4s> ,
-		ns10:塔布勒沙拉 ,
+		ns10:????? ,
 		ns22:Tabule ;
 	dcterms:subject	category:Vegetarian_cuisine ,
 		category:Levantine_cuisine ,
@@ -404,22 +404,22 @@ dbpedia:Tennessee	rdf:type	ns37:Location_Underspecified ,
 @prefix ns38:	<http://szl.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns38:Tennessee .
 @prefix ns39:	<http://be_x_old.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns39:Тэнэсі ,
+dbpedia:Tennessee	owl:sameAs	ns39:?????? ,
 		ns30:Tennessee .
 @prefix ns40:	<http://lv.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns40:Tenesī .
+dbpedia:Tennessee	owl:sameAs	ns40:Tenesi .
 @prefix ns41:	<http://bi.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns41:Tennessee .
 @prefix ns42:	<http://lmo.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns42:Tennessee ,
-		ns8:Теннесси .
+		ns8:???????? .
 @prefix ns43:	<http://ug.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns43:Ténnéssi_Shitati ,
+dbpedia:Tennessee	owl:sameAs	ns43:T�nn�ssi_Shitati ,
 		ns34:Tennessee .
 @prefix ns44:	<http://uz.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns44:Tennessi .
 @prefix ns45:	<http://bpy.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns45:টেনেসি .
+dbpedia:Tennessee	owl:sameAs	ns45:?????? .
 @prefix ns46:	<http://fi.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns46:Tennessee ,
 		<http://nds_nl.dbpedia.org/resource/Tennessee_(stoat)> .
@@ -428,31 +428,31 @@ dbpedia:Tennessee	owl:sameAs	ns47:Tennessee .
 @prefix ns48:	<http://ku.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns48:Tennessee .
 @prefix ns49:	<http://bo.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns49:ཐེན་ནེ་སི། .
+dbpedia:Tennessee	owl:sameAs	ns49:?????????? .
 @prefix ns50:	<http://oc.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns50:Tennessee .
 @prefix ns51:	<http://new.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns51:टेनिसी .
+dbpedia:Tennessee	owl:sameAs	ns51:?????? .
 @prefix ns52:	<http://be.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns52:Штат_Тэнесі .
+dbpedia:Tennessee	owl:sameAs	ns52:????_?????? .
 @prefix ns53:	<http://pam.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns53:Tennessee .
 @prefix ns54:	<http://os.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns54:Теннесси .
+dbpedia:Tennessee	owl:sameAs	ns54:???????? .
 @prefix ns55:	<http://nv.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns55:Ténésii_Hahoodzo .
+dbpedia:Tennessee	owl:sameAs	ns55:T�n�sii_Hahoodzo .
 @prefix ns56:	<http://bg.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns56:Тенеси .
+dbpedia:Tennessee	owl:sameAs	ns56:?????? .
 @prefix ns57:	<http://ia.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns57:Tennessee .
 @prefix ns58:	<http://pms.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns58:Tenessì .
+dbpedia:Tennessee	owl:sameAs	ns58:Teness� .
 @prefix ns59:	<http://fo.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns59:Tennessee .
 @prefix ns60:	<http://la.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns60:Tennesia .
 @prefix ns61:	<http://yi.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns61:טענעסי .
+dbpedia:Tennessee	owl:sameAs	ns61:?????? .
 @prefix ns62:	<http://sk.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns62:Tennessee .
 @prefix ns63:	<http://nn.dbpedia.org/resource/> .
@@ -462,11 +462,11 @@ dbpedia:Tennessee	owl:sameAs	ns64:Tennessee .
 @prefix ns65:	<http://war.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns65:Tennessee .
 @prefix ns66:	<http://bn.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns66:টেনেসী ,
+dbpedia:Tennessee	owl:sameAs	ns66:?????? ,
 		ns7:Q1509 .
 @prefix ns67:	<http://pa.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns67:ਟੈਨੇਸੀ ,
-		ns11:テネシー州 .
+dbpedia:Tennessee	owl:sameAs	ns67:?????? ,
+		ns11:????? .
 @prefix ns68:	<http://br.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns68:Tennessee .
 @prefix ns69:	<http://eo.dbpedia.org/resource/> .
@@ -476,7 +476,7 @@ dbpedia:Tennessee	owl:sameAs	ns70:Tennessee .
 @prefix ns71:	<http://scn.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns71:Tennessee .
 @prefix ns72:	<http://tt.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns72:Теннесси .
+dbpedia:Tennessee	owl:sameAs	ns72:???????? .
 @prefix ns73:	<http://ie.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns73:Tennessee .
 @prefix ns74:	<http://id.dbpedia.org/resource/> .
@@ -496,7 +496,7 @@ dbpedia:Tennessee	owl:sameAs	ns79:Tennessee .
 dbpedia:Tennessee	owl:sameAs	ns80:Tennessee .
 @prefix ns81:	<http://lad.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns81:Tennessee ,
-		ns29:تنسی .
+		ns29:???? .
 @prefix ns82:	<http://ilo.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns82:Tennessee ,
 		ns32:Tennessi .
@@ -505,7 +505,7 @@ dbpedia:Tennessee	owl:sameAs	ns83:Tennessee .
 @prefix ns84:	<http://lij.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns84:Tennessee .
 @prefix ns85:	<http://uk.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns85:Теннессі .
+dbpedia:Tennessee	owl:sameAs	ns85:???????? .
 @prefix ns86:	<http://eu.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns86:Tennessee .
 @prefix ns87:	<http://bcl.dbpedia.org/resource/> .
@@ -516,9 +516,9 @@ dbpedia:Tennessee	owl:sameAs	ns88:Tennessee .
 dbpedia:Tennessee	owl:sameAs	ns89:Tennessee ,
 		ns23:Tennessee .
 @prefix ns90:	<http://ka.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns90:ტენესი .
+dbpedia:Tennessee	owl:sameAs	ns90:?????? .
 @prefix ns91:	<http://ur.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns91:ٹینیسی .
+dbpedia:Tennessee	owl:sameAs	ns91:?????? .
 @prefix ns92:	<http://bar.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns92:Tennessee .
 @prefix ns93:	<http://mg.dbpedia.org/resource/> .
@@ -529,33 +529,33 @@ dbpedia:Tennessee	owl:sameAs	ns94:Tennessee .
 dbpedia:Tennessee	owl:sameAs	ns95:Tennessee ,
 		ns6:Tennessee .
 @prefix ns96:	<http://mrj.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns96:Теннесси ,
+dbpedia:Tennessee	owl:sameAs	ns96:???????? ,
 		ns22:Tennessee .
 @prefix ns97:	<http://mzn.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns97:تنسی .
+dbpedia:Tennessee	owl:sameAs	ns97:???? .
 @prefix ns98:	<http://hu.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns98:Tennessee .
 @prefix ns99:	<http://th.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns99:รัฐเทนเนสซี .
+dbpedia:Tennessee	owl:sameAs	ns99:??????????? .
 @prefix ns100:	<http://mn.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns100:Теннесси .
+dbpedia:Tennessee	owl:sameAs	ns100:???????? .
 @prefix ns101:	<http://cy.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns101:Tennessee .
 @prefix ns102:	<http://gn.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns102:Tenesi .
 @prefix ns103:	<http://my.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns103:တင်နက်ဆီပြည်နယ် .
+dbpedia:Tennessee	owl:sameAs	ns103:??????????????? .
 @prefix ns104:	<http://zh_yue.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns104:田納西州 .
+dbpedia:Tennessee	owl:sameAs	ns104:???? .
 @prefix ns105:	<http://gu.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns105:ટેનેસી ,
+dbpedia:Tennessee	owl:sameAs	ns105:?????? ,
 		ns31:Tennessee ,
 		<http://rdf.freebase.com/ns/m.07h34> .
 @prefix ns106:	<http://am.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns106:ቴነሲ .
+dbpedia:Tennessee	owl:sameAs	ns106:??? .
 @prefix ns107:	<http://gag.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns107:Tennessee ,
-		ns35:Τενεσί .
+		ns35:?e?es? .
 @prefix ns108:	<http://nah.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns108:Tennessee .
 @prefix ns109:	<http://ik.dbpedia.org/resource/> .
@@ -563,7 +563,7 @@ dbpedia:Tennessee	owl:sameAs	ns109:Tennessee .
 @prefix ns110:	<http://nap.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns110:Tennessee .
 @prefix ns111:	<http://hy.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns111:Թենեսի .
+dbpedia:Tennessee	owl:sameAs	ns111:?????? .
 @prefix ns112:	<http://an.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns112:Tennessee .
 @prefix ns113:	<http://ang.dbpedia.org/resource/> .
@@ -571,7 +571,7 @@ dbpedia:Tennessee	owl:sameAs	ns113:Tennessee .
 @prefix ns114:	<http://ig.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns114:Tennessee .
 @prefix ns115:	<http://haw.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns115:Kenekī .
+dbpedia:Tennessee	owl:sameAs	ns115:Keneki .
 @prefix ns116:	<http://da.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns116:Tennessee .
 @prefix ns117:	<http://tl.dbpedia.org/resource/> .
@@ -583,45 +583,45 @@ dbpedia:Tennessee	owl:sameAs	ns119:Tennessee .
 @prefix ns120:	<http://gv.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns120:Tennessee .
 @prefix ns121:	<http://hak.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns121:Thièn-na̍p-sî ,
+dbpedia:Tennessee	owl:sameAs	ns121:Thi�n-na?p-s� ,
 		ns21:Tennessee .
 @prefix ns122:	<http://bs.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns122:Tennessee ,
 		ns9:Tennessee ,
-		ns27:تينيسي ,
+		ns27:?????? ,
 		ns24:Tennessee .
 @prefix ns123:	<http://kw.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns123:Tennessi ,
-		ns26:טנסי .
+		ns26:???? .
 @prefix ns124:	<http://arz.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns124:تينيسى .
+dbpedia:Tennessee	owl:sameAs	ns124:?????? .
 @prefix ns125:	<http://ml.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns125:ടെന്നസി .
+dbpedia:Tennessee	owl:sameAs	ns125:??????? .
 @prefix ns126:	<http://mk.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns126:Тенеси .
+dbpedia:Tennessee	owl:sameAs	ns126:?????? .
 @prefix ns127:	<http://sw.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns127:Tennessee .
 @prefix ns128:	<http://ko.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns128:테네시_주 .
+dbpedia:Tennessee	owl:sameAs	ns128:???_? .
 @prefix ns129:	<http://hi.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns129:टेनेसी .
+dbpedia:Tennessee	owl:sameAs	ns129:?????? .
 @prefix ns130:	<http://ckb.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns130:تێنێسی ,
+dbpedia:Tennessee	owl:sameAs	ns130:?????? ,
 		ns12:Tennessee .
 @prefix ns131:	<http://mr.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns131:टेनेसी .
+dbpedia:Tennessee	owl:sameAs	ns131:?????? .
 @prefix ns132:	<http://hif.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns132:Tennessee .
 @prefix ns133:	<http://te.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns133:టేనస్సీ .
+dbpedia:Tennessee	owl:sameAs	ns133:??????? .
 @prefix ns134:	<http://vls.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns134:Tennessee .
 @prefix ns135:	<http://xal.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns135:Теннесси .
+dbpedia:Tennessee	owl:sameAs	ns135:???????? .
 @prefix ns136:	<http://ta.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns136:டென்னிசி .
+dbpedia:Tennessee	owl:sameAs	ns136:???????? .
 @prefix ns137:	<http://pnb.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns137:ٹینیسی .
+dbpedia:Tennessee	owl:sameAs	ns137:?????? .
 @prefix ns138:	<http://fy.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns138:Tennessee ,
 		ns28:Tennessee .
@@ -636,7 +636,7 @@ dbpedia:Tennessee	owl:sameAs	ns141:Tennessee .
 dbpedia:Tennessee	owl:sameAs	ns142:Tennessee .
 @prefix ns143:	<http://ga.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns143:Tennessee ,
-		ns10:田纳西州 .
+		ns10:???? .
 @prefix ns144:	<http://qu.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns144:Tennessee_suyu .
 @prefix ns145:	<http://frr.dbpedia.org/resource/> .
@@ -652,21 +652,21 @@ dbpedia:Tennessee	owl:sameAs	ns149:Tennessee .
 @prefix ns150:	<http://rm.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns150:Tennessee .
 @prefix ns151:	<http://cv.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns151:Теннесси .
+dbpedia:Tennessee	owl:sameAs	ns151:???????? .
 @prefix ns152:	<http://ro.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns152:Tennessee .
 @prefix ns153:	<http://se.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns153:Tennessee ,
 		ns33:Tennessee .
 @prefix ns154:	<http://bat_smg.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns154:Tenesės .
+dbpedia:Tennessee	owl:sameAs	ns154:Teneses .
 @prefix ns155:	<http://gl.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns155:Tennessee ,
-		ns25:Тенеси .
+		ns25:?????? .
 @prefix ns156:	<http://mi.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns156:Tennessee .
 @prefix ns157:	<http://ht.dbpedia.org/resource/> .
-dbpedia:Tennessee	owl:sameAs	ns157:Tenèsi .
+dbpedia:Tennessee	owl:sameAs	ns157:Ten�si .
 @prefix ns158:	<http://ay.dbpedia.org/resource/> .
 dbpedia:Tennessee	owl:sameAs	ns158:Tennessee_suyu ;
 	dcterms:subject	category:State_of_Franklin ,
@@ -918,7 +918,7 @@ dbpedia:Pan-bagnat	rdf:type	yago:Substance100020090 ,
 		ns9:Pan-bagnat ,
 		ns110:Pan_bagnat ,
 		<http://rdf.freebase.com/ns/m.0d_msv> ,
-		ns26:פאן_באניה ,
+		ns26:???_????? ,
 		ns7:Q2919135 ,
 		ns5:Pan-bagnat ;
 	dcterms:subject	category:Cuisine_of_Provence ,
@@ -2525,11 +2525,11 @@ dbpedia:Lycopersicon_lycopersicum	dbpedia-owl:wikiPageID	5406104 ;
 		yago:Artifact100021939 ,
 		yago:PhysicalEntity100001930 ,
 		yago:Whole100003553 ;
-	owl:sameAs	ns8:Аматричана ,
+	owl:sameAs	ns8:?????????? ,
 		<http://pt.dbpedia.org/resource/Sugo_all\u0027amatriciana> ,
-		ns6:Bucatini_all’amatriciana ,
+		ns6:Bucatini_all�amatriciana ,
 		<http://rdf.freebase.com/ns/m.0bcc3z> ,
-		ns11:アマトリチャーナ ,
+		ns11:???????? ,
 		<http://yago-knowledge.org/resource/Sugo_all\u0027amatriciana> ,
 		ns9:Amatriciana ,
 		ns7:Q997633 ,
@@ -2607,14 +2607,14 @@ dbpedia:Lycopersicon_lycopersicum	dbpedia-owl:wikiPageID	5406104 ;
 		yago:PhysicalEntity100001930 ,
 		yago:Soup107583197 ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns22:Consommé ,
-		ns11:コンソメ ,
-		ns5:Consommé ,
-		ns21:Consommé ,
+	owl:sameAs	ns22:Consomm� ,
+		ns11:???? ,
+		ns5:Consomm� ,
+		ns21:Consomm� ,
 		<http://rdf.freebase.com/ns/m.035y9b> ,
-		ns8:Консоме ,
-		ns9:Consomé ,
-		ns33:Consommé ,
+		ns8:??????? ,
+		ns9:Consom� ,
+		ns33:Consomm� ,
 		ns7:Q2082064 ;
 	dcterms:subject	category:French_soups ;
 	dbpedia-owl:abstract	"Un Consomm\u00E9 est un potage g\u00E9n\u00E9ralement fait \u00E0 base de fond blanc de volaille, de veau ou de b\u0153uf qui a ensuite \u00E9t\u00E9 clarifi\u00E9. On peut utiliser du bouillon au lieu du fond, mais c'est beaucoup plus dispendieux."@fr ,
@@ -2660,9 +2660,9 @@ dbpedia:Lycopersicon_lycopersicum	dbpedia-owl:wikiPageID	5406104 ;
 	dbpprop:mainIngredient	"Stock or bouillon, ground meat,  mirepoix , tomatoes, egg whites"@en ;
 	dbpprop:name	"Consomm\u00E9"@en ;
 	dbpprop:type	dbpedia:Soup ;
-	foaf:isPrimaryTopicOf	ns18:Consommé ;
+	foaf:isPrimaryTopicOf	ns18:Consomm� ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/Consomm\u00E9?oldid=547982073> ;
-	dbpprop:hasPhotoCollection	ns20:Consommé ;
+	dbpprop:hasPhotoCollection	ns20:Consomm� ;
 	dbpedia-owl:wikiPageInLinkCount	40 ;
 	dbpedia-owl:wikiPageOutLinkCount	42 .
 <http://dbpedia.org/resource/Bosna_(sausage)>	rdf:type	owl:Thing ,
@@ -2679,7 +2679,7 @@ dbpedia:Lycopersicon_lycopersicum	dbpedia-owl:wikiPageID	5406104 ;
 	owl:sameAs	<http://yago-knowledge.org/resource/Bosna_(sausage)> ,
 		<http://es.dbpedia.org/resource/Bosna_(alimento)> ,
 		ns7:Q358507 ,
-		ns11:ボスナ ,
+		ns11:??? ,
 		<http://de.dbpedia.org/resource/Bosna_(Imbiss)> ,
 		<http://rdf.freebase.com/ns/m.03cslc> ;
 	dcterms:subject	category:Austrian_cuisine ,
@@ -2736,7 +2736,7 @@ dbpedia:Chana_masala	rdf:type	yago:LegumeDishes ,
 		yago:Object100002684 ;
 	owl:sameAs	ns22:Chana_masala ,
 		<http://rdf.freebase.com/ns/m.08nj45> ,
-		ns129:चना_मसाला ,
+		ns129:???_????? ,
 		ns7:Q1061604 ,
 		ns9:Chana_masala ,
 		ns5:Chana_masala ,
@@ -2803,9 +2803,9 @@ dbpedia:Marinara_sauce	rdf:type	yago:Substance100020090 ,
 		yago:Food100021265 ,
 		yago:Flavorer107809368 ;
 	owl:sameAs	ns7:Q2088642 ,
-		ns11:マリナーラソース ,
+		ns11:???????? ,
 		ns9:Salsa_marinera ,
-		ns8:Маринара ,
+		ns8:???????? ,
 		ns5:Marinara_sauce ,
 		<http://rdf.freebase.com/ns/m.0413ml2> ;
 	dcterms:subject	category:Tomato_sauces ,
@@ -2865,18 +2865,18 @@ dbpedia:Rasam	rdf:type	yago:Soup107583197 ,
 		yago:Substance100020090 ,
 		yago:Dish107557434 ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns11:ラッサム ,
-		ns129:रस्सम ,
+	owl:sameAs	ns11:???? ,
+		ns129:????? ,
 		<http://rdf.freebase.com/ns/m.078n1s> ,
 		ns21:Rasam ,
-		ns133:రసం ,
+		ns133:??? ,
 		ns30:Rasam ,
 		ns5:Rasam ,
 		ns9:Rasam .
 @prefix ns164:	<http://kn.dbpedia.org/resource/> .
-dbpedia:Rasam	owl:sameAs	ns164:ಸಾರು ,
+dbpedia:Rasam	owl:sameAs	ns164:???? ,
 		ns7:Q2472937 ,
-		ns8:Расам ;
+		ns8:????? ;
 	dcterms:subject	category:Foods_containing_coconut ,
 		category:Tamil_cuisine ,
 		category:Indian_soups ,
@@ -2932,28 +2932,28 @@ dbpedia:Rasam	owl:sameAs	ns164:ಸಾರು ,
 dbpedia:Minestrone	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
 	owl:sameAs	ns147:Minestrone ,
-		ns8:Минестроне ,
+		ns8:?????????? ,
 		<http://pl.dbpedia.org/resource/Minestrone_(zupa)> ,
 		ns9:Minestrone ,
 		ns79:Minestronesuppe ,
 		ns28:Minestrone ,
-		ns64:Mineštra ,
+		ns64:Mine�tra ,
 		ns7:Q581462 ,
-		ns10:意大利雜菜湯 ,
+		ns10:?????? ,
 		ns24:Minestrone ,
-		ns56:Минестроне ,
+		ns56:?????????? ,
 		ns23:Minestrone ,
 		ns21:Minestrone ,
 		ns122:Minestrone ,
-		ns128:미네스트로네 .
+		ns128:?????? .
 @prefix ns165:	<http://wuu.dbpedia.org/resource/> .
-dbpedia:Minestrone	owl:sameAs	ns165:意大利杂菜汤 ,
-		ns104:意大利雜菜湯 ,
+dbpedia:Minestrone	owl:sameAs	ns165:?????? ,
+		ns104:?????? ,
 		ns74:Minestrone ,
 		ns69:Minestrono ,
 		ns33:Minestrone ,
-		ns11:ミネストローネ ,
-		ns26:מינסטרונה ,
+		ns11:??????? ,
+		ns26:????????? ,
 		ns22:Minestrone ,
 		<http://rdf.freebase.com/ns/m.052q5> ,
 		ns6:Minestrone ;
@@ -3107,11 +3107,11 @@ dbpedia:Saltah	rdf:type	yago:Artifact100021939 ,
 	owl:sameAs	ns5:Saltah ,
 		ns7:Q3271515 ,
 		<http://ja.dbpedia.org/resource/\u30B5\u30EB\u30BF_(\u30A4\u30A8\u30E1\u30F3\u6599\u7406)> ,
-		ns99:ซัลตะห์ ,
+		ns99:??????? ,
 		ns9:Saltah ,
 		<http://rdf.freebase.com/ns/m.025vlg8> ,
 		ns22:Saltah ,
-		ns27:السلته ;
+		ns27:?????? ;
 	dcterms:subject	category:Yemeni_cuisine ,
 		category:National_dishes ,
 		category:Stews ;
@@ -3199,19 +3199,19 @@ dbpedia:Tomato_plant	dbpedia-owl:wikiPageID	2020614 ;
 	dbpedia-owl:wikiPageRevisionID	542487301 ;
 	rdfs:label	"\U0001F345"@en ;
 	dbpedia-owl:wikiPageRedirects	dbpedia:Tomato ;
-	foaf:isPrimaryTopicOf	ns18:🍅 ;
+	foaf:isPrimaryTopicOf	ns18:?? ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/\U0001F345?oldid=542487301> .
 <http://dbpedia.org/resource/Tomat%C5%93>	dbpedia-owl:wikiPageID	31128293 ;
 	dbpedia-owl:wikiPageRevisionID	417893724 ;
 	rdfs:label	"Tomat\u0153"@en ;
 	dbpedia-owl:wikiPageRedirects	dbpedia:Tomato ;
-	foaf:isPrimaryTopicOf	ns18:Tomatœ ;
+	foaf:isPrimaryTopicOf	ns18:Tomat� ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tomat\u0153?oldid=417893724> .
 <http://dbpedia.org/resource/Tomat%C5%93s>	dbpedia-owl:wikiPageID	31128279 ;
 	dbpedia-owl:wikiPageRevisionID	417893612 ;
 	rdfs:label	"Tomat\u0153s"@en ;
 	dbpedia-owl:wikiPageRedirects	dbpedia:Tomato ;
-	foaf:isPrimaryTopicOf	ns18:Tomatœs ;
+	foaf:isPrimaryTopicOf	ns18:Tomat�s ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tomat\u0153s?oldid=417893612> .
 dbpedia:Canh_chua	rdf:type	yago:Instrumentality103575240 ,
 		yago:Dish103206908 ,
@@ -3231,8 +3231,8 @@ dbpedia:Canh_chua	rdf:type	yago:Instrumentality103575240 ,
 		<http://rdf.freebase.com/ns/m.02vxcmg> ,
 		ns5:Canh_chua ,
 		ns7:Q564573 ,
-		ns11:カインチュア ,
-		ns128:깐_쭈아_까 ,
+		ns11:?????? ,
+		ns128:?_??_? ,
 		ns9:Canh_chua ,
 		ns47:Canh_chua ;
 	dcterms:subject	category:Fish_dishes ,
@@ -3299,12 +3299,12 @@ dbpedia:Tuna_pot	rdf:type	yago:Container103094503 ,
 		ns12:Marmitako ,
 		ns60:Olla_thunni ,
 		ns6:Marmitako ,
-		ns56:Мармитако ,
+		ns56:????????? ,
 		ns30:Marmitako ,
 		ns5:Tuna_pot ,
 		ns155:Marmitako ,
 		ns7:Q1243795 ,
-		ns8:Мармитако ,
+		ns8:????????? ,
 		ns48:Marmitako ,
 		ns9:Marmita_de_bonito ;
 	dcterms:subject	category:Tuna_dishes ,
@@ -3361,7 +3361,7 @@ dbpedia:Gazpacho	rdf:type	dbpedia-owl:Food ,
 		ns24:Gazpacho ,
 		<http://nl.dbpedia.org/resource/Gazpacho_(soep)> ,
 		ns23:Gazpacho ,
-		ns85:Гаспачо ,
+		ns85:??????? ,
 		ns47:Gazpacho ,
 		ns30:Gazpacho ,
 		ns94:Gazpacho ,
@@ -3370,28 +3370,28 @@ dbpedia:Gazpacho	rdf:type	dbpedia-owl:Food ,
 		ns155:Gazpacho ,
 		ns22:Gaspacho ,
 		ns98:Gazpacho ,
-		ns90:გასპაჩო ,
+		ns90:??????? ,
 		ns58:Gaspacho ,
-		ns35:Γκασπάτσο ,
-		ns8:Гаспачо ,
-		ns25:Gaspačo ,
-		ns11:ガスパチョ ,
+		ns35:G?asp?ts? ,
+		ns8:??????? ,
+		ns25:Gaspaco ,
+		ns11:????? ,
 		<http://he.dbpedia.org/resource/\u05D2\u05E1\u05E4\u05E6\u0027\u05D5> ,
 		ns7:Q202677 ,
 		ns116:Gazpacho ,
 		ns28:Gazpacho ,
 		ns63:Gazpacho ,
-		ns128:가스파초 ,
+		ns128:???? ,
 		ns60:Gazophylacium ,
-		ns56:Гаспачо ,
+		ns56:??????? ,
 		ns12:Gaspatxo ,
 		ns74:Gazpacho ,
 		ns46:Gazpacho ,
-		ns10:西班牙凍湯 ,
+		ns10:????? ,
 		ns9:Gazpacho ,
-		ns69:Gazpaĉo ,
+		ns69:Gazpaco ,
 		<http://rdf.freebase.com/ns/m.037rw> ,
-		ns147:Gaspačo ;
+		ns147:Gaspaco ;
 	dcterms:subject	category:Andalusian_cuisine ,
 		category:Vegan_cuisine ,
 		category:New_Mexican_cuisine ,
@@ -3477,22 +3477,22 @@ dbpedia:Chili_con_carne	rdf:type	owl:Thing ,
 		ns28:Chilli_con_carne ,
 		ns6:Chili_con_Carne ,
 		<http://rdf.freebase.com/ns/m.01rk86> ,
-		ns10:辣酱汤 ,
+		ns10:??? ,
 		ns9:Chili_con_carne ,
 		ns33:Chili_con_carne ,
 		ns79:Chili_con_carne ,
-		ns69:Kapsiketa_viandaĵo ,
-		ns128:칠리_콘_카르네 ,
+		ns69:Kapsiketa_viandajo ,
+		ns128:??_?_??? ,
 		ns30:Chili_con_carne ,
-		ns11:チリコンカーン ,
-		ns8:Чили_кон_карне ,
+		ns11:??????? ,
+		ns8:????_???_????? ,
 		ns24:Chili_con_carne ,
 		<http://he.dbpedia.org/resource/\u05E6\u0027\u05D9\u05DC\u05D9_\u05E7\u05D5\u05DF_\u05E7\u05E8\u05E0\u05D4> ,
-		ns52:Чылі_кон_карнэ ,
+		ns52:????_???_????? ,
 		ns21:Chili_con_carne ,
-		ns56:Чили_кон_карне ,
+		ns56:????_???_????? ,
 		ns23:Chili ,
-		ns128:칠리 ;
+		ns128:?? ;
 	dcterms:subject	category:Tex-Mex_cuisine ,
 		category:Mexican_cuisine ,
 		category:Stews ,
@@ -3787,11 +3787,11 @@ dbpedia:Chef_salad	rdf:type	yago:PhysicalEntity100001930 ,
 		yago:Salads ,
 		yago:Salad107806221 ;
 	owl:sameAs	ns7:Q861189 ,
-		ns128:셰프_샐러드 ,
+		ns128:??_??? ,
 		ns5:Chef_salad ,
 		<http://rdf.freebase.com/ns/m.0bm0jl> ,
 		ns34:Chef_salad ,
-		ns26:סלט_השף ;
+		ns26:???_??? ;
 	dcterms:subject	category:Salads ;
 	dbpedia-owl:abstract	"Chef salad (or chef's salad) is a salad consisting of hard-boiled eggs; one or more meats such as ham, turkey, chicken, or roast beef; tomatoes; cucumbers; and cheese; all placed upon a bed of tossed lettuce or other leaf vegetables. Several early recipes also include anchovies. A variety of dressings are used with this salad. Food historians do not agree on the history and composition of chef salad, much less who assembled the first one. Some trace this salad's roots to Salmagundi, a popular meat and salad dish originating in 17th century England and popular in colonial America. Others contend chef's salad is a product of early twentieth century, originating in either New York or California. The person most often connected with the history of this salad is Louis Diat, chef of the Ritz-Carlton in New York City during the 1940s. While food historians acknowledge his recipe, they do not appear to be convinced he originated the dish, which is more popularly attributed to either chef Victor Seydoux at the Hotel Buffalo, a Statler Hotel in Buffalo, New York or chef Jacques Roser at the Hotel Pennsylvania in New York City. Roser worked in various culinary positions in Paris before being invited to become head chef at the prestigious 1920s Hotel Pennsylvania, where he worked for over fifteen years. Seydoux first learned his craft in Montreux, Switzerland, and continued his studies in France and England before coming to work in the United States. Seydoux's first experiences in the U.S. included positions at the Waldorf-Astoria Hotel and the Ritz-Carlton. Although the origin of the salad is not generally known, as reported by Alice Rose Seydoux, widow of Victor, the salad was officially launched at the Hotel Buffalo. Chef Seydoux, who was responsible for running the kitchen on a tight budget, began using some of the small slices of meats and cheese in a salad that he served to select customers. When the customers started requesting it regularly, the hotel decided to add it to the menu. Giving chef Seydoux the honor of naming the salad he is purported to have said \"Well, it's really a chef's salad. \" The chef salad probably owes much of its popularity, according to Evan Jones in American Food: The Gastronomic Story (1975), to Louis Diat, chef at the Ritz-Carlton. Cooking a la Ritz includes Diat's recipe: \"Chef's salad. Place separately in a salad bowl equal amonts of chopped lettuce (place on the bottom of the bowl), boiled chicken, smoked ox tongue and smoked ham, all cut in julienne style. Add 1/2 hard-cooked egg for each portion. Place some watercress in the center and serve with French Dressing. \" Diat did not invent the salad (older recipes exist), but its inclusion on the menu at the Ritz-Carlton would have introduced the salad to more of the public. It's possible that the inclusion of Thousand Island dressing is also linked to the Ritz, since the hotel also introduced the dressing to New York. This recipe, while containing smoked ox tongue, still contains the primary chef salad ingredients: meat, eggs, greens and presentation: julienne sliced meat, and sliced eggs. Several other early chef salad recipes mention crumbling Roquefort cheese over the salad."@en ;
 	dbpedia-owl:alias	"Chef's salad"@en ;
@@ -3931,7 +3931,7 @@ dbpedia:Chicago-style_hot_dog	rdf:type	yago:YagoLegalActorGeo ,
 		yago:CausalAgent100007347 ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.05ztbl> ,
 		ns5:Chicago-style_hot_dog ,
-		ns10:芝加哥式热狗 ,
+		ns10:?????? ,
 		ns7:Q3141050 ,
 		ns21:Hot-dog_de_Chicago ;
 	dcterms:subject	category:Cuisine_of_the_Midwestern_United_States ,
@@ -3991,7 +3991,7 @@ dbpedia:Chicago-style_hot_dog	dbpedia-owl:wikiPageExternalLink	ns168:why-is-ther
 		yago:Organization108008335 ,
 		yago:SocialGroup107950920 ;
 	owl:sameAs	ns7:Q6346618 ,
-		ns11:カゴメ ,
+		ns11:??? ,
 		<http://id.dbpedia.org/resource/Kagome_(perusahaan)> ,
 		<http://yago-knowledge.org/resource/Kagome_(company)> ,
 		<http://rdf.freebase.com/ns/m.0409493> ;
@@ -4130,23 +4130,23 @@ dbpedia:Chicken_tikka_masala	rdf:type	yago:Crockery103133538 ,
 		yago:Artifact100021939 ,
 		dbpedia-owl:Food ;
 	owl:sameAs	ns5:Chicken_tikka_masala ,
-		ns26:עוף_טיקה_מסאלה ,
+		ns26:???_????_????? ,
 		ns24:Chicken_tikka_masala ,
-		ns11:チキンティッカマサラ ,
+		ns11:?????????? ,
 		ns23:Chicken_tikka_masala ,
-		ns29:چیکن_تیکا_مسالا ,
+		ns29:????_????_????? ,
 		ns30:Kurczak_tikka_masala ,
 		ns21:Poulet_tikka_masala ,
 		ns6:Chicken_tikka_masala ,
 		<http://rdf.freebase.com/ns/m.027gdv> ,
 		ns79:Tikka_Masala ,
 		ns7:Q654159 ,
-		ns27:دجاج_تيكا_ماسالا ,
+		ns27:????_????_?????? ,
 		ns9:Pollo_tikka_masala ,
 		ns8:Chicken_tikka_masala ,
 		ns116:Tikka_Masala .
 @prefix ns171:	<http://ceb.dbpedia.org/resource/> .
-dbpedia:Chicken_tikka_masala	owl:sameAs	ns171:Ṭikka-masālā_nga_manok ;
+dbpedia:Chicken_tikka_masala	owl:sameAs	ns171:?ikka-masala_nga_manok ;
 	dcterms:subject	category:Pakistani_cuisine_in_the_United_Kingdom ,
 		category:Curry ,
 		category:Desi_cuisine ,
@@ -4478,23 +4478,23 @@ dbpedia:Tomato_soup	rdf:type	owl:Thing ,
 		yago:PhysicalEntity100001930 ;
 	owl:sameAs	ns33:Tomatensoep ,
 		ns9:Sopa_de_tomate ,
-		ns38:Zupa_s_tomatůw ,
-		ns26:מרק_עגבניות ,
+		ns38:Zupa_s_tomatuw ,
+		ns26:???_??????? ,
 		ns22:Sopa_de_tomate ,
-		ns154:Tuomatu_zopė ,
+		ns154:Tuomatu_zope ,
 		ns5:Tomato_soup ,
 		ns7:Q1066260 ,
 		<http://rdf.freebase.com/ns/m.09tl3w> ,
-		ns27:شوربة_الطماطم ,
-		ns113:Heortæppelbroþ ,
+		ns27:?????_??????? ,
+		ns113:Heort�ppelbro� ,
 		ns79:Tomatsuppe ,
 		ns116:Tomatsuppe ,
 		ns63:Tomatsuppe ,
 		ns6:Tomatensuppe ,
 		ns21:Soupe_de_tomate ,
 		ns30:Zupa_pomidorowa ,
-		ns8:Томатный_суп ,
-		ns128:토마토_수프 ;
+		ns8:????????_??? ,
+		ns128:???_?? ;
 	dcterms:subject	category:Soups ,
 		category:Polish_soups ;
 	dbpedia-owl:abstract	"Tomatensoep is een vloeibaar gerecht. Het bestaat uit vocht en eventueel groente, gehaktballetjes of rundvlees, croutons, kruiden en/of specerijen. De soep wordt bereid uit tomaten, wat op verschillende manieren kan. Zo kan gebruikgemaakt worden van reeds gepureerde tomaten of van verse, ontvelde tomaten. Deze worden tot pap gekookt, en verdund met bouillon. Dit wordt gezeefd tot de uiteindelijke basissoep. Voor toevoeging van groenten en andere onderdelen van de soep bestaan verschillende recepten. De soep kan verrijkt worden met allerlei ingredi\u00EBnten, zodat er oneindig veel variaties op de tomatensoep zijn."@nl ,
@@ -4547,13 +4547,13 @@ dbpedia:Tomato_soup	dbpedia-owl:wikiPageExternalLink	ns175:jf00051a005 ,
 	owl:sameAs	ns62:Gyros ,
 		ns30:Gyros ,
 		ns6:Gyros ,
-		ns25:Гирос ,
-		ns8:Гирос ,
+		ns25:????? ,
+		ns8:????? ,
 		ns9:Gyros ,
-		ns85:Гірос ,
-		ns90:გირო ,
-		ns11:ギロピタ ,
-		ns10:希腊旋转烤肉 ,
+		ns85:????? ,
+		ns90:???? ,
+		ns11:???? ,
+		ns10:?????? ,
 		ns21:Gyros ,
 		ns7:Q681596 ,
 		ns33:Gyros ,
@@ -4564,9 +4564,9 @@ dbpedia:Tomato_soup	dbpedia-owl:wikiPageExternalLink	ns175:jf00051a005 ,
 		ns116:Gyros ,
 		ns24:Gyros ,
 		<http://rdf.freebase.com/ns/m.01y28g> ,
-		ns98:Gírosz ,
+		ns98:G�rosz ,
 		ns22:Gyros ,
-		ns35:Γύρος ;
+		ns35:G???? ;
 	dcterms:subject	category:Mediterranean_cuisine ,
 		category:Spit-cooked_foods ,
 		category:Middle_Eastern_grilled_meats ,
@@ -4663,8 +4663,8 @@ dbpedia:Ezogelin_soup	rdf:type	yago:LentilDishes ,
 	owl:sameAs	<http://rdf.freebase.com/ns/m.03c14tl> ,
 		ns5:Ezogelin_soup ,
 		ns7:Q3677884 ,
-		ns118:Ezogelin_çorbası ,
-		ns48:Şorbeya_Gurgumê ;
+		ns118:Ezogelin_�orbasi ,
+		ns48:Sorbeya_Gurgum� ;
 	dcterms:subject	category:Lentil_dishes ,
 		category:Turkish_cuisine_soups ;
 	dbpedia-owl:abstract	"Ezogelin soup or Ezo gelin soup (Turkish: Ezogelin \u00E7orbas\u0131, \"the soup of Ezo the bride\") is a common soup in Turkish cuisine. The main ingredients are bulgur and red lentils. The origin of the soup is attributed to Ezo the bride from Gaziantep. The ingredients are red lentils, rice, bulgur, olive oil, butter, onion, garlic, tomato, tomato paste, paprika, hot pepper, dried mint, black pepper, and salt; it is usually served with lemon wedges."@en ;
@@ -4714,7 +4714,7 @@ dbpedia:Cacciucco	rdf:type	yago:Attribute100024264 ,
 		ns9:Cacciucco ,
 		ns7:Q961051 ,
 		ns21:Cacciucco ,
-		ns8:Каччукко ,
+		ns8:???????? ,
 		ns6:Cacciucco ,
 		ns5:Cacciucco ,
 		<http://rdf.freebase.com/ns/m.0dh__6> ;
@@ -4984,11 +4984,11 @@ dbpedia:Moqueca	rdf:type	yago:FishDishes ,
 		yago:Instrumentality103575240 ,
 		yago:Container103094503 ,
 		yago:Tableware104381994 ;
-	owl:sameAs	ns56:Мокека ,
+	owl:sameAs	ns56:?????? ,
 		ns5:Moqueca ,
 		ns6:Moqueca ,
-		ns26:מוקקה ,
-		ns11:ムケッカ ,
+		ns26:????? ,
+		ns11:???? ,
 		ns9:Moqueca ,
 		ns33:Moqueca ,
 		ns22:Moqueca ,
@@ -5061,23 +5061,23 @@ dbpedia:Shopska_salad	rdf:type	dbpedia-owl:Food ,
 		yago:Salad107806221 ,
 		yago:Salads ,
 		owl:Thing ;
-	owl:sameAs	ns24:Šopskasallad ,
+	owl:sameAs	ns24:�opskasallad ,
 		ns9:Ensalada_Shopska ,
 		<http://rdf.freebase.com/ns/m.061byg> ,
-		ns30:Sałatka_szopska ,
+		ns30:Salatka_szopska ,
 		ns21:Salade_Chopska ,
-		ns56:Шопска_салата ,
-		ns94:Šopska_salata ,
-		ns62:Šopský_šalát ,
+		ns56:??????_?????? ,
+		ns94:�opska_salata ,
+		ns62:�opsk�_�al�t ,
 		ns79:Sjopskasalat ,
 		ns7:Q570038 ,
-		ns126:Шопска_салата ,
-		ns98:Sopszka_saláta ,
-		ns29:سالاد_شوپسکا ,
+		ns126:??????_?????? ,
+		ns98:Sopszka_sal�ta ,
+		ns29:?????_?????? ,
 		ns5:Shopska_salad ,
-		ns8:Шопский_салат ,
-		ns25:Шопска_салата ,
-		ns28:Šopský_salát ,
+		ns8:???????_????? ,
+		ns25:??????_?????? ,
+		ns28:�opsk�_sal�t ,
 		ns6:Schopska-Salat ;
 	dcterms:subject	category:Salads ,
 		category:Appetizers ,
@@ -5141,7 +5141,7 @@ dbpedia:Chili_parotha	rdf:type	yago:IndianBreads ,
 		yago:Food107555863 ,
 		yago:Foodstuff107566340 ;
 	owl:sameAs	ns7:Q5098945 ,
-		ns125:ചില്ലി_പൊറോട്ട ,
+		ns125:??????_??????? ,
 		<http://rdf.freebase.com/ns/m.03hgyqb> ,
 		ns5:Chili_parotha ;
 	dcterms:subject	category:Indian_breads ,
@@ -5237,7 +5237,7 @@ dbpedia:Piperade	rdf:type	yago:SpanishSoupsAndStews ,
 		ns5:Piperade ,
 		ns155:Piperrada ,
 		ns86:Piperrada ,
-		ns11:ピペラード ,
+		ns11:????? ,
 		<http://rdf.freebase.com/ns/m.02q99tb> ,
 		ns21:Piperade ;
 	dcterms:subject	category:Basque_cuisine ,
@@ -5295,9 +5295,9 @@ dbpedia:Piperade	dbpedia-owl:wikiPageExternalLink	ns177:piperadewitheggs_90495 ;
 		yago:Soups ,
 		yago:Soup107583197 ;
 	owl:sameAs	ns7:Q7261685 ,
-		ns5:Purée_Mongole ,
+		ns5:Pur�e_Mongole ,
 		<http://rdf.freebase.com/ns/m.01_dmm> ,
-		ns9:Purée_Mongole ;
+		ns9:Pur�e_Mongole ;
 	dcterms:subject	category:Soups ;
 	dbpedia-owl:abstract	"El Pur\u00E9e Mongole es una especie de sopa que nada tiene que ver con la cocina de Mongolia a pesar de su denominaci\u00F3n, el plato es una invenci\u00F3n del cocinero Louis Diat, chef en el Ritz-Carlton Hotel del New York City, donde supuestamente fue inventada la receta del vichyssoise,"@es ,
 		"Pur\u00E9e Mongole, also called Cream Mongole, is a creamed split pea-tomato soup of unknown origin that dates back to the at least the late 19th century. Popular during the period between the 1920s\u20131940s, it is similar to boula. Pur\u00E9e Mongole is usually made with carrots, onions, white turnips, leeks, a stock (either beef or chicken) and milk. Depending on the recipe, it can be seasoned with curry powder, salt, pepper, ground cloves, turmeric, nutmeg, cumin, and basil. Simplified recipes printed in many cookbooks of the time, including the 1946 edition of the Joy of Cooking, used canned, condensed pea and tomato soups as a base with additional vegetables and seasonings added."@en ;
@@ -5321,9 +5321,9 @@ dbpedia:Piperade	dbpedia-owl:wikiPageExternalLink	ns177:piperadewitheggs_90495 ;
 	dbpprop:mainIngredient	"Split peas, tomatoes, carrots, onions, white turnips, leeks, stock , milk"@en ;
 	dbpprop:name	"Pur\u00E9e Mongole"@en ;
 	dbpprop:type	dbpedia:Soup ;
-	foaf:isPrimaryTopicOf	ns18:Purée_Mongole ;
+	foaf:isPrimaryTopicOf	ns18:Pur�e_Mongole ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pur\u00E9e_Mongole?oldid=546476634> ;
-	dbpprop:hasPhotoCollection	ns20:Purée_Mongole ;
+	dbpprop:hasPhotoCollection	ns20:Pur�e_Mongole ;
 	dbpedia-owl:wikiPageInLinkCount	3 ;
 	dbpedia-owl:wikiPageOutLinkCount	18 .
 dbpedia:Sardenara	rdf:type	owl:Thing ,
@@ -5647,7 +5647,7 @@ dbpedia:Israeli_salad	rdf:type	yago:Crockery103133538 ,
 		ns5:Israeli_salad ,
 		ns7:Q2904240 ,
 		<http://rdf.freebase.com/ns/m.0d18t1> ,
-		ns26:סלט_ירקות_ישראלי ;
+		ns26:???_?????_?????? ;
 	dcterms:subject	category:Israeli_cuisine ,
 		category:Salads ,
 		category:Mediterranean_cuisine ,
@@ -5738,42 +5738,42 @@ dbpedia:Arkansas	rdf:type	ns178:_Feature ,
 	owl:sameAs	ns64:Arkansas ,
 		ns12:Arkansas ,
 		ns155:Arcansas_-_Arkansas ,
-		ns61:ארקענסא ,
+		ns61:??????? ,
 		ns154:Arkanzasos ,
 		ns32:Arkanzas ,
 		ns146:Arkansas ,
 		ns120:Arkansas ,
-		ns67:ਆਰਕੰਸਾ ,
+		ns67:?????? ,
 		ns152:Arkansas ,
 		ns78:Arkansas .
 @prefix ns179:	<http://sa.dbpedia.org/resource/> .
-dbpedia:Arkansas	owl:sameAs	ns179:अर्कान्स ,
+dbpedia:Arkansas	owl:sameAs	ns179:???????? ,
 		ns47:Arkansas .
 @prefix ns180:	<http://roa_rup.dbpedia.org/resource/> .
 dbpedia:Arkansas	owl:sameAs	ns180:Arkansas ,
 		ns62:Arkansas ,
 		ns86:Arkansas ,
-		ns40:Ārkanzasa ,
+		ns40:Arkanzasa ,
 		ns156:Arkansas ,
-		ns51:आर्कान्सः ,
+		ns51:????????? ,
 		ns143:Arkansas ,
 		<http://nds_nl.dbpedia.org/resource/Arkansas_(stoat)> ,
 		ns9:Arkansas ,
 		ns149:Arkansas ,
 		ns5:Arkansas ,
-		ns137:آرکانساس ,
+		ns137:???????? ,
 		ns147:Arkanzasas ,
 		ns150:Arkansas ,
-		ns27:أركنساس ,
-		ns91:آرکنساس ,
-		ns124:اركنساس ,
-		ns55:Áákinsoo_Hahoodzo .
+		ns27:??????? ,
+		ns91:??????? ,
+		ns124:??????? ,
+		ns55:��kinsoo_Hahoodzo .
 @prefix ns181:	<http://www.rdfabout.com/rdf/usgov/geo/us/> .
 dbpedia:Arkansas	owl:sameAs	ns181:ar ,
 		ns59:Arkansas ,
 		ns144:Arkansas_suyu ,
-		ns8:Арканзас ,
-		ns100:Арканзас .
+		ns8:???????? ,
+		ns100:???????? .
 @prefix ns182:	<http://pap.dbpedia.org/resource/> .
 dbpedia:Arkansas	owl:sameAs	ns182:Arkansas ,
 		ns95:Arkansas ,
@@ -5781,62 +5781,62 @@ dbpedia:Arkansas	owl:sameAs	ns182:Arkansas ,
 		ns112:Arkansas ,
 		ns53:Arkansas .
 @prefix ns183:	<http://mhr.dbpedia.org/resource/> .
-dbpedia:Arkansas	owl:sameAs	ns183:Арканзас ,
-		ns106:አርካንሳው ,
+dbpedia:Arkansas	owl:sameAs	ns183:???????? ,
+		ns106:?????? ,
 		<http://rdf.freebase.com/ns/m.0vbk> ,
-		ns85:Арканзас ,
+		ns85:???????? ,
 		<http://nl.dbpedia.org/resource/Arkansas_(staat)> ,
 		ns34:Arkansas ,
 		ns138:Arkansas ,
-		ns96:Арканзас ,
+		ns96:???????? ,
 		ns60:Arcansia .
 @prefix ns184:	<http://lb.dbpedia.org/resource/> .
 dbpedia:Arkansas	owl:sameAs	ns184:Arkansas ,
 		ns46:Arkansas ,
-		ns72:Арканзас ,
+		ns72:???????? ,
 		ns113:Arkansas ,
 		ns58:Arkansas ,
 		ns71:Arkansas ,
 		ns84:Arkansas ,
 		ns76:Arkansas ,
 		ns23:Arkansas ,
-		ns10:阿肯色州 ,
+		ns10:???? ,
 		ns81:Arkansas ,
-		ns164:ಅರ್ಕಾನ್ಸಾಸ್ ,
+		ns164:??????????? ,
 		ns82:Arkansas ,
 		ns93:Arkansas ,
-		ns54:Арканзас ,
+		ns54:???????? ,
 		ns80:Arkansas ,
 		ns118:Arkansas ,
 		ns73:Arkansas ,
-		ns35:Αρκάνσας ,
+		ns35:?????sa? ,
 		ns31:Arkansas ,
 		ns48:Arkansas ,
 		ns70:Arkansas ,
 		ns74:Arkansas ,
 		ns6:Arkansas ,
-		ns90:არკანზასი ,
-		ns29:آرکانزاس ,
+		ns90:????????? ,
+		ns29:???????? ,
 		ns30:Arkansas ,
 		ns123:Arkansas ,
-		ns99:รัฐอาร์คันซอ ,
+		ns99:???????????? ,
 		ns50:Arkansas ,
 		<http://kk.dbpedia.org/resource/\u0410\u0440\u043A\u0430\u043D\u0437\u0430\u0441_(\u0448\u0442\u0430\u0442)> ,
 		ns57:Arkansas ,
 		<http://sws.geonames.org/4099753/> ,
-		ns104:阿肯色州 ,
-		ns105:અરકાનસાસ ,
+		ns104:???? ,
+		ns105:???????? ,
 		ns102:Arkansas ,
 		ns75:Arkansas ,
 		ns117:Arkansas ,
 		ns107:Arkansas ,
-		ns114:Arkinsọ ,
-		ns133:ఆర్కాన్సా ,
+		ns114:Arkins? ,
+		ns133:????????? ,
 		ns77:Arkansas ,
 		ns109:Arkansas ,
 		ns21:Arkansas ,
-		ns135:Әркәнзә ,
-		ns115:‘Akanaka ,
+		ns135:??????? ,
+		ns115:�Akanaka ,
 		ns79:Arkansas ,
 		ns83:Arkansas ,
 		ns119:Arkansas ,
@@ -5852,54 +5852,54 @@ dbpedia:Arkansas	owl:sameAs	ns184:Arkansas ,
 		ns68:Arkansas ,
 		ns101:Arkansas ,
 		ns22:Arkansas ,
-		ns136:ஆர்கன்சா ,
-		ns128:아칸소_주 ,
+		ns136:???????? ,
+		ns128:???_? ,
 		ns42:Arkansas ,
 		ns98:Arkansas ,
-		ns130:ئارکانساس ,
+		ns130:????????? ,
 		ns139:Arkansas ,
 		ns116:Arkansas ,
 		ns108:Arkansas ,
 		ns122:Arkansas ,
 		ns140:Arkansas ,
 		ns24:Arkansas ,
-		ns11:アーカンソー州 ,
+		ns11:??????? ,
 		<http://ht.dbpedia.org/resource/Akennsas_(eta)> ,
-		ns103:အာကင်ဆောပြည်နယ် ,
-		ns97:آرکانزاس ,
-		ns129:अरकांसास ,
+		ns103:??????????????? ,
+		ns97:???????? ,
+		ns129:???????? ,
 		ns94:Arkansas ,
 		ns41:Arkansas ,
 		ns38:Arkansas .
 @prefix ns185:	<http://stq.dbpedia.org/resource/> .
 dbpedia:Arkansas	owl:sameAs	ns185:Arkansas ,
-		ns56:Арканзас ,
-		ns131:आर्कान्सा ,
-		ns52:Штат_Арканзас ,
+		ns56:???????? ,
+		ns131:????????? ,
+		ns52:????_???????? ,
 		ns132:Arkansas ,
 		ns43:Arkanzas_Shtati ,
 		ns89:Arkansas ,
-		ns66:আর্কান্‌স ,
-		ns26:ארקנסו ,
+		ns66:????????? ,
+		ns26:?????? ,
 		ns141:Arkansas ,
 		ns88:Arkansas ,
-		ns151:Арканзас ,
+		ns151:???????? ,
 		ns153:Arkansas ,
-		ns121:Â-khén-set ,
-		ns45:আরকান্‌সাস ,
-		ns49:ཨར་ཁན་སཱ་སི། ,
+		ns121:�-kh�n-set ,
+		ns45:?????????? ,
+		ns49:???????????? ,
 		ns158:Arkansas_suyu .
 @prefix ns186:	<http://sah.dbpedia.org/resource/> .
-dbpedia:Arkansas	owl:sameAs	ns186:Арканзас ,
+dbpedia:Arkansas	owl:sameAs	ns186:???????? ,
 		ns87:Arkansas ,
 		ns92:Arkansas .
 @prefix ns187:	<http://arc.dbpedia.org/resource/> .
-dbpedia:Arkansas	owl:sameAs	ns187:ܐܪܟܢܣܐܣ ,
-		ns25:Арканзас ,
-		ns126:Арканзас ,
-		ns39:Арканзас ,
+dbpedia:Arkansas	owl:sameAs	ns187:??????? ,
+		ns25:???????? ,
+		ns126:???????? ,
+		ns39:???????? ,
 		ns65:Arkansas ,
-		ns125:അർക്കൻസാസ് ;
+		ns125:?????????? ;
 	dcterms:subject	category:States_of_the_Confederate_States_of_America ,
 		category:States_and_territories_established_in_1836 ,
 		category:States_of_the_United_States ,
@@ -6094,7 +6094,7 @@ dbpedia:Matbucha	rdf:type	owl:Thing ,
 		ns5:Matbucha ,
 		ns7:Q2315099 ,
 		ns9:Matbuja ,
-		ns26:מטבוחה ,
+		ns26:?????? ,
 		ns81:Ensalada_kocha ,
 		<http://rdf.freebase.com/ns/m.02rfjwx> ;
 	dcterms:subject	category:Salads ,
@@ -6193,11 +6193,11 @@ dbpedia:Bob_chorba	rdf:type	yago:NationalDishes ,
 		yago:NationalDishes ,
 		yago:Instrumentality103575240 ;
 	owl:sameAs	ns9:Chivito ,
-		ns11:チビート ,
-		ns69:Ĉivito ,
+		ns11:???? ,
+		ns69:Civito ,
 		ns21:Chivito ,
 		ns7:Q1959504 ,
-		ns10:烏拉圭牛排漢堡 ,
+		ns10:??????? ,
 		ns33:Chivito ,
 		ns22:Chivito ,
 		<http://rdf.freebase.com/ns/m.0963wm> ,
@@ -6267,15 +6267,15 @@ dbpedia:Bob_chorba	rdf:type	yago:NationalDishes ,
 		yago:FishDishes ,
 		yago:Dish103206908 ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.08tk9y> ,
-		ns28:Halászlé ,
+		ns28:Hal�szl� ,
 		ns7:Q268114 ,
-		ns6:Halászlé ,
-		ns98:Halászlé ,
-		ns8:Халасле ,
-		ns30:Halászlé ,
-		ns23:Halászlé ,
+		ns6:Hal�szl� ,
+		ns98:Hal�szl� ,
+		ns8:??????? ,
+		ns30:Hal�szl� ,
+		ns23:Hal�szl� ,
 		<http://yago-knowledge.org/resource/Fisherman\u0027s_soup> ,
-		ns21:Halászlé ;
+		ns21:Hal�szl� ;
 	dcterms:subject	category:Bulgarian_cuisine ,
 		category:Fish_dishes ,
 		category:Croatian_cuisine ,
@@ -6432,11 +6432,11 @@ dbpedia:Cobb_salad	rdf:type	yago:Container103094503 ,
 		owl:Thing ;
 	owl:sameAs	ns6:Cobb_Salad ,
 		ns5:Cobb_salad ,
-		ns26:סלט_קוב ,
+		ns26:???_??? ,
 		ns7:Q1104585 ,
 		ns9:Ensalada_Cobb ,
 		<http://rdf.freebase.com/ns/m.04tpl7> ,
-		ns11:コブサラダ ;
+		ns11:????? ;
 	dcterms:subject	category:Bacon_dishes ,
 		category:Salads ;
 	dbpedia-owl:abstract	"La ensalada Cobb es una ensalada inventada por Robert H. Cobb, primo de Ty Cobb. Fue un plato emblem\u00E1tico del Brown Derby de Hollywood, sirvi\u00E9ndose variantes en restaurantes de todo el mundo. Sus principales ingredientes son lechuga iceberg, tomate, panceta, pechuga de pollo, huevo duro, aguacate y queso roquefort."@es ,
@@ -6590,13 +6590,13 @@ dbpedia:Tomato_omelette	rdf:type	owl:Thing ,
 		yago:Container103094503 ,
 		yago:Whole100003553 ,
 		yago:Tableware104381994 ;
-	owl:sameAs	ns5:Đuveč ,
+	owl:sameAs	ns5:�uvec ,
 		<http://rdf.freebase.com/ns/m.026gq16> ,
-		ns28:Džuveč ,
-		ns6:Đuveč ,
-		ns8:Гивеч ,
-		ns30:Dzuveč ,
-		ns9:Đuveč ,
+		ns28:D�uvec ,
+		ns6:�uvec ,
+		ns8:????? ,
+		ns30:Dzuvec ,
+		ns9:�uvec ,
 		ns7:Q342208 ;
 	dcterms:subject	category:Meat_dishes ,
 		category:Stews ,
@@ -6634,9 +6634,9 @@ dbpedia:Tomato_omelette	rdf:type	owl:Thing ,
 	dbpprop:mainIngredient	"Beef, olives, tomatoes, mushrooms, rice, onions, herbs, and spices"@en ;
 	dbpprop:name	"\u0110uve\u010D"@en ;
 	dbpprop:type	dbpedia:Stew ;
-	foaf:isPrimaryTopicOf	ns18:Đuveč ;
+	foaf:isPrimaryTopicOf	ns18:�uvec ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u0110uve\u010D?oldid=541956355> ;
-	dbpprop:hasPhotoCollection	ns20:Đuveč ;
+	dbpprop:hasPhotoCollection	ns20:�uvec ;
 	dbpedia-owl:wikiPageInLinkCount	17 ;
 	dbpedia-owl:wikiPageOutLinkCount	54 .
 dbpedia:Greek_salad	rdf:type	yago:GreekCuisineSalads ,
@@ -6655,23 +6655,23 @@ dbpedia:Greek_salad	rdf:type	yago:GreekCuisineSalads ,
 		ns21:Salade_grecque ,
 		ns6:Griechischer_Salat ,
 		<http://rdf.freebase.com/ns/m.04059x> ,
-		ns11:グリークサラダ ,
+		ns11:??????? ,
 		ns7:Q240801 ,
-		ns85:Грецький_салат ,
-		ns10:希臘沙拉 ,
-		ns98:Görög_saláta ,
-		ns30:Sałatka_grecka ,
+		ns85:????????_????? ,
+		ns10:???? ,
+		ns98:G�r�g_sal�ta ,
+		ns30:Salatka_grecka ,
 		ns12:Amanida_grega ,
 		ns24:Grekisk_sallad ,
 		ns48:Seleteya_cotyaran ,
 		ns33:Griekse_salade ,
 		ns5:Greek_salad ,
 		ns22:Salada_grega ,
-		ns35:Χωριάτικη_σαλάτα ,
-		ns27:سلطة_يونانية ,
-		ns26:סלט_יווני ,
-		ns8:Греческий_салат ,
-		ns128:그리스_샐러드 ,
+		ns35:?????t???_sa??ta ,
+		ns27:????_??????? ,
+		ns26:???_????? ,
+		ns8:?????????_????? ,
+		ns128:???_??? ,
 		ns9:Ensalada_griega ;
 	dcterms:subject	category:Cypriot_cuisine ,
 		category:Greek_cuisine_salads ,
@@ -6750,23 +6750,23 @@ dbpedia:Insalata_Caprese	rdf:type	dbpedia-owl:Food ,
 		yago:CheeseDishes ;
 	owl:sameAs	ns46:Insalata_caprese ,
 		ns147:Kaprio_salotos ,
-		ns8:Капрезе ,
+		ns8:??????? ,
 		ns9:Ensalada_caprese ,
 		ns6:Caprese ,
 		<http://rdf.freebase.com/ns/m.06gs1f> ,
 		ns5:Insalata_Caprese ,
 		ns101:Caprese ,
-		ns11:インサラータ・カプレーゼ ,
+		ns11:??????�????? ,
 		ns30:Caprese ,
-		ns85:Капрезе ,
+		ns85:??????? ,
 		ns21:Salade_caprese ,
 		ns33:Insalata_Caprese ,
 		<http://it.dbpedia.org/resource/Caprese_(gastronomia)> ,
 		ns12:Amanida_caprese ,
 		ns7:Q568364 ,
-		ns56:Капрезе ,
+		ns56:??????? ,
 		ns24:Caprese ,
-		ns26:סלט_קפרזה ;
+		ns26:???_????? ;
 	dcterms:subject	category:Cheese_dishes ,
 		category:Tomato_products ,
 		category:Salads ,
@@ -6835,7 +6835,7 @@ dbpedia:Bosnian_Pot	rdf:type	yago:Condition113920835 ,
 		owl:Thing ,
 		yago:Agitation114403107 ;
 	owl:sameAs	ns9:Bosanski_lonac ,
-		ns25:Босански_лонац ,
+		ns25:????????_????? ,
 		ns5:Bosnian_Pot ,
 		<http://rdf.freebase.com/ns/m.02rbgf> ,
 		ns122:Bosanski_lonac ,
@@ -6883,21 +6883,21 @@ dbpedia:Bosnian_Pot	rdf:type	yago:Condition113920835 ,
 	dbpedia-owl:wikiPageOutLinkCount	30 .
 dbpedia:Club_sandwich	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns128:클럽_샌드위치 ,
+	owl:sameAs	ns128:??_???? ,
 		ns9:Club_sandwich ,
 		<http://he.dbpedia.org/resource/\u05E7\u05DC\u05D0\u05D1_\u05E1\u05E0\u05D3\u05D5\u05D5\u05D9\u05E5\u0027> ,
-		ns10:俱乐部三明治 ,
-		ns106:ክለብ_ሳንድዊች ,
-		ns104:公司三文治 ,
+		ns10:?????? ,
+		ns106:???_????? ,
+		ns104:????? ,
 		ns79:Club_sandwich ,
 		ns7:Q1093380 ,
 		ns33:Club_sandwich ,
 		ns116:Club_sandwich ,
-		ns11:アメリカンクラブハウスサンド ,
+		ns11:?????????????? ,
 		<http://rdf.freebase.com/ns/m.01_6j8> ,
 		ns21:Club_sandwich ,
 		ns24:Club_sandwich ,
-		ns29:ساندویچ_کلاب ;
+		ns29:???????_???? ;
 	dcterms:subject	category:Skewered_foods ,
 		category:Sandwiches ,
 		category:American_sandwiches ;
@@ -6953,18 +6953,18 @@ dbpedia:Club_sandwich	rdf:type	owl:Thing ,
 dbpedia:Stew	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
 	owl:sameAs	ns117:Estopado ,
-		ns11:シチュー ,
+		ns11:???? ,
 		ns33:Stoofpot ,
 		<http://rdf.freebase.com/ns/m.0jnxw> ,
-		ns128:스튜 ,
+		ns128:?? ,
 		ns9:Estofado ,
 		ns7:Q2920963 ,
-		ns69:Stufaĵo ,
-		ns26:צלי_קדירה ,
+		ns69:Stufajo ,
+		ns26:???_????? ,
 		ns22:Estufado ,
 		ns12:Estofat ,
 		ns155:Estufado ,
-		ns10:燉煮 ,
+		ns10:?? ,
 		ns23:Stufato ,
 		<http://ru.dbpedia.org/resource/\u0422\u0443\u0448\u0435\u043D\u0438\u0435_(\u043A\u0443\u043B\u0438\u043D\u0430\u0440\u0438\u044F)> ,
 		<http://no.dbpedia.org/resource/Stuing_(mat)> ,
@@ -7036,12 +7036,12 @@ dbpedia:Panzanella	rdf:type	yago:Salad107806221 ,
 	owl:sameAs	ns33:Panzanella ,
 		ns21:Panzanella ,
 		ns5:Panzanella ,
-		ns26:פנצנלה ,
+		ns26:?????? ,
 		ns22:Panzanella ,
 		ns42:Panzanella ,
 		ns7:Q2415718 ,
 		<http://rdf.freebase.com/ns/m.0h0yw1> ,
-		ns8:Панцанелла ,
+		ns8:?????????? ,
 		ns9:Panzanella ,
 		ns23:Panzanella ;
 	dcterms:subject	category:Florence ,
@@ -7158,7 +7158,7 @@ dbpedia:Dakos	rdf:type	yago:GreekCuisineSalads ,
 		yago:Food100021265 ,
 		yago:BreadSalads ;
 	owl:sameAs	ns12:Dakos ,
-		ns35:Ντάκος ,
+		ns35:?t???? ,
 		ns5:Dakos ,
 		ns6:Dakos ,
 		ns9:Koukouvagia ,
@@ -7249,7 +7249,7 @@ dbpedia:Neapolitan_pizza	rdf:type	dbpedia-owl:Food ,
 		owl:Thing ;
 	owl:sameAs	ns7:Q500445 ,
 		<http://rdf.freebase.com/ns/m.0jwzxjd> ,
-		ns11:ナポリピッツァ ,
+		ns11:??????? ,
 		ns21:Pizza_napoletana ,
 		ns9:Pizza_napolitana ,
 		ns23:Pizza_napoletana ;
@@ -7492,7 +7492,7 @@ dbpedia:Stir-fried_tomato_and_scrambled_eggs	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
 	owl:sameAs	ns7:Q7617523 ,
 		<http://rdf.freebase.com/ns/m.0hrblhw> ,
-		ns11:西紅柿炒鶏蛋 ;
+		ns11:?????? ;
 	dcterms:subject	category:Egg_dishes ,
 		category:Chinese_cuisine ;
 	dbpedia-owl:abstract	"Stir-fried tomato and scrambled eggs (Chinese: \u756A\u8304\u7092\u86CB/\u897F\u7EA2\u67FF\u7092\u9E21\u86CB; pinyin: f\u0101nqi\u00E9 ch\u01CEo d\u00E0n / x\u012Bh\u00F3ngsh\u00EC ch\u01CEo j\u012Bd\u00E0n) is a common dish in China. It is served as a main course, and, as it is quick and easy to prepare, is popular among students. This dish is also eaten in the Philippines, usually during breakfast, and paired with garlic fried rice, or sandwiched between a sliced pandesal."@en ,
@@ -7541,18 +7541,18 @@ dbpedia:Calzone	rdf:type	yago:Food107555863 ,
 		yago:Pastry107622708 ,
 		yago:Matter100020827 ;
 	owl:sameAs	ns34:Calzone ,
-		ns128:칼조네 .
+		ns128:??? .
 @prefix ns194:	<http://roa_tara.dbpedia.org/resource/> .
 dbpedia:Calzone	owl:sameAs	ns194:Calzone ,
 		ns155:Calzone ,
 		ns22:Calzone ,
-		ns26:קלצונה ,
-		ns90:კალცონე ,
+		ns26:?????? ,
+		ns90:??????? ,
 		ns30:Calzoni ,
 		ns63:Calzone ,
 		ns110:Cazone ,
 		ns7:Q1815560 ,
-		ns85:Кальцоне ,
+		ns85:???????? ,
 		ns79:Calzone ,
 		<http://rdf.freebase.com/ns/m.03cg_q> ,
 		ns86:Calzone ,
@@ -7560,11 +7560,11 @@ dbpedia:Calzone	owl:sameAs	ns194:Calzone ,
 		ns9:Calzone ,
 		ns21:Calzone ,
 		<http://da.dbpedia.org/resource/Ufo_(pizza)> ,
-		ns27:كالزون ,
+		ns27:?????? ,
 		ns23:Calzone_al_forno ,
-		ns11:カルツォーネ ,
+		ns11:?????? ,
 		ns12:Calzone ,
-		ns8:Кальцоне ;
+		ns8:???????? ;
 	dcterms:subject	category:Pizza ,
 		category:Italian_cuisine ,
 		category:Street_food ,
@@ -7668,12 +7668,12 @@ dbpedia:Caldo_de_siete_mares	rdf:type	yago:Fret114403560 ,
 		yago:Agitation114403107 ,
 		yago:PsychologicalState114373582 ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.0bmlrs> ,
-		ns28:Lečo ,
+		ns28:Leco ,
 		ns30:Leczo ,
-		ns8:Лечо ,
+		ns8:???? ,
 		ns9:Letscho ,
 		ns6:Letscho ,
-		ns5:Lecsó ,
+		ns5:Lecs� ,
 		ns7:Q370637 ;
 	dcterms:subject	category:Hungarian_cuisine ,
 		category:Stews ;
@@ -7710,9 +7710,9 @@ dbpedia:Caldo_de_siete_mares	rdf:type	yago:Fret114403560 ,
 	dbpprop:mainIngredient	"Peppers, tomatoes, onions, lard, salt, sugar, ground paprika"@en ;
 	dbpprop:name	"Lecs\u00F3"@en ;
 	dbpprop:type	dbpedia:Stew ;
-	foaf:isPrimaryTopicOf	ns18:Lecsó ;
+	foaf:isPrimaryTopicOf	ns18:Lecs� ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lecs\u00F3?oldid=545073621> ;
-	dbpprop:hasPhotoCollection	ns20:Lecsó ;
+	dbpprop:hasPhotoCollection	ns20:Lecs� ;
 	dbpedia-owl:wikiPageInLinkCount	17 ;
 	dbpedia-owl:wikiPageOutLinkCount	39 .
 dbpedia:Pisto	rdf:type	yago:Dish103206908 ,
@@ -7731,11 +7731,11 @@ dbpedia:Pisto	rdf:type	yago:Dish103206908 ,
 		yago:Artifact100021939 ;
 	owl:sameAs	ns5:Pisto ,
 		ns6:Pisto ,
-		ns85:Пісто ,
+		ns85:????? ,
 		<http://rdf.freebase.com/ns/m.07ll3p> ,
 		ns12:Pisto ,
 		ns9:Pisto_manchego ,
-		ns8:Писто ,
+		ns8:????? ,
 		ns7:Q1784786 ;
 	dcterms:subject	category:Eggplant_dishes ,
 		category:Castilian-La_Mancha_cuisine ,
@@ -7786,45 +7786,45 @@ dbpedia:Ratatouille	rdf:type	dbpedia-owl:Food ,
 		ns94:Ratatouille ,
 		ns33:Ratatouille ,
 		ns7:Q183095 ,
-		ns52:Рататуй ,
-		ns8:Рататуй ,
+		ns52:??????? ,
+		ns8:??????? ,
 		ns9:Ratatouille ,
 		ns34:Ratatouille ,
-		ns25:Рататуј ,
+		ns25:??????? ,
 		ns155:Ratatouille ,
 		ns75:Ratatouille ,
 		<http://it.dbpedia.org/resource/Ratatouille_(gastronomia)> ,
 		ns116:Ratatouille ,
 		ns32:Ratatuy ,
 		ns47:Ratatouille ,
-		ns10:普羅旺斯雜燴 ,
+		ns10:?????? ,
 		ns46:Ratatouille ,
 		ns21:Ratatouille ,
-		ns128:라타투유 ,
+		ns128:???? ,
 		ns68:Ratatouille ,
 		ns83:Ratatouille ,
-		ns66:রাতাতুই ,
+		ns66:??????? ,
 		ns79:Ratatouille ,
 		ns69:Ratatujo ,
 		ns77:Ratatouille ,
 		ns50:Ratatolha ,
 		ns122:Ratatouille ,
-		ns99:ราตาตูย ,
-		ns11:ラタトゥイユ ,
+		ns99:??????? ,
+		ns11:?????? ,
 		ns6:Ratatouille ,
 		ns74:Ratatouille ,
 		<http://rdf.freebase.com/ns/m.01kf7f> ,
 		<http://ar.dbpedia.org/resource/\u0631\u0627\u062A\u0627\u062A\u0648\u064A_(\u0637\u0628\u0642)> ,
 		ns24:Ratatouille ,
 		ns28:Ratatouille ,
-		ns56:Рататуй ,
-		ns26:רטטוי ,
+		ns56:??????? ,
+		ns26:????? ,
 		ns152:Ratatouille ,
 		ns12:Ratatolha ,
 		ns30:Ratatouille ,
 		ns101:Ratatouille ,
 		ns98:Ratatouille ,
-		ns29:راتاتویی ,
+		ns29:???????? ,
 		<http://uk.dbpedia.org/resource/\u0420\u0430\u0442\u0430\u0442\u0443\u0439_(\u0441\u0442\u0440\u0430\u0432\u0430)> ,
 		ns86:Ratatolha ;
 	dcterms:subject	category:Stews ,
@@ -7955,7 +7955,7 @@ dbpedia:Fried_aubergine	rdf:type	yago:Object100002684 ,
 		<http://rdf.freebase.com/ns/m.0bbx1p> ,
 		ns7:Q5503619 ,
 		ns9:Berenjena_frita ,
-		ns32:Qızardılmış_badımcan ;
+		ns32:Qizardilmis_badimcan ;
 	dcterms:subject	category:Azerbaijani_cuisine ,
 		category:Greek_cuisine ,
 		category:Jordanian_cuisine ,
@@ -8014,7 +8014,7 @@ dbpedia:Sandwiches_de_miga	rdf:type	yago:SnackFood107712382 ,
 		yago:PhysicalEntity100001930 ,
 		yago:Nutriment107570720 ,
 		owl:Thing ;
-	owl:sameAs	ns9:Sándwich_de_miga ,
+	owl:sameAs	ns9:S�ndwich_de_miga ,
 		ns5:Sandwiches_de_miga ,
 		<http://rdf.freebase.com/ns/m.0d695w> ,
 		<http://he.dbpedia.org/resource/\u05E1\u05E0\u05D3\u05D5\u05D5\u05D9\u05E5\u0027_\u05D3\u05D4_\u05DE\u05D9\u05D2\u05D4> ,
@@ -8060,10 +8060,10 @@ dbpedia:Sandwiches_de_miga	rdf:type	yago:SnackFood107712382 ,
 		yago:Nutriment107570720 ,
 		yago:Food100021265 ,
 		yago:Dish107557434 ;
-	owl:sameAs	ns9:Çoban_salatası ,
+	owl:sameAs	ns9:�oban_salatasi ,
 		<http://rdf.freebase.com/ns/m.0c_pwn> ,
 		ns7:Q8077757 ,
-		ns5:Çoban_salatası ;
+		ns5:�oban_salatasi ;
 	dcterms:subject	category:Turkish_words_and_phrases ,
 		category:Salads ;
 	dbpedia-owl:abstract	"\u00C7oban Salatas\u0131 or Choban salad (Turkish for \"Shepherd's Salad\") is a Turkish salad. It is one of the most popular salads in Turkey. It is considered by many as light, refreshing and easy to make and is especially popular during summer. It is a combination of finely chopped tomatoes, cucumbers, onions, green peppers and flat-leaf parsley. The dressing consists of lemon juice, olive oil and salt."@en ,
@@ -8087,9 +8087,9 @@ dbpedia:Sandwiches_de_miga	rdf:type	yago:SnackFood107712382 ,
 	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, green peppers and flat-leaf parsley"@en ;
 	dbpprop:name	"\u00C7oban salatas\u0131"@en ;
 	dbpprop:type	dbpedia:Salad ;
-	foaf:isPrimaryTopicOf	ns18:Çoban_salatası ;
+	foaf:isPrimaryTopicOf	ns18:�oban_salatasi ;
 	ns19:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u00C7oban_salatas\u0131?oldid=546569417> ;
-	dbpprop:hasPhotoCollection	ns20:Çoban_salatası ;
+	dbpprop:hasPhotoCollection	ns20:�oban_salatasi ;
 	dbpedia-owl:wikiPageInLinkCount	12 ;
 	dbpedia-owl:wikiPageOutLinkCount	19 .
 dbpedia:Maafe	rdf:type	yago:Agitation114403107 ,
@@ -8105,10 +8105,10 @@ dbpedia:Maafe	rdf:type	yago:Agitation114403107 ,
 	owl:sameAs	ns7:Q3065492 ,
 		ns9:Maafe ,
 		ns5:Maafe ,
-		ns11:ソース・アラシッド ,
-		ns22:Mafê ,
+		ns11:???�????? ,
+		ns22:Maf� ,
 		<http://rdf.freebase.com/ns/m.027ggn0> ,
-		ns21:Mafé ;
+		ns21:Maf� ;
 	dcterms:subject	category:Peanuts ,
 		category:Ghanaian_cuisine ,
 		category:Stews ,
@@ -8303,10 +8303,10 @@ dbpedia:Pasta_e_fagioli	rdf:type	yago:PastaDishes ,
 		ns7:Q1137803 ,
 		<http://rdf.freebase.com/ns/m.0btmnp> ,
 		ns5:Pasta_e_fagioli ,
-		ns128:파스타_에_파지올리 ,
-		ns27:باستا_الحبوب .
+		ns128:???_?_???? ,
+		ns27:?????_?????? .
 @prefix ns196:	<http://vec.dbpedia.org/resource/> .
-dbpedia:Pasta_e_fagioli	owl:sameAs	ns196:Pasta_e_faxołi ;
+dbpedia:Pasta_e_fagioli	owl:sameAs	ns196:Pasta_e_faxoli ;
 	dcterms:subject	category:Legume_dishes ,
 		category:Pasta_dishes ,
 		category:Italian_cuisine ;
@@ -8362,7 +8362,7 @@ dbpedia:Seven-layer_salad	rdf:type	yago:Crockery103133538 ,
 		yago:Article100022903 ;
 	owl:sameAs	ns7:Q7457147 ,
 		ns9:Ensalada_de_siete_capas ,
-		ns29:سالاد_هفت‌لایه ,
+		ns29:?????_???????? ,
 		ns5:Seven-layer_salad ,
 		<http://rdf.freebase.com/ns/m.054y44k> ;
 	dcterms:subject	category:Cuisine_of_Minnesota ,
@@ -8484,7 +8484,7 @@ dbpedia:Bun_rieu	rdf:type	yago:Tableware104381994 ,
 		yago:Instrumentality103575240 ,
 		yago:Crockery103133538 ;
 	owl:sameAs	ns5:Bun_rieu ,
-		ns9:Bún_riêu ,
+		ns9:B�n_ri�u ,
 		ns7:Q4997403 ,
 		<http://rdf.freebase.com/ns/m.02xcdrf> ;
 	dcterms:subject	category:Vietnamese_noodles ,
@@ -8543,14 +8543,14 @@ dbpedia:BLT	rdf:type	yago:Dish107557434 ,
 		yago:AmericanSandwiches ,
 		owl:Thing ;
 	owl:sameAs	ns21:Sandwich_BLT ,
-		ns9:Sándwich_BLT ,
-		ns11:BLTサンドイッチ ,
+		ns9:S�ndwich_BLT ,
+		ns11:BLT?????? ,
 		ns5:BLT ,
 		ns30:BLT ,
 		ns6:BLT-Sandwich ,
-		ns10:培根生菜番茄三明治 ,
-		ns64:Sendvič_BLT ,
-		ns24:BLT-smörgås ,
+		ns10:????????? ,
+		ns64:Sendvic_BLT ,
+		ns24:BLT-sm�rg�s ,
 		ns26:BLT ,
 		ns7:Q796270 ,
 		<http://rdf.freebase.com/ns/m.0m06w> ;

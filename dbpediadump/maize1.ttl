@@ -20,15 +20,15 @@ dbpedia:Commelinids	rdf:type	owl:Thing ,
 		dbpedia-owl:Species ,
 		yago:Cognition100023271 .
 @prefix ns6:	<http://mk.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns6:Комелиниди .
+dbpedia:Commelinids	owl:sameAs	ns6:?????????? .
 @prefix ns7:	<http://pt.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns7:Comelinídeas .
+dbpedia:Commelinids	owl:sameAs	ns7:Comelin�deas .
 @prefix ns8:	<http://jv.dbpedia.org/resource/> .
 dbpedia:Commelinids	owl:sameAs	ns8:Commelinids .
 @prefix ns9:	<http://fr.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns9:Commelinidées .
+dbpedia:Commelinids	owl:sameAs	ns9:Commelinid�es .
 @prefix ns10:	<http://vi.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns10:Nhánh_Thài_lài .
+dbpedia:Commelinids	owl:sameAs	ns10:Nh�nh_Th�i_l�i .
 @prefix ns11:	<http://www.wikidata.org/entity/> .
 dbpedia:Commelinids	owl:sameAs	ns11:Q868546 .
 @prefix ns12:	<http://hu.dbpedia.org/resource/> .
@@ -42,13 +42,13 @@ dbpedia:Commelinids	owl:sameAs	ns15:Commelinids .
 @prefix ns16:	<http://cy.dbpedia.org/resource/> .
 dbpedia:Commelinids	owl:sameAs	ns16:Comelinid .
 @prefix ns17:	<http://ko.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns17:닭의장풀군 .
+dbpedia:Commelinids	owl:sameAs	ns17:????? .
 @prefix ns18:	<http://id.dbpedia.org/resource/> .
 dbpedia:Commelinids	owl:sameAs	ns18:Commelinids .
 @prefix ns19:	<http://zh.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns19:鸭跖草类植物 .
+dbpedia:Commelinids	owl:sameAs	ns19:?????? .
 @prefix ns20:	<http://ca.dbpedia.org/resource/> .
-dbpedia:Commelinids	owl:sameAs	ns20:Commelínid .
+dbpedia:Commelinids	owl:sameAs	ns20:Commel�nid .
 @prefix ns21:	<http://yago-knowledge.org/resource/> .
 dbpedia:Commelinids	owl:sameAs	ns21:Commelinids ,
 		<http://rdf.freebase.com/ns/m.0bhkmw> .
@@ -194,40 +194,40 @@ dbpedia:Carl_Linnaeus	rdf:type	ns31:Person ,
 		yago:Taxonomist110693824 ,
 		yago:SwedishMycologists .
 @prefix ns32:	<http://als.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns32:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns32:Carl_von_Linn� .
 @prefix ns33:	<http://ba.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns33:Карл_Линней .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns33:????_?????? .
 @prefix ns34:	<http://lmo.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns34:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns34:Carl_von_Linn� .
 @prefix ns35:	<http://tr.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns35:Carl_Linnaeus .
 @prefix ns36:	<http://tt.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns36:Карл_Линней .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns36:????_?????? .
 @prefix ns37:	<http://uk.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns37:Карл_Лінней .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns37:????_?????? .
 @prefix ns38:	<http://ur.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns38:لنی_اس .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns38:???_?? .
 @prefix ns39:	<http://es.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns39:Carlos_Linneo .
 @prefix ns40:	<http://uz.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns40:Carl_Linnaeus ,
-		ns10:Carl_von_Linné .
+		ns10:Carl_von_Linn� .
 @prefix ns41:	<http://war.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns41:Carl_Linnaeus .
 @prefix ns42:	<http://sr.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns42:Карл_фон_Лине .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns42:????_???_???? .
 @prefix ns43:	<http://eu.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns43:Lineo .
 @prefix ns44:	<http://sv.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns44:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns44:Carl_von_Linn� .
 @prefix ns45:	<http://sw.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns45:Carl_Linnaeus .
 @prefix ns46:	<http://ta.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns46:கரோலஸ்_லின்னேயஸ் .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns46:??????_????????? .
 @prefix ns47:	<http://te.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns47:కరోలస్_లిన్నేయస్ .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns47:??????_????????? .
 @prefix ns48:	<http://th.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns48:คาโรลัส_ลินเนียส .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns48:???????_???????? .
 @prefix ns49:	<http://tl.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns49:Carl_Linnaeus .
 @prefix ns50:	<http://scn.dbpedia.org/resource/> .
@@ -238,72 +238,72 @@ dbpedia:Carl_Linnaeus	owl:sameAs	ns51:Carolus_Linnaeus .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns52:Carolus_Linnaeus ,
 		ns15:Carolus_Linnaeus .
 @prefix ns53:	<http://sk.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns53:Carl_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns53:Carl_Linn� .
 @prefix ns54:	<http://sl.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns54:Carl_Linnaeus .
 @prefix ns55:	<http://ja.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns55:カール・フォン・リンネ .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns55:???�???�??? .
 @prefix ns56:	<http://nds_nl.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns56:Carolus_Linnaeus .
 @prefix ns57:	<http://roa_rup.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns57:Carolus_Linnaeus .
 @prefix ns58:	<http://sa.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns58:केरोलस्_लीनियस् .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns58:???????_??????? .
 @prefix ns59:	<http://ln.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns59:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns59:Carl_von_Linn� .
 @prefix ns60:	<http://mhr.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns60:Линне_Карыл .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns60:?????_????? .
 @prefix ns61:	<http://mn.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns61:Карл_Линней .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns61:????_?????? .
 @prefix ns62:	<http://csb.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns62:Karol_Linneùsz .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns62:Karol_Linne�sz .
 @prefix ns63:	<http://ext.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns63:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns63:Carl_von_Linn� .
 @prefix ns64:	<http://frr.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns64:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns64:Carl_von_Linn� .
 @prefix ns65:	<http://gn.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns65:Carolus_Linnaeus ,
 		<http://ru.dbpedia.org/resource/\u041B\u0438\u043D\u043D\u0435\u0439,_\u041A\u0430\u0440\u043B> .
 @prefix ns66:	<http://hsb.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns66:Carl_von_Linné ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns66:Carl_von_Linn� ,
 		ns14:Carolus_Linnaeus .
 @prefix ns67:	<http://bat_smg.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns67:Karls_Liniejos .
 @prefix ns68:	<http://be_x_old.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns68:Карл_Лінэй .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns68:????_????? .
 @prefix ns69:	<http://arz.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns69:كارل_لينيوس .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns69:????_?????? .
 @prefix ns70:	<http://ast.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns70:Carlos_Linneo .
 @prefix ns71:	<http://az.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns71:Karl_Linney .
 @prefix ns72:	<http://bar.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns72:Carl_von_Linné ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns72:Carl_von_Linn� ,
 		<http://ce.dbpedia.org/resource/\u041B\u0438\u043D\u043D\u0435\u0439,_\u041A\u0430\u0440\u043B> .
 @prefix ns73:	<http://be.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns73:Карл_Ліней .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns73:????_????? .
 @prefix ns74:	<http://bg.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns74:Карл_Линей .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns74:????_????? .
 @prefix ns75:	<http://ckb.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns75:کارلۆس_لینایۆس .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns75:??????_??????? .
 @prefix ns76:	<http://bn.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns76:কার্ল_লিনিয়াস .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns76:?????_???????? .
 @prefix ns77:	<http://br.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns77:Carl_von_Linné ,
-		ns19:卡尔·林奈 .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns77:Carl_von_Linn� ,
+		ns19:??�?? .
 @prefix ns78:	<http://af.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns78:Carolus_Linnaeus .
 @prefix ns79:	<http://an.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns79:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns79:Carl_von_Linn� .
 @prefix ns80:	<http://ar.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns80:كارولوس_لينيوس .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns80:???????_?????? .
 @prefix ns81:	<http://zh_yue.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns81:林奈 ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns81:?? ,
 		ns11:Q1043 .
 @prefix ns82:	<http://tk.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns82:Karl_Linneý .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns82:Karl_Linne� .
 @prefix ns83:	<http://vec.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns83:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns83:Carl_von_Linn� .
 @prefix ns84:	<http://vls.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns84:Carolus_Linnaeus .
 @prefix ns85:	<http://vo.dbpedia.org/resource/> .
@@ -313,120 +313,120 @@ dbpedia:Carl_Linnaeus	owl:sameAs	ns86:Carolus_Linnaeus .
 @prefix ns87:	<http://zh_min_nan.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns87:Carolus_Linnaeus .
 @prefix ns88:	<http://sah.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns88:Карл_Линней ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns88:????_?????? ,
 		ns7:Carolus_Linnaeus ,
-		ns12:Carl_von_Linné .
+		ns12:Carl_von_Linn� .
 @prefix ns89:	<http://hy.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns89:Կարլ_Լինեյ .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns89:????_????? .
 @prefix ns90:	<http://ia.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns90:Carl_von_Linné ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns90:Carl_von_Linn� ,
 		ns18:Carolus_Linnaeus .
 @prefix ns91:	<http://stq.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns91:Carolus_Linnaeus .
 @prefix ns92:	<http://ilo.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns92:Carolus_Linnaeus .
 @prefix ns93:	<http://szl.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns93:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns93:Carl_von_Linn� .
 @prefix ns94:	<http://io.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns94:Carolus_Linnaeus .
 @prefix ns95:	<http://gan.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns95:卡爾·林奈 .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns95:??�?? .
 @prefix ns96:	<http://gd.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns96:Carl_Linnaeus .
 @prefix ns97:	<http://cs.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns97:Carl_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns97:Carl_Linn� .
 @prefix ns98:	<http://gl.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns98:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns98:Carl_von_Linn� .
 @prefix ns99:	<http://gv.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns99:Carolus_Linnaeus .
 @prefix ns100:	<http://he.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns100:קארולוס_ליניאוס .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns100:???????_??????? .
 @prefix ns101:	<http://hi.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns101:कार्ल_लीनियस .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns101:?????_?????? .
 @prefix ns102:	<http://hif.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns102:Carl_Linnaeus .
 @prefix ns103:	<http://hr.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns103:Carl_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns103:Carl_Linn� .
 @prefix ns104:	<http://eo.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns104:Karolo_Lineo ,
-		ns22:Carl_von_Linné .
+		ns22:Carl_von_Linn� .
 @prefix ns105:	<http://et.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns105:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns105:Carl_von_Linn� .
 @prefix ns106:	<http://fa.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns106:کارل_لینه .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns106:????_???? .
 @prefix ns107:	<http://fi.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns107:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns107:Carl_von_Linn� .
 @prefix ns108:	<http://el.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns108:Κάρολος_Λινναίος .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns108:???????_????a??? .
 @prefix ns109:	<http://fy.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns109:Carolus_Linnaeus .
 @prefix ns110:	<http://ga.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns110:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns110:Carl_von_Linn� .
 @prefix ns111:	<http://bs.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns111:Carl_von_Linné ,
-		ns20:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns111:Carl_von_Linn� ,
+		ns20:Carl_von_Linn� .
 @prefix ns112:	<http://co.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns112:Carl_von_Linné ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns112:Carl_von_Linn� ,
 		ns16:Carolus_Linnaeus .
 @prefix ns113:	<http://pl.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns113:Karol_Linneusz .
 @prefix ns114:	<http://da.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns114:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns114:Carl_von_Linn� .
 @prefix ns115:	<http://dsb.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns115:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns115:Carl_von_Linn� .
 @prefix ns116:	<http://it.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns116:Linneo .
 @prefix ns117:	<http://pam.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns117:Carolus_Linnaeus ,
-		ns9:Carl_von_Linné .
+		ns9:Carl_von_Linn� .
 @prefix ns118:	<http://pms.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns118:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns118:Carl_von_Linn� .
 @prefix ns119:	<http://pnb.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns119:کارل_لنیاس .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns119:????_????? .
 @prefix ns120:	<http://qu.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns120:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns120:Carl_von_Linn� .
 @prefix ns121:	<http://ro.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns121:Carl_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns121:Carl_Linn� .
 @prefix ns122:	<http://rue.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns122:Карл_Лінней .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns122:????_?????? .
 @prefix ns123:	<http://ms.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns123:Carl_Linnaeus .
 @prefix ns124:	<http://nds.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns124:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns124:Carl_von_Linn� .
 @prefix ns125:	<http://nn.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns125:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns125:Carl_von_Linn� .
 @prefix ns126:	<http://no.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns126:Carl_von_Linné ,
-		ns13:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns126:Carl_von_Linn� ,
+		ns13:Carl_von_Linn� .
 @prefix ns127:	<http://lb.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns127:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns127:Carl_von_Linn� .
 @prefix ns128:	<http://lt.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns128:Carl_von_Linné .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns128:Carl_von_Linn� .
 @prefix ns129:	<http://lv.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns129:Kārlis_Linnejs .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns129:Karlis_Linnejs .
 @prefix ns130:	<http://mi.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns130:Carl_Linnaeus ,
-		ns6:Карл_Лине .
+		ns6:????_???? .
 @prefix ns131:	<http://ml.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns131:കാൾ_ലിനേയസ് .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns131:???_??????? .
 @prefix ns132:	<http://mr.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns132:कार्ल_लिनेयस .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns132:?????_?????? .
 @prefix ns133:	<http://is.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns133:Carolus_Linnaeus ,
 		ns8:Carolus_Linnaeus .
 @prefix ns134:	<http://ka.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns134:კარლ_ლინე .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns134:????_???? .
 @prefix ns135:	<http://kk.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns135:Карл_Линней ,
-		ns17:칼_폰_린네 .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns135:????_?????? ,
+		ns17:?_?_?? .
 @prefix ns136:	<http://ku.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns136:Carl_von_Linné ,
+dbpedia:Carl_Linnaeus	owl:sameAs	ns136:Carl_von_Linn� ,
 		<http://rdf.freebase.com/ns/m.01lwd> ,
 		<http://ky.dbpedia.org/resource/\u041B\u0438\u043D\u043D\u0435\u0439,_\u041A\u0430\u0440\u043B> .
 @prefix ns137:	<http://la.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns137:Carolus_Linnaeus .
 @prefix ns138:	<http://yi.dbpedia.org/resource/> .
-dbpedia:Carl_Linnaeus	owl:sameAs	ns138:קארל_פאן_לינע .
+dbpedia:Carl_Linnaeus	owl:sameAs	ns138:????_???_???? .
 @prefix ns139:	<http://yo.dbpedia.org/resource/> .
 dbpedia:Carl_Linnaeus	owl:sameAs	ns139:Carl_Linnaeus ,
 		ns21:Carl_Linnaeus ;
@@ -627,103 +627,103 @@ dbpedia:Flowering_plant	rdf:type	owl:Thing ,
 		dbpedia-owl:Plant ,
 		dbpedia-owl:Eukaryote ,
 		dbpedia-owl:FloweringPlant ;
-	owl:sameAs	ns129:Segsēkļi ,
+	owl:sameAs	ns129:Segsekli ,
 		ns124:Todecktsadige ,
-		ns35:Kapalı_tohumlular ,
+		ns35:Kapali_tohumlular ,
 		ns64:Bloosenplaanten ,
-		ns106:گیاهان_گلدار ,
-		ns20:Magnoliòfit ,
-		ns134:ყვავილოვანი_მცენარეები ,
-		ns136:Riwekên_kulîlkdar .
+		ns106:??????_????? ,
+		ns20:Magnoli�fit ,
+		ns134:???????????_?????????? ,
+		ns136:Riwek�n_kul�lkdar .
 @prefix ns146:	<http://nah.dbpedia.org/resource/> .
 dbpedia:Flowering_plant	owl:sameAs	ns146:Teconxinachtli ,
-		ns44:Gömfröväxter ,
-		ns42:Скривеносеменице ,
+		ns44:G�mfr�v�xter ,
+		ns42:???????????????? ,
 		ns104:Angiospermoj .
 @prefix ns147:	<http://ru.dbpedia.org/resource/> .
-dbpedia:Flowering_plant	owl:sameAs	ns147:Цветковые_растения ,
+dbpedia:Flowering_plant	owl:sameAs	ns147:?????????_???????? ,
 		ns111:Magnoliophyta ,
 		ns16:Planhigyn_blodeuol ,
-		ns119:پھلوالے_بوٹے ,
-		ns53:Krytosemenné_rastliny ,
-		ns76:সপুষ্পক_উদ্ভিদ ,
-		ns103:Kritosjemenjače ,
+		ns119:???????_???? ,
+		ns53:Krytosemenn�_rastliny ,
+		ns76:???????_?????? ,
+		ns103:Kritosjemenjace ,
 		<http://rdf.freebase.com/ns/m.04sjm> ,
-		ns17:속씨식물 ,
+		ns17:???? ,
 		ns79:Magnoliophyta ,
 		ns39:Magnoliophyta ,
 		ns18:Tumbuhan_berbunga ,
-		ns138:בליענדיקע_פלאנצן ,
-		ns37:Покритонасінні ,
-		ns131:സപുഷ്പി ,
-		ns68:Кветкавыя_расьліны ,
+		ns138:?????????_?????? ,
+		ns37:?????????????? ,
+		ns131:??????? ,
+		ns68:?????????_???????? ,
 		ns11:Q25314 ,
-		ns71:Çiçəkli_bitkilər .
+		ns71:�i�?kli_bitkil?r .
 @prefix ns148:	<http://diq.dbpedia.org/resource/> .
 dbpedia:Flowering_plant	owl:sameAs	ns148:Angiosperms .
 @prefix ns149:	<http://ht.dbpedia.org/resource/> .
-dbpedia:Flowering_plant	owl:sameAs	ns149:Anjyospèm ,
+dbpedia:Flowering_plant	owl:sameAs	ns149:Anjyosp�m ,
 		ns99:Magnoliophyta ,
-		ns73:Кветкавыя ,
+		ns73:????????? ,
 		ns15:Flowering_plant ,
-		ns33:Ябыҡ_орлоҡлолар ,
-		ns133:Dulfrævingar ,
-		ns97:Krytosemenné ,
-		ns48:พืชดอก ,
+		ns33:????_?????????? ,
+		ns133:Dulfr�vingar ,
+		ns97:Krytosemenn� ,
+		ns48:?????? ,
 		ns123:Angiosperma ,
-		ns127:Bléieplanzen ,
-		ns74:Покритосеменни ,
+		ns127:Bl�ieplanzen ,
+		ns74:?????????????? ,
 		ns8:Tetanduran_ngembang ,
 		ns7:Angiosperma ,
-		ns60:Шылтымнӧшман_кушкыл ,
+		ns60:????????????_?????? ,
 		ns137:Angiospermae ,
-		ns115:Pókšyty_semjenjak ,
+		ns115:P�k�yty_semjenjak ,
 		ns22:Bedecktsamer ,
-		ns89:Ծածկասերմեր ,
+		ns89:??????????? ,
 		ns51:Flouerin_plant ,
-		ns38:پھولدار_پودے ,
-		ns6:Скриеносеменици .
+		ns38:???????_???? ,
+		ns6:??????????????? .
 @prefix ns150:	<http://to.dbpedia.org/resource/> .
-dbpedia:Flowering_plant	owl:sameAs	ns150:ʻakau_matala ,
-		ns101:सपुष्पक_पौधा ,
-		ns100:בעלי_פרחים ,
-		ns10:Thực_vật_có_hoa ,
+dbpedia:Flowering_plant	owl:sameAs	ns150:?akau_matala ,
+		ns101:???????_???? ,
+		ns100:????_????? ,
+		ns10:Th?c_v?t_c�_hoa ,
 		ns34:Magnoliophyta ,
-		ns55:被子植物 ,
-		ns125:Dekkfrøplantar ,
+		ns55:???? ,
+		ns125:Dekkfr�plantar ,
 		ns120:Qatasqa_muruyuq ,
-		ns67:Žėidėnē_augalā .
+		ns67:�eidene_augala .
 @prefix ns151:	<http://vep.dbpedia.org/resource/> .
-dbpedia:Flowering_plant	owl:sameAs	ns151:Peitsemnižed ,
+dbpedia:Flowering_plant	owl:sameAs	ns151:Peitsemni�ed ,
 		ns9:Magnoliophyta ,
 		ns98:Anxiosperma ,
 		ns54:Kritosemenke ,
-		ns19:開花植物 ,
-		ns87:Khui-hoe_si̍t-bu̍t ,
+		ns19:???? ,
+		ns87:Khui-hoe_si?t-bu?t ,
 		ns50:Magnoliophyta ,
 		ns43:Landare_loredun ,
 		ns70:Magnoliophyta ,
-		ns80:كاسيات_البذور ,
-		ns114:Dækfrøede_planter ,
+		ns80:??????_?????? ,
+		ns114:D�kfr�ede_planter ,
 		ns92:Mula_nga_agsabsabong ,
 		ns13:Magnoliophyta ,
-		ns108:Αγγειόσπερμα ,
+		ns108:???e??spe?�a ,
 		ns105:Katteseemnetaimed ,
-		ns12:Zárvatermők ,
+		ns12:Z�rvatermok ,
 		ns121:Magnoliophyta .
 @prefix ns152:	<http://map_bms.dbpedia.org/resource/> .
 dbpedia:Flowering_plant	owl:sameAs	ns152:Tetanduran_ngembang ,
 		ns49:Halamang_namumulaklak ,
 		ns14:Bedektzadigen ,
 		ns113:Okrytonasienne ,
-		ns46:பூக்கும்_தாவரம் ,
-		ns128:Magnolijūnai ,
+		ns46:????????_?????? ,
+		ns128:Magnolijunai ,
 		ns66:Krytosymjenjak ,
 		ns78:Bedeksadiges ,
-		ns47:ఆవృతబీజాలు .
+		ns47:?????????? .
 @prefix ns153:	<http://ne.dbpedia.org/resource/> .
-dbpedia:Flowering_plant	owl:sameAs	ns153:फूल_फुल्ने_वनस्पति ,
-		ns126:Dekkfrøede_planter ,
+dbpedia:Flowering_plant	owl:sameAs	ns153:???_??????_??????? ,
+		ns126:Dekkfr�ede_planter ,
 		ns116:Magnoliophyta ,
 		ns52:Skrivenosemenice ,
 		ns107:Koppisiemeniset ;
@@ -825,72 +825,72 @@ dbpedia:Monocotyledon	rdf:type	dbpedia-owl:Plant ,
 		ns3:EukaryoticCell ,
 		ns3:BiologicalLivingObject ,
 		owl:Thing ;
-	owl:sameAs	ns133:Einkímblöðungar ,
+	owl:sameAs	ns133:Eink�mbl��ungar ,
 		ns107:Yksisirkkaiset ,
-		ns37:Однодольні ,
+		ns37:?????????? ,
 		ns123:Monokotiledon ,
-		ns47:ఏకదళబీజాలు ,
-		ns98:Monocotiledóneas ,
+		ns47:?????????? ,
+		ns98:Monocotiled�neas ,
 		ns104:Unukotiledonaj_plantoj ,
 		ns103:Jednosupnice ,
 		ns127:Liliopsida ,
-		ns17:외떡잎식물 ,
-		ns35:Tek_çenekliler ,
-		ns46:ஒருவித்திலையி ,
-		ns12:Egyszikűek ,
-		ns134:ერთლებნიანები ,
-		ns68:Аднадольныя ,
-		ns67:Vėinskiltē_augalā ,
-		ns53:Jednoklíčnolistové ,
-		ns7:Monocotiledónea ,
+		ns17:????? ,
+		ns35:Tek_�enekliler ,
+		ns46:????????????? ,
+		ns12:Egyszikuek ,
+		ns134:????????????? ,
+		ns68:??????????? ,
+		ns67:Veinskilte_augala ,
+		ns53:Jednokl�cnolistov� ,
+		ns7:Monocotiled�nea ,
 		ns8:Tetanduran_wiji_tunggal ,
 		ns116:Liliopsida ,
-		ns10:Thực_vật_một_lá_mầm ,
-		ns48:พืชใบเลี้ยงเดี่ยว ,
-		ns42:Монокотиледоне_биљке ,
-		ns55:単子葉植物 ,
-		ns153:एकदलीय_वनस्पति ,
-		ns113:Jednoliścienne ,
-		ns71:Birləpəlilər ,
+		ns10:Th?c_v?t_m?t_l�_m?m ,
+		ns48:????????????????? ,
+		ns42:??????????????_????? ,
+		ns55:????? ,
+		ns153:??????_??????? ,
+		ns113:Jednoliscienne ,
+		ns71:Birl?p?lil?r ,
 		ns13:Monocotyledon ,
 		ns14:Eenzaadlobbigen ,
-		ns105:Üheidulehelised ,
-		ns38:یک_دالہ ,
+		ns105:�heidulehelised ,
+		ns38:??_???? ,
 		ns11:Q78961 ,
-		ns100:חד-פסיגיים ,
+		ns100:??-??????? ,
 		ns52:Monokotiledone_biljke ,
-		ns101:एकबीजपत्री ,
-		ns44:Enhjärtbladiga_växter ,
-		ns80:أحاديات_الفلقة ,
-		ns119:اکدالے ,
+		ns101:?????????? ,
+		ns44:Enhj�rtbladiga_v�xter ,
+		ns80:???????_?????? ,
+		ns119:?????? ,
 		ns121:Monocotiledonate ,
-		ns73:Аднадольныя ,
+		ns73:??????????? ,
 		ns18:Tumbuhan_berkeping_biji_tunggal ,
 		ns128:Lelijainiai ,
-		ns126:Enfrøbladede_planter ,
+		ns126:Enfr�bladede_planter ,
 		ns16:Monocotyledon ,
 		ns22:Monokotyledonen ,
-		ns129:Viendīgļlapji ,
+		ns129:Viendigllapji ,
 		ns39:Liliopsida ,
 		ns43:Liliopsida ,
-		ns54:Enokaličnice ,
-		ns106:تک‌لپه‌ای‌ها ,
-		ns135:Дара_жарнақтылар ,
+		ns54:Enokalicnice ,
+		ns106:???????????? ,
+		ns135:????_??????????? ,
 		ns50:Monocotyledon ,
-		ns9:Monocotylédone ,
-		ns20:Liliòpsida ,
-		ns74:Едносемеделни ,
-		ns97:Jednoděložné ,
-		ns19:單子葉植物 ,
-		ns108:Μονοκοτυλήδονο ,
+		ns9:Monocotyl�done ,
+		ns20:Lili�psida ,
+		ns74:????????????? ,
+		ns97:Jednodelo�n� ,
+		ns19:????? ,
+		ns108:??????t???d??? ,
 		ns114:Enkimbladede ,
-		ns33:Бер_өлөшлөләр ,
+		ns33:???_????????? ,
 		ns15:Monocotyledon ,
-		ns146:Centzīntiliztica ,
+		ns146:Centzintiliztica ,
 		<http://qu.dbpedia.org/resource/Ch\u0027ulla_phutuy_raphiyuq> ,
-		ns147:Однодольные ,
+		ns147:??????????? ,
 		ns136:Liliopsida ,
-		ns6:Монокотиледони ,
+		ns6:?????????????? ,
 		ns137:Liliopsida ;
 	dcterms:subject	category:Plant_taxonomy ,
 		category:Monocots ;
@@ -963,38 +963,38 @@ dbpedia:Plant	rdf:type	dbpedia-owl:Species ,
 		ns3:Plant ,
 		owl:Thing ;
 	owl:sameAs	ns120:Yura ,
-		ns138:פלאנץ ,
+		ns138:????? ,
 		ns41:Tanaman ,
 		ns34:Plantae ,
-		ns119:بوٹے ,
-		ns116:Plantæ .
+		ns119:???? ,
+		ns116:Plant� .
 @prefix ns156:	<http://su.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns156:Tutuwuhan ,
 		ns50:Plantae .
 @prefix ns157:	<http://cv.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns157:Ӳсентăран .
+dbpedia:Plant	owl:sameAs	ns157:?????a??? .
 @prefix ns158:	<http://wa.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns158:Plante ,
 		ns32:Pflanzen .
 @prefix ns159:	<http://rw.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns159:Ikimera ,
-		ns121:Plantă ,
-		ns68:Расьліны ,
-		ns122:Рослины ,
-		ns67:Augalā ,
+		ns121:Planta ,
+		ns68:???????? ,
+		ns122:??????? ,
+		ns67:Augala ,
 		ns15:Plant ,
 		ns149:Plant ,
 		ns22:Pflanzen .
 @prefix ns160:	<http://ay.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns160:Ali ,
-		ns75:ڕوەک ,
-		ns62:Roscënë ,
+		ns75:???? ,
+		ns62:Rosc�n� ,
 		ns51:Plant ,
 		ns52:Biljka .
 @prefix ns161:	<http://bxr.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns161:Ургамал .
+dbpedia:Plant	owl:sameAs	ns161:??????? .
 @prefix ns162:	<http://sq.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns162:Bimët .
+dbpedia:Plant	owl:sameAs	ns162:Bim�t .
 @prefix ns163:	<http://bjn.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns163:Tumbuhan ,
 		ns54:Rastline ,
@@ -1010,68 +1010,68 @@ dbpedia:Plant	owl:sameAs	ns165:Kasv ,
 @prefix ns166:	<http://ig.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns166:Osisi .
 @prefix ns167:	<http://iu.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns167:ᐱᕈᖅᑐᖅ .
+dbpedia:Plant	owl:sameAs	ns167:????? .
 @prefix ns168:	<http://ha.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns168:Shuka ,
 		ns66:Rostliny ,
-		ns42:Биљке ,
-		ns47:మొక్క .
+		ns42:????? ,
+		ns47:????? .
 @prefix ns169:	<http://fur.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns169:Plantis ,
-		ns46:தாவரம் ,
+		ns46:?????? ,
 		<http://gn.dbpedia.org/resource/Ka\u0027avo> ,
-		ns44:Växt ,
+		ns44:V�xt ,
 		ns45:Mmea ,
 		ns49:Halaman ,
 		ns35:Bitki ,
-		ns48:พืช ,
-		ns55:植物 ,
+		ns48:??? ,
+		ns55:?? ,
 		ns94:Planto ,
-		ns92:Múla ,
+		ns92:M�la ,
 		ns18:Tumbuhan ,
-		ns134:მცენარეები ,
+		ns134:?????????? ,
 		ns8:Tetanduran ,
 		ns133:Jurt ,
 		ns136:Riwek .
 @prefix ns170:	<http://kn.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns170:ಸಸ್ಯ ,
-		ns135:Өсімдіктер ,
-		ns127:Planzeräich ,
+dbpedia:Plant	owl:sameAs	ns170:???? ,
+		ns135:?????????? ,
+		ns127:Planzer�ich ,
 		ns128:Augalai ,
 		ns9:Plante ,
 		ns39:Plantae ,
 		ns137:Plantae .
 @prefix ns171:	<http://ky.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns171:Өсүмдүктөр ,
+dbpedia:Plant	owl:sameAs	ns171:?????????? ,
 		ns129:Augi ,
-		ns132:वनस्पती ,
-		ns131:സസ്യം ,
-		ns6:Растенија ,
+		ns132:??????? ,
+		ns131:????? ,
+		ns6:????????? ,
 		ns124:Planten ,
-		ns146:Tlanelhuayōtl .
+		ns146:Tlanelhuayotl .
 @prefix ns172:	<http://my.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns172:အပင် ,
+dbpedia:Plant	owl:sameAs	ns172:???? ,
 		ns123:Tumbuhan .
 @prefix ns173:	<http://lbe.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns173:Ххяххия .
+dbpedia:Plant	owl:sameAs	ns173:??????? .
 @prefix ns174:	<http://lg.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns174:Ebimera .
 @prefix ns175:	<http://tum.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns175:Vyakumela ,
 		ns126:Planter .
 @prefix ns176:	<http://cr.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns176:ᐅᐲᑭᒋᑳᓇ ,
+dbpedia:Plant	owl:sameAs	ns176:?????? ,
 		ns125:Plantar ,
-		ns153:वनस्पति ,
-		ns147:Растения ,
-		ns17:식물 ,
-		ns108:Φυτό ,
+		ns153:??????? ,
+		ns147:???????? ,
+		ns17:?? ,
+		ns108:F?t? ,
 		ns16:Planhigyn .
 @prefix ns177:	<http://dv.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns177:ގަސް ,
+dbpedia:Plant	owl:sameAs	ns177:???? ,
 		ns114:Plante ,
 		ns115:Rostliny ,
-		ns106:گیاه ,
+		ns106:???? ,
 		ns105:Taimed ,
 		ns104:Planto ,
 		ns109:Plant .
@@ -1080,34 +1080,34 @@ dbpedia:Plant	owl:sameAs	ns178:Plantur ,
 		ns107:Kasvi ,
 		ns98:Planta ,
 		ns97:Rostliny ,
-		ns95:植物 ,
+		ns95:?? ,
 		ns110:Planda ,
-		ns100:צומח ,
+		ns100:???? ,
 		ns99:Lus .
 @prefix ns179:	<http://kw.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns179:Plans ,
 		ns103:Biljke ,
-		ns101:पादप ,
+		ns101:???? ,
 		ns7:Plantae .
 @prefix ns180:	<http://ki.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns180:Mĩmera .
+dbpedia:Plant	owl:sameAs	ns180:Mimera .
 @prefix ns181:	<http://kl.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns181:Naasut .
 @prefix ns182:	<http://koi.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns182:Быдмас ,
+dbpedia:Plant	owl:sameAs	ns182:?????? ,
 		ns90:Planta .
 @prefix ns183:	<http://jbo.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns183:spati ,
 		ns43:Landare ,
 		<http://kaa.dbpedia.org/resource/O\u0027simlikler> .
 @prefix ns184:	<http://kbd.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns184:КъэкӀыгъэхэр ,
+dbpedia:Plant	owl:sameAs	ns184:???????????? ,
 		ns152:Tanduran ,
-		ns89:Բույս .
+		ns89:????? .
 @prefix ns185:	<http://mg.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns185:Zavamaniry ,
-		ns59:Etɔɛlɛ ,
-		ns12:Növények .
+		ns59:Et??l? ,
+		ns12:N�v�nyek .
 @prefix ns186:	<http://ltg.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns186:Auguoji .
 @prefix ns187:	<http://li.dbpedia.org/resource/> .
@@ -1115,56 +1115,56 @@ dbpedia:Plant	owl:sameAs	ns187:Plante .
 @prefix ns188:	<http://lij.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns188:Plantae .
 @prefix ns189:	<http://lez.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns189:Набатат .
+dbpedia:Plant	owl:sameAs	ns189:??????? .
 @prefix ns190:	<http://mwl.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns190:Planta .
 @prefix ns191:	<http://myv.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns191:Касыкс .
+dbpedia:Plant	owl:sameAs	ns191:?????? .
 @prefix ns192:	<http://mrj.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns192:Кушкыш ,
-		ns61:Ургамал ,
-		ns60:Кушкыл .
+dbpedia:Plant	owl:sameAs	ns192:?????? ,
+		ns61:??????? ,
+		ns60:?????? .
 @prefix ns193:	<http://ny.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns193:Zomera .
 @prefix ns194:	<http://or.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns194:ଉଦ୍ଭିଦ ,
+dbpedia:Plant	owl:sameAs	ns194:?????? ,
 		<http://new.dbpedia.org/resource/\u092E\u093E_(\u092C\u094B\u091F\u094D\u092F\u093E\u0928\u0940)> .
 @prefix ns195:	<http://nrm.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns195:Pliante ,
 		ns56:Plaanten ,
-		ns19:植物 ,
-		ns88:Үүнээйилэр .
+		ns19:?? ,
+		ns88:?????????? .
 @prefix ns196:	<http://roa_tara.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns196:Regnum_Plantae ,
-		ns58:ओषधयः ,
+		ns58:????? ,
 		<http://rdf.freebase.com/ns/m.05s2s> .
 @prefix ns197:	<http://ps.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns197:بوټی ,
+dbpedia:Plant	owl:sameAs	ns197:???? ,
 		ns79:Plantae .
 @prefix ns198:	<http://pa.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns198:ਪੌਦਾ ,
-		ns93:Źeliny ,
+dbpedia:Plant	owl:sameAs	ns198:???? ,
+		ns93:Zeliny ,
 		ns78:Plant ,
-		ns150:ʻakau .
+		ns150:?akau .
 @prefix ns199:	<http://tpi.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns199:Sayor ,
-		ns113:Rośliny ,
+		ns113:Rosliny ,
 		ns91:Plonten ,
-		ns69:نبات .
+		ns69:???? .
 @prefix ns200:	<http://st.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns200:Dimela ,
 		ns70:Plantae ,
-		ns71:Bitkilər .
+		ns71:Bitkil?r .
 @prefix ns201:	<http://si.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns201:ශාක ,
-		ns80:نبات .
+dbpedia:Plant	owl:sameAs	ns201:??? ,
+		ns80:???? .
 @prefix ns202:	<http://sn.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns202:Madzinde ,
 		ns14:Planten .
 @prefix ns203:	<http://so.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns203:Beer .
 @prefix ns204:	<http://wo.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns204:Gàncax ,
+dbpedia:Plant	owl:sameAs	ns204:G�ncax ,
 		ns151:Kazmused .
 @prefix ns205:	<http://ang.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns205:Plante ,
@@ -1173,28 +1173,28 @@ dbpedia:Plant	owl:sameAs	ns205:Plante ,
 dbpedia:Plant	owl:sameAs	ns206:Tshimela ,
 		ns83:Piante .
 @prefix ns207:	<http://udm.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns207:Будос ,
+dbpedia:Plant	owl:sameAs	ns207:????? ,
 		ns72:Pflanzna ,
-		ns87:Si̍t-bu̍t ,
-		ns81:植物 .
+		ns87:Si?t-bu?t ,
+		ns81:?? .
 @prefix ns208:	<http://zh_classical.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns208:植物 ,
+dbpedia:Plant	owl:sameAs	ns208:?? ,
 		<http://zea.dbpedia.org/resource/Plant\u0027n> ,
-		ns76:উদ্ভিদ ,
-		ns37:Рослини ,
-		ns74:Растения ,
-		ns73:Расліны ,
-		ns36:Үсемлекләр ,
+		ns76:?????? ,
+		ns37:??????? ,
+		ns74:???????? ,
+		ns73:??????? ,
+		ns36:?????????? ,
 		ns20:Planta ,
-		ns10:Thực_vật ,
+		ns10:Th?c_v?t ,
 		ns77:Plant ,
 		ns111:Biljke ,
-		ns40:Oʻsimliklar ,
-		ns38:نباتات .
+		ns40:O?simliklar ,
+		ns38:?????? .
 @prefix ns209:	<http://os.dbpedia.org/resource/> .
-dbpedia:Plant	owl:sameAs	ns209:Зайæгойтæ ,
+dbpedia:Plant	owl:sameAs	ns209:???�????� ,
 		ns117:Tanaman ,
-		ns139:Ọ̀gbìn .
+		ns139:?`gb�n .
 @prefix ns210:	<http://za.dbpedia.org/resource/> .
 dbpedia:Plant	owl:sameAs	ns210:Doenghgo ,
 		ns13:Plantae ;
@@ -1309,79 +1309,79 @@ dbpedia:Poaceae	rdf:type	ns3:Plant ,
 		yago:Group100031264 ,
 		yago:YagoPermanentlyLocatedEntity ;
 	owl:sameAs	ns42:Poaceae ,
-		ns97:Lipnicovité ,
-		ns48:หญ้า ,
+		ns97:Lipnicovit� ,
+		ns48:???? ,
 		ns128:Migliniai ,
-		ns68:Метлюжковыя ,
-		ns12:Perjefélék ,
-		ns74:Житни ,
-		ns10:Họ_Hòa_thảo ,
-		ns44:Gräs ,
-		ns22:Süßgräser ,
+		ns68:??????????? ,
+		ns12:Perjef�l�k ,
+		ns74:????? ,
+		ns10:H?_H�a_th?o ,
+		ns44:Gr�s ,
+		ns22:S��gr�ser ,
 		ns86:Gors ,
 		ns16:Poaceae ,
 		ns104:Poacoj ,
-		ns133:Grasaætt ,
-		ns107:Heinäkasvit ,
-		ns35:Buğdaygiller ,
+		ns133:Grasa�tt ,
+		ns107:Hein�kasvit ,
+		ns35:Bugdaygiller ,
 		ns7:Poaceae ,
 		<http://wa.dbpedia.org/resource/Fenaesses_(famile)> ,
 		ns109:Gerzen ,
-		ns66:Słódke_trawy ,
-		ns100:דגניים ,
+		ns66:Sl�dke_trawy ,
+		ns100:?????? ,
 		ns15:Poaceae ,
-		ns55:イネ科 ,
+		ns55:??? ,
 		ns14:Grassenfamilie ,
 		ns43:Poaceae ,
 		ns113:Wiechlinowate ,
 		ns9:Poaceae ,
 		ns146:Zacatl ,
 		ns125:Grasfamilien ,
-		ns17:벼과 ,
-		ns67:Varpėnē_augalā ,
-		ns37:Тонконогові ,
-		ns80:نجيلية ,
+		ns17:?? ,
+		ns67:Varpene_augala ,
+		ns37:??????????? ,
+		ns80:?????? ,
 		<http://rdf.freebase.com/ns/m.0fkrk> ,
-		ns73:Метлюжковыя ,
-		ns114:Græs-familien ,
-		ns71:Qırtıckimilər ,
-		ns134:მარცვლოვანნი ,
+		ns73:??????????? ,
+		ns114:Gr�s-familien ,
+		ns71:Qirtickimil?r ,
+		ns134:???????????? ,
 		ns49:Poaceae ,
-		ns136:Famîleya_genim_û_kurtîjan ,
-		ns106:گندمیان ,
-		ns101:पोएसी ,
-		ns129:Graudzāļu_dzimta ,
+		ns136:Fam�leya_genim_�_kurt�jan ,
+		ns106:??????? ,
+		ns101:????? ,
+		ns129:Graudzalu_dzimta ,
 		ns116:Poaceae ,
-		ns53:Lipnicovité ,
-		ns64:Swetgäärs ,
+		ns53:Lipnicovit� ,
+		ns64:Swetg��rs ,
 		ns8:Poaceae ,
 		<http://qu.dbpedia.org/resource/Wiru_yura_rikch\u0027aq_ayllu> ,
 		ns52:Poaceae ,
-		ns6:Треви ,
-		ns20:Poàcia ,
-		ns89:Հացազգիներ ,
+		ns6:????? ,
+		ns20:Po�cia ,
+		ns89:?????????? ,
 		ns21:Poaceae ,
-		ns47:పోయేసి ,
+		ns47:?????? ,
 		ns18:Poaceae ,
 		ns39:Poaceae ,
 		ns103:Trave ,
 		ns56:Grezenfemilie ,
-		ns138:גראז ,
+		ns138:???? ,
 		ns54:Trave ,
 		ns126:Grasfamilien ,
-		ns70:Gramínea ,
-		ns98:Gramíneas ,
-		ns105:Kõrrelised ,
+		ns70:Gram�nea ,
+		ns98:Gram�neas ,
+		ns105:K�rrelised ,
 		ns13:Poaceae ,
 		ns121:Poaceae ,
 		ns137:Poaceae ,
 		ns11:Q43238 ,
-		ns108:Αγρωστώδη ,
+		ns108:????st?d? ,
 		ns34:Poaceae ,
-		ns119:گھآ ,
-		ns147:Злаки ,
+		ns119:??? ,
+		ns147:????? ,
 		ns150:Mohuku ,
-		ns19:禾本科 ;
+		ns19:??? ;
 	dcterms:subject	category:Poales_families ,
 		category:Grasses ,
 		category:Grasslands ,
@@ -1513,51 +1513,51 @@ dbpedia:Poales	rdf:type	yago:Event100029378 ,
 		yago:Command107168131 ;
 	owl:sameAs	ns7:Poales ,
 		ns21:Poales ,
-		ns100:דגנאים ,
+		ns100:?????? ,
 		ns43:Poales ,
 		ns15:Poales ,
-		ns97:Lipnicotvaré ,
+		ns97:Lipnicotvar� ,
 		ns20:Poal ,
-		ns55:イネ目 ,
+		ns55:??? ,
 		ns11:Q28502 ,
-		ns80:قبئيات ,
-		ns10:Bộ_Hòa_thảo ,
-		ns133:Grasbálkur ,
+		ns80:?????? ,
+		ns10:B?_H�a_th?o ,
+		ns133:Grasb�lkur ,
 		ns9:Poales ,
-		ns33:Ҡыяҡлылар ,
+		ns33:????????? ,
 		ns98:Poales ,
 		<http://rdf.freebase.com/ns/m.05s45> ,
 		ns35:Poales ,
-		ns71:Qırtıcçiçəklilər ,
+		ns71:Qirtic�i�?klil?r ,
 		ns104:Poales ,
-		ns6:Тревовидни ,
+		ns6:?????????? ,
 		ns64:Poales ,
 		ns137:Poales ,
 		ns42:Poales ,
 		ns39:Poales ,
 		ns44:Poales ,
-		ns147:Злакоцветные ,
+		ns147:???????????? ,
 		ns74:Poales ,
-		ns106:گندم‌سانان ,
+		ns106:?????????? ,
 		ns126:Poales ,
-		ns17:벼목 ,
+		ns17:?? ,
 		ns116:Poales ,
 		ns18:Poales ,
 		ns8:Poales ,
-		ns128:Migliečiai ,
+		ns128:Miglieciai ,
 		ns113:Wiechlinowce ,
 		ns123:Poales ,
 		ns34:Poales ,
-		ns114:Græs-ordenen ,
-		ns73:Метлюжкакветныя ,
-		ns22:Süßgrasartige ,
-		ns19:禾本目 ,
-		ns136:Koma_genim_û_kurtîjan ,
-		ns37:Тонконогоцвіті ,
+		ns114:Gr�s-ordenen ,
+		ns73:??????????????? ,
+		ns22:S��grasartige ,
+		ns19:??? ,
+		ns136:Koma_genim_�_kurt�jan ,
+		ns37:?????????????? ,
 		ns107:Poales ,
-		ns12:Perjevirágúak ,
+		ns12:Perjevir�g�ak ,
 		ns14:Poales ,
-		ns105:Kõrreliselaadsed ;
+		ns105:K�rreliselaadsed ;
 	dcterms:subject	category:Poales ,
 		category:Angiosperm_orders ;
 	dbpedia-owl:abstract	"Poales \u00E4r en ordning i undergruppen commelinider av enhj\u00E4rtbladiga v\u00E4xter. I ordningen ing\u00E5r den mycket stora familjen gr\u00E4s och andra familjer som \u00E4r sl\u00E4kt med denna. Poales finns \u00F6ver hela v\u00E4rlden och v\u00E4xterna \u00E4r n\u00E4stan enbart \u00F6rtartade. Blommorna \u00E4r vanligen sm\u00E5 och vindpollinerade. Fr\u00F6na inneh\u00E5ller oftast st\u00E4rkelse. M\u00E5nga arter i ordningen har mycket stor ekonomisk och ekologisk betydelse. Den ekonomiskt absolut viktigaste familjen \u00E4r gr\u00E4s d\u00E4r bland annat veten, majs och ris ing\u00E5r. Uppskattningsvis kommer Poales ursprungligen fr\u00E5n Sydamerika d\u00E4r de uppstod f\u00F6r n\u00E4ra 115 miljoner \u00E5r sedan. De \u00E4ldsta k\u00E4nda fossilen omfattar pollen och frukter som har daterats till krita."@sv ,
@@ -1631,7 +1631,7 @@ dbpedia:Andropogoneae	rdf:type	dbpedia-owl:Eukaryote ,
 	owl:sameAs	ns7:Andropogoneae ,
 		ns39:Andropogoneae ,
 		ns11:Q3780208 ,
-		ns20:Andropogònia ,
+		ns20:Andropog�nia ,
 		<http://rdf.freebase.com/ns/m.0579rq> ;
 	dcterms:subject	category:Panicoideae ;
 	dbpedia-owl:abstract	"Andropogoneae is a tribe of grasses widespread throughout tropical and temperate regions. They use C4 carbon fixation physiology. All members of this tribe specifically utilize the NADP\u2013malic enzyme subtype of C4 photosynthesis. This tribe is commonly referred to as the sorghum tribe. Genera belonging to this tribe include: Andropogon, Bothriochloa, Chrysopogon, Coix, Dicanthium, Saccharum, Miscanthus, Schizachyrium, Sorghum, Zea, Sorghastrum, Tripsacum, Heteropogon, Trachypogon, Imperata and Themeda. Occurrence of this grass is abundant in the tropical savannas of India, Australia, Africa and South America. The popular farmed sugarcane is derived from this, as well as the very important food crops maize (Indian corn) and sorghum."@en ,
@@ -1690,13 +1690,13 @@ dbpedia:Andropogoneae	rdf:type	dbpedia-owl:Eukaryote ,
 		dbpedia-owl:Eukaryote ,
 		dbpedia-owl:Species ,
 		yago:Idea105833840 ;
-	owl:sameAs	ns131:ടിയോസിന്റെ ,
+	owl:sameAs	ns131:?????????? ,
 		ns22:Zea ,
 		ns64:Meis ,
-		ns114:Majs-slægten ,
+		ns114:Majs-sl�gten ,
 		ns66:Kukurica ,
-		ns44:Majssläktet ,
-		ns10:Chi_Cỏ_ngô ,
+		ns44:Majssl�ktet ,
+		ns10:Chi_C?_ng� ,
 		ns116:Zea ,
 		<http://rdf.freebase.com/ns/m.0mgg8> ,
 		ns103:Zea ,
@@ -1706,10 +1706,10 @@ dbpedia:Andropogoneae	rdf:type	dbpedia-owl:Eukaryote ,
 		<http://hu.dbpedia.org/resource/Zea_(n\u00F6v\u00E9nynemzets\u00E9g)> ,
 		ns113:Kukurydza ,
 		ns9:Zea ,
-		ns19:玉蜀黍属 ,
+		ns19:???? ,
 		<http://uk.dbpedia.org/resource/\u041A\u0443\u043A\u0443\u0440\u0443\u0434\u0437\u0430_(\u0440\u0456\u0434)> ,
-		ns128:Kukurūzas ,
-		ns97:Kukuřice ,
+		ns128:Kukuruzas ,
+		ns97:Kukurice ,
 		ns11:Q542456 ,
 		ns53:Kukurica ,
 		ns18:Teosinte ,
@@ -1720,7 +1720,7 @@ dbpedia:Andropogoneae	rdf:type	dbpedia-owl:Eukaryote ,
 		ns20:Zea ,
 		ns104:Zeo ,
 		ns137:Zea ,
-		ns33:Кукуруз ;
+		ns33:??????? ;
 	dcterms:subject	<http://dbpedia.org/resource/Category:Zea_(genus)> ,
 		category:Poaceae_genera ;
 	dbpedia-owl:abstract	"Kukurydza (Zea) \u2013 rodzaj ro\u015Blin nale\u017C\u0105cy do rodziny wiechlinowatych. Przedstawiciele wyst\u0119puj\u0105 naturalnie w Meksyku, Gwatemali i Nikaragui. Liczy 5 gatunk\u00F3w, w\u015Br\u00F3d kt\u00F3rych najwa\u017Cniejsza pod wzgl\u0119dem ekonomicznym jest kukurydza zwyczajna (Zea mays), kt\u00F3ra jest zarazem gatunkiem typowym rodzaju."@pl ,
@@ -1831,17 +1831,17 @@ dbpedia:Panicoideae	rdf:type	yago:Subfamily108108627 ,
 		yago:BiologicalGroup107941170 ;
 	owl:sameAs	ns11:Q1071663 ,
 		ns104:Panicoideae ,
-		ns20:Panicòidia ,
+		ns20:Panic�idia ,
 		ns39:Panicoideae ,
 		ns21:Panicoideae ,
 		ns7:Panicoideae ,
-		ns12:Kölesformák ,
-		ns10:Phân_họ_Kê ,
+		ns12:K�lesform�k ,
+		ns10:Ph�n_h?_K� ,
 		ns22:Panicoideae ,
 		<http://rdf.freebase.com/ns/m.06l8dy> ,
-		ns147:Просовые ,
+		ns147:???????? ,
 		ns113:Prosowe ,
-		ns17:기장아과 ,
+		ns17:???? ,
 		ns9:Panicoideae ,
 		ns116:Panicoideae ;
 	dcterms:subject	category:Poaceae_subfamilies ,

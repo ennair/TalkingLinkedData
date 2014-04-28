@@ -22,29 +22,29 @@ dbpedia:Tzatziki	rdf:type	dbpedia-owl:Food ,
 @prefix ns5:	<http://sv.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns5:Tzatziki .
 @prefix ns6:	<http://ru.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns6:Дзадзики .
+dbpedia:Tzatziki	owl:sameAs	ns6:???????? .
 @prefix ns7:	<http://de.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns7:Tsatsiki .
 @prefix ns8:	<http://la.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns8:Tzatzicium .
 @prefix ns9:	<http://ka.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns9:ძაძიკი .
+dbpedia:Tzatziki	owl:sameAs	ns9:?????? .
 @prefix ns10:	<http://www.wikidata.org/entity/> .
 dbpedia:Tzatziki	owl:sameAs	ns10:Q836538 .
 @prefix ns11:	<http://hu.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns11:Dzadzíki .
+dbpedia:Tzatziki	owl:sameAs	ns11:Dzadz�ki .
 @prefix ns12:	<http://fr.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns12:Tzatzíki .
+dbpedia:Tzatziki	owl:sameAs	ns12:Tzatz�ki .
 @prefix ns13:	<http://zh.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns13:青瓜酸乳酪醬汁 .
+dbpedia:Tzatziki	owl:sameAs	ns13:??????? .
 @prefix ns14:	<http://ja.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns14:ザジキ .
+dbpedia:Tzatziki	owl:sameAs	ns14:??? .
 @prefix ns15:	<http://cs.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns15:Tzatziki .
 @prefix ns16:	<http://bg.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns16:Дзадзики .
+dbpedia:Tzatziki	owl:sameAs	ns16:???????? .
 @prefix ns17:	<http://he.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns17:צזיקי .
+dbpedia:Tzatziki	owl:sameAs	ns17:????? .
 @prefix ns18:	<http://eo.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns18:Tsatsiki .
 @prefix ns19:	<http://pl.dbpedia.org/resource/> .
@@ -52,7 +52,7 @@ dbpedia:Tzatziki	owl:sameAs	ns19:Cacyki .
 @prefix ns20:	<http://pt.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns20:Tzatziki .
 @prefix ns21:	<http://el.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns21:Τζατζίκι .
+dbpedia:Tzatziki	owl:sameAs	ns21:??at???? .
 @prefix ns22:	<http://nl.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns22:Tzatziki .
 @prefix ns23:	<http://no.dbpedia.org/resource/> .
@@ -65,11 +65,11 @@ dbpedia:Tzatziki	owl:sameAs	ns25:Tzatziki ,
 @prefix ns26:	<http://yago-knowledge.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns26:Tzatziki .
 @prefix ns27:	<http://fa.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns27:ماست_و_خیار .
+dbpedia:Tzatziki	owl:sameAs	ns27:????_?_???? .
 @prefix ns28:	<http://it.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns28:Tzatziki .
 @prefix ns29:	<http://uk.dbpedia.org/resource/> .
-dbpedia:Tzatziki	owl:sameAs	ns29:Дзадзикі .
+dbpedia:Tzatziki	owl:sameAs	ns29:???????? .
 @prefix ns30:	<http://da.dbpedia.org/resource/> .
 dbpedia:Tzatziki	owl:sameAs	ns30:Tzatziki .
 @prefix ns31:	<http://fi.dbpedia.org/resource/> .
@@ -166,23 +166,23 @@ dbpedia:Gherkin	rdf:type	owl:Thing ,
 		dbpedia-owl:CultivatedVariety ,
 		dbpedia-owl:Plant ;
 	owl:sameAs	ns31:Suolakurkku ,
-		ns6:Корнишон ,
+		ns6:???????? ,
 		ns19:Korniszon ,
-		ns29:Корнішон ,
+		ns29:???????? ,
 		ns30:Asie ,
 		ns5:Cornichong .
 @prefix ns40:	<http://ko.dbpedia.org/resource/> .
-dbpedia:Gherkin	owl:sameAs	ns40:피클 .
+dbpedia:Gherkin	owl:sameAs	ns40:?? .
 @prefix ns41:	<http://csb.dbpedia.org/resource/> .
-dbpedia:Gherkin	owl:sameAs	ns41:Kwaszoné_gùrczi ,
-		ns16:Корнишон ,
+dbpedia:Gherkin	owl:sameAs	ns41:Kwaszon�_g�rczi ,
+		ns16:???????? ,
 		ns12:Cornichon ,
-		ns7:Gewürzgurke ,
+		ns7:Gew�rzgurke ,
 		ns10:Q1365891 ,
 		<http://rdf.freebase.com/ns/m.01szdy> .
 @prefix ns42:	<http://et.dbpedia.org/resource/> .
 dbpedia:Gherkin	owl:sameAs	ns42:Hapukurk ,
-		ns14:ピクルス ,
+		ns14:???? ,
 		ns22:Augurk ,
 		ns25:Pepinillo ;
 	dcterms:subject	category:Fruit_vegetables ,
@@ -361,7 +361,7 @@ dbpedia:Kerala_pachadi	rdf:type	dbpedia-owl:Food ,
 	dbpedia-owl:wikiPageRevisionID	135009661 ;
 	rdfs:label	"Ky\u016Bri"@en ;
 	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
-	foaf:isPrimaryTopicOf	ns37:Kyūri ;
+	foaf:isPrimaryTopicOf	ns37:Kyuri ;
 	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ky\u016Bri?oldid=135009661> .
 dbpedia:Snow_White_salad	rdf:type	yago:Substance100020090 ,
 		yago:Food100021265 ,
@@ -420,8 +420,8 @@ dbpedia:Chef_salad	rdf:type	yago:Dish107557434 ,
 @prefix ns44:	<http://simple.dbpedia.org/resource/> .
 dbpedia:Chef_salad	owl:sameAs	ns44:Chef_salad ,
 		ns10:Q861189 ,
-		ns17:סלט_השף ,
-		ns40:셰프_샐러드 ;
+		ns17:???_??? ,
+		ns40:??_??? ;
 	dcterms:subject	category:Salads ;
 	dbpedia-owl:abstract	"Chef salad (or chef's salad) is a salad consisting of hard-boiled eggs; one or more meats such as ham, turkey, chicken, or roast beef; tomatoes; cucumbers; and cheese; all placed upon a bed of tossed lettuce or other leaf vegetables. Several early recipes also include anchovies. A variety of dressings are used with this salad. Food historians do not agree on the history and composition of chef salad, much less who assembled the first one. Some trace this salad's roots to Salmagundi, a popular meat and salad dish originating in 17th century England and popular in colonial America. Others contend chef's salad is a product of early twentieth century, originating in either New York or California. The person most often connected with the history of this salad is Louis Diat, chef of the Ritz-Carlton in New York City during the 1940s. While food historians acknowledge his recipe, they do not appear to be convinced he originated the dish, which is more popularly attributed to either chef Victor Seydoux at the Hotel Buffalo, a Statler Hotel in Buffalo, New York or chef Jacques Roser at the Hotel Pennsylvania in New York City. Roser worked in various culinary positions in Paris before being invited to become head chef at the prestigious 1920s Hotel Pennsylvania, where he worked for over fifteen years. Seydoux first learned his craft in Montreux, Switzerland, and continued his studies in France and England before coming to work in the United States. Seydoux's first experiences in the U.S. included positions at the Waldorf-Astoria Hotel and the Ritz-Carlton. Although the origin of the salad is not generally known, as reported by Alice Rose Seydoux, widow of Victor, the salad was officially launched at the Hotel Buffalo. Chef Seydoux, who was responsible for running the kitchen on a tight budget, began using some of the small slices of meats and cheese in a salad that he served to select customers. When the customers started requesting it regularly, the hotel decided to add it to the menu. Giving chef Seydoux the honor of naming the salad he is purported to have said \"Well, it's really a chef's salad. \" The chef salad probably owes much of its popularity, according to Evan Jones in American Food: The Gastronomic Story (1975), to Louis Diat, chef at the Ritz-Carlton. Cooking a la Ritz includes Diat's recipe: \"Chef's salad. Place separately in a salad bowl equal amonts of chopped lettuce (place on the bottom of the bowl), boiled chicken, smoked ox tongue and smoked ham, all cut in julienne style. Add 1/2 hard-cooked egg for each portion. Place some watercress in the center and serve with French Dressing. \" Diat did not invent the salad (older recipes exist), but its inclusion on the menu at the Ritz-Carlton would have introduced the salad to more of the public. It's possible that the inclusion of Thousand Island dressing is also linked to the Ritz, since the hotel also introduced the dressing to New York. This recipe, while containing smoked ox tongue, still contains the primary chef salad ingredients: meat, eggs, greens and presentation: julienne sliced meat, and sliced eggs. Several other early chef salad recipes mention crumbling Roquefort cheese over the salad."@en ;
 	dbpedia-owl:alias	"Chef's salad"@en ;
@@ -507,8 +507,8 @@ dbpedia:Rosolnyk	dbpedia-owl:wikiPageExternalLink	ns46:UKRAINIAN ,
 	dbpedia-owl:wikiPageOutLinkCount	14 .
 dbpedia:Guo_Bao_Rou	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns13:锅包肉 ,
-		ns40:궈바오러우 ,
+	owl:sameAs	ns13:??? ,
+		ns40:????? ,
 		<http://rdf.freebase.com/ns/m.0h67tq8> ,
 		ns10:Q553200 ;
 	dcterms:subject	category:Chinese_cuisine ;
@@ -613,27 +613,27 @@ dbpedia:Shopska_salad	rdf:type	yago:Appetizer107581346 ,
 		yago:Food100021265 ,
 		yago:Dish107557434 ,
 		yago:Course107556970 ;
-	owl:sameAs	ns5:Šopskasallad ,
+	owl:sameAs	ns5:�opskasallad ,
 		ns12:Salade_Chopska .
 @prefix ns48:	<http://mk.dbpedia.org/resource/> .
-dbpedia:Shopska_salad	owl:sameAs	ns48:Шопска_салата ,
+dbpedia:Shopska_salad	owl:sameAs	ns48:??????_?????? ,
 		ns25:Ensalada_Shopska ,
-		ns16:Шопска_салата ,
+		ns16:??????_?????? ,
 		ns26:Shopska_salad .
 @prefix ns49:	<http://sk.dbpedia.org/resource/> .
-dbpedia:Shopska_salad	owl:sameAs	ns49:Šopský_šalát .
+dbpedia:Shopska_salad	owl:sameAs	ns49:�opsk�_�al�t .
 @prefix ns50:	<http://sr.dbpedia.org/resource/> .
-dbpedia:Shopska_salad	owl:sameAs	ns50:Шопска_салата ,
-		ns27:سالاد_شوپسکا ,
+dbpedia:Shopska_salad	owl:sameAs	ns50:??????_?????? ,
+		ns27:?????_?????? ,
 		ns10:Q570038 .
 @prefix ns51:	<http://hr.dbpedia.org/resource/> .
-dbpedia:Shopska_salad	owl:sameAs	ns51:Šopska_salata ,
+dbpedia:Shopska_salad	owl:sameAs	ns51:�opska_salata ,
 		<http://rdf.freebase.com/ns/m.061byg> ,
-		ns11:Sopszka_saláta ,
+		ns11:Sopszka_sal�ta ,
 		ns7:Schopska-Salat ,
-		ns19:Sałatka_szopska ,
-		ns6:Шопский_салат ,
-		ns15:Šopský_salát ,
+		ns19:Salatka_szopska ,
+		ns6:???????_????? ,
+		ns15:�opsk�_sal�t ,
 		ns23:Sjopskasalat ;
 	dcterms:subject	category:Bulgarian_cuisine ,
 		category:Salads ,
@@ -784,7 +784,7 @@ dbpedia:Israeli_salad	rdf:type	owl:Thing ,
 		ns10:Q2904240 ,
 		ns26:Israeli_salad ,
 		<http://rdf.freebase.com/ns/m.0d18t1> ,
-		ns17:סלט_ירקות_ישראלי ;
+		ns17:???_?????_?????? ;
 	dcterms:subject	category:National_dishes ,
 		category:Mediterranean_cuisine ,
 		category:Israeli_cuisine ,
@@ -822,29 +822,29 @@ dbpedia:Greek_salad	rdf:type	yago:Substance100020090 ,
 		yago:Matter100020827 ,
 		owl:Thing ,
 		yago:Nutriment107570720 ;
-	owl:sameAs	ns13:希臘沙拉 ,
-		ns14:グリークサラダ ,
-		ns17:סלט_יווני ,
-		ns19:Sałatka_grecka ,
+	owl:sameAs	ns13:???? ,
+		ns14:??????? ,
+		ns17:???_????? ,
+		ns19:Salatka_grecka ,
 		ns44:Greek_Salad ,
 		ns20:Salada_grega ,
 		ns25:Ensalada_griega .
 @prefix ns52:	<http://ku.dbpedia.org/resource/> .
 dbpedia:Greek_salad	owl:sameAs	ns52:Seleteya_cotyaran ,
-		ns6:Греческий_салат ,
+		ns6:?????????_????? ,
 		ns31:Kreikkalainen_salaatti ,
 		ns26:Greek_salad ,
-		ns29:Грецький_салат ,
+		ns29:????????_????? ,
 		ns10:Q240801 .
 @prefix ns53:	<http://ar.dbpedia.org/resource/> .
-dbpedia:Greek_salad	owl:sameAs	ns53:سلطة_يونانية ,
-		ns11:Görög_saláta ,
-		ns40:그리스_샐러드 ,
+dbpedia:Greek_salad	owl:sameAs	ns53:????_??????? ,
+		ns11:G�r�g_sal�ta ,
+		ns40:???_??? ,
 		ns22:Griekse_salade ,
 		ns12:Salade_grecque ,
 		ns7:Griechischer_Salat ,
 		ns5:Grekisk_sallad ,
-		ns21:Χωριάτικη_σαλάτα .
+		ns21:?????t???_sa??ta .
 @prefix ns54:	<http://gl.dbpedia.org/resource/> .
 dbpedia:Greek_salad	owl:sameAs	ns54:Ensalada_grega ,
 		ns24:Amanida_grega ,
@@ -920,27 +920,27 @@ dbpedia:Okroshka	rdf:type	yago:RussianSoups ,
 		yago:UkrainianSoups ,
 		yago:Food100021265 ;
 	owl:sameAs	ns28:Okroshka ,
-		ns14:オクローシカ .
+		ns14:?????? .
 @prefix ns55:	<http://myv.dbpedia.org/resource/> .
-dbpedia:Okroshka	owl:sameAs	ns55:Салведь ,
-		ns18:Okroŝko .
+dbpedia:Okroshka	owl:sameAs	ns55:??????? ,
+		ns18:Okrosko .
 @prefix ns56:	<http://af.dbpedia.org/resource/> .
 dbpedia:Okroshka	owl:sameAs	ns56:Okrosjka ,
 		ns25:Okroshka ,
 		ns11:Okroska ,
-		ns42:Okroška ,
-		ns29:Окрошка ,
-		ns16:Окрошка ,
-		ns21:Οκρόσκα ,
+		ns42:Okro�ka ,
+		ns29:??????? ,
+		ns16:??????? ,
+		ns21:????s?a ,
 		ns10:Q611164 ,
-		ns15:Okroška .
+		ns15:Okro�ka .
 @prefix ns57:	<http://eu.dbpedia.org/resource/> .
 dbpedia:Okroshka	owl:sameAs	ns57:Okroxka ,
 		ns30:Okrosjka ,
 		<http://rdf.freebase.com/ns/m.06rf8_> ,
 		ns26:Okroshka ,
 		ns22:Okrosjka ,
-		ns6:Окрошка .
+		ns6:??????? .
 @prefix ns58:	<http://vi.dbpedia.org/resource/> .
 dbpedia:Okroshka	owl:sameAs	ns58:Okroshka ,
 		ns23:Okrosjka ,
@@ -948,7 +948,7 @@ dbpedia:Okroshka	owl:sameAs	ns58:Okroshka ,
 		ns19:Okroszka ,
 		ns44:Okroshka .
 @prefix ns59:	<http://tg.dbpedia.org/resource/> .
-dbpedia:Okroshka	owl:sameAs	ns59:Окрошкаи_гӯштӣ ,
+dbpedia:Okroshka	owl:sameAs	ns59:????????_????? ,
 		ns7:Okroschka ,
 		ns20:Okroshka ;
 	dcterms:subject	category:Cold_soups ,
@@ -1023,11 +1023,11 @@ dbpedia:Tarator	rdf:type	yago:Soup107583197 ,
 		yago:Nutriment107570720 ,
 		yago:ColdSoups ,
 		owl:Thing ;
-	owl:sameAs	ns6:Таратор ,
+	owl:sameAs	ns6:??????? ,
 		<http://rdf.freebase.com/ns/m.061dy3> ,
 		ns25:Tarator ,
 		ns30:Tarator ,
-		ns16:Таратор ,
+		ns16:??????? ,
 		ns15:Tarator ,
 		ns28:Tarator .
 @prefix ns60:	<http://tr.dbpedia.org/resource/> .
@@ -1036,17 +1036,17 @@ dbpedia:Tarator	owl:sameAs	ns60:Tarator ,
 		ns26:Tarator ,
 		ns19:Tarator ,
 		ns7:Tarator ,
-		ns21:Ταρατόρ ,
-		ns27:آب‌دوغ_خیار ,
+		ns21:?a?at?? ,
+		ns27:??????_???? ,
 		ns12:Tarator ,
-		ns50:Таратор ,
+		ns50:??????? ,
 		ns11:Tarator ,
-		ns29:Таратор ,
+		ns29:??????? ,
 		ns18:Tarator ,
-		ns17:טרטור ,
+		ns17:????? ,
 		ns24:Tarator ,
 		ns20:Tarator ,
-		ns48:Таратур ,
+		ns48:??????? ,
 		ns23:Tarator ;
 	dcterms:subject	category:Turkish_cuisine ,
 		category:Bulgarian_cuisine ,
@@ -1116,9 +1116,9 @@ dbpedia:Cucumber_sandwich	rdf:type	yago:BritishSandwiches ,
 		yago:Sandwich107695965 ;
 	owl:sameAs	ns26:Cucumber_sandwich ,
 		ns10:Q872503 ,
-		ns17:כריך_מלפפון ,
-		ns40:오이_샌드위치 ,
-		ns25:Sándwich_de_pepino ,
+		ns17:????_?????? ,
+		ns40:??_???? ,
+		ns25:S�ndwich_de_pepino ,
 		<http://rdf.freebase.com/ns/m.0314qb> ;
 	dcterms:subject	category:English_cuisine ,
 		category:British_sandwiches ;
@@ -1159,9 +1159,9 @@ dbpedia:Cucumber_sandwich	rdf:type	yago:BritishSandwiches ,
 		yago:Matter100020827 ,
 		yago:Substance100020090 ,
 		yago:Nutriment107570720 ;
-	owl:sameAs	ns26:Çoban_salatası ,
+	owl:sameAs	ns26:�oban_salatasi ,
 		ns10:Q8077757 ,
-		ns25:Çoban_salatası ,
+		ns25:�oban_salatasi ,
 		<http://rdf.freebase.com/ns/m.0c_pwn> ;
 	dcterms:subject	category:Salads ,
 		category:Turkish_words_and_phrases ;
@@ -1186,9 +1186,9 @@ dbpedia:Cucumber_sandwich	rdf:type	yago:BritishSandwiches ,
 	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, green peppers and flat-leaf parsley"@en ;
 	dbpprop:name	"\u00C7oban salatas\u0131"@en ;
 	dbpprop:type	dbpedia:Salad ;
-	foaf:isPrimaryTopicOf	ns37:Çoban_salatası ;
+	foaf:isPrimaryTopicOf	ns37:�oban_salatasi ;
 	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u00C7oban_salatas\u0131?oldid=546569417> ;
-	dbpprop:hasPhotoCollection	ns39:Çoban_salatası ;
+	dbpprop:hasPhotoCollection	ns39:�oban_salatasi ;
 	dbpedia-owl:wikiPageInLinkCount	12 ;
 	dbpedia-owl:wikiPageOutLinkCount	19 .
 dbpedia:Cucumis_sativus	rdf:type	dbpedia-owl:Species ,
@@ -1215,7 +1215,7 @@ dbpedia:Seven-layer_salad	rdf:type	yago:PhysicalEntity100001930 ,
 		yago:Object100002684 ,
 		yago:Instrumentality103575240 ,
 		yago:Article100022903 ;
-	owl:sameAs	ns27:سالاد_هفت‌لایه ,
+	owl:sameAs	ns27:?????_???????? ,
 		ns26:Seven-layer_salad ,
 		<http://rdf.freebase.com/ns/m.054y44k> ,
 		ns25:Ensalada_de_siete_capas ,
@@ -1277,18 +1277,18 @@ dbpedia:Raita	rdf:type	owl:Thing ,
 	owl:sameAs	ns19:Raita ,
 		<http://fi.dbpedia.org/resource/Raita_(ruoka)> .
 @prefix ns61:	<http://gu.dbpedia.org/resource/> .
-dbpedia:Raita	owl:sameAs	ns61:રાઈતું ,
+dbpedia:Raita	owl:sameAs	ns61:?????? ,
 		ns20:Raita ,
 		<http://rdf.freebase.com/ns/m.0405cd> .
 @prefix ns62:	<http://hi.dbpedia.org/resource/> .
-dbpedia:Raita	owl:sameAs	ns62:रायता ,
+dbpedia:Raita	owl:sameAs	ns62:????? ,
 		ns28:Raita ,
 		ns25:Raita ,
 		ns10:Q1483397 ,
 		ns57:Raita ,
 		ns5:Raita ,
 		ns7:Raita ,
-		ns12:Raïta ,
+		ns12:Ra�ta ,
 		ns18:Raita ;
 	dcterms:subject	category:Bihari_cuisine ,
 		category:Uttar_Pradeshi_cuisine ,

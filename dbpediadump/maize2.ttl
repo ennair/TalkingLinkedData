@@ -18,9 +18,9 @@ dbpedia:Corn_flakes	rdf:type	owl:Thing ,
 		yago:Whole100003553 ,
 		yago:Tableware104381994 .
 @prefix ns5:	<http://he.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns5:קורנפלקס .
+dbpedia:Corn_flakes	owl:sameAs	ns5:???????? .
 @prefix ns6:	<http://fa.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns6:برگه_ذرت .
+dbpedia:Corn_flakes	owl:sameAs	ns6:????_??? .
 @prefix ns7:	<http://szl.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns7:Hawerfloki .
 @prefix ns8:	<http://ang.dbpedia.org/resource/> .
@@ -39,13 +39,13 @@ dbpedia:Corn_flakes	owl:sameAs	ns13:Corn_flakes .
 @prefix ns14:	<http://fi.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns14:Maissihiutaleet .
 @prefix ns15:	<http://zh.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns15:玉米片 .
+dbpedia:Corn_flakes	owl:sameAs	ns15:??? .
 @prefix ns16:	<http://pl.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns16:Płatki_kukurydziane .
+dbpedia:Corn_flakes	owl:sameAs	ns16:Platki_kukurydziane .
 @prefix ns17:	<http://iu.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns17:ᓇᓂᑦᓯᑰᔭᐃᑦ .
+dbpedia:Corn_flakes	owl:sameAs	ns17:???????? .
 @prefix ns18:	<http://ga.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns18:Calóga_arbhair .
+dbpedia:Corn_flakes	owl:sameAs	ns18:Cal�ga_arbhair .
 @prefix ns19:	<http://eo.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns19:Maizflokoj .
 @prefix ns20:	<http://fy.dbpedia.org/resource/> .
@@ -53,28 +53,28 @@ dbpedia:Corn_flakes	owl:sameAs	ns20:Cornflakes .
 @prefix ns21:	<http://simple.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns21:Corn_flakes .
 @prefix ns22:	<http://ru.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns22:Кукурузные_хлопья .
+dbpedia:Corn_flakes	owl:sameAs	ns22:??????????_?????? .
 @prefix ns23:	<http://tr.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns23:Mısır_gevreği .
+dbpedia:Corn_flakes	owl:sameAs	ns23:Misir_gevregi .
 @prefix ns24:	<http://de.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns24:Cornflakes .
 @prefix ns25:	<http://cs.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns25:Kukuřičné_lupínky .
+dbpedia:Corn_flakes	owl:sameAs	ns25:Kukuricn�_lup�nky .
 @prefix ns26:	<http://ko.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns26:콘플레이크 .
+dbpedia:Corn_flakes	owl:sameAs	ns26:????? .
 @prefix ns27:	<http://fr.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns27:Flocon_de_maïs .
+dbpedia:Corn_flakes	owl:sameAs	ns27:Flocon_de_ma�s .
 @prefix ns28:	<http://bg.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns28:Корнфлейкс .
+dbpedia:Corn_flakes	owl:sameAs	ns28:?????????? .
 @prefix ns29:	<http://it.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns29:Corn_flakes ,
 		<http://es.dbpedia.org/resource/Corn_Flakes_de_Kellogg\u0027s> .
 @prefix ns30:	<http://el.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns30:Κορν_φλέικς .
+dbpedia:Corn_flakes	owl:sameAs	ns30:????_f????? .
 @prefix ns31:	<http://ja.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns31:コーンフレーク .
+dbpedia:Corn_flakes	owl:sameAs	ns31:??????? .
 @prefix ns32:	<http://sk.dbpedia.org/resource/> .
-dbpedia:Corn_flakes	owl:sameAs	ns32:Kukuričné_lupienky .
+dbpedia:Corn_flakes	owl:sameAs	ns32:Kukuricn�_lupienky .
 @prefix ns33:	<http://sv.dbpedia.org/resource/> .
 dbpedia:Corn_flakes	owl:sameAs	ns33:Majsflingor .
 @prefix dcterms:	<http://purl.org/dc/terms/> .
@@ -155,7 +155,7 @@ dbpedia:Pinole	rdf:type	owl:Thing ,
 	owl:sameAs	ns10:Q871316 .
 @prefix ns42:	<http://es.dbpedia.org/resource/> .
 dbpedia:Pinole	owl:sameAs	ns42:Pinole ,
-		ns26:피놀레 ,
+		ns26:??? ,
 		<http://rdf.freebase.com/ns/m.0gx6bv> .
 @prefix ns43:	<http://nah.dbpedia.org/resource/> .
 dbpedia:Pinole	owl:sameAs	ns43:Pinolli ;
@@ -1708,18 +1708,18 @@ dbpedia:Bombay_mix	rdf:type	yago:PhysicalEntity100001930 ,
 		yago:IndianSnackFoods ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.04kq01> .
 @prefix ns46:	<http://mr.dbpedia.org/resource/> .
-dbpedia:Bombay_mix	owl:sameAs	ns46:चिवडा .
+dbpedia:Bombay_mix	owl:sameAs	ns46:????? .
 @prefix ns47:	<http://ml.dbpedia.org/resource/> .
-dbpedia:Bombay_mix	owl:sameAs	ns47:മിക്സ്ചർ .
+dbpedia:Bombay_mix	owl:sameAs	ns47:???????? .
 @prefix ns48:	<http://hi.dbpedia.org/resource/> .
-dbpedia:Bombay_mix	owl:sameAs	ns48:चिवड़ा ,
+dbpedia:Bombay_mix	owl:sameAs	ns48:?????? ,
 		<http://he.dbpedia.org/resource/\u05E6\u0027\u05D9\u05D5\u05D5\u05D3\u05D4> .
 @prefix ns49:	<http://bn.dbpedia.org/resource/> .
-dbpedia:Bombay_mix	owl:sameAs	ns49:চানাচুর ,
+dbpedia:Bombay_mix	owl:sameAs	ns49:??????? ,
 		ns13:Bombay_mix ,
 		ns10:Q2719719 .
 @prefix ns50:	<http://gu.dbpedia.org/resource/> .
-dbpedia:Bombay_mix	owl:sameAs	ns50:ચેવડો ,
+dbpedia:Bombay_mix	owl:sameAs	ns50:????? ,
 		ns29:Bombay_mix ;
 	dcterms:subject	category:Bangladeshi_cuisine ,
 		category:Gujarati_cuisine ,
@@ -1835,7 +1835,7 @@ dbpedia:Corn_soup	rdf:type	yago:PhysicalEntity100001930 ,
 	owl:sameAs	<http://rdf.freebase.com/ns/m.0cklz> ,
 		ns10:Q5171063 ,
 		ns13:Corn_soup ,
-		ns31:コーンスープ ;
+		ns31:?????? ;
 	dcterms:subject	category:Soups ,
 		category:Maize_dishes ,
 		category:Native_American_cuisine ;
@@ -1961,7 +1961,7 @@ dbpedia:Kenkey	rdf:type	yago:PhysicalEntity100001930 ,
 		yago:Nutriment107570720 ,
 		yago:Dish107557434 ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.05b0jqq> ,
-		ns13:Močnik ,
+		ns13:Mocnik ,
 		ns10:Q6928056 ;
 	dcterms:subject	category:Porridges ,
 		category:Slovenian_cuisine ;
@@ -1985,9 +1985,9 @@ dbpedia:Kenkey	rdf:type	yago:PhysicalEntity100001930 ,
 	dbpprop:mainIngredient	"Cereal ; milk, cream, or sour cream"@en ;
 	dbpprop:name	"Mo\u010Dnik"@en ;
 	dbpprop:type	dbpedia:Porridge ;
-	foaf:isPrimaryTopicOf	ns39:Močnik ;
+	foaf:isPrimaryTopicOf	ns39:Mocnik ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mo\u010Dnik?oldid=500666501> ;
-	dbpprop:hasPhotoCollection	ns41:Močnik ;
+	dbpprop:hasPhotoCollection	ns41:Mocnik ;
 	dbpedia-owl:wikiPageInLinkCount	2 ;
 	dbpedia-owl:wikiPageOutLinkCount	25 .
 dbpedia:Roastnear	dbpedia-owl:wikiPageID	983168 ;
@@ -2110,7 +2110,7 @@ dbpedia:Nicuatole	rdf:type	yago:Dessert107609840 ,
 	dbpedia-owl:wikiPageRevisionID	542486380 ;
 	rdfs:label	"\U0001F33D"@en ;
 	dbpedia-owl:wikiPageRedirects	dbpedia:Maize ;
-	foaf:isPrimaryTopicOf	ns39:🌽 ;
+	foaf:isPrimaryTopicOf	ns39:?? ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/\U0001F33D?oldid=542486380> .
 dbpedia:Cheese_bun	rdf:type	yago:Tableware104381994 ,
 		yago:CheeseDishes ,
@@ -2126,22 +2126,22 @@ dbpedia:Cheese_bun	rdf:type	yago:Tableware104381994 ,
 		yago:Whole100003553 ,
 		yago:Article100022903 ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns24:Pão_de_queijo .
+	owl:sameAs	ns24:P�o_de_queijo .
 @prefix ns51:	<http://ca.dbpedia.org/resource/> .
 dbpedia:Cheese_bun	owl:sameAs	ns51:Xipa ,
 		ns29:Chipa ,
-		ns9:Pão_de_queijo .
+		ns9:P�o_de_queijo .
 @prefix ns52:	<http://pt.dbpedia.org/resource/> .
-dbpedia:Cheese_bun	owl:sameAs	ns52:Pão_de_queijo ,
-		ns27:Pão_de_queijo ,
+dbpedia:Cheese_bun	owl:sameAs	ns52:P�o_de_queijo ,
+		ns27:P�o_de_queijo ,
 		ns13:Cheese_bun .
 @prefix ns53:	<http://gn.dbpedia.org/resource/> .
 dbpedia:Cheese_bun	owl:sameAs	ns53:Chipa ,
-		ns5:לחמניית_גבינה ,
+		ns5:???????_????? ,
 		ns10:Q2065278 ,
-		ns42:Chipá ,
+		ns42:Chip� ,
 		<http://rdf.freebase.com/ns/m.095t7c> ,
-		ns31:ポン・デ・ケイジョ ;
+		ns31:??�?�???? ;
 	dcterms:subject	category:Cheese_dishes ,
 		category:Argentine_cuisine ,
 		category:Paraguayan_cuisine ,
@@ -2239,14 +2239,14 @@ dbpedia:Corn	dbpedia-owl:wikiPageID	28279719 ;
 		yago:Tableware104381994 ,
 		yago:Whole100003553 ,
 		yago:Container103094503 ;
-	owl:sameAs	ns42:Mămăligă ,
-		ns9:Mămăligă ,
+	owl:sameAs	ns42:Mamaliga ,
+		ns9:Mamaliga ,
 		<http://rdf.freebase.com/ns/m.01tdyn> ,
-		ns27:Mămăligă ,
-		ns22:Мамалыга ,
-		ns24:Mămăligă ,
-		ns16:Mamałyga ,
-		ns13:Mămăligă ,
+		ns27:Mamaliga ,
+		ns22:???????? ,
+		ns24:Mamaliga ,
+		ns16:Mamalyga ,
+		ns13:Mamaliga ,
 		ns10:Q1518603 ;
 	dcterms:subject	category:Staple_foods ,
 		category:Romanian_dishes ,
@@ -2286,9 +2286,9 @@ dbpedia:Corn	dbpedia-owl:wikiPageID	28279719 ;
 	dbpprop:mainIngredient	"Yellow maize flour"@en ;
 	dbpprop:name	"M\u0103m\u0103lig\u0103"@en ;
 	dbpprop:type	dbpedia:Porridge ;
-	foaf:isPrimaryTopicOf	ns39:Mămăligă ;
+	foaf:isPrimaryTopicOf	ns39:Mamaliga ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/M\u0103m\u0103lig\u0103?oldid=543720270> ;
-	dbpprop:hasPhotoCollection	ns41:Mămăligă ;
+	dbpprop:hasPhotoCollection	ns41:Mamaliga ;
 	dbpedia-owl:wikiPageInLinkCount	46 ;
 	dbpedia-owl:wikiPageOutLinkCount	86 .
 dbpedia:Barbara_McClintock	rdf:type	<http://dbpedia.org/class/yago/PeopleFromColumbia,Missouri> ,
@@ -2339,18 +2339,18 @@ dbpedia:Barbara_McClintock	rdf:type	ns54:Person ,
 @prefix ns55:	<http://vi.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns55:Barbara_McClintock ,
 		ns25:Barbara_McClintock ,
-		ns49:বারবারা_ম্যাকলিন্টক ,
-		ns6:باربارا_مک‌کلینتوک ,
+		ns49:???????_??????????? ,
+		ns6:???????_?????????? ,
 		ns14:Barbara_McClintock ,
-		ns15:巴巴拉·麦克林托克 ,
+		ns15:???�????? ,
 		<http://he.dbpedia.org/resource/\u05D1\u05E8\u05D1\u05E8\u05D4_\u05DE\u05E7\u0027\u05E7\u05DC\u05D9\u05E0\u05D8\u05D5\u05E7> .
 @prefix ns56:	<http://ar.dbpedia.org/resource/> .
-dbpedia:Barbara_McClintock	owl:sameAs	ns56:باربرا_مكلنتوك ,
+dbpedia:Barbara_McClintock	owl:sameAs	ns56:??????_??????? ,
 		ns9:Barbara_McClintock ,
 		ns10:Q199654 ,
 		ns13:Barbara_McClintock .
 @prefix ns57:	<http://uk.dbpedia.org/resource/> .
-dbpedia:Barbara_McClintock	owl:sameAs	ns57:Барбара_Мак-Клінток ,
+dbpedia:Barbara_McClintock	owl:sameAs	ns57:???????_???-??????? ,
 		ns24:Barbara_McClintock .
 @prefix ns58:	<http://lv.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns58:Barbara_Maklintoka .
@@ -2360,7 +2360,7 @@ dbpedia:Barbara_McClintock	owl:sameAs	ns59:Barbara_McClintock ,
 @prefix ns60:	<http://io.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns60:Barbara_McClintock .
 @prefix ns61:	<http://be.dbpedia.org/resource/> .
-dbpedia:Barbara_McClintock	owl:sameAs	ns61:Барбара_Мак-Клінтак ,
+dbpedia:Barbara_McClintock	owl:sameAs	ns61:???????_???-??????? ,
 		ns51:Barbara_McClintock .
 @prefix ns62:	<http://oc.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns62:Barbara_McClintock .
@@ -2371,7 +2371,7 @@ dbpedia:Barbara_McClintock	owl:sameAs	ns64:Barbara_McClintock .
 @prefix ns65:	<http://hr.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns65:Barbara_McClintock .
 @prefix ns66:	<http://sa.dbpedia.org/resource/> .
-dbpedia:Barbara_McClintock	owl:sameAs	ns66:बार्बर_मेक्लिन्टाक् .
+dbpedia:Barbara_McClintock	owl:sameAs	ns66:??????_???????????? .
 @prefix ns67:	<http://sr.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns67:Barbara_Maklintok ,
 		ns52:Barbara_McClintock ,
@@ -2381,8 +2381,8 @@ dbpedia:Barbara_McClintock	owl:sameAs	ns68:Barbara_McClintock ,
 		ns27:Barbara_McClintock .
 @prefix ns69:	<http://la.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns69:Barbara_McClintock ,
-		ns26:바버라_매클린톡 ,
-		ns31:バーバラ・マクリントック .
+		ns26:???_???? ,
+		ns31:????�??????? .
 @prefix ns70:	<http://ms.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns70:Barbara_McClintock ,
 		ns18:Barbara_McClintock ,
@@ -2401,7 +2401,7 @@ dbpedia:Barbara_McClintock	owl:sameAs	ns73:Barbara_McClintock .
 @prefix ns74:	<http://id.dbpedia.org/resource/> .
 dbpedia:Barbara_McClintock	owl:sameAs	ns74:Barbara_McClintock .
 @prefix ns75:	<http://pnb.dbpedia.org/resource/> .
-dbpedia:Barbara_McClintock	owl:sameAs	ns75:باربرا_میکلنٹوک ,
+dbpedia:Barbara_McClintock	owl:sameAs	ns75:??????_???????? ,
 		<http://ru.dbpedia.org/resource/\u041C\u0430\u043A-\u041A\u043B\u0438\u043D\u0442\u043E\u043A,_\u0411\u0430\u0440\u0431\u0430\u0440\u0430> ;
 	dcterms:subject	category:Women_Nobel_laureates ,
 		category:Nobel_laureates_in_Physiology_or_Medicine ,
@@ -2771,9 +2771,9 @@ dbpedia:Corn_tortilla	rdf:type	yago:Solid115046900 ,
 		yago:Foodstuff107566340 ,
 		yago:Food100021265 ;
 	owl:sameAs	ns10:Q2839137 ,
-		ns42:Almojábana ,
+		ns42:Almoj�bana ,
 		<http://rdf.freebase.com/ns/m.04f117d> ,
-		ns13:Almojábana ,
+		ns13:Almoj�bana ,
 		ns27:Almojabana ;
 	dcterms:subject	category:Breads ,
 		category:Breakfast_foods ,
@@ -2802,9 +2802,9 @@ dbpedia:Corn_tortilla	rdf:type	yago:Solid115046900 ,
 	dbpprop:mainIngredient	"Corn flour, butter or margarine, eggs, cheese, sugar, leavening agent"@en ;
 	dbpprop:name	"Almoj\u00E1bana"@en ;
 	dbpprop:type	dbpedia:Bread ;
-	foaf:isPrimaryTopicOf	ns39:Almojábana ;
+	foaf:isPrimaryTopicOf	ns39:Almoj�bana ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/Almoj\u00E1bana?oldid=543408591> ;
-	dbpprop:hasPhotoCollection	ns41:Almojábana ;
+	dbpprop:hasPhotoCollection	ns41:Almoj�bana ;
 	dbpedia-owl:wikiPageInLinkCount	5 ;
 	dbpedia-owl:wikiPageOutLinkCount	20 .
 dbpedia:Fish_chowder	rdf:type	owl:Thing ,
@@ -2989,7 +2989,7 @@ dbpedia:Global_Bio-Chem	rdf:type	yago:Institution108053576 ,
 		owl:Thing ;
 	owl:sameAs	ns10:Q5570140 ,
 		ns13:Global_Bio-Chem ,
-		ns15:大成生化 ,
+		ns15:???? ,
 		<http://rdf.freebase.com/ns/m.05mrg8z> ;
 	dcterms:subject	category:Food_companies_of_Hong_Kong ,
 		category:Companies_established_in_1994 ,
@@ -3201,9 +3201,9 @@ dbpedia:Pudding_corn	rdf:type	yago:Crockery103133538 ,
 	dbpprop:name	"G\u00FCirila"@en ;
 	dbpprop:region	dbpedia:Matagalpa ;
 	dbpprop:type	dbpedia:Bread ;
-	foaf:isPrimaryTopicOf	ns39:Güirila ;
+	foaf:isPrimaryTopicOf	ns39:G�irila ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/G\u00FCirila?oldid=499475759> ;
-	dbpprop:hasPhotoCollection	ns41:Güirila ;
+	dbpprop:hasPhotoCollection	ns41:G�irila ;
 	dbpedia-owl:wikiPageInLinkCount	5 ;
 	dbpedia-owl:wikiPageOutLinkCount	13 .
 dbpedia:Zea_Mays	dbpedia-owl:wikiPageID	7323720 ;
@@ -3340,7 +3340,7 @@ dbpedia:Cachapa	rdf:type	yago:Nutriment107570720 ,
 		ns27:Cachapa ,
 		ns42:Cachapa ,
 		ns10:Q1025010 ,
-		ns22:Качапа ,
+		ns22:?????? ,
 		<http://rdf.freebase.com/ns/m.05rth4> ;
 	dcterms:subject	category:Tortilla-based_dishes ,
 		category:Venezuelan_cuisine ,
@@ -3455,7 +3455,7 @@ dbpedia:Totopo	rdf:type	yago:Starches107566863 ,
 	owl:sameAs	ns13:Totopo ,
 		ns16:Totopos ,
 		<http://rdf.freebase.com/ns/m.025t_hl> ,
-		ns31:トトポス ,
+		ns31:???? ,
 		ns10:Q258455 ,
 		ns33:Totopos ,
 		ns43:Totopochtli ,
@@ -3546,7 +3546,7 @@ dbpedia:Jhajariya	rdf:type	yago:Substance100020090 ,
 	owl:sameAs	ns13:Jhajariya ,
 		ns10:Q6190758 ,
 		<http://rdf.freebase.com/ns/m.06v3j2> ,
-		ns48:झाजरिया ;
+		ns48:??????? ;
 	dcterms:subject	category:Rajasthani_cuisine ,
 		category:Indian_desserts ;
 	dbpedia-owl:abstract	"Jhajhariya is a delicacy of Indian origin made of corn, milk, ghee and sugar garnished with raisins and nuts. Grated or coarsely ground fresh corn is slowly roasted in a small amount of ghee for a couple of hours until it loses most of its moisture and assumes a dry granular form. This is a labor-intensive step since it involves constant stirring and monitoring, but this pre-processing can be done once a year as the resulting material can be stored for months unrefrigerated. The final preparation is done before serving; the dried corn is simmered for about five minutes on a medium flame, then a volume of boiling water equal to that of the corn is added and the mixture is heated for another five minutes. About 3 times that amount of boiling milk followed by further heating, then adding about an equal volume of sugar and raisins. It is good when served hot, but better still after refrigerating."@en ;
@@ -3580,7 +3580,7 @@ dbpedia:Gachas	rdf:type	dbpedia-owl:Food ,
 		<http://rdf.freebase.com/ns/m.043mfh5> ,
 		ns10:Q950976 ,
 		ns51:Gachas ,
-		ns19:Manĉaj_gaĉoj ,
+		ns19:Mancaj_gacoj ,
 		ns27:Gachas ;
 	dcterms:subject	category:Castilian-La_Mancha_cuisine ,
 		category:Valencian_cuisine ,
@@ -3690,15 +3690,15 @@ dbpedia:Humita	rdf:type	yago:Object100002684 ,
 		yago:Container103094503 ,
 		yago:Artifact100021939 ,
 		yago:Article100022903 ;
-	owl:sameAs	ns57:Уміта ,
+	owl:sameAs	ns57:????? ,
 		ns27:Humita ,
 		<http://rdf.freebase.com/ns/m.09crqz> ,
 		ns13:Humita ,
 		ns10:Q2665744 ,
 		ns42:Humita ,
-		ns5:אומיטה ,
+		ns5:?????? ,
 		<http://qu.dbpedia.org/resource/Humint\u0027a> ,
-		ns22:Умита ;
+		ns22:????? ;
 	dcterms:subject	category:Bolivian_cuisine ,
 		category:Maize_dishes ,
 		category:Chilean_cuisine ,
@@ -3740,11 +3740,11 @@ dbpedia:Humita	rdf:type	yago:Object100002684 ,
 	dbpprop:hasPhotoCollection	ns41:Humita ;
 	dbpedia-owl:wikiPageInLinkCount	25 ;
 	dbpedia-owl:wikiPageOutLinkCount	58 .
-<http://dbpedia.org/resource/Maze_(disambiguation)>	owl:sameAs	ns31:メイズ ,
+<http://dbpedia.org/resource/Maze_(disambiguation)>	owl:sameAs	ns31:??? ,
 		ns24:Maze ,
 		ns59:Maze ,
 		ns52:Maze ,
-		ns57:Мазе ,
+		ns57:???? ,
 		ns27:Maze ,
 		ns10:Q1755785 ;
 	dbpedia-owl:wikiPageID	4512108 ;
@@ -3798,8 +3798,8 @@ dbpedia:Mriya_Agro_Holding	rdf:type	yago:CompaniesOfUkraine ,
 		yago:Institution108053576 ,
 		yago:Company108058098 ,
 		yago:YagoLegalActor ;
-	owl:sameAs	ns57:Мрія_Агрохолдинг ,
-		ns22:Мрия_Агрохолдинг ,
+	owl:sameAs	ns57:????_??????????? ,
+		ns22:????_??????????? ,
 		ns10:Q1332025 ,
 		ns13:Mriya_Agro_Holding ,
 		ns24:Mriya_Agro_Holding ,
@@ -3896,23 +3896,23 @@ dbpedia:Injera	rdf:type	yago:FermentedFoods ,
 		ns52:Injera ,
 		ns51:Injera ,
 		ns10:Q935807 ,
-		ns56:إينجيرا ,
-		ns22:Ынджера ,
+		ns56:??????? ,
+		ns22:??????? ,
 		ns27:Injera ,
-		ns25:Indžera .
+		ns25:Ind�era .
 @prefix ns89:	<http://se.dbpedia.org/resource/> .
 dbpedia:Injera	owl:sameAs	ns89:Injera ,
-		ns16:Indżera .
+		ns16:Indzera .
 @prefix ns90:	<http://so.dbpedia.org/resource/> .
 dbpedia:Injera	owl:sameAs	ns90:Canjeelo ,
 		ns65:Injera ,
 		ns33:Injera .
 @prefix ns91:	<http://lt.dbpedia.org/resource/> .
-dbpedia:Injera	owl:sameAs	ns91:Indžera .
+dbpedia:Injera	owl:sameAs	ns91:Ind�era .
 @prefix ns92:	<http://am.dbpedia.org/resource/> .
-dbpedia:Injera	owl:sameAs	ns92:እንጀራ ,
+dbpedia:Injera	owl:sameAs	ns92:???? ,
 		ns63:Injera ,
-		ns31:インジェラ ,
+		ns31:????? ,
 		ns12:Injera ,
 		<http://he.dbpedia.org/resource/\u05D0\u05E0\u05D2\u0027\u05E8\u05D4> ,
 		ns69:Iniera ,
@@ -4181,18 +4181,18 @@ dbpedia:Hugh_Iltis	rdf:type	yago:Person100007846 ,
 		yago:Category105838765 ,
 		yago:Content105809192 ,
 		dbpedia-owl:Species ;
-	owl:sameAs	ns33:Majssläktet ,
+	owl:sameAs	ns33:Majssl�ktet ,
 		ns69:Zea ,
-		ns11:Majs-slægten ,
+		ns11:Majs-sl�gten ,
 		<http://ru.dbpedia.org/resource/\u041A\u0443\u043A\u0443\u0440\u0443\u0437\u0430_(\u0440\u043E\u0434)> ,
-		ns25:Kukuřice ,
+		ns25:Kukurice ,
 		ns32:Kukurica ,
 		<http://rdf.freebase.com/ns/m.0mgg8> ,
 		<http://uk.dbpedia.org/resource/\u041A\u0443\u043A\u0443\u0440\u0443\u0434\u0437\u0430_(\u0440\u0456\u0434)> ,
-		ns15:玉蜀黍属 ,
+		ns15:???? ,
 		ns29:Zea .
 @prefix ns94:	<http://ba.dbpedia.org/resource/> .
-<http://dbpedia.org/resource/Zea_(genus)>	owl:sameAs	ns94:Кукуруз ,
+<http://dbpedia.org/resource/Zea_(genus)>	owl:sameAs	ns94:??????? ,
 		ns24:Zea .
 @prefix ns95:	<http://frr.dbpedia.org/resource/> .
 <http://dbpedia.org/resource/Zea_(genus)>	owl:sameAs	ns95:Meis .
@@ -4201,18 +4201,18 @@ dbpedia:Hugh_Iltis	rdf:type	yago:Person100007846 ,
 		<http://az.dbpedia.org/resource/Qar\u011F\u0131dal\u0131_(cins)> ,
 		ns27:Zea ,
 		ns51:Zea ,
-		ns55:Chi_Cỏ_ngô ,
+		ns55:Chi_C?_ng� ,
 		ns10:Q542456 ,
 		ns65:Zea ,
 		<http://hu.dbpedia.org/resource/Zea_(n\u00F6v\u00E9nynemzets\u00E9g)> ,
-		ns91:Kukurūzas ,
+		ns91:Kukuruzas ,
 		<http://yago-knowledge.org/resource/Zea_(genus)> ,
 		ns70:Jagung_manis ,
 		ns42:Zea ,
 		ns21:Teosinte ,
 		ns16:Kukurydza ,
 		ns74:Teosinte ,
-		ns47:ടിയോസിന്റെ ,
+		ns47:?????????? ,
 		ns52:Zea ,
 		ns19:Zeo ;
 	dcterms:subject	<http://dbpedia.org/resource/Category:Zea_(genus)> ,
@@ -4438,10 +4438,10 @@ dbpedia:Curau	rdf:type	yago:PhysicalEntity100001930 ,
 		yago:SavouryPies ,
 		yago:PhysicalEntity100001930 ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.02jy06> ,
-		ns27:Pâté_chinois ,
-		ns42:Paté_chinois ,
+		ns27:P�t�_chinois ,
+		ns42:Pat�_chinois ,
 		ns10:Q3411527 ,
-		ns13:Pâté_chinois ;
+		ns13:P�t�_chinois ;
 	dcterms:subject	category:Quebec_cuisine ,
 		category:Savoury_pies ,
 		category:French_words_and_phrases ;
@@ -4471,9 +4471,9 @@ dbpedia:Curau	rdf:type	yago:PhysicalEntity100001930 ,
 	dbpprop:mainIngredient	"ground beef, onions, maize or creamed corn, mashed potatoes vinegar"@en ;
 	dbpprop:name	"P\u00E2t\u00E9 chinois"@en ;
 	dbpprop:type	dbpedia:Pie ;
-	foaf:isPrimaryTopicOf	ns39:Pâté_chinois ;
+	foaf:isPrimaryTopicOf	ns39:P�t�_chinois ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/P\u00E2t\u00E9_chinois?oldid=545780571> ;
-	dbpprop:hasPhotoCollection	ns41:Pâté_chinois ;
+	dbpprop:hasPhotoCollection	ns41:P�t�_chinois ;
 	dbpedia-owl:wikiPageInLinkCount	14 ;
 	dbpedia-owl:wikiPageOutLinkCount	51 .
 dbpedia:Talo	rdf:type	dbpedia-owl:Food ,
@@ -4528,10 +4528,10 @@ dbpedia:Pamonha	rdf:type	dbpedia-owl:Food ,
 		yago:Solid115046900 ,
 		yago:Pasta107698915 ,
 		yago:Matter100020827 ;
-	owl:sameAs	ns42:Pamoña ,
+	owl:sameAs	ns42:Pamo�a ,
 		ns52:Pamonha ,
 		ns29:Pamonha ,
-		ns31:パモーニャ ,
+		ns31:????? ,
 		ns10:Q2461918 ,
 		ns13:Pamonha ,
 		<http://rdf.freebase.com/ns/m.0dpryk> ;
@@ -4639,7 +4639,7 @@ dbpedia:Corn_chowder	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
 	owl:sameAs	<http://rdf.freebase.com/ns/m.0c9lrt> ,
 		ns10:Q5171047 ,
-		ns31:コーンチャウダー ;
+		ns31:???????? ;
 	dcterms:subject	category:Vermont_cuisine ,
 		category:Soups ,
 		category:American_cuisine ,
@@ -4684,16 +4684,16 @@ dbpedia:Corn_chowder	rdf:type	owl:Thing ,
 		owl:Thing ,
 		yago:Object100002684 ;
 	owl:sameAs	<http://nl.dbpedia.org/resource/Apur\u00EDmac_(regio)> ,
-		ns42:Departamento_de_Apurímac ,
+		ns42:Departamento_de_Apur�mac ,
 		<http://fr.dbpedia.org/resource/R\u00E9gion_d\u0027Apur\u00EDmac> ,
-		ns13:Apurímac_Region ,
+		ns13:Apur�mac_Region ,
 		<http://ru.dbpedia.org/resource/\u0410\u043F\u0443\u0440\u0438\u043C\u0430\u043A_(\u0440\u0435\u0433\u0438\u043E\u043D)> ,
 		<http://sws.geonames.org/3947421/> ,
-		ns31:アプリマク県 ,
-		ns16:Region_Apurímac ,
+		ns31:?????? ,
+		ns16:Region_Apur�mac ,
 		<http://de.dbpedia.org/resource/Apur\u00EDmac_(Region)> ,
 		<http://rdf.freebase.com/ns/m.0350w3> ,
-		ns29:Regione_di_Apurímac ,
+		ns29:Regione_di_Apur�mac ,
 		<http://pt.dbpedia.org/resource/Apur\u00EDmac_(regi\u00E3o)> ,
 		ns10:Q208185 ;
 	dcterms:subject	<http://dbpedia.org/resource/Category:Apur%C3%ADmac_Region> ,
@@ -4772,13 +4772,13 @@ dbpedia:Corn_chowder	rdf:type	owl:Thing ,
 @prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
 @prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
 <http://dbpedia.org/resource/Apur%C3%ADmac_Region>	geo:geometry	"POINT(-72.7556 -14.1667)"^^virtrdf:Geometry ;
-	foaf:isPrimaryTopicOf	ns39:Apurímac_Region ;
+	foaf:isPrimaryTopicOf	ns39:Apur�mac_Region ;
 	geo:long	"-72.7556"^^xsd:float ;
 	geo:lat	"-14.1667"^^xsd:float ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/Apur\u00EDmac_Region?oldid=542015339> .
 @prefix grs:	<http://www.georss.org/georss/> .
 <http://dbpedia.org/resource/Apur%C3%ADmac_Region>	grs:point	"-14.166666666666666 -72.75555555555556"@en ;
-	dbpprop:hasPhotoCollection	ns41:Apurímac_Region ;
+	dbpprop:hasPhotoCollection	ns41:Apur�mac_Region ;
 	dbpedia-owl:wikiPageInLinkCount	263 ;
 	dbpedia-owl:wikiPageOutLinkCount	57 .
 <http://dbpedia.org/resource/Discontinued_merit_badges_(Boy_Scouts_of_America)>	owl:sameAs	ns10:Q5281654 ,
@@ -5195,7 +5195,7 @@ dbpedia:Zea	owl:sameAs	<http://pt.dbpedia.org/resource/Zea_(desambigua\u00E7\u00
 		<http://de.dbpedia.org/resource/Zea_(Begriffskl\u00E4rung)> ,
 		<http://fr.dbpedia.org/resource/Zea_(homonymie)> .
 @prefix ns102:	<http://te.dbpedia.org/resource/> .
-dbpedia:Zea	owl:sameAs	ns102:జియా ,
+dbpedia:Zea	owl:sameAs	ns102:???? ,
 		ns10:Q169304 ,
 		<http://la.dbpedia.org/resource/Zea_(discretiva)> ;
 	dcterms:subject	category:Surnames ;
@@ -5248,7 +5248,7 @@ dbpedia:Twibap	rdf:type	yago:Course107556970 ,
 		yago:PhysicalEntity100001930 ;
 	owl:sameAs	ns42:Twibap ,
 		ns13:Twibap ,
-		ns26:튀밥 ,
+		ns26:?? ,
 		ns10:Q5358442 ,
 		<http://rdf.freebase.com/ns/m.05p94j8> ;
 	dcterms:subject	category:Korean_snacks ,
@@ -5577,7 +5577,7 @@ dbpedia:Jagung	dbpedia-owl:wikiPageID	38214152 ;
 	dbpprop:tradedAs	"BM&F Bovespa: SLCE3"@en ;
 	dbpprop:type	<http://dbpedia.org/resource/S.A._(corporation)> ;
 	foaf:homepage	<http://www.slcagricola.com.br/> ;
-	foaf:isPrimaryTopicOf	ns39:SLC_Agrícola ;
+	foaf:isPrimaryTopicOf	ns39:SLC_Agr�cola ;
 	ns40:wasDerivedFrom	<http://en.wikipedia.org/wiki/SLC_Agr\u00EDcola?oldid=544109052> ;
-	dbpprop:hasPhotoCollection	ns41:SLC_Agrícola ;
+	dbpprop:hasPhotoCollection	ns41:SLC_Agr�cola ;
 	dbpedia-owl:wikiPageOutLinkCount	39 .

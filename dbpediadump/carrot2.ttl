@@ -13,30 +13,30 @@ dbpedia:Carrot_cake	rdf:type	dbpedia-owl:Food ,
 		yago:Whole100003553 ,
 		yago:Block102852523 .
 @prefix ns5:	<http://he.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns5:עוגת_גזר ,
+dbpedia:Carrot_cake	owl:sameAs	ns5:????_??? ,
 		<http://rdf.freebase.com/ns/m.06gf2f> .
 @prefix ns6:	<http://ko.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns6:당근_케이크 .
+dbpedia:Carrot_cake	owl:sameAs	ns6:??_??? .
 @prefix ns7:	<http://ru.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns7:Морковный_торт .
+dbpedia:Carrot_cake	owl:sameAs	ns7:?????????_???? .
 @prefix ns8:	<http://als.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns8:Rüeblitorte .
+dbpedia:Carrot_cake	owl:sameAs	ns8:R�eblitorte .
 @prefix ns9:	<http://es.dbpedia.org/resource/> .
 dbpedia:Carrot_cake	owl:sameAs	ns9:Pastel_de_zanahoria .
 @prefix ns10:	<http://yago-knowledge.org/resource/> .
 dbpedia:Carrot_cake	owl:sameAs	ns10:Carrot_cake .
 @prefix ns11:	<http://fr.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns11:Gâteau_aux_carottes .
+dbpedia:Carrot_cake	owl:sameAs	ns11:G�teau_aux_carottes .
 @prefix ns12:	<http://de.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns12:Rüeblitorte .
+dbpedia:Carrot_cake	owl:sameAs	ns12:R�eblitorte .
 @prefix ns13:	<http://ja.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns13:キャロットケーキ .
+dbpedia:Carrot_cake	owl:sameAs	ns13:???????? .
 @prefix ns14:	<http://pl.dbpedia.org/resource/> .
 dbpedia:Carrot_cake	owl:sameAs	ns14:Ciasto_marchewkowe .
 @prefix ns15:	<http://no.dbpedia.org/resource/> .
 dbpedia:Carrot_cake	owl:sameAs	ns15:Gulrotkake .
 @prefix ns16:	<http://ar.dbpedia.org/resource/> .
-dbpedia:Carrot_cake	owl:sameAs	ns16:كعكة_الجزرة .
+dbpedia:Carrot_cake	owl:sameAs	ns16:????_?????? .
 @prefix ns17:	<http://simple.dbpedia.org/resource/> .
 dbpedia:Carrot_cake	owl:sameAs	ns17:Carrot_cake .
 @prefix ns18:	<http://pt.dbpedia.org/resource/> .
@@ -1610,7 +1610,7 @@ dbpedia:Pot_pie	rdf:type	yago:AmericanPies ,
 		yago:BakedGoods107622061 ,
 		dbpedia-owl:Food ;
 	owl:sameAs	ns10:Pot_pie ,
-		ns13:ポットパイ ,
+		ns13:????? ,
 		ns19:Q4382275 ,
 		<http://rdf.freebase.com/ns/m.05j5g_> ,
 		ns18:Empada ,
@@ -1715,10 +1715,10 @@ dbpedia:Ulmyeon	rdf:type	yago:Soup107583197 ,
 		dbpedia-owl:Food ,
 		yago:Food100021265 .
 @prefix ns31:	<http://zh.dbpedia.org/resource/> .
-dbpedia:Ulmyeon	owl:sameAs	ns31:溫滷麵 ,
+dbpedia:Ulmyeon	owl:sameAs	ns31:??? ,
 		<http://rdf.freebase.com/ns/m.047r5d6> ,
 		ns19:Q845376 ,
-		ns6:울면 ,
+		ns6:?? ,
 		ns10:Ulmyeon ,
 		ns9:Ulmyeon ;
 	dcterms:subject	category:Korean_soups_and_stews ,
@@ -1768,23 +1768,23 @@ dbpedia:Minestrone	owl:sameAs	ns32:Minestrone .
 @prefix ns33:	<http://it.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns33:Minestrone ,
 		ns11:Minestrone ,
-		ns5:מינסטרונה ,
+		ns5:????????? ,
 		ns19:Q581462 ,
-		ns13:ミネストローネ ,
+		ns13:??????? ,
 		<http://pl.dbpedia.org/resource/Minestrone_(zupa)> .
 @prefix ns34:	<http://sl.dbpedia.org/resource/> .
-dbpedia:Minestrone	owl:sameAs	ns34:Mineštra ,
-		ns31:意大利雜菜湯 ,
-		ns7:Минестроне .
+dbpedia:Minestrone	owl:sameAs	ns34:Mine�tra ,
+		ns31:?????? ,
+		ns7:?????????? .
 @prefix ns35:	<http://sv.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns35:Minestrone ,
 		<http://rdf.freebase.com/ns/m.052q5> ,
-		ns6:미네스트로네 .
+		ns6:?????? .
 @prefix ns36:	<http://lt.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns36:Minestrone ,
 		ns18:Minestrone .
 @prefix ns37:	<http://bg.dbpedia.org/resource/> .
-dbpedia:Minestrone	owl:sameAs	ns37:Минестроне ,
+dbpedia:Minestrone	owl:sameAs	ns37:?????????? ,
 		ns12:Minestrone .
 @prefix ns38:	<http://bs.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns38:Minestrone ,
@@ -1793,11 +1793,11 @@ dbpedia:Minestrone	owl:sameAs	ns38:Minestrone ,
 @prefix ns39:	<http://id.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns39:Minestrone .
 @prefix ns40:	<http://wuu.dbpedia.org/resource/> .
-dbpedia:Minestrone	owl:sameAs	ns40:意大利杂菜汤 .
+dbpedia:Minestrone	owl:sameAs	ns40:?????? .
 @prefix ns41:	<http://nl.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns41:Minestrone .
 @prefix ns42:	<http://zh_yue.dbpedia.org/resource/> .
-dbpedia:Minestrone	owl:sameAs	ns42:意大利雜菜湯 .
+dbpedia:Minestrone	owl:sameAs	ns42:?????? .
 @prefix ns43:	<http://eo.dbpedia.org/resource/> .
 dbpedia:Minestrone	owl:sameAs	ns43:Minestrono ;
 	dcterms:subject	category:Italian_soups ;
@@ -2075,10 +2075,10 @@ dbpedia:Dressed_herring	rdf:type	yago:Crockery103133538 ,
 		yago:Article100022903 ,
 		yago:PhysicalEntity100001930 ,
 		yago:Object100002684 ;
-	owl:sameAs	ns7:Сельдь_под_шубой ,
+	owl:sameAs	ns7:??????_???_????? ,
 		<http://rdf.freebase.com/ns/m.06w3v5s> .
 @prefix ns47:	<http://uk.dbpedia.org/resource/> .
-dbpedia:Dressed_herring	owl:sameAs	ns47:Оселедець_під_шубою ,
+dbpedia:Dressed_herring	owl:sameAs	ns47:?????????_???_????? ,
 		ns10:Dressed_herring ,
 		ns11:Hareng_en_fourrure ,
 		ns19:Q2631681 ,
@@ -2133,7 +2133,7 @@ dbpedia:Dressed_herring	owl:sameAs	ns48:Hierk_am_Pelzmantel ;
 		dbpedia-owl:Food ,
 		yago:Soups ,
 		yago:Soup107583197 ;
-	owl:sameAs	ns10:Steckrübeneintopf ,
+	owl:sameAs	ns10:Steckr�beneintopf ,
 		<http://rdf.freebase.com/ns/m.0bhcjwp> ;
 	dcterms:subject	category:Soups ,
 		category:North_German_cuisine ;
@@ -2155,9 +2155,9 @@ dbpedia:Dressed_herring	owl:sameAs	ns48:Hierk_am_Pelzmantel ;
 	dbpprop:mainIngredient	"Rutabaga, carrots, potatoes, smoked or pickled meats or sausages"@en ;
 	dbpprop:name	"Steckr\u00FCbeneintopf"@en ;
 	dbpprop:type	dbpedia:Soup ;
-	foaf:isPrimaryTopicOf	ns26:Steckrübeneintopf ;
+	foaf:isPrimaryTopicOf	ns26:Steckr�beneintopf ;
 	ns27:wasDerivedFrom	<http://en.wikipedia.org/wiki/Steckr\u00FCbeneintopf?oldid=539489601> ;
-	dbpprop:hasPhotoCollection	ns28:Steckrübeneintopf ;
+	dbpprop:hasPhotoCollection	ns28:Steckr�beneintopf ;
 	dbpedia-owl:wikiPageInLinkCount	5 ;
 	dbpedia-owl:wikiPageOutLinkCount	35 .
 dbpedia:Maconochie	rdf:type	yago:Condition113920835 ,
@@ -2213,9 +2213,9 @@ dbpedia:Sklandrausis	rdf:type	yago:Pie107625493 ,
 @prefix ns49:	<http://da.dbpedia.org/resource/> .
 dbpedia:Sklandrausis	owl:sameAs	ns49:Sklandrausis ,
 		<http://rdf.freebase.com/ns/m.03ylnzr> ,
-		ns47:Скландраусіс ,
+		ns47:???????????? ,
 		ns19:Q2087110 ,
-		ns7:Скландраусис ;
+		ns7:???????????? ;
 	dcterms:subject	category:Latvian_cuisine ,
 		category:Savoury_pies ;
 	dbpedia-owl:abstract	"\u0421\u043A\u043B\u0430\u043D\u0434\u0440\u0430\u0443\u0441\u0438\u0441 (\u043B\u0430\u0442\u044B\u0448. Sklandrausis; Sklandu rausis)\u00A0\u2014 \u043A\u0443\u0440\u0437\u0435\u043C\u0441\u043A\u0430\u044F \u0432\u044B\u043F\u0435\u0447\u043A\u0430, \u0441\u0442\u0430\u0440\u0438\u043D\u043D\u043E\u0435 \u0431\u043B\u044E\u0434\u043E \u043B\u0430\u0442\u044B\u0448\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438. \u0412 \u043A\u0443\u043B\u0438\u043D\u0430\u0440\u043D\u043E\u0439 \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u043D\u0430 \u0440\u0443\u0441\u0441\u043A\u043E\u043C \u044F\u0437\u044B\u043A\u0435 \u0438\u043D\u043E\u0433\u0434\u0430 \u0438\u043C\u0435\u043D\u0443\u0435\u0442\u0441\u044F \u0421\u043A\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u043C \u043F\u0440\u044F\u043D\u0438\u043A\u043E\u043C, \u0445\u043E\u0442\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0441\u043E\u0431\u043E\u0439 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0438\u0440\u043E\u0436\u043E\u043A \u0441 \u043E\u0432\u043E\u0449\u043D\u043E\u0439 \u043D\u0430\u0447\u0438\u043D\u043A\u043E\u0439, \u0441\u043A\u043E\u0440\u0435\u0435 \u043D\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u044E\u0449\u0438\u0439 \u0432\u0430\u0442\u0440\u0443\u0448\u043A\u0443 \u0438\u043B\u0438 \u0448\u0430\u043D\u044C\u0433\u0443. \u0413\u043E\u0432\u043E\u0440\u0438\u0442\u044C \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u0451\u043D\u043D\u043E \u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0438 \u0438 \u043C\u0435\u0441\u0442\u0435 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F \u0438\u043C\u0435\u043D\u043D\u043E \u044D\u0442\u043E\u0439 \u043A\u0440\u0435\u0441\u0442\u044C\u044F\u043D\u0441\u043A\u043E\u0439 \u0437\u0430\u043A\u0443\u0441\u043A\u0438 \u043D\u0435 \u043F\u0440\u0438\u0445\u043E\u0434\u0438\u0442\u0441\u044F, \u043D\u043E \u043D\u0430\u0440\u043E\u0434\u043D\u0430\u044F \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044F \u043C\u0435\u0441\u0442\u043E\u043C \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F \u0441\u043A\u043B\u0430\u043D\u0434\u0440\u0430\u0443\u0441\u0438\u0441\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442 \u0440\u0430\u0439\u043E\u043D \u041A\u0443\u043B\u0434\u0438\u0433\u0438, \u0441 \u0434\u0430\u043B\u044C\u043D\u0435\u0439\u0448\u0438\u043C \u0440\u0430\u0441\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0435\u043D\u0438\u0435\u043C \u043A\u0443\u043B\u0438\u043D\u0430\u0440\u043D\u043E\u0433\u043E \u0438\u0437\u0434\u0435\u043B\u0438\u044F \u0432 \u0441\u0442\u043E\u0440\u043E\u043D\u0443 \u0421\u0430\u043B\u0434\u0443\u0441\u0430 \u0438 \u041B\u0438\u0435\u043F\u0430\u0438. \u0421\u043A\u043B\u0430\u043D\u0434\u0440\u0430\u0443\u0441\u0438\u0441 \u0433\u043E\u0442\u043E\u0432\u0438\u0442\u0441\u044F \u0438\u0437 \u043A\u0440\u0443\u0442\u043E\u0433\u043E \u0440\u0436\u0430\u043D\u043E\u0433\u043E \u0442\u0435\u0441\u0442\u0430, \u0437\u0430\u043C\u0435\u0448\u0430\u043D\u043D\u043E\u0433\u043E \u043D\u0430 \u0441\u0432\u0438\u043D\u043E\u043C \u0436\u0438\u0440\u0435, \u0432\u043E\u0434\u0435 \u0438 \u043F\u0440\u043E\u0441\u0442\u043E\u043A\u0432\u0430\u0448\u0435. \u0418\u0437 \u0440\u0430\u0441\u043A\u0430\u0442\u0430\u043D\u043D\u043E\u0433\u043E \u0442\u0435\u0441\u0442\u0430 \u043D\u043E\u0436\u043E\u043C \u0432\u044B\u0440\u0435\u0437\u0430\u044E\u0442\u0441\u044F \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u043D\u044B\u0435 \u043A\u0440\u0443\u0433\u0438 \u0434\u0438\u0430\u043C\u0435\u0442\u0440\u043E\u043C 10-12 \u0441\u0430\u043D\u0442\u0438\u043C\u0435\u0442\u0440\u043E\u0432. \u041A\u0440\u0430\u044F \u0437\u0430\u0433\u0438\u0431\u0430\u044E\u0442\u0441\u044F, \u0438 \u0432 \u0441\u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0435 \u0442\u0430\u043A\u0438\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u043A\u043E\u0440\u0437\u0438\u043D\u043A\u0438 \u0443\u043A\u043B\u0430\u0434\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u043D\u0430\u044F \u043D\u0430\u0447\u0438\u043D\u043A\u0430 \u0438\u0437 \u0441\u0432\u0430\u0440\u0435\u043D\u043D\u044B\u0445 \u0437\u0430\u0440\u0430\u043D\u0435\u0435 \u043A\u0430\u0440\u0442\u043E\u0444\u0435\u043B\u044F \u0438 \u043C\u043E\u0440\u043A\u043E\u0432\u0438, \u043F\u0435\u0440\u0435\u043C\u0435\u0448\u0430\u043D\u043D\u044B\u0445 \u0441 \u044F\u0439\u0446\u043E\u043C, \u043F\u043E\u043B\u0438\u0442\u044B\u0445 \u0441\u043C\u0435\u0442\u0430\u043D\u043E\u0439 \u0438\u043B\u0438 \u0441\u043B\u0438\u0432\u043A\u0430\u043C\u0438. \u0412\u044B\u043F\u0435\u043A\u0430\u0435\u0442\u0441\u044F \u0432 \u043F\u0440\u0435\u0434\u0432\u0430\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0435\u0442\u043E\u0439 \u0434\u0443\u0445\u043E\u0432\u043A\u0435 \u0434\u043E \u043F\u043E\u043B\u043D\u043E\u0439 \u0433\u043E\u0442\u043E\u0432\u043D\u043E\u0441\u0442\u0438. \u041D\u0430\u0447\u0438\u043D\u043A\u0430 \u0434\u043B\u044F \u0441\u043A\u043B\u0430\u043D\u0434\u0440\u0430\u0443\u0441\u0438\u0441\u0430 \u043C\u043E\u0436\u0435\u0442 \u043C\u0435\u043D\u044F\u0442\u044C\u0441\u044F \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438 \u043E\u0442 \u043F\u0440\u043E\u043F\u043E\u0440\u0446\u0438\u0439 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442\u043E\u0432. \u0412 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0441\u043F\u0435\u0446\u0438\u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442 \u0442\u043C\u0438\u043D, \u0438\u043D\u043E\u0433\u0434\u0430 \u043A\u0430\u0440\u0442\u043E\u0444\u0435\u043B\u044C \u0441\u043C\u0435\u0448\u0438\u0432\u0430\u044E\u0442 \u0441 \u0442\u0432\u043E\u0440\u043E\u0433\u043E\u043C. \u0412\u044B\u043D\u0443\u0442\u044B\u0439 \u0438\u0437 \u0434\u0443\u0445\u043E\u0432\u043A\u0438 \u0441\u043A\u043B\u0430\u043D\u0434\u0440\u0430\u0443\u0441\u0438\u0441 \u043F\u043E\u0441\u044B\u043F\u0430\u044E\u0442 \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u0438\u043C \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\u043C \u0441\u0430\u0445\u0430\u0440\u0430, \u043F\u043E\u0434\u0430\u044E\u0442 \u043A \u0441\u0442\u043E\u043B\u0443 \u043E\u0445\u043B\u0430\u0436\u0434\u0451\u043D\u043D\u044B\u043C. \u0415\u0434\u044F\u0442 \u0441 \u043C\u0430\u0441\u043B\u043E\u043C \u0438 \u043C\u0451\u0434\u043E\u043C, \u0437\u0430\u043F\u0438\u0432\u0430\u044E\u0442 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u043C \u043C\u043E\u043B\u043E\u043A\u043E\u043C."@ru ,
@@ -2363,17 +2363,17 @@ dbpedia:Irish_stew	rdf:type	yago:Stews ,
 		yago:Abstraction100002137 ,
 		yago:Fret114403560 ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns5:נזיד_בשר_אירי ,
+	owl:sameAs	ns5:????_???_???? ,
 		ns10:Irish_stew ,
 		<http://rdf.freebase.com/ns/m.03pvjd> ,
 		ns38:Irski_lonac ,
-		ns6:아이리시_스튜 ,
-		ns47:Ірландське_рагу .
+		ns6:????_?? ,
+		ns47:??????????_???? .
 @prefix ns50:	<http://hr.dbpedia.org/resource/> .
 dbpedia:Irish_stew	owl:sameAs	ns50:Irski_lonac ,
 		ns15:Irish_stew ,
-		ns7:Ирландское_рагу ,
-		ns43:Irlanda_stufaĵo ,
+		ns7:??????????_???? ,
+		ns43:Irlanda_stufajo ,
 		ns41:Irish_stew ,
 		ns11:Irish_stew .
 @prefix ns51:	<http://eu.dbpedia.org/resource/> .
@@ -2382,13 +2382,13 @@ dbpedia:Irish_stew	owl:sameAs	ns51:Irlandar_erregosi ,
 		ns12:Irish_Stew ,
 		ns34:Irish_stew .
 @prefix ns52:	<http://hu.dbpedia.org/resource/> .
-dbpedia:Irish_stew	owl:sameAs	ns52:Irlandi_ürügulyás ,
+dbpedia:Irish_stew	owl:sameAs	ns52:Irlandi_�r�guly�s ,
 		ns14:Gulasz_irlandzki ,
 		ns18:Irish_stew ,
-		ns9:Estofado_irlandés .
+		ns9:Estofado_irland�s .
 @prefix ns53:	<http://ga.dbpedia.org/resource/> .
 dbpedia:Irish_stew	owl:sameAs	ns53:Stobhach_Gaelach ,
-		ns13:アイリッシュシチュー ;
+		ns13:?????????? ;
 	dcterms:subject	category:Cuisine_of_Northern_Ireland ,
 		category:Irish_cuisine ,
 		category:Stews ;
@@ -2458,7 +2458,7 @@ dbpedia:Kaldereta	rdf:type	owl:Thing ,
 		ns10:Kaldereta ,
 		ns19:Q3543359 ,
 		<http://rdf.freebase.com/ns/m.03h2_5j> ,
-		ns13:カルデレータ ;
+		ns13:?????? ;
 	dcterms:subject	category:Stews ,
 		category:Luzon ,
 		category:Philippine_cuisine ,
@@ -2517,7 +2517,7 @@ dbpedia:Kaldereta	rdf:type	owl:Thing ,
 		yago:Whole100003553 ,
 		yago:Tableware104381994 ,
 		yago:PhysicalEntity100001930 ;
-	owl:sameAs	ns10:Salată_de_boeuf ,
+	owl:sameAs	ns10:Salata_de_boeuf ,
 		<http://rdf.freebase.com/ns/m.03gzjrf> ,
 		ns19:Q2895095 ;
 	dcterms:subject	category:Romanian_appetizers ,
@@ -2548,9 +2548,9 @@ dbpedia:Kaldereta	rdf:type	owl:Thing ,
 	dbpprop:name	"Salat\u0103 de boeuf"@en ;
 	dbpprop:region	dbpedia:Romania ;
 	dbpprop:served	"Cold"@en ;
-	foaf:isPrimaryTopicOf	ns26:Salată_de_boeuf ;
+	foaf:isPrimaryTopicOf	ns26:Salata_de_boeuf ;
 	ns27:wasDerivedFrom	<http://en.wikipedia.org/wiki/Salat\u0103_de_boeuf?oldid=545072633> ;
-	dbpprop:hasPhotoCollection	ns28:Salată_de_boeuf ;
+	dbpprop:hasPhotoCollection	ns28:Salata_de_boeuf ;
 	dbpedia-owl:wikiPageInLinkCount	2 ;
 	dbpedia-owl:wikiPageOutLinkCount	21 .
 dbpedia:Sopa_de_mondongo	rdf:type	owl:Thing ,
@@ -2611,19 +2611,19 @@ dbpedia:Sopa_de_mondongo	dbpedia-owl:wikiPageExternalLink	ns54:Sopa_de_Mondongo_
 	dbpedia-owl:wikiPageOutLinkCount	71 .
 dbpedia:Japanese_curry	rdf:type	owl:Thing ,
 		dbpedia-owl:Food ;
-	owl:sameAs	ns9:Curry_japonés .
+	owl:sameAs	ns9:Curry_japon�s .
 @prefix ns55:	<http://fa.dbpedia.org/resource/> .
-dbpedia:Japanese_curry	owl:sameAs	ns55:کاری_ژاپنی ,
+dbpedia:Japanese_curry	owl:sameAs	ns55:????_????? ,
 		<http://rdf.freebase.com/ns/m.08z2gl> ,
-		ns12:Karē ,
-		ns7:Японское_карри ,
-		ns31:日式咖喱飯 ,
+		ns12:Kare ,
+		ns7:????????_????? ,
+		ns31:????? ,
 		ns11:Curry_japonais ,
 		ns19:Q701870 ,
-		ns6:카레라이스 ,
-		ns18:Caril_japonês ,
+		ns6:????? ,
+		ns18:Caril_japon�s ,
 		ns33:Curry_giapponese ,
-		ns13:カレーライス ;
+		ns13:?????? ;
 	dcterms:subject	category:Curry ,
 		category:Japanese_cuisine ;
 	dbpedia-owl:abstract	"\u65E5\u5F0F\u5496\u54E9\u98EF\uFF08\u65E5\u8BED\uFF1A\u30AB\u30EC\u30FC\u30E9\u30A4\u30B9\uFF09\u662F\u4E00\u7A2E\u5E38\u898B\u7684\u65E5\u672C\u6599\u7406\u3002 \u5118\u7BA1\u5496\u55B1\u5728\u65E5\u672C\u767C\u63DA\u5EE3\u5927\uFF0C\u4F46\u537B\u5E76\u975E\u65E5\u672C\u539F\u7522\uFF0C\u800C\u662F\u81EA\u6B50\u6D32\u50B3\u4F86\u3002\u6700\u6709\u529B\u7684\u8AAA\u6CD5\u662F\u7531\u5370\u5EA6\u7684\u524D\u5B97\u4E3B\u570B\u82F1\u570B\u4EBA\u6240\u5E36\u5165\u65E5\u672C\u7684\u3002 \u73FE\u5728\u7684\u65E5\u5F0F\u5496\u54E9\u98EF\u5247\u878D\u5408\u4E86\u65E5\u672C\u8207\u6B50\u6D32\u7684\u7279\u8272\u3002\u65E5\u5F0F\u5496\u54E9\u98EF\u7684\u6750\u6599\u9664\u4E86\u852C\u83DC\u4EE5\u5916\uFF0C\u4E5F\u5305\u62EC\u725B\u8089\u3001\u8C6C\u8089\u6216\u96DE\u8089\uFF0C\u65E5\u5F0F\u5496\u54E9\u5473\u9053\u8F03\u5176\u4ED6\u5730\u5340\u7684\u5496\u54E9\u751C\uFF0C\u8F9B\u8FA3\u7A0B\u5EA6\u4E5F\u8F03\u4F4E\u3002\u5373\u4F7F\u5728\u65E5\u672C\uFF0C\u4E0D\u540C\u7684\u5730\u65B9\u4E5F\u6709\u4E0D\u540C\u7684\u98DF\u8089\u6587\u5316\uFF0C\u95DC\u897F\u5730\u65B9\u7684\u5496\u54E9\u98EF\u591A\u7528\u725B\u8089\uFF0C\u800C\u95DC\u6771\u537B\u591A\u7528\u8C6C\u8089\u3002"@zh ,
@@ -2679,9 +2679,9 @@ dbpedia:Japanese_curry	owl:sameAs	ns55:کاری_ژاپنی ,
 	dbpedia-owl:wikiPageOutLinkCount	97 .
 dbpedia:Guo_Bao_Rou	rdf:type	dbpedia-owl:Food ,
 		owl:Thing ;
-	owl:sameAs	ns31:锅包肉 ,
+	owl:sameAs	ns31:??? ,
 		ns19:Q553200 ,
-		ns6:궈바오러우 ,
+		ns6:????? ,
 		<http://rdf.freebase.com/ns/m.0h67tq8> ;
 	dcterms:subject	category:Chinese_cuisine ;
 	dbpedia-owl:abstract	"Gu\u014D B\u0101o R\u00F2u is a classic dish in Heilongjiang cuisine, originating in the Heilongjiang Province of Northern China. It consists of a bite-sized pieces of pork in potato starch batter, deep-fried until crispy. They are then lightly stewed in a variation of a sweet and sour sauce, made from freshly prepared caramel, rice vinegar and flavored with ginger and garlic, so the battering absorbs the sauce and softens. Beijing variant has the sauce thin and watery, while the dish as prepared in Dongbei itself often include thicker sauce with ketchup added to it, but both versions are characterized by an intense ginger and garlic flavor. In Manchuria, the sauce acts almost as a seasoning, not to overpower the taste of the fried pork- it is neither overly sweet or particularly viscous."@en ,
@@ -2816,10 +2816,10 @@ dbpedia:Pisca_Andina	rdf:type	owl:Thing ,
 		yago:Nutriment107570720 ,
 		yago:PhysicalEntity100001930 ,
 		yago:Substance100020090 ;
-	owl:sameAs	ns9:Purée_Mongole ,
+	owl:sameAs	ns9:Pur�e_Mongole ,
 		ns19:Q7261685 ,
 		<http://rdf.freebase.com/ns/m.01_dmm> ,
-		ns10:Purée_Mongole ;
+		ns10:Pur�e_Mongole ;
 	dcterms:subject	category:Soups ;
 	dbpedia-owl:abstract	"Pur\u00E9e Mongole, also called Cream Mongole, is a creamed split pea-tomato soup of unknown origin that dates back to the at least the late 19th century. Popular during the period between the 1920s\u20131940s, it is similar to boula. Pur\u00E9e Mongole is usually made with carrots, onions, white turnips, leeks, a stock (either beef or chicken) and milk. Depending on the recipe, it can be seasoned with curry powder, salt, pepper, ground cloves, turmeric, nutmeg, cumin, and basil. Simplified recipes printed in many cookbooks of the time, including the 1946 edition of the Joy of Cooking, used canned, condensed pea and tomato soups as a base with additional vegetables and seasonings added."@en ,
 		"El Pur\u00E9e Mongole es una especie de sopa que nada tiene que ver con la cocina de Mongolia a pesar de su denominaci\u00F3n, el plato es una invenci\u00F3n del cocinero Louis Diat, chef en el Ritz-Carlton Hotel del New York City, donde supuestamente fue inventada la receta del vichyssoise,"@es ;
@@ -2843,9 +2843,9 @@ dbpedia:Pisca_Andina	rdf:type	owl:Thing ,
 	dbpprop:mainIngredient	"Split peas, tomatoes, carrots, onions, white turnips, leeks, stock , milk"@en ;
 	dbpprop:name	"Pur\u00E9e Mongole"@en ;
 	dbpprop:type	dbpedia:Soup ;
-	foaf:isPrimaryTopicOf	ns26:Purée_Mongole ;
+	foaf:isPrimaryTopicOf	ns26:Pur�e_Mongole ;
 	ns27:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pur\u00E9e_Mongole?oldid=546476634> ;
-	dbpprop:hasPhotoCollection	ns28:Purée_Mongole ;
+	dbpprop:hasPhotoCollection	ns28:Pur�e_Mongole ;
 	dbpedia-owl:wikiPageInLinkCount	3 ;
 	dbpedia-owl:wikiPageOutLinkCount	18 .
 dbpedia:Woolton_pie	rdf:type	yago:SavouryPies ,
@@ -3104,7 +3104,7 @@ dbpedia:Bosnian_Pot	rdf:type	yago:Agitation114403107 ,
 dbpedia:Bosnian_Pot	owl:sameAs	ns56:Bosanski_lonac ,
 		ns19:Q894347 .
 @prefix ns57:	<http://sr.dbpedia.org/resource/> .
-dbpedia:Bosnian_Pot	owl:sameAs	ns57:Босански_лонац ,
+dbpedia:Bosnian_Pot	owl:sameAs	ns57:????????_????? ,
 		ns12:Bosanski_Lonac ,
 		ns9:Bosanski_lonac ,
 		ns10:Bosnian_Pot ,
@@ -3209,7 +3209,7 @@ dbpedia:Pichelsteiner	rdf:type	yago:Abstraction100002137 ,
 		dbpedia-owl:Food ;
 	owl:sameAs	ns19:Q1307595 ,
 		ns12:Pichelsteiner ,
-		ns38:Pihelštajner ,
+		ns38:Pihel�tajner ,
 		ns10:Pichelsteiner ,
 		<http://rdf.freebase.com/ns/m.0h52nb1> ;
 	dcterms:subject	category:Stews ,
@@ -3304,12 +3304,12 @@ dbpedia:Caldillo_de_congrio	dbpedia-owl:wikiPageExternalLink	ns58:Caldillo_de_Co
 dbpedia:Popiah	rdf:type	dbpedia-owl:Food ,
 		owl:Thing .
 @prefix ns59:	<http://vi.dbpedia.org/resource/> .
-dbpedia:Popiah	owl:sameAs	ns59:Bò_bía ,
+dbpedia:Popiah	owl:sameAs	ns59:B�_b�a ,
 		ns9:Popiah ,
 		ns19:Q3092677 ,
 		ns11:Popiah ,
 		<http://rdf.freebase.com/ns/m.04bstj> ,
-		ns31:潤餅卷 ,
+		ns31:??? ,
 		ns44:Popia ;
 	dcterms:subject	category:Malaysian_cuisine ,
 		category:Chiuchow_cuisine ,
@@ -3469,7 +3469,7 @@ dbpedia:Cezerye	rdf:type	dbpedia-owl:Food ,
 		owl:Thing ;
 	owl:sameAs	ns9:Cezerye ,
 		<http://rdf.freebase.com/ns/m.03chpwm> ,
-		ns7:Джезерье .
+		ns7:???????? .
 @prefix ns61:	<http://tr.dbpedia.org/resource/> .
 dbpedia:Cezerye	owl:sameAs	ns61:Cezerye ,
 		ns19:Q2338350 ;
