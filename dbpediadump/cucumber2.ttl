@@ -1,0 +1,1386 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Tzatziki	rdf:type	yago:Flavorer107809368 ,
+		yago:Substance100020090 ,
+		yago:Foodstuff107566340 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Tzatziki	rdf:type	owl:Thing ,
+		yago:Ingredient107809096 ,
+		yago:Sauce107829412 ,
+		yago:Sauces ,
+		yago:Appetizer107581346 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Tzatziki	rdf:type	dbpedia-owl:Food ,
+		yago:Appetizers ,
+		yago:Food100021265 ,
+		yago:Nutriment107570720 ,
+		yago:Condiment107810907 ,
+		yago:Matter100020827 ,
+		yago:Course107556970 .
+@prefix ns5:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns5:Tzatziki .
+@prefix ns6:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns6:Дзадзики .
+@prefix ns7:	<http://de.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns7:Tsatsiki .
+@prefix ns8:	<http://la.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns8:Tzatzicium .
+@prefix ns9:	<http://ka.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns9:ძაძიკი .
+@prefix ns10:	<http://www.wikidata.org/entity/> .
+dbpedia:Tzatziki	owl:sameAs	ns10:Q836538 .
+@prefix ns11:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns11:Dzadzíki .
+@prefix ns12:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns12:Tzatzíki .
+@prefix ns13:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns13:青瓜酸乳酪醬汁 .
+@prefix ns14:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns14:ザジキ .
+@prefix ns15:	<http://cs.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns15:Tzatziki .
+@prefix ns16:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns16:Дзадзики .
+@prefix ns17:	<http://he.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns17:צזיקי .
+@prefix ns18:	<http://eo.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns18:Tsatsiki .
+@prefix ns19:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns19:Cacyki .
+@prefix ns20:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns20:Tzatziki .
+@prefix ns21:	<http://el.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns21:Τζατζίκι .
+@prefix ns22:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns22:Tzatziki .
+@prefix ns23:	<http://no.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns23:Tzatziki .
+@prefix ns24:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns24:Tzatziki .
+@prefix ns25:	<http://es.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns25:Tzatziki ,
+		<http://rdf.freebase.com/ns/m.0hpf8> .
+@prefix ns26:	<http://yago-knowledge.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns26:Tzatziki .
+@prefix ns27:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns27:ماست_و_خیار .
+@prefix ns28:	<http://it.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns28:Tzatziki .
+@prefix ns29:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns29:Дзадзикі .
+@prefix ns30:	<http://da.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns30:Tzatziki .
+@prefix ns31:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Tzatziki	owl:sameAs	ns31:Tsatsiki .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Tzatziki	dcterms:subject	category:Appetizers ,
+		category:Cypriot_cuisine ,
+		category:Sauces ,
+		<http://dbpedia.org/resource/Category:Dips_(food)> ,
+		category:Greek_cuisine ;
+	dbpedia-owl:abstract	"\u9752\u74DC\u9178\u4E73\u916A\u91AC\u6C41\uFF08\u6216\uFF0C\u62FC\u5BEB\u4F5CTzatziki\u6216tzadziki\uFF0C\uFF1B\u963F\u5C14\u5DF4\u5C3C\u4E9A\u8BED\uFF1Axaxiq\uFF1B\u6CE2\u65AF\u8A9E\uFF1A\u0645\u0627\u0633\u062A \u0648 \u062E\u06CC\u0627\u0631\u200E\uFF09\u662F\u4E00\u7A2E\u6E90\u65BC\u5E0C\u81D8\u53CA\u571F\u8033\u5176\u7684\u9EDE\u91AC\uFF0C\u5229\u7528\u4E86\u9752\u74DC\uFF08\u5C0F\u9EC3\u74DC\uFF09\u53CA\u4EE5\u7F8A\u5976\uFF08\u7DBF\u7F8A\u5976\u6216\u5C71\u7F8A\u5976\uFF09\u88FD\u6210\u7684\u9178\u4E73\u916A\uFF08\u812B\u4E73\u6E05\u9178\u5976\uFF09\u4F86\u505A\uFF0C\u5E38\u898B\u65BC\u524D\u83DC\uFF0C\u88AB\u8A8D\u70BA\u662F\u4E00\u7A2E\u53EF\u66FF\u4EE3\u86CB\u9EC3\u91AC\u7684\u5065\u5EB7\u9078\u64C7\uFF0C\u53EF\u4EE5\u7528\u4F86\u5857\u9EB5\u5305\uFF08\u5305\u62EC\u76AE\u5854\u9905\uFF09\u3002"@zh ,
+		"Tzatziki \u00E9 um acepipe t\u00EDpico da culin\u00E1ria da Gr\u00E9cia, tamb\u00E9m usado como molho de souvlaki e de gyros. \u00C9 preparado com iogurte (normalmente de leite de ovelha ou de cabra, na Gr\u00E9cia e na Turquia), pepino, alho, sal, azeite, pimenta preta e endro, sendo por vezes tamb\u00E9m acrescentados sumo de lim\u00E3o e salsa ou hortel\u00E3. Os pepinos s\u00E3o transformados em pur\u00E9 e espremidos ou cortados em cubos pequenos. Usam-se frequentemente azeite, azeitonas e ervas como complemento. \u00C9 sempre servido frio. No Chipre, o prato \u00E9 conhecido informalmente como ttalattouri, incluindo as receitas locais menos alhos e hortel\u00E3 com mais frequ\u00EAncia que a receita grega. Em restaurantes tur\u00EDsticos e fora da Gr\u00E9cia e do Chipre, o tzatziki \u00E9 frequentemente servido com p\u00E3o (uma fatia ou pita), como parte do primeiro prato de uma refei\u00E7\u00E3o. Os gregos, os cipriotas e os habitantes do m\u00E9dio oriente em geral usam este prato como acompanhamento de pratos de carne. A acidez corta a gordura, sendo o tzatziki usado como molho de souvlaki de gyros, sendo nesse caso designado como molho de pepino (em especial nos EUA). A palavra grega \u00E9 derivada da palavra da l\u00EDngua turca cac\u0131k, que designa uma esp\u00E9cie de chetnim (o cac\u0131k, o prato do lado turco do Chipre, \u00E9 mais dilu\u00EDdo). Uma varia\u00E7\u00E3o proveniente das montanhas do C\u00E1ucaso, chamada ovdukh, usa kefir em vez de iogurte, criando assim uma bebida refrescante de ver\u00E3o. Nos EUA, o tzatziki \u00E9 por vezes preparado com natas em vez de iogurte."@pt ,
+		"El tzatziki (en griego se denomina \"\u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9\"; tambi\u00E9n se puede encontrar transcripto como jajiki; en turco, cac\u0131k) es una salsa caracter\u00EDstica de las cocinas griega y turca, muy empleada en los meze."@es ,
+		"\u30B6\u30B8\u30AD\u307E\u305F\u306F\u30B8\u30E3\u30B8\u30AD\uFF08\u30AE\u30EA\u30B7\u30A2\u8A9E \u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9\uFF09\u3068\u306F\u3001\u30AE\u30EA\u30B7\u30E3\u306E\u30E1\u30BC\u307E\u305F\u306F\u524D\u83DC\u306E\u4E00\u3064\u3067\u3042\u308A\u3001\u30B9\u30D6\u30E9\u30AD\u3068\u30AE\u30ED\u30D4\u30BF\u306B\u6DFB\u3048\u308B\u30BD\u30FC\u30B9\u3068\u3057\u3066\u4F7F\u308F\u308C\u308B\u3002"@ja ,
+		"Lo tzatziki \u00E8 un tipo di antipasto greco, bulgaro e armeno usato anche come salsa o contorno."@it ,
+		"Tzatziki eller Cac\u0131k p\u00E5 turkiska \u00E4r en variant av vitl\u00F6kss\u00E5s som har sina r\u00F6tter i det grekiska och turkiska k\u00F6ket, men \u00E4r en v\u00E4ldigt k\u00E4nd r\u00E4tt i hela v\u00E4rlden. Tzatziki (cac\u0131k) inneh\u00E5ller yoghurt, riven gurka, salt, vitl\u00F6k och enligt gammaldags recept ska det \u00E4ven vara rak\u0131 i s\u00E5sen. S\u00E5sen serveras till f\u00F6rr\u00E4tt, anv\u00E4nds som s\u00E5s till grillat k\u00F6tt eller som dipp till chips."@sv ,
+		"Tzatziki is a Greek appetizer, also used as a sauce for souvlaki and gyros. Tzatziki is made of strained yogurt mixed with cucumbers, garlic, salt, olive oil, and sometimes lemon juice, and dill or mint or parsley. Tzatziki is always served cold. While in Greece and Turkey the dish is usually served as an accompaniment, in other places tzatziki is often served with bread as part of the first course of a meal."@en ,
+		"Le tzatz\u00EDki ou concombre \u00E0 la grecque (en grec \u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9, prononc\u00E9 dzadz\u00EDki, parfois \u00E9crit jajiki) est un mezz\u00E9 grec (le tzatz\u00EDki) et turc (il se nomme alors djadjik) qui peut \u00EAtre utilis\u00E9 comme sauce ou comme entr\u00E9e. Le mot serait d\u00E9riv\u00E9 du turc cac\u0131k qui d\u00E9signe une sorte de condiment. La recette turque est souvent plus liquide que la recette grecque. A Chypre, le tzatziki est aussi appel\u00E9 \"talatouri\" par les Chypriotes grecs. Le tzatziki est compos\u00E9 de yaourt (de ch\u00E8vre ou de brebis en Gr\u00E8ce et en Turquie), de concombres (soit en pur\u00E9e, soit en fines tranches), d'oignons et d'ail (parfois toute une t\u00EAte d'ail pour un grand bol de tzatziki). Le tzatziki est g\u00E9n\u00E9ralement assaisonn\u00E9 avec de l'huile d'olive et des herbes telles que la menthe, l'aneth ou le fenouil, auxquels on peut ajouter une cuiller\u00E9e de vinaigre. On le sert souvent comme entr\u00E9e, sur un pain pita, accompagn\u00E9 d'olives. Un plat similaire, appel\u00E9 djadjik, existe en Irak. On trouve une autre variante, appel\u00E9e ovdukh, dans le Caucase, o\u00F9 le k\u00E9fir remplace le yaourt. Celle-ci peut servir de boisson rafra\u00EEchissante en \u00E9t\u00E9 ou bien \u00EAtre vers\u00E9e sur un m\u00E9lange de l\u00E9gumes, d'\u0153ufs et de jambon, ce qui donne une variante de la soupe russe, okro\u0161ka. Le tzatziki peut \u00EAtre compar\u00E9 \u00E0 la ra\u00EFta indienne, qui sert \u00E9galement d'accompagnement \u00E0 d'autres plats. Le nom juif s\u00E9pharade de cette sauce est, du moins en Gr\u00E8ce et en Bulgarie, tarator."@fr ,
+		"Tzatziki is een traditioneel Grieks gerecht, dat bereid wordt met Griekse yoghurt, knoflook, komkommer, olijfolie en kruiden, zoals dille en een beetje peterselie. Eerst worden de komkommers doormidden gesneden, en worden de zaadlijsten eruitgehaald. De komkommer wordt vervolgens grof geraspt en in een centrifuge gedaan, of uitgeknepen in een schone theedoek, totdat de komkommer droog is. De knoflook wordt gepeld en gemengd met wat olijfolie, en fijngemaakt in een blender, met wat peper, dille en peterselie. Dit wordt bij de geraspte komkommer gevoegd. Dan wordt het geheel met een pannenlikker of garde door de yoghurt heen gemengd. Soms wordt de yoghurt van tevoren in een doek gegoten om te laten uithangen, zodat deze dikker wordt. Tzatziki wordt vaak gegeten bij knoflookbrood: men kan dit maken door een stokbrood open te snijden, dat vervolgens met geblende knoflook, peper, zout en olie te besmeren, en het zes minuten in de oven te doen, op 220 graden. De Turkse versie van tzatziki is cac\u0131k. Een Turks gerecht dat op tzatziki lijkt is haydari, met kruizemunt."@nl ,
+		"Tsatsiki oder Zaziki ist eine Zubereitung der griechischen K\u00FCche aus Joghurt, Gurken, Oliven\u00F6l und Knoblauch. Zur Zubereitung wird zuerst stichfester Joghurt in ein Tuch gegeben, damit die Molke abtropft, die gesch\u00E4lte und entkernte Gurke wird geraffelt, gesalzen, eine Weile stehen gelassen und ausgedr\u00FCckt. Anschlie\u00DFend werden Joghurt und Gurke vermischt, mit Salz, Pfeffer und gehacktem Knoblauch gew\u00FCrzt und mit einem Schuss Oliven\u00F6l vollendet. Zum Garnieren wird \u00FCblicherweise Dill verwendet. Tsatsiki wird als typische kalte Vorspeise mit Brot serviert und ist Bestandteil der Mezedes (Vorspeisenplatte). Oft wird er auch zu Fleischgerichten wie Gyros oder Souvlaki gereicht. \u00C4hnliche Rezepte sind bereits aus dem antiken Mesopotamien bekannt. Verwandt sind neben dem t\u00FCrkischen Cac\u0131k noch das albanische Taratoi, das bulgarische Tarator, das persische Mast o khiar und das indische Kheere ka Raita. Tsatsiki wird jedoch aus stichfestem oder entw\u00E4ssertem Joghurt hergestellt und hat dadurch eine festere, quark\u00E4hnliche Konsistenz."@de ,
+		"\u0414\u0437\u0430\u0434\u0437\u0438\u0301\u043A\u0438 (\u0442\u0430\u043A\u0436\u0435 \u0446\u0430\u0446\u0438\u043A\u0438, \u0442\u0446\u0430\u0442\u0446\u0438\u043A\u0438; \u0433\u0440\u0435\u0447. \u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9)\u00A0\u2014 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u043E\u0443\u0441-\u0437\u0430\u043A\u0443\u0441\u043A\u0430 \u0438\u0437 \u0439\u043E\u0433\u0443\u0440\u0442\u0430, \u0441\u0432\u0435\u0436\u0435\u0433\u043E \u043E\u0433\u0443\u0440\u0446\u0430 \u0438 \u0447\u0435\u0441\u043D\u043E\u043A\u0430, \u0442\u0438\u043F\u0438\u0447\u043D\u043E\u0435 \u0431\u043B\u044E\u0434\u043E \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438. \u0414\u043B\u044F \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u0438\u044F \u0446\u0430\u0446\u0438\u043A\u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442 \u0433\u0443\u0441\u0442\u043E\u0439 \u043E\u0442\u0436\u0430\u0442\u044B\u0439 \u0447\u0435\u0440\u0435\u0437 \u043A\u0443\u0441\u043E\u043A \u043C\u0430\u0440\u043B\u0438 \u0439\u043E\u0433\u0443\u0440\u0442 \u0431\u0435\u0437 \u0432\u043A\u0443\u0441\u043E\u0432\u044B\u0445 \u0434\u043E\u0431\u0430\u0432\u043E\u043A. \u0412 \u043D\u0435\u0433\u043E \u043A\u043B\u0430\u0434\u0443\u0442 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0437\u0443\u0431\u0447\u0438\u043A\u043E\u0432 \u0447\u0435\u0441\u043D\u043E\u043A\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043D\u0430\u0442\u0451\u0440\u0442\u044B\u0439 \u043D\u0430 \u0442\u0451\u0440\u043A\u0435 \u0438 \u043E\u0442\u0436\u0430\u0442\u044B\u0439 \u043E\u0433\u0443\u0440\u0435\u0446, \u0437\u0430\u0442\u0435\u043C \u0437\u0430\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0442 \u0441\u043E\u043B\u044C\u044E \u0438 \u043F\u0435\u0440\u0446\u0435\u043C \u0438 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u043E\u043B\u0438\u0432\u043A\u043E\u0432\u043E\u0433\u043E \u043C\u0430\u0441\u043B\u0430. \u0418\u043D\u043E\u0433\u0434\u0430 \u0442\u0430\u043A\u0436\u0435 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u043B\u0438\u043C\u043E\u043D\u043D\u044B\u0439 \u0441\u043E\u043A, \u0443\u043A\u0440\u043E\u043F, \u043F\u0435\u0442\u0440\u0443\u0448\u043A\u0443 \u0438\u043B\u0438 \u043C\u044F\u0442\u0443. \u0426\u0430\u0446\u0438\u043A\u0438 \u043E\u0431\u044B\u0447\u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u043D\u043E\u0439 \u0447\u0430\u0441\u0442\u044C\u044E \u043C\u0435\u0437\u0435 \u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u0441\u043E\u0443\u0441-\u0434\u0438\u043F \u043A \u0445\u043B\u0435\u0431\u0443 \u0438\u043B\u0438 \u043E\u0432\u043E\u0449\u0430\u043C. \u0422\u0430\u043A\u0436\u0435 \u0441\u043E\u0443\u0441 \u0447\u0430\u0441\u0442\u043E \u043F\u043E\u0434\u0430\u044E\u0442 \u043A \u043C\u044F\u0441\u043D\u044B\u043C \u0431\u043B\u044E\u0434\u0430\u043C, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u043A \u0433\u0438\u0440\u043E\u0441 \u0438\u043B\u0438 \u0441\u0443\u0432\u043B\u0430\u043A\u0438, \u0438\u043B\u0438 \u043A \u0436\u0430\u0440\u0435\u043D\u043E\u0439 \u0440\u044B\u0431\u0435. \u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0441\u043E\u0443\u0441\u0430 \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0434\u0438\u0442 \u043E\u0442 \u0442\u0443\u0440\u0435\u0446\u043A\u043E\u0433\u043E \u0431\u043B\u044E\u0434\u0430 \u0434\u0436\u0430\u0434\u0436\u044B\u043A, \u0441\u043E\u0441\u0442\u043E\u044F\u0449\u0435\u0433\u043E \u0438\u0437 \u0442\u0435\u0445 \u0436\u0435 \u043F\u0440\u043E\u0434\u0443\u043A\u0442\u043E\u0432, \u043D\u043E \u0438\u043C\u0435\u044E\u0449\u0435\u0433\u043E \u0431\u043E\u043B\u0435\u0435 \u0436\u0438\u0434\u043A\u0443\u044E \u043A\u043E\u043D\u0441\u0438\u0441\u0442\u0435\u043D\u0446\u0438\u044E. \u0412 \u043A\u0438\u043F\u0440\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0435 \u0431\u043B\u044E\u0434\u043E \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u0442\u0430\u043B\u0430\u0442\u0443\u0440\u0438 (ttalattouri) \u0438, \u0432 \u043E\u0442\u043B\u0438\u0447\u0438\u0435 \u043E\u0442 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0440\u0435\u0446\u0435\u043F\u0442\u0430, \u0441\u043E\u0434\u0435\u0440\u0436\u0438\u0442 \u043C\u044F\u0442\u0443 \u0438 \u043C\u0435\u043D\u044C\u0448\u0435\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0447\u0435\u0441\u043D\u043E\u043A\u0430. \u0412 \u043C\u0430\u043A\u0435\u0434\u043E\u043D\u0441\u043A\u043E\u0439 \u0438 \u0431\u043E\u043B\u0433\u0430\u0440\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u044F\u0445 \u0430\u043D\u0430\u043B\u043E\u0433\u043E\u043C \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u0443\u043F \u0442\u0430\u0440\u0430\u0442\u043E\u0440 \u0438\u043B\u0438 \u0436\u0435 \u0435\u0433\u043E \u00AB\u0441\u0443\u0445\u043E\u0439\u00BB \u0432\u0430\u0440\u0438\u0430\u043D\u0442 \u0438\u0437 \u043E\u0442\u0436\u0430\u0442\u043E\u0433\u043E \u0439\u043E\u0433\u0443\u0440\u0442\u0430. \u0412 \u043F\u0435\u0440\u0441\u0438\u0434\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0435 \u0431\u043B\u044E\u0434\u043E \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F mast-o-khiar. \u0422\u0430\u043A\u0436\u0435 \u0434\u0437\u0430\u0434\u0437\u0438\u043A\u0438 \u043C\u043E\u0436\u043D\u043E \u0441\u0440\u0430\u0432\u043D\u0438\u0442\u044C \u0441 \u0438\u043D\u0434\u0438\u0439\u0441\u043A\u0438\u043C \u0441\u043E\u0443\u0441\u043E\u043C \u0440\u0430\u0438\u0442\u0430 \u0438\u0437 \u043E\u0433\u0443\u0440\u0446\u0430."@ru ,
+		"Cacyki \u2013 przybranie greckie, podawane jako dodatek do da\u0144 z grilla, sma\u017Conych, pieczonych lub podawane oddzielnie jako dip (najpopularniejsza przystawka w kuchni greckiej). Mo\u017Cna je te\u017C spo\u017Cywa\u0107 z zapieczonym pieczywem. Niezb\u0119dne sk\u0142adniki cacyk\u00F3w: grecki, g\u0119sty jogurt 10% drobno poszatkowany og\u00F3rek, posolony i odci\u015Bni\u0119ty z soku, roztarty lub sproszkowany czosnek, oliwa. Sk\u0142adniki cz\u0119sto dodawane: ocet winny papryka bia\u0142a pieprz, koperek rdze\u0144 korzenia pietruszki Istnieje jednak wiele przepis\u00F3w. Dodaje si\u0119 te\u017C oliwki, sok cytrynowy, mi\u0119t\u0119, fet\u0119, dodatkowe przyprawy do smaku. Przypisy"@pl ;
+	dbpedia-owl:ingredient	dbpedia:Lemonade ,
+		dbpedia:Strained_yogurt ,
+		dbpedia:Parsley ,
+		dbpedia:Salt ,
+		dbpedia:Olive_oil ,
+		dbpedia:Dill ,
+		dbpedia:Garlic ,
+		dbpedia:Cucumber ,
+		dbpedia:Mentha ;
+	dbpedia-owl:origin	dbpedia:Greece ;
+	dbpedia-owl:wikiPageID	67157 ;
+	dbpedia-owl:wikiPageRevisionID	545766049 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Tzatziki	rdfs:label	"\u30B6\u30B8\u30AD"@ja ,
+		"Cacyki"@pl ,
+		"\u9752\u74DC\u9178\u4E73\u916A\u91AC\u6C41"@zh ,
+		"Tzatziki"@it ,
+		"Tzatziki"@pt ,
+		"Tzatziki"@en ,
+		"Tzatz\u00EDki"@fr ,
+		"\u0414\u0437\u0430\u0434\u0437\u0438\u043A\u0438"@ru ,
+		"Tzatziki"@sv ,
+		"Tsatsiki"@de ,
+		"Tzatziki"@nl ,
+		"Tzatziki"@es .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Tzatziki	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/6/67/Tzatziki01.jpg> ;
+	rdfs:comment	"\u0414\u0437\u0430\u0434\u0437\u0438\u0301\u043A\u0438 (\u0442\u0430\u043A\u0436\u0435 \u0446\u0430\u0446\u0438\u043A\u0438, \u0442\u0446\u0430\u0442\u0446\u0438\u043A\u0438; \u0433\u0440\u0435\u0447. \u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9)\u00A0\u2014 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u043E\u0443\u0441-\u0437\u0430\u043A\u0443\u0441\u043A\u0430 \u0438\u0437 \u0439\u043E\u0433\u0443\u0440\u0442\u0430, \u0441\u0432\u0435\u0436\u0435\u0433\u043E \u043E\u0433\u0443\u0440\u0446\u0430 \u0438 \u0447\u0435\u0441\u043D\u043E\u043A\u0430, \u0442\u0438\u043F\u0438\u0447\u043D\u043E\u0435 \u0431\u043B\u044E\u0434\u043E \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438. \u0414\u043B\u044F \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u0438\u044F \u0446\u0430\u0446\u0438\u043A\u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442 \u0433\u0443\u0441\u0442\u043E\u0439 \u043E\u0442\u0436\u0430\u0442\u044B\u0439 \u0447\u0435\u0440\u0435\u0437 \u043A\u0443\u0441\u043E\u043A \u043C\u0430\u0440\u043B\u0438 \u0439\u043E\u0433\u0443\u0440\u0442 \u0431\u0435\u0437 \u0432\u043A\u0443\u0441\u043E\u0432\u044B\u0445 \u0434\u043E\u0431\u0430\u0432\u043E\u043A. \u0412 \u043D\u0435\u0433\u043E \u043A\u043B\u0430\u0434\u0443\u0442 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0437\u0443\u0431\u0447\u0438\u043A\u043E\u0432 \u0447\u0435\u0441\u043D\u043E\u043A\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043D\u0430\u0442\u0451\u0440\u0442\u044B\u0439 \u043D\u0430 \u0442\u0451\u0440\u043A\u0435 \u0438 \u043E\u0442\u0436\u0430\u0442\u044B\u0439 \u043E\u0433\u0443\u0440\u0435\u0446, \u0437\u0430\u0442\u0435\u043C \u0437\u0430\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0442 \u0441\u043E\u043B\u044C\u044E \u0438 \u043F\u0435\u0440\u0446\u0435\u043C \u0438 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u043E\u043B\u0438\u0432\u043A\u043E\u0432\u043E\u0433\u043E \u043C\u0430\u0441\u043B\u0430. \u0418\u043D\u043E\u0433\u0434\u0430 \u0442\u0430\u043A\u0436\u0435 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u043B\u0438\u043C\u043E\u043D\u043D\u044B\u0439 \u0441\u043E\u043A, \u0443\u043A\u0440\u043E\u043F, \u043F\u0435\u0442\u0440\u0443\u0448\u043A\u0443 \u0438\u043B\u0438 \u043C\u044F\u0442\u0443."@ru ,
+		"Cacyki \u2013 przybranie greckie, podawane jako dodatek do da\u0144 z grilla, sma\u017Conych, pieczonych lub podawane oddzielnie jako dip (najpopularniejsza przystawka w kuchni greckiej). Mo\u017Cna je te\u017C spo\u017Cywa\u0107 z zapieczonym pieczywem. Niezb\u0119dne sk\u0142adniki cacyk\u00F3w: grecki, g\u0119sty jogurt 10% drobno poszatkowany og\u00F3rek, posolony i odci\u015Bni\u0119ty z soku, roztarty lub sproszkowany czosnek, oliwa."@pl ,
+		"Tzatziki is een traditioneel Grieks gerecht, dat bereid wordt met Griekse yoghurt, knoflook, komkommer, olijfolie en kruiden, zoals dille en een beetje peterselie. Eerst worden de komkommers doormidden gesneden, en worden de zaadlijsten eruitgehaald. De komkommer wordt vervolgens grof geraspt en in een centrifuge gedaan, of uitgeknepen in een schone theedoek, totdat de komkommer droog is."@nl ,
+		"\u9752\u74DC\u9178\u4E73\u916A\u91AC\u6C41\uFF08\u6216\uFF0C\u62FC\u5BEB\u4F5CTzatziki\u6216tzadziki\uFF0C\uFF1B\u963F\u5C14\u5DF4\u5C3C\u4E9A\u8BED\uFF1Axaxiq\uFF1B\u6CE2\u65AF\u8A9E\uFF1A\u0645\u0627\u0633\u062A \u0648 \u062E\u06CC\u0627\u0631\u200E\uFF09\u662F\u4E00\u7A2E\u6E90\u65BC\u5E0C\u81D8\u53CA\u571F\u8033\u5176\u7684\u9EDE\u91AC\uFF0C\u5229\u7528\u4E86\u9752\u74DC\uFF08\u5C0F\u9EC3\u74DC\uFF09\u53CA\u4EE5\u7F8A\u5976\uFF08\u7DBF\u7F8A\u5976\u6216\u5C71\u7F8A\u5976\uFF09\u88FD\u6210\u7684\u9178\u4E73\u916A\uFF08\u812B\u4E73\u6E05\u9178\u5976\uFF09\u4F86\u505A\uFF0C\u5E38\u898B\u65BC\u524D\u83DC\uFF0C\u88AB\u8A8D\u70BA\u662F\u4E00\u7A2E\u53EF\u66FF\u4EE3\u86CB\u9EC3\u91AC\u7684\u5065\u5EB7\u9078\u64C7\uFF0C\u53EF\u4EE5\u7528\u4F86\u5857\u9EB5\u5305\uFF08\u5305\u62EC\u76AE\u5854\u9905\uFF09\u3002"@zh ,
+		"Lo tzatziki \u00E8 un tipo di antipasto greco, bulgaro e armeno usato anche come salsa o contorno."@it ,
+		"El tzatziki (en griego se denomina \"\u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9\"; tambi\u00E9n se puede encontrar transcripto como jajiki; en turco, cac\u0131k) es una salsa caracter\u00EDstica de las cocinas griega y turca, muy empleada en los meze."@es ,
+		"Le tzatz\u00EDki ou concombre \u00E0 la grecque (en grec \u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9, prononc\u00E9 dzadz\u00EDki, parfois \u00E9crit jajiki) est un mezz\u00E9 grec (le tzatz\u00EDki) et turc (il se nomme alors djadjik) qui peut \u00EAtre utilis\u00E9 comme sauce ou comme entr\u00E9e. Le mot serait d\u00E9riv\u00E9 du turc cac\u0131k qui d\u00E9signe une sorte de condiment. La recette turque est souvent plus liquide que la recette grecque. A Chypre, le tzatziki est aussi appel\u00E9 \"talatouri\" par les Chypriotes grecs."@fr ,
+		"Tsatsiki oder Zaziki ist eine Zubereitung der griechischen K\u00FCche aus Joghurt, Gurken, Oliven\u00F6l und Knoblauch. Zur Zubereitung wird zuerst stichfester Joghurt in ein Tuch gegeben, damit die Molke abtropft, die gesch\u00E4lte und entkernte Gurke wird geraffelt, gesalzen, eine Weile stehen gelassen und ausgedr\u00FCckt. Anschlie\u00DFend werden Joghurt und Gurke vermischt, mit Salz, Pfeffer und gehacktem Knoblauch gew\u00FCrzt und mit einem Schuss Oliven\u00F6l vollendet. Zum Garnieren wird \u00FCblicherweise Dill verwendet."@de ,
+		"\u30B6\u30B8\u30AD\u307E\u305F\u306F\u30B8\u30E3\u30B8\u30AD\uFF08\u30AE\u30EA\u30B7\u30A2\u8A9E \u03C4\u03B6\u03B1\u03C4\u03B6\u03AF\u03BA\u03B9\uFF09\u3068\u306F\u3001\u30AE\u30EA\u30B7\u30E3\u306E\u30E1\u30BC\u307E\u305F\u306F\u524D\u83DC\u306E\u4E00\u3064\u3067\u3042\u308A\u3001\u30B9\u30D6\u30E9\u30AD\u3068\u30AE\u30ED\u30D4\u30BF\u306B\u6DFB\u3048\u308B\u30BD\u30FC\u30B9\u3068\u3057\u3066\u4F7F\u308F\u308C\u308B\u3002"@ja ,
+		"Tzatziki eller Cac\u0131k p\u00E5 turkiska \u00E4r en variant av vitl\u00F6kss\u00E5s som har sina r\u00F6tter i det grekiska och turkiska k\u00F6ket, men \u00E4r en v\u00E4ldigt k\u00E4nd r\u00E4tt i hela v\u00E4rlden. Tzatziki (cac\u0131k) inneh\u00E5ller yoghurt, riven gurka, salt, vitl\u00F6k och enligt gammaldags recept ska det \u00E4ven vara rak\u0131 i s\u00E5sen. S\u00E5sen serveras till f\u00F6rr\u00E4tt, anv\u00E4nds som s\u00E5s till grillat k\u00F6tt eller som dipp till chips."@sv ,
+		"Tzatziki \u00E9 um acepipe t\u00EDpico da culin\u00E1ria da Gr\u00E9cia, tamb\u00E9m usado como molho de souvlaki e de gyros. \u00C9 preparado com iogurte (normalmente de leite de ovelha ou de cabra, na Gr\u00E9cia e na Turquia), pepino, alho, sal, azeite, pimenta preta e endro, sendo por vezes tamb\u00E9m acrescentados sumo de lim\u00E3o e salsa ou hortel\u00E3. Os pepinos s\u00E3o transformados em pur\u00E9 e espremidos ou cortados em cubos pequenos. Usam-se frequentemente azeite, azeitonas e ervas como complemento. \u00C9 sempre servido frio."@pt ,
+		"Tzatziki is a Greek appetizer, also used as a sauce for souvlaki and gyros. Tzatziki is made of strained yogurt mixed with cucumbers, garlic, salt, olive oil, and sometimes lemon juice, and dill or mint or parsley. Tzatziki is always served cold. While in Greece and Turkey the dish is usually served as an accompaniment, in other places tzatziki is often served with bread as part of the first course of a meal."@en ;
+	foaf:name	"Tzatziki"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tzatziki01.jpg/200px-Tzatziki01.jpg> ;
+	dbpedia-owl:type	<http://dbpedia.org/resource/Hors_d\u0027oeuvre> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Tzatziki	dbpprop:country	dbpedia:Greece ,
+		dbpedia:Turkey ;
+	dbpprop:course	<http://dbpedia.org/resource/Hors_d\u0027oeuvre> ;
+	dbpprop:mainIngredient	"Strained yogurt, cucumbers, garlic, olive oil, salt and sometimes lemon juice, dill or mint or parsley"@en ;
+	dbpprop:name	"Tzatziki"@en ;
+	dbpprop:type	<http://dbpedia.org/resource/Dip_(food)> .
+@prefix ns37:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Tzatziki	foaf:isPrimaryTopicOf	ns37:Tzatziki .
+@prefix ns38:	<http://www.w3.org/ns/prov#> .
+dbpedia:Tzatziki	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tzatziki?oldid=545766049> .
+@prefix ns39:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Tzatziki	dbpprop:hasPhotoCollection	ns39:Tzatziki ;
+	dbpedia-owl:wikiPageInLinkCount	75 ;
+	dbpedia-owl:wikiPageOutLinkCount	62 .
+dbpedia-owl:ingredient	rdf:type	owl:ObjectProperty ;
+	rdfs:domain	dbpedia-owl:Food ;
+	rdfs:label	"ingredient"@en ,
+		"Zutat"@de ;
+	rdfs:comment	"An ingredient is a substance that forms part of a mixture (in a general sense). Here it is used in the context of recipes that specify which ingredients are used to prepare a specific dish or drink."@en .
+dbpedia-owl:species	rdf:type	owl:ObjectProperty ;
+	rdfs:domain	dbpedia-owl:Species ;
+	rdfs:label	"\u7A2E_(\u5206\u985E\u5B66)"@ja ,
+		"soort"@nl ,
+		"species"@en .
+dbpedia:Gherkin	rdf:type	owl:Thing ,
+		dbpedia-owl:Species ,
+		dbpedia-owl:Eukaryote ,
+		dbpedia-owl:CultivatedVariety ,
+		dbpedia-owl:Plant ;
+	owl:sameAs	ns31:Suolakurkku ,
+		ns6:Корнишон ,
+		ns19:Korniszon ,
+		ns29:Корнішон ,
+		ns30:Asie ,
+		ns5:Cornichong .
+@prefix ns40:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Gherkin	owl:sameAs	ns40:피클 .
+@prefix ns41:	<http://csb.dbpedia.org/resource/> .
+dbpedia:Gherkin	owl:sameAs	ns41:Kwaszoné_gùrczi ,
+		ns16:Корнишон ,
+		ns12:Cornichon ,
+		ns7:Gewürzgurke ,
+		ns10:Q1365891 ,
+		<http://rdf.freebase.com/ns/m.01szdy> .
+@prefix ns42:	<http://et.dbpedia.org/resource/> .
+dbpedia:Gherkin	owl:sameAs	ns42:Hapukurk ,
+		ns14:ピクルス ,
+		ns22:Augurk ,
+		ns25:Pepinillo ;
+	dcterms:subject	category:Fruit_vegetables ,
+		category:Pickles ;
+	dbpedia-owl:abstract	"\u041A\u043E\u0440\u043D\u0438\u0448\u043E\u0301\u043D \u2014 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0433\u0440\u0443\u043F\u043F \u043C\u0435\u043B\u043A\u043E\u043F\u043B\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0442\u043E\u0432 \u0440\u0430\u0441\u0442\u0435\u043D\u0438\u0439 \u0432\u0438\u0434\u0430 \u041E\u0433\u0443\u0440\u0435\u0446 \u043F\u043E\u0441\u0435\u0432\u043D\u043E\u0439, \u0438 \u0438\u0445 \u043C\u0435\u043B\u043A\u0438\u0445 \u043F\u043B\u043E\u0434\u043E\u0432, \u0441\u043D\u044F\u0442\u044B\u0445 \u0434\u043E \u043F\u043E\u043B\u043D\u043E\u0433\u043E \u0441\u043E\u0437\u0440\u0435\u0432\u0430\u043D\u0438\u044F \u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0445 \u0434\u043B\u044F \u043A\u043E\u043D\u0441\u0435\u0440\u0432\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F, \u043E\u0431\u044B\u0447\u043D\u043E \u043C\u0435\u0442\u043E\u0434\u043E\u043C \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u0438\u044F. \u0422\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u043E \u0434\u043B\u0438\u043D\u0430 \u0442\u0430\u043A\u0438\u0445 \u043F\u043B\u043E\u0434\u043E\u0432 \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u0431\u043E\u043B\u0435\u0435 4 \u0441\u043C, \u043D\u043E \u043D\u0435 \u0434\u043E\u0441\u0442\u0438\u0433\u0430\u0435\u0442 8 \u0441\u043C. \u0422\u0435\u0440\u043C\u0438\u043D \u043D\u0435\u0440\u0435\u0434\u043A\u043E \u043F\u0440\u0438\u043C\u0435\u043D\u044F\u044E\u0442 \u0438 \u043A \u0441\u043D\u044F\u0442\u044B\u043C \u0432\u0441\u043A\u043E\u0440\u0435 \u043F\u043E\u0441\u043B\u0435 \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u044F \u0446\u0432\u0435\u0442\u0435\u043D\u0438\u044F \u043F\u043B\u043E\u0434\u0430\u043C \u043E\u0431\u044B\u0447\u043D\u044B\u0445 \u0441\u043E\u0440\u0442\u043E\u0432 \u043E\u0433\u0443\u0440\u0446\u0430 \u043E\u0431\u044B\u043A\u043D\u043E\u0432\u0435\u043D\u043D\u043E\u0433\u043E, \u0447\u0442\u043E \u043D\u0435\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E. \u0417\u0430\u0447\u0430\u0441\u0442\u0443\u044E \u043B\u044E\u0431\u044B\u0435 \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u043D\u044B\u0435 \u043E\u0433\u0443\u0440\u0446\u044B \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0440\u0430\u0437\u043C\u0435\u0440\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u043A\u043E\u0440\u043D\u0438\u0448\u043E\u043D\u0430\u043C\u0438. \u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F\u043C\u0438 \u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0445\u043E\u0437\u044F\u0439\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043F\u0440\u043E\u0434\u0443\u043A\u0446\u0438\u0438 \u043F\u043E\u043D\u044F\u0442\u0438\u0435 \u00AB\u043A\u043E\u0440\u043D\u0438\u0448\u043E\u043D\u00BB \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0438 \u043F\u0440\u043E\u0441\u0442\u043E \u043A\u0430\u043A \u043E\u0431\u043E\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0435 \u0432\u044B\u0441\u043E\u043A\u043E\u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u043F\u043B\u043E\u0434\u043E\u0432 \u0440\u0430\u0441\u0442\u0435\u043D\u0438\u0439 \u0432\u0438\u0434\u0430 \u043E\u0433\u0443\u0440\u0435\u0446, \u043F\u0440\u0435\u0434\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044B\u0445 \u0434\u043B\u044F \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u0438\u044F \u0438 \u0437\u0430\u0441\u043E\u043B\u043A\u0438. \u0412 XIX \u0432\u0435\u043A\u0435 \u043E\u0431\u044B\u0447\u043D\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0438 \u0434\u0440\u0443\u0433\u043E\u0435 \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0441\u043B\u043E\u0432\u0430 \u2014 \u00AB\u043A\u043E\u0440\u043D\u0438\u0448\u043E\u0442\u00BB."@ru ,
+		"El pepinillo es un pepino que ha sido encurtido. Suelen ser comercializados al natural o en conserva. En cualquier caso, son frecuentemente servidos como una guarnici\u00F3n de otros platos o como una tapa o aperitivo."@es ,
+		"Korniszon \u2013 niewielki og\u00F3rek gruntowy poddany marynowaniu w zalewie octowej, po uprzednim kiszeniu. Korniszon jest podawany jako dodatek, zak\u0105ska do potraw, przewa\u017Cnie mi\u0119snych i do w\u00F3dki."@pl ,
+		"De augurk behoort net als de komkommer tot de soort Cucumis sativus, maar het zijn geheel verschillende rassen. De augurk mag geen smaak van zichzelf hebben; de komkommersmaak moet geheel ontbreken. De teelt vindt vlakvelds of aan draad plaats. Vroeger was kruisbestuiving nodig, maar tegenwoordig zijn er ook bij de augurk-rassen die zonder bestuiving vruchtzetten. De vrucht is kort en wordt overwegend gebruikt voor het inleggen in azijn, al dan niet met suiker en verschillende kruiden om de smaak te be\u00EFnvloeden. De vrucht moet een lengte/dikte verhouding hebben van ongeveer 3:1 en mag niet buikig, taps, wrattig of ruw zijn. Er worden verschillende sorteringen in vruchtgrootte onderscheiden, zoals 'zeer fijn', 'fijn' en 'middelfijn'. De grootste vruchten worden gebruikt voor de zure bommen. Ook wordt de augurk gebruikt voor het maken van rolmops. De voedingswaarde uitgedrukt per 100 gram augurk is:"@nl ,
+		"Le cornichon est une plante herbac\u00E9e annuelle de la famille des Cucurbitaceae, cultiv\u00E9e pour ses fruits, r\u00E9colt\u00E9s avant maturit\u00E9 et consomm\u00E9s principalement comme condiment. Le nom scientifique est Cucumis sativus. Concombre et cornichon sont une m\u00EAme esp\u00E8ce. Historiquement le concombre \u00E9tait r\u00E9colt\u00E9 \u00E0 maturit\u00E9, \u00E0 la diff\u00E9rence du cornichon, puis des vari\u00E9t\u00E9s ont \u00E9t\u00E9 s\u00E9lectionn\u00E9es pour produire des cornichons et d'autres des concombres. Les s\u00E9lections effectu\u00E9es par l'Homme ont accentu\u00E9 les caract\u00E8res propres \u00E0 chacun, pour obtenir des cultivars distincts. Parmi les vari\u00E9t\u00E9s appr\u00E9ci\u00E9es de cornichons on peut citer le Fin de Meaux, le Vert petit de Paris, le D\u00E9licatesse, l\u2019Am\u00E9lior\u00E9 de Bourbonne et le Colet F1. Le mot cornichon est \u00E9galement, en langage familier, utilis\u00E9 pour d\u00E9signer un homme niais et stupide. C\u2019est aussi le surnom de l\u2019\u00E9l\u00E8ve de classe pr\u00E9paratoire \u00E0 l\u2019\u00C9cole sp\u00E9ciale militaire de Saint-Cyr. L\u2019appellation de cornichon de mer est parfois utilis\u00E9e pour d\u00E9signer la salicorne d'Europe, une plante d\u2019aspect fort diff\u00E9rent des cornichons et qui n\u2019est pas botaniquement de la m\u00EAme famille, et qui ne doit ce surnom qu\u2019\u00E0 cause d\u2019un usage culinaire similaire. Quand elle est jeune sa tige peut \u00EAtre confite dans le vinaigre et servir de condiment, \u00E0 la mani\u00E8re d\u2019un cornichon."@fr ,
+		"Cornichonger \u00E4r sm\u00E5 inlagda gurkor, ursprungligen en fransk inl\u00E4ggning av gurkor av arten Cucumis sativus. Smaken i cornichonger kommer fr\u00E5n inl\u00E4ggning med dill, senapsfr\u00F6 och paprika."@sv ,
+		"Gherkin is a term generally used to refer to a savoury pickled cucumber, particularly in the UK and Europe. Gherkins and commercial cucumbers belong to the same species, but are from different cultivar groups. They are usually picked when 4 to 8\u00A0cm (1 to 3 in) in length and pickled in jars or cans with vinegar (often flavored with herbs, particularly dill; hence, \"dill pickle\") or brine. The term can also be used to refer to the West Indian Burr Gherkin (Cucumis anguria), a related species, originally from West Africa and introduced to the West Indies, probably by the Portuguese. The Burr Gherkin, or badunga, cannot interbreed with the aforementioned Gherkin. It is edible and may be pickled, but must be picked when no longer than 4 centimetres long, since it becomes bitter and spiny if allowed to grow larger. Gherkins are traditionally served cold, as cooked gherkins lose their intense flavour rapidly. Pickled gherkins are served to accompany other foods, often in sandwiches. They are historically associated with Central European and, occasionally, Eastern European cuisine, but are now found more widely. Sometimes also called a cornichon (the French word for gherkin), they have historically also been called horned cucumbers, crumplings, and guerkins. The gherkins sold in pickle mixtures are not C. anguria but rather are small pickled immature fruits of cultivars of the cucumber (C. sativus). A true gherkin has palmately lobed leaves with toothed edges, small flowers, and furrowed, prickly fruits about five centimetres (two inches) long that are borne on crooked stalks. Although its fruit is also pickled, the plant is frequently grown only as a curiosity."@en ,
+		"\u30D4\u30AF\u30EB\u30B9 (pickles) \u306F\u6F2C\u7269\u306E\u3053\u3068\u3002\u305F\u3060\u3057\u65E5\u672C\u3067\u306F\u3001\u4E3B\u306B\u6B27\u7C73\u98A8\u306E\u3082\u306E\u3092\u6307\u3057\u3001\u65E5\u672C\u98A8\u306E\u6F2C\u7269\u3084\u30AD\u30E0\u30C1\u3001\u30B6\u30FC\u30B5\u30A4\u306A\u3069\u306F\u30D4\u30AF\u30EB\u30B9\u3068\u306F\u547C\u3070\u306A\u3044\u3002pickles\u306F\u8907\u6570\u5F62\u3067\u3001\u6F2C\u7269\u306E\u610F\u5473\u3067\u306F\u8907\u6570\u5F62\u3092\u4F7F\u3046\u3002 \u4EE3\u8868\u7684\u306A\u30D4\u30AF\u30EB\u30B9\u306F\u3001\u5869\u6F2C\u3051\u306B\u3057\u305F\u30AD\u30E5\u30A6\u30EA\u306A\u3069\u306E\u91CE\u83DC\u3092\u3001\u9162\u3001\u7802\u7CD6\u306A\u3069\u304B\u3089\u306A\u308B\u6F2C\u3051\u6DB2\u306B\u3064\u3051\u8FBC\u3093\u3060\u3082\u306E\u3002\u4E73\u9178\u83CC\u306B\u3088\u308A\u767A\u9175\u3055\u305B\u308B\u3002\u9162\u3092\u4F7F\u3046\u3053\u3068\u3067\u767A\u9175\u3055\u305B\u308B\u5DE5\u7A0B\u3092\u7701\u7565\u3059\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u91CE\u83DC\u306E\u5869\u6F2C\u3051\u3092\u4F5C\u308B\u969B\u306B\u3001\u4F55\u3089\u304B\u306E\u539F\u56E0\u3067\u767A\u9175\u3057\u305F\u3082\u306E\u304C\u30D4\u30AF\u30EB\u30B9\u306E\u8D77\u6E90\u3068\u3059\u308B\u8AAC\u304C\u3042\u308B\u3002"@ja ,
+		"Gew\u00FCrzgurken oder Essiggurken (in \u00D6sterreich Essiggurkerl) sind junge, unreife Gurken, die mit einem kochenden, gew\u00FCrzten Essig-Kr\u00E4uter-Sud \u00FCbergossen und dadurch pasteurisiert worden sind. Die meistens industriell gefertigten Gew\u00FCrzgurken unterscheiden sich sehr in der Gr\u00F6\u00DFe und in der verwendeten Gew\u00FCrzmischung. H\u00E4ufig finden sich Dill, gelbe Senfk\u00F6rner, Zwiebeln, Salz und eventuell Zucker sowie Aromen wie Pfeffer im Sud. In S\u00FCd- und Westdeutschland werden sie auch als Saure Gurken bezeichnet, w\u00E4hrend in Nord- und Ostdeutschland mit diesem Begriff Salzgurken gemeint sind."@de ;
+	dbpedia-owl:species	dbpedia:Cucumber ;
+	dbpedia-owl:wikiPageID	309318 ;
+	dbpedia-owl:wikiPageRevisionID	548259518 ;
+	rdfs:label	"\u30D4\u30AF\u30EB\u30B9"@ja ,
+		"\u041A\u043E\u0440\u043D\u0438\u0448\u043E\u043D"@ru ,
+		"Cornichon"@fr ,
+		"Cornichong"@sv ,
+		"Korniszon"@pl ,
+		"Gherkin"@en ,
+		"Pepinillo"@es ,
+		"Augurk"@nl ,
+		"Gew\u00FCrzgurke"@de ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/3/39/Gherkins.jpg> ;
+	rdfs:comment	"El pepinillo es un pepino que ha sido encurtido. Suelen ser comercializados al natural o en conserva. En cualquier caso, son frecuentemente servidos como una guarnici\u00F3n de otros platos o como una tapa o aperitivo."@es ,
+		"Le cornichon est une plante herbac\u00E9e annuelle de la famille des Cucurbitaceae, cultiv\u00E9e pour ses fruits, r\u00E9colt\u00E9s avant maturit\u00E9 et consomm\u00E9s principalement comme condiment. Le nom scientifique est Cucumis sativus. Concombre et cornichon sont une m\u00EAme esp\u00E8ce. Historiquement le concombre \u00E9tait r\u00E9colt\u00E9 \u00E0 maturit\u00E9, \u00E0 la diff\u00E9rence du cornichon, puis des vari\u00E9t\u00E9s ont \u00E9t\u00E9 s\u00E9lectionn\u00E9es pour produire des cornichons et d'autres des concombres."@fr ,
+		"Gherkin is a term generally used to refer to a savoury pickled cucumber, particularly in the UK and Europe. Gherkins and commercial cucumbers belong to the same species, but are from different cultivar groups. They are usually picked when 4 to 8\u00A0cm (1 to 3 in) in length and pickled in jars or cans with vinegar (often flavored with herbs, particularly dill; hence, \"dill pickle\") or brine."@en ,
+		"\u041A\u043E\u0440\u043D\u0438\u0448\u043E\u0301\u043D \u2014 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0433\u0440\u0443\u043F\u043F \u043C\u0435\u043B\u043A\u043E\u043F\u043B\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0442\u043E\u0432 \u0440\u0430\u0441\u0442\u0435\u043D\u0438\u0439 \u0432\u0438\u0434\u0430 \u041E\u0433\u0443\u0440\u0435\u0446 \u043F\u043E\u0441\u0435\u0432\u043D\u043E\u0439, \u0438 \u0438\u0445 \u043C\u0435\u043B\u043A\u0438\u0445 \u043F\u043B\u043E\u0434\u043E\u0432, \u0441\u043D\u044F\u0442\u044B\u0445 \u0434\u043E \u043F\u043E\u043B\u043D\u043E\u0433\u043E \u0441\u043E\u0437\u0440\u0435\u0432\u0430\u043D\u0438\u044F \u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0445 \u0434\u043B\u044F \u043A\u043E\u043D\u0441\u0435\u0440\u0432\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F, \u043E\u0431\u044B\u0447\u043D\u043E \u043C\u0435\u0442\u043E\u0434\u043E\u043C \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u0438\u044F. \u0422\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u043E \u0434\u043B\u0438\u043D\u0430 \u0442\u0430\u043A\u0438\u0445 \u043F\u043B\u043E\u0434\u043E\u0432 \u043D\u0435\u043C\u043D\u043E\u0433\u043E \u0431\u043E\u043B\u0435\u0435 4 \u0441\u043C, \u043D\u043E \u043D\u0435 \u0434\u043E\u0441\u0442\u0438\u0433\u0430\u0435\u0442 8 \u0441\u043C. \u0422\u0435\u0440\u043C\u0438\u043D \u043D\u0435\u0440\u0435\u0434\u043A\u043E \u043F\u0440\u0438\u043C\u0435\u043D\u044F\u044E\u0442 \u0438 \u043A \u0441\u043D\u044F\u0442\u044B\u043C \u0432\u0441\u043A\u043E\u0440\u0435 \u043F\u043E\u0441\u043B\u0435 \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u044F \u0446\u0432\u0435\u0442\u0435\u043D\u0438\u044F \u043F\u043B\u043E\u0434\u0430\u043C \u043E\u0431\u044B\u0447\u043D\u044B\u0445 \u0441\u043E\u0440\u0442\u043E\u0432 \u043E\u0433\u0443\u0440\u0446\u0430 \u043E\u0431\u044B\u043A\u043D\u043E\u0432\u0435\u043D\u043D\u043E\u0433\u043E, \u0447\u0442\u043E \u043D\u0435\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E. \u0417\u0430\u0447\u0430\u0441\u0442\u0443\u044E \u043B\u044E\u0431\u044B\u0435 \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u043D\u044B\u0435 \u043E\u0433\u0443\u0440\u0446\u044B \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0440\u0430\u0437\u043C\u0435\u0440\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u043A\u043E\u0440\u043D\u0438\u0448\u043E\u043D\u0430\u043C\u0438."@ru ,
+		"Korniszon \u2013 niewielki og\u00F3rek gruntowy poddany marynowaniu w zalewie octowej, po uprzednim kiszeniu. Korniszon jest podawany jako dodatek, zak\u0105ska do potraw, przewa\u017Cnie mi\u0119snych i do w\u00F3dki."@pl ,
+		"De augurk behoort net als de komkommer tot de soort Cucumis sativus, maar het zijn geheel verschillende rassen. De augurk mag geen smaak van zichzelf hebben; de komkommersmaak moet geheel ontbreken. De teelt vindt vlakvelds of aan draad plaats. Vroeger was kruisbestuiving nodig, maar tegenwoordig zijn er ook bij de augurk-rassen die zonder bestuiving vruchtzetten."@nl ,
+		"Cornichonger \u00E4r sm\u00E5 inlagda gurkor, ursprungligen en fransk inl\u00E4ggning av gurkor av arten Cucumis sativus. Smaken i cornichonger kommer fr\u00E5n inl\u00E4ggning med dill, senapsfr\u00F6 och paprika."@sv ,
+		"\u30D4\u30AF\u30EB\u30B9 (pickles) \u306F\u6F2C\u7269\u306E\u3053\u3068\u3002\u305F\u3060\u3057\u65E5\u672C\u3067\u306F\u3001\u4E3B\u306B\u6B27\u7C73\u98A8\u306E\u3082\u306E\u3092\u6307\u3057\u3001\u65E5\u672C\u98A8\u306E\u6F2C\u7269\u3084\u30AD\u30E0\u30C1\u3001\u30B6\u30FC\u30B5\u30A4\u306A\u3069\u306F\u30D4\u30AF\u30EB\u30B9\u3068\u306F\u547C\u3070\u306A\u3044\u3002pickles\u306F\u8907\u6570\u5F62\u3067\u3001\u6F2C\u7269\u306E\u610F\u5473\u3067\u306F\u8907\u6570\u5F62\u3092\u4F7F\u3046\u3002 \u4EE3\u8868\u7684\u306A\u30D4\u30AF\u30EB\u30B9\u306F\u3001\u5869\u6F2C\u3051\u306B\u3057\u305F\u30AD\u30E5\u30A6\u30EA\u306A\u3069\u306E\u91CE\u83DC\u3092\u3001\u9162\u3001\u7802\u7CD6\u306A\u3069\u304B\u3089\u306A\u308B\u6F2C\u3051\u6DB2\u306B\u3064\u3051\u8FBC\u3093\u3060\u3082\u306E\u3002\u4E73\u9178\u83CC\u306B\u3088\u308A\u767A\u9175\u3055\u305B\u308B\u3002\u9162\u3092\u4F7F\u3046\u3053\u3068\u3067\u767A\u9175\u3055\u305B\u308B\u5DE5\u7A0B\u3092\u7701\u7565\u3059\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u91CE\u83DC\u306E\u5869\u6F2C\u3051\u3092\u4F5C\u308B\u969B\u306B\u3001\u4F55\u3089\u304B\u306E\u539F\u56E0\u3067\u767A\u9175\u3057\u305F\u3082\u306E\u304C\u30D4\u30AF\u30EB\u30B9\u306E\u8D77\u6E90\u3068\u3059\u308B\u8AAC\u304C\u3042\u308B\u3002"@ja ,
+		"Gew\u00FCrzgurken oder Essiggurken (in \u00D6sterreich Essiggurkerl) sind junge, unreife Gurken, die mit einem kochenden, gew\u00FCrzten Essig-Kr\u00E4uter-Sud \u00FCbergossen und dadurch pasteurisiert worden sind. Die meistens industriell gefertigten Gew\u00FCrzgurken unterscheiden sich sehr in der Gr\u00F6\u00DFe und in der verwendeten Gew\u00FCrzmischung. H\u00E4ufig finden sich Dill, gelbe Senfk\u00F6rner, Zwiebeln, Salz und eventuell Zucker sowie Aromen wie Pfeffer im Sud."@de ;
+	foaf:name	"Gherkin"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gherkins.jpg/200px-Gherkins.jpg> ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.whfoods.com/genpage.php?tname=foodspice&dbid=42> .
+@prefix ns43:	<http://wyb.academia.edu/SandaruwanSilva/Papers/1088600/> .
+dbpedia:Gherkin	dbpedia-owl:wikiPageExternalLink	ns43:Effect_of_Compost_on_Gherkin_Productivity ;
+	dbpprop:cultivar	"Gherkin"@en ;
+	dbpprop:imageWidth	240 ;
+	dbpprop:name	"Gherkin"@en ;
+	dbpprop:species	"Cucumis sativus"@en ;
+	foaf:isPrimaryTopicOf	ns37:Gherkin ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gherkin?oldid=548259518> ;
+	dbpprop:hasPhotoCollection	ns39:Gherkin ;
+	dbpedia-owl:wikiPageInLinkCount	74 ;
+	dbpedia-owl:wikiPageOutLinkCount	26 .
+dbpedia:Cucumber_soup	rdf:type	yago:ColdSoups ,
+		owl:Thing ,
+		yago:Nutriment107570720 ,
+		yago:Matter100020827 ,
+		yago:Food100021265 ,
+		yago:PolishSoups ,
+		dbpedia-owl:Food ,
+		yago:Soup107583197 ,
+		yago:Soups ,
+		yago:PhysicalEntity100001930 ,
+		yago:Dish107557434 ,
+		yago:Substance100020090 ;
+	owl:sameAs	ns26:Cucumber_soup ,
+		<http://rdf.freebase.com/ns/m.017g1q> ;
+	dcterms:subject	category:Soups ,
+		category:Polish_soups ,
+		category:Cold_soups ,
+		category:Slavic_cuisine ;
+	dbpedia-owl:abstract	"Cucumber soup is a traditional Polish soup (Polish: . It is made from sour, salted cucumbers and potato. Occasionally rice is substituted for the potatoes. The cucumber soup is a soup based on cucumbers, also known in various cuisines. The two major varieties are the fresh cucumber soup and pickled cucumber soup."@en ;
+	dbpedia-owl:alias	"Og\u00F3rkowa"@en ;
+	dbpedia-owl:ingredient	dbpedia:Cucumber ,
+		dbpedia:Pickled_cucumber ;
+	dbpedia-owl:origin	dbpedia:Poland ;
+	dbpedia-owl:servingTemperature	"Hot, chilled"@en ;
+	dbpedia-owl:wikiPageID	173821 ;
+	dbpedia-owl:wikiPageRevisionID	532664818 ;
+	rdfs:label	"Cucumber soup"@en ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/4/40/Cucumber_soup.jpg> ;
+	rdfs:comment	"Cucumber soup is a traditional Polish soup (Polish: . It is made from sour, salted cucumbers and potato. Occasionally rice is substituted for the potatoes. The cucumber soup is a soup based on cucumbers, also known in various cuisines. The two major varieties are the fresh cucumber soup and pickled cucumber soup."@en ;
+	foaf:name	"Cucumber soup"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cucumber_soup.jpg/200px-Cucumber_soup.jpg> ;
+	dbpedia-owl:type	dbpedia:Soup ,
+		<http://dbpedia.org/resource/Entr%C3%A9e> ;
+	dbpprop:alternateName	"Og\u00F3rkowa"@en ;
+	dbpprop:caption	"Zupa og\u00F3rkowa"@en ;
+	dbpprop:country	dbpedia:Poland ;
+	dbpprop:course	dbpedia:Soup ,
+		<http://dbpedia.org/resource/Entr%C3%A9e> ;
+	dbpprop:mainIngredient	dbpedia:Pickled_cucumber ,
+		dbpedia:Cucumber ;
+	dbpprop:name	"Cucumber soup"@en ;
+	dbpprop:served	"Hot, chilled"@en ;
+	foaf:isPrimaryTopicOf	ns37:Cucumber_soup ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cucumber_soup?oldid=532664818> ;
+	dbpprop:hasPhotoCollection	ns39:Cucumber_soup ;
+	dbpedia-owl:wikiPageInLinkCount	10 ;
+	dbpedia-owl:wikiPageOutLinkCount	20 .
+dbpedia:Dhondas	rdf:type	yago:IndianDesserts ,
+		yago:Substance100020090 ,
+		owl:Thing ,
+		yago:Dessert107609840 ,
+		yago:Food100021265 ,
+		dbpedia-owl:Food ,
+		yago:Matter100020827 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Course107556970 ,
+		yago:Nutriment107570720 ;
+	owl:sameAs	ns10:Q5269729 ,
+		ns26:Dhondas ,
+		<http://rdf.freebase.com/ns/m.03ct4s0> ;
+	dcterms:subject	category:Indian_desserts ,
+		category:Konkani_cuisine ;
+	dbpedia-owl:abstract	"Dhonas is a baked preparation made from Jackfruit or cucumber, rava. coconut and jaggery."@en ;
+	dbpedia-owl:ingredient	dbpedia:Semolina ,
+		dbpedia:Coconut ,
+		dbpedia:Jaggery ,
+		dbpedia:Cucumber ,
+		dbpedia:Jackfruit ;
+	dbpedia-owl:origin	dbpedia:India ,
+		dbpedia:West_India ,
+		dbpedia:Goa ;
+	dbpedia-owl:wikiPageID	14088434 ;
+	dbpedia-owl:wikiPageRevisionID	542407253 ;
+	rdfs:label	"Dhondas"@en ;
+	rdfs:comment	"Dhonas is a baked preparation made from Jackfruit or cucumber, rava. coconut and jaggery."@en ;
+	foaf:name	"Dhonas"@en ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.ladvaibhavi.com/2006/12/12/dhondas/> ;
+	dbpprop:country	dbpedia:India ;
+	dbpprop:mainIngredient	"Jackfruit or cucumber, rava, jaggery, grated coconut"@en ;
+	dbpprop:name	"Dhonas"@en ;
+	dbpprop:region	dbpedia:Goa ,
+		dbpedia:West_India ;
+	foaf:isPrimaryTopicOf	ns37:Dhondas ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dhondas?oldid=542407253> ;
+	dbpprop:hasPhotoCollection	ns39:Dhondas ;
+	dbpedia-owl:wikiPageInLinkCount	2 ;
+	dbpedia-owl:wikiPageOutLinkCount	14 .
+dbpedia:Kerala_pachadi	rdf:type	dbpedia-owl:Food ,
+		yago:Matter100020827 ,
+		yago:Ingredient107809096 ,
+		yago:Foodstuff107566340 ,
+		yago:Condiment107810907 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Flavorer107809368 ,
+		yago:Substance100020090 ,
+		yago:IndianCondiments ,
+		owl:Thing ,
+		yago:Food100021265 ;
+	owl:sameAs	ns10:Q6393510 ,
+		<http://rdf.freebase.com/ns/m.026483b> ,
+		ns26:Kerala_pachadi ;
+	dcterms:subject	category:Indian_condiments ,
+		category:Kerala_cuisine ;
+	dbpedia-owl:abstract	"Kerala Pachadi is a Kerala vegetable dish. It is a side dish for rice prepared using cucumber or mango. It is served at restaurants along with Vegetable Thali Rice. It is also included with Sadhya, especially with Kerala Onasadhya."@en ;
+	dbpedia-owl:ingredient	dbpedia:Mango ,
+		dbpedia:Cucumber ,
+		dbpedia:Rice ;
+	dbpedia-owl:origin	dbpedia:India ,
+		dbpedia:Kerala ;
+	dbpedia-owl:wikiPageID	7522359 ;
+	dbpedia-owl:wikiPageRevisionID	547848439 ;
+	rdfs:label	"Kerala pachadi"@en ;
+	rdfs:comment	"Kerala Pachadi is a Kerala vegetable dish. It is a side dish for rice prepared using cucumber or mango. It is served at restaurants along with Vegetable Thali Rice. It is also included with Sadhya, especially with Kerala Onasadhya."@en ;
+	foaf:name	"Kerala Pachadi"@en ;
+	dbpedia-owl:type	dbpedia:Side_dish ;
+	dbpprop:country	dbpedia:India ;
+	dbpprop:course	"Side dish"@en ;
+	dbpprop:mainIngredient	"Rice, cucumber or mango"@en ;
+	dbpprop:name	"Kerala Pachadi"@en ;
+	dbpprop:region	dbpedia:Kerala ;
+	foaf:isPrimaryTopicOf	ns37:Kerala_pachadi ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kerala_pachadi?oldid=547848439> ;
+	dbpprop:hasPhotoCollection	ns39:Kerala_pachadi ;
+	dbpedia-owl:wikiPageInLinkCount	1 ;
+	dbpedia-owl:wikiPageOutLinkCount	19 .
+<http://dbpedia.org/resource/Ky%C5%ABri>	dbpedia-owl:wikiPageID	10463879 ;
+	dbpedia-owl:wikiPageRevisionID	135009661 ;
+	rdfs:label	"Ky\u016Bri"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Kyūri ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ky\u016Bri?oldid=135009661> .
+dbpedia:Snow_White_salad	rdf:type	yago:Substance100020090 ,
+		yago:Food100021265 ,
+		yago:Appetizers ,
+		yago:Nutriment107570720 ,
+		dbpedia-owl:Food ,
+		yago:Course107556970 ,
+		yago:Matter100020827 ,
+		yago:Dish107557434 ,
+		yago:Salad107806221 ,
+		yago:Salads ,
+		yago:PhysicalEntity100001930 ,
+		yago:Appetizer107581346 ,
+		owl:Thing ;
+	owl:sameAs	<http://bg.dbpedia.org/resource/\u0421\u043D\u0435\u0436\u0430\u043D\u043A\u0430_(\u0441\u0430\u043B\u0430\u0442\u0430)> ,
+		ns10:Q7548366 ,
+		ns26:Snow_White_salad ,
+		<http://rdf.freebase.com/ns/m.080gq8h> ;
+	dcterms:subject	category:Appetizers ,
+		category:Serbian_cuisine ,
+		category:Republic_of_Macedonia_cuisine ,
+		category:Bulgarian_cuisine ,
+		category:Salads ;
+	dbpedia-owl:abstract	"Snezhanka salad or Snow White salad is a dish popular in Bulgaria and the Republic of Macedonia. It is made from yogurt and cucumbers. Snezhanka (Snow White) salad derives its name from the fairy tale character Snow White but the only reason for the name is the predominantly white color of the salad."@en ;
+	dbpedia-owl:alias	"Snezhanka salad"@en ;
+	dbpedia-owl:ingredient	dbpedia:Cucumber ,
+		dbpedia:Yogurt ;
+	dbpedia-owl:wikiPageID	24662824 ;
+	dbpedia-owl:wikiPageRevisionID	545744316 ;
+	rdfs:label	"Snow White salad"@en ;
+	rdfs:comment	"Snezhanka salad or Snow White salad is a dish popular in Bulgaria and the Republic of Macedonia. It is made from yogurt and cucumbers. Snezhanka (Snow White) salad derives its name from the fairy tale character Snow White but the only reason for the name is the predominantly white color of the salad."@en ;
+	foaf:name	"Snow White salad"@en ;
+	dbpedia-owl:type	<http://dbpedia.org/resource/Hors_d\u0027oeuvre> ;
+	dbpprop:alternateName	"Snezhanka salad"@en ;
+	dbpprop:course	<http://dbpedia.org/resource/Hors_d\u0027oeuvre> ;
+	dbpprop:mainIngredient	"Yogurt, cucumbers"@en ;
+	dbpprop:name	"Snow White salad"@en ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Snow_White_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Snow_White_salad?oldid=545744316> ;
+	dbpprop:hasPhotoCollection	ns39:Snow_White_salad ;
+	dbpedia-owl:wikiPageInLinkCount	2 ;
+	dbpedia-owl:wikiPageOutLinkCount	17 .
+dbpedia:Chef_salad	rdf:type	yago:Dish107557434 ,
+		yago:Substance100020090 ,
+		yago:Matter100020827 ,
+		yago:Salads ,
+		yago:Salad107806221 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Nutriment107570720 ,
+		dbpedia-owl:Food ,
+		owl:Thing ,
+		yago:Food100021265 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0bm0jl> ,
+		ns26:Chef_salad .
+@prefix ns44:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Chef_salad	owl:sameAs	ns44:Chef_salad ,
+		ns10:Q861189 ,
+		ns17:סלט_השף ,
+		ns40:셰프_샐러드 ;
+	dcterms:subject	category:Salads ;
+	dbpedia-owl:abstract	"Chef salad (or chef's salad) is a salad consisting of hard-boiled eggs; one or more meats such as ham, turkey, chicken, or roast beef; tomatoes; cucumbers; and cheese; all placed upon a bed of tossed lettuce or other leaf vegetables. Several early recipes also include anchovies. A variety of dressings are used with this salad. Food historians do not agree on the history and composition of chef salad, much less who assembled the first one. Some trace this salad's roots to Salmagundi, a popular meat and salad dish originating in 17th century England and popular in colonial America. Others contend chef's salad is a product of early twentieth century, originating in either New York or California. The person most often connected with the history of this salad is Louis Diat, chef of the Ritz-Carlton in New York City during the 1940s. While food historians acknowledge his recipe, they do not appear to be convinced he originated the dish, which is more popularly attributed to either chef Victor Seydoux at the Hotel Buffalo, a Statler Hotel in Buffalo, New York or chef Jacques Roser at the Hotel Pennsylvania in New York City. Roser worked in various culinary positions in Paris before being invited to become head chef at the prestigious 1920s Hotel Pennsylvania, where he worked for over fifteen years. Seydoux first learned his craft in Montreux, Switzerland, and continued his studies in France and England before coming to work in the United States. Seydoux's first experiences in the U.S. included positions at the Waldorf-Astoria Hotel and the Ritz-Carlton. Although the origin of the salad is not generally known, as reported by Alice Rose Seydoux, widow of Victor, the salad was officially launched at the Hotel Buffalo. Chef Seydoux, who was responsible for running the kitchen on a tight budget, began using some of the small slices of meats and cheese in a salad that he served to select customers. When the customers started requesting it regularly, the hotel decided to add it to the menu. Giving chef Seydoux the honor of naming the salad he is purported to have said \"Well, it's really a chef's salad. \" The chef salad probably owes much of its popularity, according to Evan Jones in American Food: The Gastronomic Story (1975), to Louis Diat, chef at the Ritz-Carlton. Cooking a la Ritz includes Diat's recipe: \"Chef's salad. Place separately in a salad bowl equal amonts of chopped lettuce (place on the bottom of the bowl), boiled chicken, smoked ox tongue and smoked ham, all cut in julienne style. Add 1/2 hard-cooked egg for each portion. Place some watercress in the center and serve with French Dressing. \" Diat did not invent the salad (older recipes exist), but its inclusion on the menu at the Ritz-Carlton would have introduced the salad to more of the public. It's possible that the inclusion of Thousand Island dressing is also linked to the Ritz, since the hotel also introduced the dressing to New York. This recipe, while containing smoked ox tongue, still contains the primary chef salad ingredients: meat, eggs, greens and presentation: julienne sliced meat, and sliced eggs. Several other early chef salad recipes mention crumbling Roquefort cheese over the salad."@en ;
+	dbpedia-owl:alias	"Chef's salad"@en ;
+	dbpedia-owl:ingredient	dbpedia:Cheese ,
+		dbpedia:Cucumber ,
+		dbpedia:Roast_beef ,
+		dbpedia:Meat ,
+		dbpedia:Boiled_egg ,
+		<http://dbpedia.org/resource/Chicken_(food)> ,
+		dbpedia:Tomato ,
+		dbpedia:Turkey ;
+	dbpedia-owl:wikiPageID	4153705 ;
+	dbpedia-owl:wikiPageRevisionID	542447027 ;
+	rdfs:label	"Chef salad"@en ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/8/89/Chef_Salad.JPG> ;
+	rdfs:comment	"Chef salad (or chef's salad) is a salad consisting of hard-boiled eggs; one or more meats such as ham, turkey, chicken, or roast beef; tomatoes; cucumbers; and cheese; all placed upon a bed of tossed lettuce or other leaf vegetables. Several early recipes also include anchovies. A variety of dressings are used with this salad. Food historians do not agree on the history and composition of chef salad, much less who assembled the first one."@en ;
+	foaf:name	"Chef salad"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chef_Salad.JPG/200px-Chef_Salad.JPG> .
+@prefix ns45:	<http://www.foodtimeline.org/foodsalads.html#> .
+dbpedia:Chef_salad	dbpedia-owl:wikiPageExternalLink	ns45:chefsalad ,
+		<http://www.reference.com/browse/Chef+Salad> ;
+	dbpprop:alternateName	"Chef's salad"@en ;
+	dbpprop:mainIngredient	"Hard-boiled eggs, meat , tomatoes, cucumbers, cheese"@en ;
+	dbpprop:name	"Chef salad"@en ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Chef_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chef_salad?oldid=542447027> ;
+	dbpprop:hasPhotoCollection	ns39:Chef_salad ;
+	dbpedia-owl:wikiPageInLinkCount	9 ;
+	dbpedia-owl:wikiPageOutLinkCount	50 .
+dbpedia:Rosolnyk	rdf:type	yago:Food100021265 ,
+		yago:Dish107557434 ,
+		yago:Matter100020827 ,
+		yago:Nutriment107570720 ,
+		yago:PhysicalEntity100001930 ,
+		owl:Thing ,
+		yago:Substance100020090 ,
+		dbpedia-owl:Food ,
+		yago:Soups ,
+		yago:Soup107583197 ;
+	owl:sameAs	ns26:Rosolnyk ,
+		<http://rdf.freebase.com/ns/m.0j9kv_7> ;
+	dcterms:subject	category:Soups ;
+	dbpedia-owl:abstract	"Rosolnyk \u2014 the first liquid food, an essential element of which is salty cucumbers. The structure may also include meat, pluck, different cereals, vegetables, spices and greens. Serves with cream."@en ;
+	dbpedia-owl:ingredient	dbpedia:Cucumber ;
+	dbpedia-owl:wikiPageID	35484733 ;
+	dbpedia-owl:wikiPageRevisionID	522007919 ;
+	rdfs:label	"Rosolnyk"@en ;
+	rdfs:comment	"Rosolnyk \u2014 the first liquid food, an essential element of which is salty cucumbers. The structure may also include meat, pluck, different cereals, vegetables, spices and greens. Serves with cream."@en ;
+	foaf:name	"Rosolnyk"@en .
+@prefix ns46:	<http://ukrainica.com.ua/ukr/content/1892/> .
+dbpedia:Rosolnyk	dbpedia-owl:wikiPageExternalLink	ns46:UKRAINIAN ,
+		<http://www.kolyba.org.ua/transcarpathian-cuisine/18-pershi1> ,
+		<http://community.livejournal.com/ua_kyxap/1979.html> ;
+	dbpprop:date	"July 2012"@en ;
+	dbpprop:mainIngredient	"Cucumbers"@en ;
+	dbpprop:name	"Rosolnyk"@en ;
+	dbpprop:reason	"This is a series of recipes that should be converted into encyclopedic text"@en ;
+	dbpprop:type	dbpedia:Soup ;
+	foaf:isPrimaryTopicOf	ns37:Rosolnyk ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Rosolnyk?oldid=522007919> ;
+	dbpprop:hasPhotoCollection	ns39:Rosolnyk ;
+	dbpedia-owl:wikiPageInLinkCount	1 ;
+	dbpedia-owl:wikiPageOutLinkCount	21 .
+<http://dbpedia.org/resource/Cucumber_(disambiguation)>	owl:sameAs	<http://ca.dbpedia.org/resource/Cogombre_(desambiguaci\u00F3)> ,
+		ns10:Q5192417 ;
+	dbpedia-owl:wikiPageID	4832195 ;
+	dbpedia-owl:wikiPageRevisionID	544354486 ;
+	rdfs:label	"Cucumber (disambiguation)"@en ;
+	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Cucumber_(TV_series)> ,
+		dbpedia:Wild_cucumber ,
+		dbpedia:Armenian_cucumber ,
+		dbpedia:Nyaung-u_Sawrahan ,
+		dbpedia:Cucumber_beetle ,
+		dbpedia:Cucumber_sandwich ,
+		dbpedia:Cucumber ,
+		dbpedia:Cucumber_Castle ,
+		<http://dbpedia.org/resource/Cucumber,_West_Virginia> ,
+		dbpedia:Cucumber_tree ,
+		<http://dbpedia.org/resource/Cucumber_(software)> ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Cucumber_(disambiguation)> ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cucumber_(disambiguation)?oldid=544354486> ;
+	dbpedia-owl:wikiPageOutLinkCount	14 .
+dbpedia:Guo_Bao_Rou	rdf:type	owl:Thing ,
+		dbpedia-owl:Food ;
+	owl:sameAs	ns13:锅包肉 ,
+		ns40:궈바오러우 ,
+		<http://rdf.freebase.com/ns/m.0h67tq8> ,
+		ns10:Q553200 ;
+	dcterms:subject	category:Chinese_cuisine ;
+	dbpedia-owl:abstract	". \u9505\u5305\u8089\u662F\u4E00\u9053\u4E1C\u5317\u98CE\u5473\u83DC\uFF0C\u4EE5\u732A\u8089\u4E3A\u4E3B\u6599\u7684\u6599\u7406\u3002\u5373\u5C06\u7CBE\u9009\u732A\u91CC\u810A\u8089\u5207\u7247\u814C\u5165\u5473\uFF0C\u88F9\u4E0A\u70B8\u6D46\u4E0B\u9505\u70B8\u81F3\u91D1\u9EC4\u8272\u635E\u8D77\uFF0C\u518D\u4E0B\u9505\u62CC\u7092\u52FE\u82A1\u5373\u6210\u3002\u6210\u83DC\u8272\u6CFD\u91D1\u9EC4\uFF0C\u5916\u9165\u91CC\u5AE9\uFF0C\u6709\u9178\u53E3\u3001\u751C\u53E3\u3001\u54B8\u53E3\u7B49\u4E0D\u540C\u53E3\u5473\u3002"@zh ,
+		"Gu\u014D B\u0101o R\u00F2u is a classic dish in Heilongjiang cuisine, originating in the Heilongjiang Province of Northern China. It consists of a bite-sized pieces of pork in potato starch batter, deep-fried until crispy. They are then lightly stewed in a variation of a sweet and sour sauce, made from freshly prepared caramel, rice vinegar and flavored with ginger and garlic, so the battering absorbs the sauce and softens. Beijing variant has the sauce thin and watery, while the dish as prepared in Dongbei itself often include thicker sauce with ketchup added to it, but both versions are characterized by an intense ginger and garlic flavor. In Manchuria, the sauce acts almost as a seasoning, not to overpower the taste of the fried pork- it is neither overly sweet or particularly viscous."@en ;
+	dbpedia-owl:alias	"See text"@en ;
+	dbpedia-owl:ingredient	dbpedia:Potato_starch ,
+		dbpedia:Sweet_and_sour ,
+		dbpedia:Ginger ,
+		dbpedia:Bell_pepper ,
+		dbpedia:Cucumber ,
+		dbpedia:Pork ,
+		dbpedia:Carrot ;
+	dbpedia-owl:origin	dbpedia:Heilongjiang ,
+		dbpedia:China ;
+	dbpedia-owl:servingTemperature	"Hot"@en ;
+	dbpedia-owl:wikiPageID	33151551 ;
+	dbpedia-owl:wikiPageRevisionID	546224552 ;
+	rdfs:label	"Guo Bao Rou"@en ,
+		"\u9505\u5305\u8089"@zh ;
+	rdfs:comment	"Gu\u014D B\u0101o R\u00F2u is a classic dish in Heilongjiang cuisine, originating in the Heilongjiang Province of Northern China. It consists of a bite-sized pieces of pork in potato starch batter, deep-fried until crispy. They are then lightly stewed in a variation of a sweet and sour sauce, made from freshly prepared caramel, rice vinegar and flavored with ginger and garlic, so the battering absorbs the sauce and softens."@en ,
+		". \u9505\u5305\u8089\u662F\u4E00\u9053\u4E1C\u5317\u98CE\u5473\u83DC\uFF0C\u4EE5\u732A\u8089\u4E3A\u4E3B\u6599\u7684\u6599\u7406\u3002\u5373\u5C06\u7CBE\u9009\u732A\u91CC\u810A\u8089\u5207\u7247\u814C\u5165\u5473\uFF0C\u88F9\u4E0A\u70B8\u6D46\u4E0B\u9505\u70B8\u81F3\u91D1\u9EC4\u8272\u635E\u8D77\uFF0C\u518D\u4E0B\u9505\u62CC\u7092\u52FE\u82A1\u5373\u6210\u3002\u6210\u83DC\u8272\u6CFD\u91D1\u9EC4\uFF0C\u5916\u9165\u91CC\u5AE9\uFF0C\u6709\u9178\u53E3\u3001\u751C\u53E3\u3001\u54B8\u53E3\u7B49\u4E0D\u540C\u53E3\u5473\u3002"@zh ;
+	foaf:name	"Guo Bao Rou"@en ;
+	dbpprop:alternateName	"See text"@en ;
+	dbpprop:country	dbpedia:China ;
+	dbpprop:course	"Main"@en ;
+	dbpprop:mainIngredient	dbpedia:Sweet_and_sour ,
+		dbpedia:Carrot ,
+		dbpedia:Potato_starch ,
+		dbpedia:Bell_pepper ,
+		dbpedia:Ginger ,
+		dbpedia:Cucumber ,
+		dbpedia:Pork ;
+	dbpprop:name	"Guo Bao Rou"@en ;
+	dbpprop:p	"gu\u014Db\u0101or\u00F2u"@en ;
+	dbpprop:region	dbpedia:Heilongjiang ;
+	dbpprop:s	"\u9505\u5305\u8089"@en ;
+	dbpprop:served	"Hot"@en ;
+	dbpprop:t	"\u934B\u5305\u8089"@en ;
+	foaf:isPrimaryTopicOf	ns37:Guo_Bao_Rou ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Guo_Bao_Rou?oldid=546224552> ;
+	dbpprop:hasPhotoCollection	ns39:Guo_Bao_Rou ;
+	dbpedia-owl:wikiPageInLinkCount	1 ;
+	dbpedia-owl:wikiPageOutLinkCount	24 .
+dbpedia:Pasembur	rdf:type	dbpedia-owl:Food ,
+		yago:Substance100020090 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Food100021265 ,
+		yago:Dish107557434 ,
+		owl:Thing ,
+		yago:Nutriment107570720 ,
+		yago:Salads ,
+		yago:Salad107806221 ,
+		yago:Matter100020827 ;
+	owl:sameAs	ns26:Pasembur ,
+		<http://rdf.freebase.com/ns/m.0f41_h> ,
+		ns10:Q2835232 .
+@prefix ns47:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Pasembur	owl:sameAs	ns47:Pasembur ,
+		ns25:Pasembur ;
+	dcterms:subject	category:Salads ,
+		category:Malaysian_cuisine ;
+	dbpedia-owl:abstract	"Pasembur is a Malaysian Indian salad consisting of cucumber (shredded), potatoes, beancurd, turnip, bean sprouts, prawn fritters, spicy fried crab, fried octopus or other seafoods and served with a sweet and spicy nut sauce. The term Pasembur is peculiar to Northern Peninsular Malaysia. It is especially associated with Penang where Pasembur can be had along Gurney Drive. In other parts of Malaysia, the term Rojak Mamak is commonly used."@en ,
+		"Pasembur es una ensalada t\u00EDpica de la malaya y de la India que consiste en un conjunto de verduras picadas: pepino, nabos, patatas, brotes de soja, gabas fritas, carne de cangrejo especiada, pulto frito, etc. Todo ello servido conuna salsa dulce-especiada."@es ;
+	dbpedia-owl:ingredient	dbpedia:Bean_sprout ,
+		dbpedia:Turnip ,
+		dbpedia:Cucumber ,
+		dbpedia:Seafood ,
+		dbpedia:Crab ,
+		dbpedia:Octopus ,
+		dbpedia:Tofu ,
+		dbpedia:Potato ;
+	dbpedia-owl:origin	dbpedia:Malaysia ;
+	dbpedia-owl:wikiPageID	5777706 ;
+	dbpedia-owl:wikiPageRevisionID	544441296 ;
+	rdfs:label	"Pasembur"@es ,
+		"Pasembur"@en ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/5/54/Pasembur.jpg> ;
+	rdfs:comment	"Pasembur is a Malaysian Indian salad consisting of cucumber (shredded), potatoes, beancurd, turnip, bean sprouts, prawn fritters, spicy fried crab, fried octopus or other seafoods and served with a sweet and spicy nut sauce. The term Pasembur is peculiar to Northern Peninsular Malaysia. It is especially associated with Penang where Pasembur can be had along Gurney Drive. In other parts of Malaysia, the term Rojak Mamak is commonly used."@en ,
+		"Pasembur es una ensalada t\u00EDpica de la malaya y de la India que consiste en un conjunto de verduras picadas: pepino, nabos, patatas, brotes de soja, gabas fritas, carne de cangrejo especiada, pulto frito, etc. Todo ello servido conuna salsa dulce-especiada."@es ;
+	foaf:name	"Pasembur"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pasembur.jpg/200px-Pasembur.jpg> ;
+	dbpprop:country	dbpedia:Malaysia ;
+	dbpprop:mainIngredient	"Cucumbers, potatoes, beancurd, turnip, bean sprouts, seafood"@en ;
+	dbpprop:name	"Pasembur"@en ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Pasembur ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pasembur?oldid=544441296> ;
+	dbpprop:hasPhotoCollection	ns39:Pasembur ;
+	dbpedia-owl:wikiPageInLinkCount	9 ;
+	dbpedia-owl:wikiPageOutLinkCount	30 .
+dbpedia:Shopska_salad	rdf:type	yago:Appetizer107581346 ,
+		dbpedia-owl:Food ,
+		yago:Appetizers ,
+		yago:PhysicalEntity100001930 ,
+		owl:Thing ,
+		yago:Nutriment107570720 ,
+		yago:Salad107806221 ,
+		yago:Salads ,
+		yago:Matter100020827 ,
+		yago:Substance100020090 ,
+		yago:Food100021265 ,
+		yago:Dish107557434 ,
+		yago:Course107556970 ;
+	owl:sameAs	ns5:Šopskasallad ,
+		ns12:Salade_Chopska .
+@prefix ns48:	<http://mk.dbpedia.org/resource/> .
+dbpedia:Shopska_salad	owl:sameAs	ns48:Шопска_салата ,
+		ns25:Ensalada_Shopska ,
+		ns16:Шопска_салата ,
+		ns26:Shopska_salad .
+@prefix ns49:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Shopska_salad	owl:sameAs	ns49:Šopský_šalát .
+@prefix ns50:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Shopska_salad	owl:sameAs	ns50:Шопска_салата ,
+		ns27:سالاد_شوپسکا ,
+		ns10:Q570038 .
+@prefix ns51:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Shopska_salad	owl:sameAs	ns51:Šopska_salata ,
+		<http://rdf.freebase.com/ns/m.061byg> ,
+		ns11:Sopszka_saláta ,
+		ns7:Schopska-Salat ,
+		ns19:Sałatka_szopska ,
+		ns6:Шопский_салат ,
+		ns15:Šopský_salát ,
+		ns23:Sjopskasalat ;
+	dcterms:subject	category:Bulgarian_cuisine ,
+		category:Salads ,
+		category:Serbian_cuisine ,
+		category:Appetizers ;
+	dbpedia-owl:abstract	"Sa\u0142atka szopska (bu\u0142g. \u0448\u043E\u043F\u0441\u043A\u0430 \u0441\u0430\u043B\u0430\u0442\u0430 - szopska sa\u0142ata) - charakterystyczny dla kuchni bu\u0142garskiej rodzaj sa\u0142atki, przyrz\u0105dzanej z pokrojonych og\u00F3rk\u00F3w, pomidor\u00F3w, papryki, cebuli z dodatkiem s\u0142onego sera (specjalny bu\u0142garski ser szopski - solankowy ser owczy) oraz oleju ro\u015Blinnego lub oliwy. Sa\u0142atka szopska jest bardzo popularna w Bu\u0142garii, gdzie stanowi klasyczny przyk\u0142ad przystawki, cz\u0119sto spo\u017Cywanej wraz z rakij\u0105. Popularna jest tak\u017Ce w niekt\u00F3rych regionach Serbii, Macedonii i w Czarnog\u00F3rze. Nazwa sa\u0142atki, szopska, wywodzi si\u0119 z tradycyjnej nazwy Szopi, kt\u00F3r\u0105 okre\u015Bla si\u0119 mieszka\u0144c\u00F3w Sofii i s\u0105siednich region\u00F3w."@pl ,
+		"Shopska salad is a traditional Bulgarian cold salad popular throughout the Balkans and Central Europe. It is made from tomatoes, cucumbers, onion, raw or roasted peppers, sirene (white brine cheese), and parsley. The vegetables are usually diced and salted, followed by a light dressing of sunflower oil or olive oil, which are occasionally complemented by vinegar. The addition of vinegar only contributes, however, to the sour flavour that the tomatoes impart. In restaurants, the dressings are provided separately. Lastly, the vegetables are covered in a thick layer of grated or diced sirene cheese. This salad is often consumed as an appetiser with rakia. Shopska salad derives its name from the regional group called Shopi native to Bulgaria and parts of the Republic of Macedonia and Serbia."@en ,
+		"Schopska-Salat ist ein traditioneller bulgarischer Salat, der urspr\u00FCnglich aus der Region um Sofia stammt. Schopska-Salat ist die nationale Variante eines Gemischten Salates auf der Basis von Tomaten, Paprika und Gurken, wie er auch in anderen Staaten der Schwarzmeerregion verbreitet ist, so z. \u00A0B. als Bauernsalat (Choriatiki) in Griechenland, als Hirtensalat (\u00C7oban salatas\u0131) in der T\u00FCrkei, sowie in Azerbaidschan, Armenien, Georgien und Russland. Der Name stammt von der Bezeichnung des bulgarischen Stamms der Schopen (\u0448\u043E\u043F\u0438), die in der Umgebung von Sofia leben, woraus dann das Adjektiv schopska f\u00FCr den Salat abgeleitet wurde. Schopska-Salat wird aus Tomaten, Gurken, rohem oder gebratenem Paprika, Zwiebeln, Petersilie, Salz, Zitronensaft oder Essig, \u00D6l und Salzlakenk\u00E4se (\u0421\u0438\u0440\u0435\u043D\u0435 Sirene) zubereitet. Bulgaren essen den Salat meist als Mese (\u041C\u0435\u0437\u0435), d. \u00A0h. als kleine Speise zum Grosdowa Rakia (Traubenschnaps) oder Sliwowa Rakia (Pflaumenschnaps), oder als Vorspeise."@de ,
+		"La salade Chopska est consomm\u00E9e en Bulgarie, Serbie et Mac\u00E9doine. Elle est pr\u00E9par\u00E9e \u00E0 partir de tomates, concombres, poivrons, oignons, et d'une vari\u00E9t\u00E9 de feta. Elle est souvent servie en entr\u00E9e avec un verre de rakia. Son nom vient des Chopi, le nom des habitants de la r\u00E9gion de Sofia."@fr ,
+		"\u0160opskasallad \u00E4r en traditionell bulgarisk salladsr\u00E4tt som blivit popul\u00E4r \u00F6ver hela Balkan och Centraleuropa. Den inneh\u00E5ller tomater, gurka, l\u00F6k, r\u00E5 eller rostad paprika samt vit fetaost."@sv ,
+		"La Ensalada Shopska es una ensalada t\u00EDpica de Bulgaria, Macedonia, Serbia, Croacia y la Rep\u00FAblica Checa. El nombre Shopska proviene de Shopi en la regi\u00F3n de Sof\u00EDa, donde se cree que se desarroll\u00F3 esta receta originalmente."@es ,
+		"\u0428\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442\u00A0\u2014 \u0431\u043B\u044E\u0434\u043E \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438, \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u043E\u0435 \u0432 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438, \u0421\u0435\u0440\u0431\u0438\u0438, \u0427\u0435\u0440\u043D\u043E\u0433\u043E\u0440\u0438\u0438, \u0410\u043B\u0431\u0430\u043D\u0438\u0438, \u0427\u0435\u0445\u0438\u0438. \u041F\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044E\u00A0\u2014 \u0438\u0437 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 (\u0448\u043E\u043F\u044B\u00A0\u2014 \u044D\u0442\u043D\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0433\u0440\u0443\u043F\u043F\u0430 \u0431\u043E\u043B\u0433\u0430\u0440). \u0412 \u0441\u043E\u0441\u0442\u0430\u0432 \u0441\u0430\u043B\u0430\u0442\u0430 \u0432\u0445\u043E\u0434\u044F\u0442 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0435 \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442\u044B: \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u044B, \u043E\u0433\u0443\u0440\u0446\u044B, \u043B\u0443\u043A, \u0431\u043E\u043B\u0433\u0430\u0440\u0441\u043A\u0438\u0439 \u043F\u0435\u0440\u0435\u0446 (\u0441\u044B\u0440\u043E\u0439, \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0438\u043B\u0438 \u0436\u0430\u0440\u0435\u043D\u044B\u0439), \u0441\u044B\u0440\u044B \u0431\u0440\u044B\u043D\u0437\u0430, \u0441\u0438\u0440\u0435\u043D\u0435 (\u0448\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u044B\u0440) \u0438\u043B\u0438 \u0444\u0435\u0442\u0430, \u043F\u0435\u0442\u0440\u0443\u0448\u043A\u0430, \u043E\u043B\u0438\u0432\u043A\u0438, \u043E\u043B\u0438\u0432\u043A\u043E\u0432\u043E\u0435 \u043C\u0430\u0441\u043B\u043E, \u0443\u043A\u0441\u0443\u0441, \u0441\u043E\u043B\u044C, \u043C\u043E\u043B\u043E\u0442\u044B\u0439 \u043F\u0435\u0440\u0435\u0446. \u041E\u0432\u043E\u0449\u0438 \u0438 \u0437\u0435\u043B\u0435\u043D\u044C \u043C\u0435\u043B\u043A\u043E \u0440\u0443\u0431\u044F\u0442, \u043F\u043E\u0441\u043B\u0435 \u0447\u0435\u0433\u043E \u043F\u043E\u0441\u044B\u043F\u0430\u044E\u0442 \u0442\u0451\u0440\u0442\u044B\u043C \u0441\u044B\u0440\u043E\u043C \u0438 \u043F\u0440\u0438\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0442 \u043C\u0430\u0441\u043B\u043E\u043C. \u0428\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C \u0432 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 \u0438 \u0442\u0430\u043C \u0435\u0433\u043E \u0447\u0430\u0441\u0442\u043E \u0433\u043E\u0442\u043E\u0432\u044F\u0442, \u0440\u0430\u0437\u043C\u0435\u0449\u0430\u044F \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442\u044B \u0432 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0435\u043C \u043F\u043E\u0440\u044F\u0434\u043A\u0435: \u0432\u043D\u0438\u0437\u0443\u00A0\u2014 \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u044B, \u043F\u043E\u0442\u043E\u043C\u00A0\u2014 \u043E\u0433\u0443\u0440\u0446\u044B \u0438 \u0441\u0432\u0435\u0440\u0445\u0443\u00A0\u2014 \u0431\u0440\u044B\u043D\u0437\u0430. \u0411\u0435\u043B\u0430\u044F \u0431\u0440\u044B\u043D\u0437\u0430, \u0437\u0435\u043B\u0435\u043D\u044B\u0435 \u043E\u0433\u0443\u0440\u0446\u044B \u0438 \u043A\u0440\u0430\u0441\u043D\u044B\u0435 \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u044B\u00A0\u2014 \u043F\u043E\u043B\u0443\u0447\u0430\u044E\u0442\u0441\u044F \u0446\u0432\u0435\u0442\u0430 \u0431\u043E\u043B\u0433\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u0444\u043B\u0430\u0433\u0430. \u0428\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442 \u0447\u0430\u0441\u0442\u043E \u0443\u043F\u043E\u0442\u0440\u0435\u0431\u043B\u044F\u0435\u0442\u0441\u044F \u0432 \u0432\u0438\u0434\u0435 \u0437\u0430\u043A\u0443\u0441\u043A\u0438 \u043C\u0435\u0437\u0435 \u043A \u0440\u0430\u043A\u0438\u0438."@ru ;
+	dbpedia-owl:ingredient	dbpedia:Onion ,
+		dbpedia:Capsicum ,
+		dbpedia:Parsley ,
+		dbpedia:Tomato ,
+		dbpedia:Cucumber ,
+		dbpedia:Sirene ;
+	dbpedia-owl:origin	dbpedia:Bulgaria ;
+	dbpedia-owl:wikiPageID	1855590 ;
+	dbpedia-owl:wikiPageRevisionID	540284144 ;
+	rdfs:label	"Shopska salad"@en ,
+		"\u0428\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442"@ru ,
+		"Sa\u0142atka szopska"@pl ,
+		"Schopska-Salat"@de ,
+		"Ensalada Shopska"@es ,
+		"Salade Chopska"@fr ,
+		"\u0160opskasallad"@sv ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/c/cc/Shopska_Salad.JPG> ;
+	rdfs:comment	"\u0160opskasallad \u00E4r en traditionell bulgarisk salladsr\u00E4tt som blivit popul\u00E4r \u00F6ver hela Balkan och Centraleuropa. Den inneh\u00E5ller tomater, gurka, l\u00F6k, r\u00E5 eller rostad paprika samt vit fetaost."@sv ,
+		"Shopska salad is a traditional Bulgarian cold salad popular throughout the Balkans and Central Europe. It is made from tomatoes, cucumbers, onion, raw or roasted peppers, sirene (white brine cheese), and parsley. The vegetables are usually diced and salted, followed by a light dressing of sunflower oil or olive oil, which are occasionally complemented by vinegar. The addition of vinegar only contributes, however, to the sour flavour that the tomatoes impart."@en ,
+		"Schopska-Salat ist ein traditioneller bulgarischer Salat, der urspr\u00FCnglich aus der Region um Sofia stammt. Schopska-Salat ist die nationale Variante eines Gemischten Salates auf der Basis von Tomaten, Paprika und Gurken, wie er auch in anderen Staaten der Schwarzmeerregion verbreitet ist, so z. \u00A0B. als Bauernsalat (Choriatiki) in Griechenland, als Hirtensalat (\u00C7oban salatas\u0131) in der T\u00FCrkei, sowie in Azerbaidschan, Armenien, Georgien und Russland."@de ,
+		"La Ensalada Shopska es una ensalada t\u00EDpica de Bulgaria, Macedonia, Serbia, Croacia y la Rep\u00FAblica Checa. El nombre Shopska proviene de Shopi en la regi\u00F3n de Sof\u00EDa, donde se cree que se desarroll\u00F3 esta receta originalmente."@es ,
+		"La salade Chopska est consomm\u00E9e en Bulgarie, Serbie et Mac\u00E9doine. Elle est pr\u00E9par\u00E9e \u00E0 partir de tomates, concombres, poivrons, oignons, et d'une vari\u00E9t\u00E9 de feta. Elle est souvent servie en entr\u00E9e avec un verre de rakia. Son nom vient des Chopi, le nom des habitants de la r\u00E9gion de Sofia."@fr ,
+		"\u0428\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442\u00A0\u2014 \u0431\u043B\u044E\u0434\u043E \u0432\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438, \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u043E\u0435 \u0432 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438, \u0421\u0435\u0440\u0431\u0438\u0438, \u0427\u0435\u0440\u043D\u043E\u0433\u043E\u0440\u0438\u0438, \u0410\u043B\u0431\u0430\u043D\u0438\u0438, \u0427\u0435\u0445\u0438\u0438. \u041F\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044E\u00A0\u2014 \u0438\u0437 \u0437\u0430\u043F\u0430\u0434\u043D\u043E\u0439 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 (\u0448\u043E\u043F\u044B\u00A0\u2014 \u044D\u0442\u043D\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0433\u0440\u0443\u043F\u043F\u0430 \u0431\u043E\u043B\u0433\u0430\u0440). \u0412 \u0441\u043E\u0441\u0442\u0430\u0432 \u0441\u0430\u043B\u0430\u0442\u0430 \u0432\u0445\u043E\u0434\u044F\u0442 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0435 \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442\u044B: \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u044B, \u043E\u0433\u0443\u0440\u0446\u044B, \u043B\u0443\u043A, \u0431\u043E\u043B\u0433\u0430\u0440\u0441\u043A\u0438\u0439 \u043F\u0435\u0440\u0435\u0446 (\u0441\u044B\u0440\u043E\u0439, \u043C\u0430\u0440\u0438\u043D\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0438\u043B\u0438 \u0436\u0430\u0440\u0435\u043D\u044B\u0439), \u0441\u044B\u0440\u044B \u0431\u0440\u044B\u043D\u0437\u0430, \u0441\u0438\u0440\u0435\u043D\u0435 (\u0448\u043E\u043F\u0441\u043A\u0438\u0439 \u0441\u044B\u0440) \u0438\u043B\u0438 \u0444\u0435\u0442\u0430, \u043F\u0435\u0442\u0440\u0443\u0448\u043A\u0430, \u043E\u043B\u0438\u0432\u043A\u0438, \u043E\u043B\u0438\u0432\u043A\u043E\u0432\u043E\u0435 \u043C\u0430\u0441\u043B\u043E, \u0443\u043A\u0441\u0443\u0441, \u0441\u043E\u043B\u044C, \u043C\u043E\u043B\u043E\u0442\u044B\u0439 \u043F\u0435\u0440\u0435\u0446. \u041E\u0432\u043E\u0449\u0438 \u0438 \u0437\u0435\u043B\u0435\u043D\u044C \u043C\u0435\u043B\u043A\u043E \u0440\u0443\u0431\u044F\u0442, \u043F\u043E\u0441\u043B\u0435 \u0447\u0435\u0433\u043E \u043F\u043E\u0441\u044B\u043F\u0430\u044E\u0442 \u0442\u0451\u0440\u0442\u044B\u043C \u0441\u044B\u0440\u043E\u043C \u0438 \u043F\u0440\u0438\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0442 \u043C\u0430\u0441\u043B\u043E\u043C."@ru ,
+		"Sa\u0142atka szopska (bu\u0142g. \u0448\u043E\u043F\u0441\u043A\u0430 \u0441\u0430\u043B\u0430\u0442\u0430 - szopska sa\u0142ata) - charakterystyczny dla kuchni bu\u0142garskiej rodzaj sa\u0142atki, przyrz\u0105dzanej z pokrojonych og\u00F3rk\u00F3w, pomidor\u00F3w, papryki, cebuli z dodatkiem s\u0142onego sera (specjalny bu\u0142garski ser szopski - solankowy ser owczy) oraz oleju ro\u015Blinnego lub oliwy. Sa\u0142atka szopska jest bardzo popularna w Bu\u0142garii, gdzie stanowi klasyczny przyk\u0142ad przystawki, cz\u0119sto spo\u017Cywanej wraz z rakij\u0105. Popularna jest tak\u017Ce w niekt\u00F3rych regionach Serbii, Macedonii i w Czarnog\u00F3rze."@pl ;
+	foaf:name	"Shopska salad"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Shopska_Salad.JPG/200px-Shopska_Salad.JPG> ;
+	dbpprop:caption	"A Bulgarian Shopska salad"@en ;
+	dbpprop:country	dbpedia:Bulgaria ;
+	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, peppers, sirene, parsley"@en ;
+	dbpprop:name	"Shopska salad"@en ;
+	dbpprop:region	dbpedia:Bulgaria ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Shopska_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Shopska_salad?oldid=540284144> ;
+	dbpprop:hasPhotoCollection	ns39:Shopska_salad ;
+	dbpedia-owl:wikiPageInLinkCount	21 ;
+	dbpedia-owl:wikiPageOutLinkCount	34 .
+dbpedia:Molagoottal	rdf:type	yago:Object100002684 ,
+		yago:Dish103206908 ,
+		yago:Ware104550840 ,
+		owl:Thing ,
+		yago:Container103094503 ,
+		yago:Article100022903 ,
+		yago:PhysicalEntity100001930 ,
+		dbpedia-owl:Food ,
+		yago:Instrumentality103575240 ,
+		yago:Artifact100021939 ,
+		yago:Whole100003553 ,
+		yago:Tableware104381994 ,
+		yago:LentilDishes ,
+		yago:Crockery103133538 ;
+	owl:sameAs	ns26:Molagoottal ,
+		<http://rdf.freebase.com/ns/m.03hnqn7> ;
+	dcterms:subject	category:South_Indian_cuisine ,
+		category:Tamil_cuisine ,
+		category:Kerala_cuisine ,
+		category:Lentil_dishes ,
+		category:Indian_soups ,
+		category:Stews ;
+	dbpedia-owl:abstract	"Molagoottal is a South Indian stew with coconut and lentils as a base. It is a dish unique to the Nairs and Iyers of Kerala. It is eaten mixed with rice. It substitutes for sambar or other curry. It is different from sambar and other similar dishes in that it is less spicy and does not contain tamarind. Typical vegetables used in making molagoottal are winter melon (white pumpkin), drumstick, squash, cucumbers, sprouted pulses, yams, root vegetables, spinach and green leaves. Nowadays, molagoottal has been adapted to include Western vegetables such as carrots, cabbage and potatoes. Molagoottal is similar in preparation and texture to the Tamil dish Koottu, the difference being that the latter is thicker and uses Bengal gram."@en ;
+	dbpedia-owl:ingredient	<http://dbpedia.org/resource/Yam_(vegetable)> ,
+		dbpedia:Vegetable ,
+		dbpedia:Poultry ,
+		dbpedia:Cucumber ,
+		dbpedia:Spinach ;
+	dbpedia-owl:origin	dbpedia:India ,
+		dbpedia:South_India ;
+	dbpedia-owl:wikiPageID	15270253 ;
+	dbpedia-owl:wikiPageRevisionID	539931576 ;
+	rdfs:label	"Molagoottal"@en ;
+	rdfs:comment	"Molagoottal is a South Indian stew with coconut and lentils as a base. It is a dish unique to the Nairs and Iyers of Kerala. It is eaten mixed with rice. It substitutes for sambar or other curry. It is different from sambar and other similar dishes in that it is less spicy and does not contain tamarind. Typical vegetables used in making molagoottal are winter melon (white pumpkin), drumstick, squash, cucumbers, sprouted pulses, yams, root vegetables, spinach and green leaves."@en ;
+	foaf:name	"Molagoottal"@en ;
+	dbpprop:country	dbpedia:India ;
+	dbpprop:mainIngredient	"Vegetables , drumstick"@en ;
+	dbpprop:name	"Molagoottal"@en ;
+	dbpprop:region	dbpedia:South_India ;
+	dbpprop:type	dbpedia:Stew ;
+	foaf:isPrimaryTopicOf	ns37:Molagoottal ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Molagoottal?oldid=539931576> ;
+	dbpprop:hasPhotoCollection	ns39:Molagoottal ;
+	dbpedia-owl:wikiPageInLinkCount	1 ;
+	dbpedia-owl:wikiPageOutLinkCount	30 .
+dbpedia:Serbian_salad	rdf:type	yago:Food100021265 ,
+		yago:Substance100020090 ,
+		yago:Dish107557434 ,
+		owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		dbpedia-owl:Food ,
+		yago:Salad107806221 ,
+		yago:Salads ,
+		yago:Matter100020827 ,
+		yago:Nutriment107570720 ;
+	owl:sameAs	ns26:Serbian_salad ,
+		ns10:Q7452956 ,
+		ns12:Salade_serbe ,
+		<http://rdf.freebase.com/ns/m.0619t8> ;
+	dcterms:subject	category:Serbian_cuisine ,
+		category:Salads ;
+	dbpedia-owl:abstract	"Serbian salad is a vegetable salad, usually served during summer with roast meat and other dishes. It is made from diced fresh tomatoes, cucumbers, onions and grated feta, usually seasoned with olive oil, salt and commonly feferon - a local hot pepper similar to cayenne pepper."@en ;
+	dbpedia-owl:ingredient	dbpedia:Feferon ,
+		dbpedia:Tomato ,
+		dbpedia:Onion ,
+		dbpedia:Feta ,
+		dbpedia:Cucumber ,
+		dbpedia:Olive_oil ;
+	dbpedia-owl:origin	dbpedia:Serbia ;
+	dbpedia-owl:wikiPageID	1855223 ;
+	dbpedia-owl:wikiPageRevisionID	501439535 ;
+	rdfs:label	"Serbian salad"@en ;
+	rdfs:comment	"Serbian salad is a vegetable salad, usually served during summer with roast meat and other dishes. It is made from diced fresh tomatoes, cucumbers, onions and grated feta, usually seasoned with olive oil, salt and commonly feferon - a local hot pepper similar to cayenne pepper."@en ;
+	foaf:name	"Serbian salad"@en ;
+	dbpprop:country	dbpedia:Serbia ;
+	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, feta, olive oil, salt, feferon"@en ;
+	dbpprop:name	"Serbian salad"@en ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Serbian_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Serbian_salad?oldid=501439535> ;
+	dbpprop:hasPhotoCollection	ns39:Serbian_salad ;
+	dbpedia-owl:wikiPageInLinkCount	3 ;
+	dbpedia-owl:wikiPageOutLinkCount	21 .
+dbpedia:Israeli_salad	rdf:type	owl:Thing ,
+		yago:Crockery103133538 ,
+		yago:Article100022903 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Instrumentality103575240 ,
+		yago:Object100002684 ,
+		yago:Artifact100021939 ,
+		yago:Whole100003553 ,
+		yago:Tableware104381994 ,
+		yago:Dish103206908 ,
+		yago:Container103094503 ,
+		dbpedia-owl:Food ,
+		yago:Ware104550840 ,
+		yago:NationalDishes ;
+	owl:sameAs	ns28:Insalata_israeliana ,
+		ns10:Q2904240 ,
+		ns26:Israeli_salad ,
+		<http://rdf.freebase.com/ns/m.0d18t1> ,
+		ns17:סלט_ירקות_ישראלי ;
+	dcterms:subject	category:National_dishes ,
+		category:Mediterranean_cuisine ,
+		category:Israeli_cuisine ,
+		category:Salads ;
+	dbpedia-owl:abstract	"Israeli salad is a chopped salad of finely diced tomato and cucumber. \"Distinguished by the tiny diced tomatoes and cucumbers,\" it is described as the \"most well-known national dish of Israel. \" In Israel, it is also commonly referred to as salat yerakot, salat katsutz and salat aravi."@en ,
+		"L'insalata israeliana \u00E8 un piatto entrato a far parte della cucina israeliana, preparato con pomodori e cetrioli tagliati a pezzetti. Il piatto non \u00E8 in realt\u00E0 un'elaborazione originale della cucina israeliana, essendo diffuso da prima della nascita d'Israele in tutta l'area mediterranea, da quella araba a quella turca. Di solito \u00E8 condita con olio d'oliva e succo fresco di limone. Occasionalmente ci si possono aggiungere prezzemolo e cipolle di stagione. Mai invece la lattuga. Generalmente i cetrioli non sono mai pelati, la chiave di successo per una buona riuscita \u00E8 usare prodotti molto freschi e tagliuzzare tutto il pi\u00F9 fine possibile. La cosiddetta insalata israeliana \u00E8 servita su una pita con falafel o su un piatto di portata. Costituiva una delle tradizionali prime colazioni israeliane prima che si cominciasse ad affermare una prima colazione a base di cereali in fiocchi ma rimane ancora una pietanza regolarmente presente sui buffet delle prime colazioni negli alberghi israeliani. In Israele essa \u00E8 peraltro correttamente chiamata anche salat aravi (insalata araba). L'insalata israeliana \u00E8 assai simile ad altre insalate presenti nella cucina mediterranea e ad altre insalate vicino-orientali, quali la persiana Salad-e Shirazi, che tuttavia contiene anche foglie di menta, e la turca \u00C7oban salatasi (insalata del pastore), che pu\u00F2 tuttavia contenere anche peperoni verdi tagliati anch'essi a pezzetti."@it ;
+	dbpedia-owl:ingredient	dbpedia:Cucumber ,
+		dbpedia:Parsley ,
+		dbpedia:Tomato ,
+		dbpedia:Onion ;
+	dbpedia-owl:wikiPageID	5068428 ;
+	dbpedia-owl:wikiPageRevisionID	544372505 ;
+	rdfs:label	"Israeli salad"@en ,
+		"Insalata israeliana"@it ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/0/04/Salad.jpg> ;
+	rdfs:comment	"Israeli salad is a chopped salad of finely diced tomato and cucumber. \"Distinguished by the tiny diced tomatoes and cucumbers,\" it is described as the \"most well-known national dish of Israel. \" In Israel, it is also commonly referred to as salat yerakot, salat katsutz and salat aravi."@en ,
+		"L'insalata israeliana \u00E8 un piatto entrato a far parte della cucina israeliana, preparato con pomodori e cetrioli tagliati a pezzetti. Il piatto non \u00E8 in realt\u00E0 un'elaborazione originale della cucina israeliana, essendo diffuso da prima della nascita d'Israele in tutta l'area mediterranea, da quella araba a quella turca. Di solito \u00E8 condita con olio d'oliva e succo fresco di limone. Occasionalmente ci si possono aggiungere prezzemolo e cipolle di stagione. Mai invece la lattuga."@it ;
+	foaf:name	"Israeli salad"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Salad.jpg/200px-Salad.jpg> ;
+	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, parsley"@en ;
+	dbpprop:name	"Israeli salad"@en ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Israeli_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Israeli_salad?oldid=544372505> ;
+	dbpprop:hasPhotoCollection	ns39:Israeli_salad ;
+	dbpedia-owl:wikiPageInLinkCount	15 ;
+	dbpedia-owl:wikiPageOutLinkCount	51 .
+dbpedia:Greek_salad	rdf:type	yago:Substance100020090 ,
+		dbpedia-owl:Food ,
+		yago:GreekCuisineSalads ,
+		yago:Dish107557434 ,
+		yago:Salad107806221 ,
+		yago:Food100021265 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Matter100020827 ,
+		owl:Thing ,
+		yago:Nutriment107570720 ;
+	owl:sameAs	ns13:希臘沙拉 ,
+		ns14:グリークサラダ ,
+		ns17:סלט_יווני ,
+		ns19:Sałatka_grecka ,
+		ns44:Greek_Salad ,
+		ns20:Salada_grega ,
+		ns25:Ensalada_griega .
+@prefix ns52:	<http://ku.dbpedia.org/resource/> .
+dbpedia:Greek_salad	owl:sameAs	ns52:Seleteya_cotyaran ,
+		ns6:Греческий_салат ,
+		ns31:Kreikkalainen_salaatti ,
+		ns26:Greek_salad ,
+		ns29:Грецький_салат ,
+		ns10:Q240801 .
+@prefix ns53:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Greek_salad	owl:sameAs	ns53:سلطة_يونانية ,
+		ns11:Görög_saláta ,
+		ns40:그리스_샐러드 ,
+		ns22:Griekse_salade ,
+		ns12:Salade_grecque ,
+		ns7:Griechischer_Salat ,
+		ns5:Grekisk_sallad ,
+		ns21:Χωριάτικη_σαλάτα .
+@prefix ns54:	<http://gl.dbpedia.org/resource/> .
+dbpedia:Greek_salad	owl:sameAs	ns54:Ensalada_grega ,
+		ns24:Amanida_grega ,
+		<http://rdf.freebase.com/ns/m.04059x> ;
+	dcterms:subject	category:Greek_cuisine_salads ,
+		category:Cypriot_cuisine ,
+		category:Salads ;
+	dbpedia-owl:abstract	"Grekisk sallad \u00E4r en sallad som bland annat inneh\u00E5ller fetaost, oliver, tomat, gurka och r\u00F6dl\u00F6k. En traditionell grekisk sallad inneh\u00E5ller \u00E4ven sardeller och i Sverige f\u00E5s den oftast med t. ex. isbergssallad. Salladen \u00E4r vanlig p\u00E5 restauranger och en del gatuk\u00F6k. Ofta kan man ocks\u00E5 f\u00E5 paprika till. Fil:Taize-meal-new cup. jpg\u00A0Denna artikel om en matr\u00E4tt \u00E4r bara p\u00E5b\u00F6rjad. Du kan hj\u00E4lpa till genom att ut\u00F6ka den."@sv ,
+		"Griechischer Salat, auch Bauernsalat oder Choriatiki, ist eine Vorspeise der griechischen K\u00FCche. Er besteht in seiner einfachsten Variante aus Gurken, Tomaten, gr\u00FCnen Paprika, Oliven, Schafsk\u00E4se und Zwiebeln und ist mit Salz, Pfeffer und Oliven\u00F6l angemacht. Oft finden Kr\u00E4uter wie Oregano, Dill oder Majoran Verwendung, teilweise wird auch mit Essig oder Zitronensaft mariniert. Je nach Region variieren die Zutaten mit gekochten Eiern, gr\u00FCnem Kopfsalat, Wei\u00DFkohl, Kapern und sogar Fleischst\u00FCcken. Auf manchen Inseln werden auf den Tellerboden der Choriatiki Paximadia (griechische zwieback\u00E4hnliche Br\u00F6tchen) gelegt, die nach Einweichen zerst\u00FCckelt und gemischt werden. \t\t \t\t\tGreek Salad Choriatiki. jpg \t\t\t Griechischer Salat \t\t\t \t\t \t\t \t\t\tGriechischer Salat, Arki (Dodekanes). JPG \t\t\t Griechischer Salat mit Glystrida und Krithama"@de ,
+		"\u0413\u0440\u0435\u0301\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0301\u0442 (\u0441\u0430\u043B\u0430\u0442 \u0425\u043E\u0440\u0438\u0430\u0301\u0442\u0438\u043A\u0438, \u0433\u0440\u0435\u0447. \u03C7\u03C9\u03C1\u03B9\u03AC\u03C4\u03B9\u03BA\u03B7 \u03C3\u03B1\u03BB\u03AC\u03C4\u03B1 - \u0434\u0435\u0440\u0435\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442)\u00A0\u2014 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442 \u0438\u0437 \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u043E\u0432, \u0444\u0435\u0442\u044B, \u0448\u0430\u043B\u043E\u0442\u0430 \u0438 \u043C\u0430\u0441\u043B\u0438\u043D, \u0437\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u043D\u044B\u0439 \u043E\u043B\u0438\u0432\u043A\u043E\u0432\u044B\u043C \u043C\u0430\u0441\u043B\u043E\u043C \u0441 \u0441\u043E\u043B\u044C\u044E, \u0447\u0451\u0440\u043D\u044B\u043C \u043F\u0435\u0440\u0446\u0435\u043C, \u043E\u0440\u0435\u0433\u0430\u043D\u043E. \u041A\u043B\u044E\u0447\u0435\u0432\u044B\u043C \u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u043E\u043C \u0441\u0430\u043B\u0430\u0442\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0444\u0435\u0442\u0430\u00A0\u2014 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u044B\u0439 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u044B\u0440 \u0438\u0437 \u043E\u0432\u0435\u0447\u044C\u0435\u0433\u043E \u0438\u043B\u0438 \u043A\u043E\u0437\u044C\u0435\u0433\u043E \u043C\u043E\u043B\u043E\u043A\u0430. \u0412 \u043F\u043E\u0441\u0442 \u0437\u0430\u043C\u0435\u043D\u044F\u0435\u0442\u0441\u044F \u0441\u043E\u0435\u0432\u044B\u043C \u0441\u044B\u0440\u043E\u043C \u0442\u043E\u0444\u0443. \u0427\u0430\u0441\u0442\u043E \u0432 \u0441\u0430\u043B\u0430\u0442 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u0441\u043B\u0430\u0434\u043A\u0438\u0439 \u043F\u0435\u0440\u0435\u0446, \u0440\u0435\u0436\u0435\u00A0\u2014 \u043A\u0430\u043F\u0435\u0440\u0441\u044B \u0438\u043B\u0438 \u0430\u043D\u0447\u043E\u0443\u0441\u044B. \u0412 \u0430\u043D\u0433\u043B\u043E\u044F\u0437\u044B\u0447\u043D\u044B\u0445 \u0441\u0442\u0440\u0430\u043D\u0430\u0445 \u0432 \u0440\u0435\u0446\u0435\u043F\u0442 \u0432\u0441\u0435\u0433\u0434\u0430 \u0432\u043A\u043B\u044E\u0447\u0430\u044E\u0442 \u043B\u0438\u0441\u0442\u043E\u0432\u043E\u0439 \u0441\u0430\u043B\u0430\u0442, \u043E\u0431\u044B\u0447\u043D\u043E\u00A0\u2014 \u043B\u0443\u043A \u0438\u043B\u0438 \u0441\u043B\u0430\u0434\u043A\u0438\u0439 \u043F\u0435\u0440\u0435\u0446; \u0438\u043D\u043E\u0433\u0434\u0430 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442\u044B (\u0432\u043F\u043B\u043E\u0442\u044C \u0434\u043E \u0441\u0432\u0451\u043A\u043B\u044B). \u0412 \u0441\u0430\u043C\u043E\u0439 \u0413\u0440\u0435\u0446\u0438\u0438 \u0442\u0430\u043A\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u044B \u043F\u043E\u0447\u0442\u0438 \u043D\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044E\u0442\u0441\u044F. \u041E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\u0442\u044F\u043C\u0438 \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u0438\u044F \u0441\u0430\u043B\u0430\u0442\u0430 \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u043A\u0440\u0443\u043F\u043D\u043E \u043F\u043E\u0440\u0443\u0431\u043B\u0435\u043D\u043D\u044B\u0435, \u0430 \u043D\u0435 \u0438\u0437\u043C\u0435\u043B\u044C\u0447\u0451\u043D\u043D\u044B\u0435 \u043E\u0432\u043E\u0449\u0438. \u0422\u0430\u043A\u0436\u0435 \u0441\u043B\u0435\u0434\u0443\u0435\u0442 \u043E\u0442\u043C\u0435\u0442\u0438\u0442\u044C, \u0447\u0442\u043E \u0433\u0440\u0435\u043A\u0438 \u043F\u0440\u0438 \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u0438\u0438 \u0441\u0430\u043B\u0430\u0442\u0430 \u0447\u0438\u0441\u0442\u044F\u0442 \u043E\u0433\u0443\u0440\u0446\u044B \u043E\u0442 \u043A\u043E\u0436\u0443\u0440\u044B \u0438 \u043D\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u043F\u0435\u0440\u0435\u043C\u0435\u0448\u0438\u0432\u0430\u044E\u0442 \u0431\u043B\u044E\u0434\u043E \u043F\u0435\u0440\u0435\u0434 \u043F\u043E\u0434\u0430\u0447\u0435\u0439 \u043D\u0430 \u0441\u0442\u043E\u043B, \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0438\u0442\u0430\u044F \u044D\u0442\u043E \u0434\u0435\u043B\u0430\u0442\u044C \u043D\u0435\u043F\u043E\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u043F\u0435\u0440\u0435\u0434 \u0435\u0434\u043E\u0439."@ru ,
+		"La salade grecque en grec moderne\u00A0: \u03A7\u03C9\u03C1\u03B9\u03AC\u03C4\u03B9\u03BA\u03B7 \u03C3\u03B1\u03BB\u03AC\u03C4\u03B1\u00A0: choriatiki salata est une composante de la cuisine grecque\u00A0: elle est pr\u00E9sente \u00E0 pratiquement chaque repas. Il s'agit, non pas d'un l\u00E9gume, mais d'une \"salade compos\u00E9e\" sp\u00E9cifique \u00E0 la Gr\u00E8ce, qui se caract\u00E9rise par sa simplicit\u00E9. Les recettes sont multiples\u00A0:"@fr ,
+		"\u30B0\u30EA\u30FC\u30AF\u30B5\u30E9\u30C0 (\uFF08\u590F\u306E\u30B5\u30E9\u30C0\uFF09) \u306F\u30AE\u30EA\u30B7\u30A2\u6599\u7406\u306E\u590F\u306E\u30B5\u30E9\u30C0\u3067\u3042\u308B\u3002 \u30C8\u30DE\u30C8\u3001\u30AD\u30E5\u30A6\u30EA\u3001\u30D4\u30FC\u30DE\u30F3\u3001\u8D64\u305F\u307E\u306D\u304E\u3001\u30B9\u30E9\u30A4\u30B9\u304A\u3088\u3073\u30AD\u30E5\u30FC\u30D6\u72B6\u306E\u30D5\u30A7\u30BF\u30C1\u30FC\u30BA\u3001\u305D\u3057\u3066\u30AB\u30E9\u30DE\u30BF\u306E\u30AA\u30EA\u30FC\u30D6\u30AA\u30A4\u30EB\u304B\u3089\u4F5C\u3089\u308C\u3001\u901A\u5E38\u5869\u30B3\u30B7\u30E7\u30A6\u3001\u304A\u3088\u3073\u30C9\u30E9\u30A4\u30AA\u30EC\u30AC\u30CE\u3067\u5473\u4ED8\u3051\u3055\u308C\u3001\u6700\u5F8C\u306B\u30AA\u30EA\u30FC\u30D6\u6CB9\u3067\u30C9\u30EC\u30C3\u30B7\u30F3\u30B0\u3055\u308C\u308B\u3002\u4E00\u822C\u7684\u306A\u30C8\u30C3\u30D4\u30F3\u30B0\u306F\u3001\u8449\u306E\u30D4\u30AF\u30EB\u30B9\u3001\u30C9\u30C7\u30AB\u30CD\u30B9\u8AF8\u5CF6\u7523\u306E\u30B1\u30A4\u30D1\u30FC\u306E\u82BD\u3084\u5B9F\u3001\u9162\u3001\u30EC\u30E2\u30F3\u6C41\u3001\u304A\u3088\u3073\u3076\u3064\u5207\u308A\u306B\u3055\u308C\u305F\u30D1\u30BB\u30EA\u3067\u3042\u308B\u3002"@ja ,
+		"Greek salad (\"summer salad\") is a salad in Greek cuisine. Greek salad is made with pieces of tomatoes, sliced cucumbers, onion, feta cheese, and olives (usually Kalamata olives, other types of olives may be used as well), typically seasoned with salt and oregano, and dressed with olive oil. Common additions include the pickled leaves, buds or berries of capers (especially in the Dodecanese islands)."@en ,
+		"\u5E0C\u81D8\u6C99\u62C9\uFF08\uFF0C\u610F\u70BA\u300C\u9109\u6751\u6C99\u62C9\u300D\uFF1B\u03B8\u03B5\u03C1\u03B9\u03BD\u03AE \u03C3\u03B1\u03BB\u03AC\u03C4\u03B1 \uFF0C\u610F\u70BA\u300C\u590F\u65E5\u6C99\u62C9\u300D\uFF09\u662F\u4E00\u9053\u5E0C\u81D8\u5F0F\u590F\u5B63\u6C99\u62C9\u3002\u5B83\u7684\u98DF\u6750\u5305\u62EC\u756A\u8304\u3001\u5C0F\u9EC3\u74DC\u5207\u7247\u3001\u9752\u6912\u3001\u7D05\u6D0B\u8525\u3001\u584A\u72C0\u6216\u8584\u7247\u72C0\u7684\u83F2\u9054\u8D77\u53F8\u53CA\u5361\u62C9\u99AC\u5854\u6A44\u6B16\uFF0C\u4EE5\u9E7D\u548C\u4E7E\u71E5\u4FC4\u529B\u5CA1\u8449\u8ABF\u5473\uFF0C\u518D\u6DCB\u4E0A\u6A44\u6B16\u6CB9\u3002\u6B64\u5916\uFF0C\u5E0C\u81D8\u6C99\u62C9\u4E5F\u6642\u5E38\u52A0\u5165\u9183\u88FD\u7684\u523A\u5C71\u67D1\u8449\u7247\u3001\u82B1\u857E\u6216\u6F3F\u679C\uFF08\u5C24\u5176\u662F\u5341\u4E8C\u7FA4\u5CF6\u5730\u5340\uFF09\uFF0C\u4EE5\u53CA\u918B\u3001\u6AB8\u6AAC\u6C41\u548C\u9999\u82B9\u672B\u3002"@zh ,
+		"A salada grega \u00E9 uma salada tradicional grega com os ingredientes caracter\u00EDsticos deste pa\u00EDs. A salada original \u00E9 feita com tomate, pepino, pimento e cebola vermelha, temperada com sal, pimenta-preta, or\u00E9g\u00E3o e azeite. A tudo isto juntam-se peda\u00E7os de queijo feta, alcaparras e azeitonas kalamata. A alface, apesar do que pensa a maioria das pessoas, \u00E9 muito rara na salada grega. H\u00E1 uma variante da salada que se denomina \u03BC\u03B1\u03C1\u03BF\u03CD\u03BB\u03B9, \"alface\" em vez de \"salada\" e \u00E9 muito diferente: consiste em alface, cebolinha-verde, e endro fresco, tudo regado com azeite e vinagre ou sumo de lim\u00E3o."@pt ,
+		"Sa\u0142atka grecka wiejska,, dos\u0142. \"wiejska sa\u0142atka\" \u2013 tradycyjna sa\u0142atka kuchni greckiej, podawana w r\u00F3\u017Cnych wariantach, znana i jadana na ca\u0142ym \u015Bwiecie. W wersji z Grecji: grubo pokrojone pomidory i og\u00F3rki, czerwona cebula w plastrach, zielona, s\u0142odka papryka w plastrach, oliwa z oliwek, ser feta (w lokalach - w plastrze, feta po grecku \u2013 plaster), oliwki br\u0105zowe, czasem tak\u017Ce zielone, niekiedy dodaje si\u0119 kapary, anchois, oraz - jako przypraw\u0119 - oregano. Grecka choriatiki ma niewiele wsp\u00F3lnego z tzw. \"sa\u0142atkami greckimi\" podawanymi w niekt\u00F3rych polskich lokalach, a przygotowanymi na bazie kapusty peki\u0144skiej i majonezu."@pl ,
+		"La ensalada griega es una ensalada elaborada en Grecia con los ingredientes caracter\u00EDsticos de este pa\u00EDs. La ensalada original est\u00E1 elaborada de tomate, pepino, pimiento y cebolla roja, todo ello con sal, pimienta negra, y or\u00E9gano y ali\u00F1ada con aceite de oliva. A todo ello se le a\u00F1aden trozos de queso feta, alcaparras y aceitunas kalamata. La lechuga a pesar de lo que piensa la mayor\u00EDa de la gente es muy rara en la ensalada griega. Existe una variante de ensalada que se denomina \u03BC\u03B1\u03C1\u03BF\u03CD\u03BB\u03B9, \"lechuga\" en lugar de ensalada y es muy distinta, consiste en lechuga, cebolla de primavera, y eneldo fresco, todo ello ali\u00F1ado con aceite de oliva y vinagre o zumo de lim\u00F3n."@es ,
+		"De Griekse salade, vrij vertaald dorpssalade, wordt zowel als voor- of bijgerecht of als hoofdgerecht gegeten."@nl ;
+	dbpedia-owl:ingredient	dbpedia:Feta ,
+		dbpedia:Olive_oil ,
+		dbpedia:Olive ,
+		dbpedia:Oregano ,
+		dbpedia:Onion ,
+		dbpedia:Tomato ,
+		dbpedia:Cucumber ,
+		dbpedia:Salt ;
+	dbpedia-owl:origin	dbpedia:Greece ;
+	dbpedia-owl:wikiPageID	1034458 ;
+	dbpedia-owl:wikiPageRevisionID	544673662 ;
+	rdfs:label	"Griekse salade"@nl ,
+		"\u0413\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442"@ru ,
+		"Ensalada griega"@es ,
+		"Salada grega"@pt ,
+		"Greek salad"@en ,
+		"Griechischer Salat"@de ,
+		"\u5E0C\u81D8\u6C99\u62C9"@zh ,
+		"\u30B0\u30EA\u30FC\u30AF\u30B5\u30E9\u30C0"@ja ,
+		"Sa\u0142atka grecka"@pl ,
+		"Grekisk sallad"@sv ,
+		"Salade grecque"@fr ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/5/54/Flickr_-_cyclonebill_-_Gr\u00E6sk_salat.jpg> ;
+	rdfs:comment	"La salade grecque en grec moderne\u00A0: \u03A7\u03C9\u03C1\u03B9\u03AC\u03C4\u03B9\u03BA\u03B7 \u03C3\u03B1\u03BB\u03AC\u03C4\u03B1\u00A0: choriatiki salata est une composante de la cuisine grecque\u00A0: elle est pr\u00E9sente \u00E0 pratiquement chaque repas. Il s'agit, non pas d'un l\u00E9gume, mais d'une \"salade compos\u00E9e\" sp\u00E9cifique \u00E0 la Gr\u00E8ce, qui se caract\u00E9rise par sa simplicit\u00E9. Les recettes sont multiples\u00A0:"@fr ,
+		"A salada grega \u00E9 uma salada tradicional grega com os ingredientes caracter\u00EDsticos deste pa\u00EDs. A salada original \u00E9 feita com tomate, pepino, pimento e cebola vermelha, temperada com sal, pimenta-preta, or\u00E9g\u00E3o e azeite. A tudo isto juntam-se peda\u00E7os de queijo feta, alcaparras e azeitonas kalamata. A alface, apesar do que pensa a maioria das pessoas, \u00E9 muito rara na salada grega."@pt ,
+		"Greek salad (\"summer salad\") is a salad in Greek cuisine. Greek salad is made with pieces of tomatoes, sliced cucumbers, onion, feta cheese, and olives (usually Kalamata olives, other types of olives may be used as well), typically seasoned with salt and oregano, and dressed with olive oil. Common additions include the pickled leaves, buds or berries of capers (especially in the Dodecanese islands)."@en ,
+		"\u5E0C\u81D8\u6C99\u62C9\uFF08\uFF0C\u610F\u70BA\u300C\u9109\u6751\u6C99\u62C9\u300D\uFF1B\u03B8\u03B5\u03C1\u03B9\u03BD\u03AE \u03C3\u03B1\u03BB\u03AC\u03C4\u03B1 \uFF0C\u610F\u70BA\u300C\u590F\u65E5\u6C99\u62C9\u300D\uFF09\u662F\u4E00\u9053\u5E0C\u81D8\u5F0F\u590F\u5B63\u6C99\u62C9\u3002\u5B83\u7684\u98DF\u6750\u5305\u62EC\u756A\u8304\u3001\u5C0F\u9EC3\u74DC\u5207\u7247\u3001\u9752\u6912\u3001\u7D05\u6D0B\u8525\u3001\u584A\u72C0\u6216\u8584\u7247\u72C0\u7684\u83F2\u9054\u8D77\u53F8\u53CA\u5361\u62C9\u99AC\u5854\u6A44\u6B16\uFF0C\u4EE5\u9E7D\u548C\u4E7E\u71E5\u4FC4\u529B\u5CA1\u8449\u8ABF\u5473\uFF0C\u518D\u6DCB\u4E0A\u6A44\u6B16\u6CB9\u3002\u6B64\u5916\uFF0C\u5E0C\u81D8\u6C99\u62C9\u4E5F\u6642\u5E38\u52A0\u5165\u9183\u88FD\u7684\u523A\u5C71\u67D1\u8449\u7247\u3001\u82B1\u857E\u6216\u6F3F\u679C\uFF08\u5C24\u5176\u662F\u5341\u4E8C\u7FA4\u5CF6\u5730\u5340\uFF09\uFF0C\u4EE5\u53CA\u918B\u3001\u6AB8\u6AAC\u6C41\u548C\u9999\u82B9\u672B\u3002"@zh ,
+		"De Griekse salade, vrij vertaald dorpssalade, wordt zowel als voor- of bijgerecht of als hoofdgerecht gegeten."@nl ,
+		"Grekisk sallad \u00E4r en sallad som bland annat inneh\u00E5ller fetaost, oliver, tomat, gurka och r\u00F6dl\u00F6k. En traditionell grekisk sallad inneh\u00E5ller \u00E4ven sardeller och i Sverige f\u00E5s den oftast med t. ex. isbergssallad. Salladen \u00E4r vanlig p\u00E5 restauranger och en del gatuk\u00F6k. Ofta kan man ocks\u00E5 f\u00E5 paprika till. Fil:Taize-meal-new cup. jpg\u00A0Denna artikel om en matr\u00E4tt \u00E4r bara p\u00E5b\u00F6rjad. Du kan hj\u00E4lpa till genom att ut\u00F6ka den."@sv ,
+		"Griechischer Salat, auch Bauernsalat oder Choriatiki, ist eine Vorspeise der griechischen K\u00FCche. Er besteht in seiner einfachsten Variante aus Gurken, Tomaten, gr\u00FCnen Paprika, Oliven, Schafsk\u00E4se und Zwiebeln und ist mit Salz, Pfeffer und Oliven\u00F6l angemacht. Oft finden Kr\u00E4uter wie Oregano, Dill oder Majoran Verwendung, teilweise wird auch mit Essig oder Zitronensaft mariniert. Je nach Region variieren die Zutaten mit gekochten Eiern, gr\u00FCnem Kopfsalat, Wei\u00DFkohl, Kapern und sogar Fleischst\u00FCcken."@de ,
+		"\u30B0\u30EA\u30FC\u30AF\u30B5\u30E9\u30C0 (\uFF08\u590F\u306E\u30B5\u30E9\u30C0\uFF09) \u306F\u30AE\u30EA\u30B7\u30A2\u6599\u7406\u306E\u590F\u306E\u30B5\u30E9\u30C0\u3067\u3042\u308B\u3002 \u30C8\u30DE\u30C8\u3001\u30AD\u30E5\u30A6\u30EA\u3001\u30D4\u30FC\u30DE\u30F3\u3001\u8D64\u305F\u307E\u306D\u304E\u3001\u30B9\u30E9\u30A4\u30B9\u304A\u3088\u3073\u30AD\u30E5\u30FC\u30D6\u72B6\u306E\u30D5\u30A7\u30BF\u30C1\u30FC\u30BA\u3001\u305D\u3057\u3066\u30AB\u30E9\u30DE\u30BF\u306E\u30AA\u30EA\u30FC\u30D6\u30AA\u30A4\u30EB\u304B\u3089\u4F5C\u3089\u308C\u3001\u901A\u5E38\u5869\u30B3\u30B7\u30E7\u30A6\u3001\u304A\u3088\u3073\u30C9\u30E9\u30A4\u30AA\u30EC\u30AC\u30CE\u3067\u5473\u4ED8\u3051\u3055\u308C\u3001\u6700\u5F8C\u306B\u30AA\u30EA\u30FC\u30D6\u6CB9\u3067\u30C9\u30EC\u30C3\u30B7\u30F3\u30B0\u3055\u308C\u308B\u3002\u4E00\u822C\u7684\u306A\u30C8\u30C3\u30D4\u30F3\u30B0\u306F\u3001\u8449\u306E\u30D4\u30AF\u30EB\u30B9\u3001\u30C9\u30C7\u30AB\u30CD\u30B9\u8AF8\u5CF6\u7523\u306E\u30B1\u30A4\u30D1\u30FC\u306E\u82BD\u3084\u5B9F\u3001\u9162\u3001\u30EC\u30E2\u30F3\u6C41\u3001\u304A\u3088\u3073\u3076\u3064\u5207\u308A\u306B\u3055\u308C\u305F\u30D1\u30BB\u30EA\u3067\u3042\u308B\u3002"@ja ,
+		"\u0413\u0440\u0435\u0301\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0301\u0442 (\u0441\u0430\u043B\u0430\u0442 \u0425\u043E\u0440\u0438\u0430\u0301\u0442\u0438\u043A\u0438, \u0433\u0440\u0435\u0447. \u03C7\u03C9\u03C1\u03B9\u03AC\u03C4\u03B9\u03BA\u03B7 \u03C3\u03B1\u03BB\u03AC\u03C4\u03B1 - \u0434\u0435\u0440\u0435\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442)\u00A0\u2014 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0430\u043B\u0430\u0442 \u0438\u0437 \u043F\u043E\u043C\u0438\u0434\u043E\u0440\u043E\u0432, \u0444\u0435\u0442\u044B, \u0448\u0430\u043B\u043E\u0442\u0430 \u0438 \u043C\u0430\u0441\u043B\u0438\u043D, \u0437\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u043D\u044B\u0439 \u043E\u043B\u0438\u0432\u043A\u043E\u0432\u044B\u043C \u043C\u0430\u0441\u043B\u043E\u043C \u0441 \u0441\u043E\u043B\u044C\u044E, \u0447\u0451\u0440\u043D\u044B\u043C \u043F\u0435\u0440\u0446\u0435\u043C, \u043E\u0440\u0435\u0433\u0430\u043D\u043E. \u041A\u043B\u044E\u0447\u0435\u0432\u044B\u043C \u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u043E\u043C \u0441\u0430\u043B\u0430\u0442\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0444\u0435\u0442\u0430\u00A0\u2014 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u044B\u0439 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u044B\u0440 \u0438\u0437 \u043E\u0432\u0435\u0447\u044C\u0435\u0433\u043E \u0438\u043B\u0438 \u043A\u043E\u0437\u044C\u0435\u0433\u043E \u043C\u043E\u043B\u043E\u043A\u0430. \u0412 \u043F\u043E\u0441\u0442 \u0437\u0430\u043C\u0435\u043D\u044F\u0435\u0442\u0441\u044F \u0441\u043E\u0435\u0432\u044B\u043C \u0441\u044B\u0440\u043E\u043C \u0442\u043E\u0444\u0443. \u0427\u0430\u0441\u0442\u043E \u0432 \u0441\u0430\u043B\u0430\u0442 \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u044E\u0442 \u0441\u043B\u0430\u0434\u043A\u0438\u0439 \u043F\u0435\u0440\u0435\u0446, \u0440\u0435\u0436\u0435\u00A0\u2014 \u043A\u0430\u043F\u0435\u0440\u0441\u044B \u0438\u043B\u0438 \u0430\u043D\u0447\u043E\u0443\u0441\u044B."@ru ,
+		"Sa\u0142atka grecka wiejska,, dos\u0142. \"wiejska sa\u0142atka\" \u2013 tradycyjna sa\u0142atka kuchni greckiej, podawana w r\u00F3\u017Cnych wariantach, znana i jadana na ca\u0142ym \u015Bwiecie. W wersji z Grecji: grubo pokrojone pomidory i og\u00F3rki, czerwona cebula w plastrach, zielona, s\u0142odka papryka w plastrach, oliwa z oliwek, ser feta (w lokalach - w plastrze, feta po grecku \u2013 plaster), oliwki br\u0105zowe, czasem tak\u017Ce zielone, niekiedy dodaje si\u0119 kapary, anchois, oraz - jako przypraw\u0119 - oregano."@pl ,
+		"La ensalada griega es una ensalada elaborada en Grecia con los ingredientes caracter\u00EDsticos de este pa\u00EDs. La ensalada original est\u00E1 elaborada de tomate, pepino, pimiento y cebolla roja, todo ello con sal, pimienta negra, y or\u00E9gano y ali\u00F1ada con aceite de oliva. A todo ello se le a\u00F1aden trozos de queso feta, alcaparras y aceitunas kalamata. La lechuga a pesar de lo que piensa la mayor\u00EDa de la gente es muy rara en la ensalada griega."@es ;
+	foaf:name	"Greek salad"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flickr_-_cyclonebill_-_Gr\u00E6sk_salat.jpg/200px-Flickr_-_cyclonebill_-_Gr\u00E6sk_salat.jpg> ;
+	dbpprop:country	dbpedia:Greece ;
+	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, feta cheese, olives , salt, oregano, olive oil"@en ;
+	dbpprop:name	"Greek salad"@en ;
+	foaf:isPrimaryTopicOf	ns37:Greek_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Greek_salad?oldid=544673662> ;
+	dbpprop:hasPhotoCollection	ns39:Greek_salad ;
+	dbpedia-owl:wikiPageInLinkCount	23 ;
+	dbpedia-owl:wikiPageOutLinkCount	66 .
+dbpedia:Okroshka	rdf:type	yago:RussianSoups ,
+		yago:PhysicalEntity100001930 ,
+		yago:Nutriment107570720 ,
+		yago:Dish107557434 ,
+		yago:ColdSoups ,
+		yago:Soup107583197 ,
+		yago:Substance100020090 ,
+		owl:Thing ,
+		dbpedia-owl:Food ,
+		yago:Matter100020827 ,
+		yago:UkrainianSoups ,
+		yago:Food100021265 ;
+	owl:sameAs	ns28:Okroshka ,
+		ns14:オクローシカ .
+@prefix ns55:	<http://myv.dbpedia.org/resource/> .
+dbpedia:Okroshka	owl:sameAs	ns55:Салведь ,
+		ns18:Okroŝko .
+@prefix ns56:	<http://af.dbpedia.org/resource/> .
+dbpedia:Okroshka	owl:sameAs	ns56:Okrosjka ,
+		ns25:Okroshka ,
+		ns11:Okroska ,
+		ns42:Okroška ,
+		ns29:Окрошка ,
+		ns16:Окрошка ,
+		ns21:Οκρόσκα ,
+		ns10:Q611164 ,
+		ns15:Okroška .
+@prefix ns57:	<http://eu.dbpedia.org/resource/> .
+dbpedia:Okroshka	owl:sameAs	ns57:Okroxka ,
+		ns30:Okrosjka ,
+		<http://rdf.freebase.com/ns/m.06rf8_> ,
+		ns26:Okroshka ,
+		ns22:Okrosjka ,
+		ns6:Окрошка .
+@prefix ns58:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Okroshka	owl:sameAs	ns58:Okroshka ,
+		ns23:Okrosjka ,
+		ns12:Okrochka ,
+		ns19:Okroszka ,
+		ns44:Okroshka .
+@prefix ns59:	<http://tg.dbpedia.org/resource/> .
+dbpedia:Okroshka	owl:sameAs	ns59:Окрошкаи_гӯштӣ ,
+		ns7:Okroschka ,
+		ns20:Okroshka ;
+	dcterms:subject	category:Cold_soups ,
+		category:Ukrainian_soups ,
+		category:Russian_loanwords ,
+		category:Russian_inventions ,
+		category:Russian_soups ;
+	dbpedia-owl:abstract	"Okroshka es una sopa fr\u00EDa muy popular en la cocina rusa. El nombre proviene del ruso \"kroshit\" (\u043A\u0440\u043E\u0448\u0438\u0442\u044C) que significa picar (en peque\u00F1as partes). La versi\u00F3n cl\u00E1sica de esta sopa consiste en una mezcla de verduras crudas, patatas cocidas, huevo, jam\u00F3n con la bebida kvas. Es posible reemplazar el kvas con k\u00E9fir y \u00E1cido c\u00EDtrico. La okroshka es considerada una sopa ideal para el verano y se toma para refrescar. La mayor\u00EDa de la gente prefiere poner sobre la superficie una cucharada de smetana o de mostaza rusa (algo amarga)."@es ,
+		"Okr\u00F3shka is a cold soup of Russian origin that is also found in Ukraine. The name probably originates from \"kroshit'\" (\u043A\u0440\u043E\u0448\u0438\u0442\u044C), which means to crumble into small pieces. The classic soup is a mix of mostly raw vegetables, boiled potatoes, eggs, and a cooked meat such as beef, veal, sausages, or ham with kvass, the so-called bread drink, which is a mildly alcoholic beverage made from fermented black or rye bread. Okroshka is usually garnished with sour cream. Later versions that appeared in Soviet times use light or diluted kefir, vinegar, mineral water, or even beer instead of kvass. The ingredients are diced and then mixed with kvass just before eating; the ratio of chopped food to kvass is similar to that of cereal to milk. This allows the vegetables to retain their texture. For that same reason, even though the ingredients are similar to those in a Russian salad, the taste of okroshka is quite different from that of the salad. Okroshka is mostly served in summer because the soup combines the refreshing taste of kvass and the lightness of a salad. Salt and sugar can be added according to taste. Okroshka is always served cold. Sometimes ice cubes are added to served portions to keep the soup cold in hot weather. \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04301. JPG \t\t\t Classic okroshka with beef. Nearby are plates of smetana, a special dressing (made from pounding yolks, Russian mustard, horse radish, green onion, and salt), and a cup of kvass \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04302. JPG \t\t\t Okroshka with the dressing added \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04303. jpg \t\t\t Kvass is added to the mixture \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04304. jpg \t\t\t The soup is mixed and smetana is added \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04305. jpg \t\t\t The mixed soup with ice"@en ,
+		"Okrosjka is een traditionele Russische koude soep. De naam komt van het werkwoord \u043A\u0440\u043E\u0448\u0438\u0442\u044C (krosjit), dat verkruimelen of fijnhakken betekent. De klassieke okrosjka is een mengeling van meestal rauwe groenten (zoals komkommers, lente-uitjes, radijsjes), gekookte aardappelen en ham met kvas. De kvas kan ook vervangen worden door kefir en citroenzuur. De ingredi\u00EBnten worden fijngesneden in kleine vierkantjes, en worden met de kvas gemengd vlak voor het opdienen. De verhouding tussen de hoeveelheid groenten en kvas is gelijkaardig aan de verhouding tussen ontbijtgranen en melk, hierdoor blijven de groenten knapperig. Aangezien okrosjka de verfrissing van kvas combineert met de lichtheid van een salade, is ze uiterst geschikt als een zomerse maaltijd. De meeste mensen eten hun okrosjka graag met een kwakje zure room of bittere Russische mosterd op de soep. Vaak worden ook suiker of zout toegevoegd. \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04301. JPG \t\t\t Classic okroshka with beaf. Nearby smetana, special dressing (made from pounding yolks, russian mustard, horse radish, green onion, salt) and kvass \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04302. JPG \t\t\t Okroshka, the dressing is added \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04303. jpg \t\t\t Okroshka, kvass is added \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04304. jpg \t\t\t Okroshka is mixed, smetana is added \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04305. jpg \t\t\t Okroshka is mixed with smetana, ice is added."@nl ,
+		"Okroshka in russo: \u043E\u043A\u0440\u043E\u0448\u043A\u0430 \u00E8 una zuppa fredda, parte della cucina nazionale ucraina e russa. Il nome probabilmente deriva da \"kroshit'\" (\u043A\u0440\u043E\u0448\u0438\u0442\u044C) che vuol dire tagliare o rompere in piccoli pezzi. La zuppa classica \u00E8 un mix di verdure per lo pi\u00F9 crude, come cetrioli e cipolle invernali, patate lesse, uova e manzo o vitello lesso o salsicce o prosciutto con il kvas, la cos\u00EC chiamata bevanda di pane, moderatamente alcolica e ottenuta da pane nero fermentato o di segale. L'okroshka viene solitamente guarnita con la smetana (panna acida). Le versioni pi\u00F9 recenti apparse in et\u00E0 sovietica utilizzano k\u00E9fir o diluito ed acqua minerale, siero o anche la birra al posto del kvas. La ricetta moderna consente anche di sostituire la panna acida con la maionese. Gli ingredienti sono tagliati a dadini e poi mescolati con il kvas appena prima di mangiarli; la proporzione tra gli ingredienti spezzettati e il kvas \u00E8 simile a quella tra i cereali e il latte. Ci\u00F2 consente alle verdure di conservare la loro consistenza. Per la stessa ragione, bench\u00E9 gli ingredienti siano simili a quelli dell'insalata russa, il sapore dell'okroshka \u00E8 piuttosto diverso da quello dell'insalata. L'okroshka \u00E8 talvolta considerata una zuppa perfetta per la stagione estiva in quanto combina il sapore rinfrescante del kvas alla leggerezza di una insalata. Sale e zucchero possono essere aggiunti in base ai gusti."@it ,
+		"L'okrochka est une soupe froide russe. Son nom vient du russe krochit qui signifie \"\u00E9mietter en petit morceau\"."@fr ,
+		"Okroschka (russisch\u00A0\u043E\u043A\u0440\u043E\u0448\u043A\u0430, von \u043A\u0440\u043E\u0448\u0438\u0442\u044C, kr\u00FCmeln) ist ein russisches Nationalgericht. Die kalte Suppe wird aus Kwas und Sauerrahm (wahlweise auch einfache Buttermilch oder Kefir), Wurst, hartgekochtem Ei, Radieschen, gekochten Kartoffeln, Schnittlauch und Gurke zubereitet. Sie wird meistens mit scharfem Senf, Pfeffer und Salz gew\u00FCrzt."@de ,
+		"Okroszka (ros. \u043E\u043A\u0440\u043E\u0448\u043A\u0430) \u2013 popularna rosyjska zupa, kt\u00F3ra jest przyrz\u0105dzana z \u017C\u00F3\u0142tek, musztardy, kwasu chlebowego, og\u00F3rk\u00F3w, zieleniny oraz z pieczonej ciel\u0119ciny i szynki. Ta zupa jest spo\u017Cywana na zimno z dodatkiem \u015Bmietany. \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04301. JPG \t\t\t Klasyczna okroszka z wo\u0142owin\u0105. Obok \u015Bmietana, specjalny sos (ubite \u017C\u00F3\u0142tka, rosyjska musztarda, chrzan, zielona cebulka, s\u00F3l) oraz kwas chlebowy~. \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04302. JPG \t\t\t Okroszka, dodano sos. \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04303. jpg \t\t\t Okroszka, dodano kwas chlebowy. \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04304. jpg \t\t\t Okroszka jest wymieszana, dodano \u015Bmietan\u0119. \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04305. jpg \t\t\t Gotowa okroszka, po wymieszaniu ze \u015Bmietan\u0105, dodano kostki lodu."@pl ,
+		"\u30AA\u30AF\u30ED\u30FC\u30B7\u30AB\uFF08\u30ED\u30B7\u30A2\u8A9E:\u043E\u043A\u0440\u043E\u0448\u043A\u0430\u30A2\u30AF\u30ED\u30FC\u30B7\u30E5\u30AB\uFF09\u306F\u3001\u30ED\u30B7\u30A2\u306E\u51B7\u88FD\u30B9\u30FC\u30D7\u3067\u3042\u308B\u3002\u30A2\u30AF\u30ED\u30B7\u30E5\u30AB\u307E\u305F\u306F\u30AA\u30AF\u30ED\u30B7\u30AB\u3068\u3082\u547C\u3070\u308C\u308B\u3002\u3053\u306E\u30B9\u30FC\u30D7\u306E\u540D\u524D\u306F\u30ED\u30B7\u30A2\u8A9E\u3067\u3001\u300C\u7D30\u5207\u308C\u306B\u3059\u308B\u300D\u3053\u3068\u3092\u610F\u5473\u3059\u308B\u300C\u043A\u0440\u043E\u0448\u0438\u0442\u044C\u300D\u306B\u7531\u6765\u3059\u308B\u3002"@ja ,
+		"\u041E\u043A\u0440\u043E\u0301\u0448\u043A\u0430 (\u043E\u0442 \u0433\u043B\u0430\u0433\u043E\u043B\u0430 \u043A\u0440\u043E\u0448\u0438\u0442\u044C\u00A0\u2014 \u043C\u0435\u043B\u043A\u043E \u043D\u0430\u0440\u0435\u0437\u0430\u0301\u0442\u044C)\u00A0\u2014 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0431\u043B\u044E\u0434\u043E \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0440\u0443\u0441\u0441\u043A\u043E\u0439 \u0438 \u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438, \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u0443\u043F. \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u043E\u043F\u0438\u0441\u0430\u043D\u0430 \u0432 \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u0432 \u043A\u043E\u0433\u0434\u0430-\u0442\u043E \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u043E\u0439 \u043A\u043D\u0438\u0433\u0435 \u0415\u043B\u0435\u043D\u044B \u0418\u0432\u0430\u043D\u043E\u0432\u043D\u044B \u041C\u043E\u043B\u043E\u0445\u043E\u0432\u0435\u0446 \u00AB\u041F\u043E\u0434\u0430\u0440\u043E\u043A \u043C\u043E\u043B\u043E\u0434\u044B\u043C \u0445\u043E\u0437\u044F\u0439\u043A\u0430\u043C\u00BB."@ru ;
+	dbpedia-owl:ingredient	dbpedia:Scallion ,
+		dbpedia:Potato ,
+		dbpedia:Cucumber ,
+		dbpedia:Sour_cream ,
+		dbpedia:Veal ,
+		dbpedia:Sausage ,
+		dbpedia:Ham ,
+		dbpedia:Kvass ,
+		dbpedia:Beef ,
+		<http://dbpedia.org/resource/Egg_(food)> ;
+	dbpedia-owl:origin	dbpedia:Russia ;
+	dbpedia-owl:servingTemperature	"Cold"@en ;
+	dbpedia-owl:wikiPageID	2161922 ;
+	dbpedia-owl:wikiPageRevisionID	542436988 ;
+	rdfs:label	"\u041E\u043A\u0440\u043E\u0448\u043A\u0430"@ru ,
+		"Okroszka"@pl ,
+		"Okroshka"@es ,
+		"Okroshka"@en ,
+		"Okroschka"@de ,
+		"Okroshka"@it ,
+		"Okrosjka"@nl ,
+		"Okrochka"@fr ,
+		"\u30AA\u30AF\u30ED\u30FC\u30B7\u30AB"@ja ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/c/c3/Kvass-okroshka.jpg> ;
+	rdfs:comment	"\u30AA\u30AF\u30ED\u30FC\u30B7\u30AB\uFF08\u30ED\u30B7\u30A2\u8A9E:\u043E\u043A\u0440\u043E\u0448\u043A\u0430\u30A2\u30AF\u30ED\u30FC\u30B7\u30E5\u30AB\uFF09\u306F\u3001\u30ED\u30B7\u30A2\u306E\u51B7\u88FD\u30B9\u30FC\u30D7\u3067\u3042\u308B\u3002\u30A2\u30AF\u30ED\u30B7\u30E5\u30AB\u307E\u305F\u306F\u30AA\u30AF\u30ED\u30B7\u30AB\u3068\u3082\u547C\u3070\u308C\u308B\u3002\u3053\u306E\u30B9\u30FC\u30D7\u306E\u540D\u524D\u306F\u30ED\u30B7\u30A2\u8A9E\u3067\u3001\u300C\u7D30\u5207\u308C\u306B\u3059\u308B\u300D\u3053\u3068\u3092\u610F\u5473\u3059\u308B\u300C\u043A\u0440\u043E\u0448\u0438\u0442\u044C\u300D\u306B\u7531\u6765\u3059\u308B\u3002"@ja ,
+		"Okrosjka is een traditionele Russische koude soep. De naam komt van het werkwoord \u043A\u0440\u043E\u0448\u0438\u0442\u044C (krosjit), dat verkruimelen of fijnhakken betekent. De klassieke okrosjka is een mengeling van meestal rauwe groenten (zoals komkommers, lente-uitjes, radijsjes), gekookte aardappelen en ham met kvas. De kvas kan ook vervangen worden door kefir en citroenzuur. De ingredi\u00EBnten worden fijngesneden in kleine vierkantjes, en worden met de kvas gemengd vlak voor het opdienen."@nl ,
+		"Okroschka (russisch\u00A0\u043E\u043A\u0440\u043E\u0448\u043A\u0430, von \u043A\u0440\u043E\u0448\u0438\u0442\u044C, kr\u00FCmeln) ist ein russisches Nationalgericht. Die kalte Suppe wird aus Kwas und Sauerrahm (wahlweise auch einfache Buttermilch oder Kefir), Wurst, hartgekochtem Ei, Radieschen, gekochten Kartoffeln, Schnittlauch und Gurke zubereitet. Sie wird meistens mit scharfem Senf, Pfeffer und Salz gew\u00FCrzt."@de ,
+		"Okr\u00F3shka is a cold soup of Russian origin that is also found in Ukraine. The name probably originates from \"kroshit'\" (\u043A\u0440\u043E\u0448\u0438\u0442\u044C), which means to crumble into small pieces. The classic soup is a mix of mostly raw vegetables, boiled potatoes, eggs, and a cooked meat such as beef, veal, sausages, or ham with kvass, the so-called bread drink, which is a mildly alcoholic beverage made from fermented black or rye bread. Okroshka is usually garnished with sour cream."@en ,
+		"Okroszka (ros. \u043E\u043A\u0440\u043E\u0448\u043A\u0430) \u2013 popularna rosyjska zupa, kt\u00F3ra jest przyrz\u0105dzana z \u017C\u00F3\u0142tek, musztardy, kwasu chlebowego, og\u00F3rk\u00F3w, zieleniny oraz z pieczonej ciel\u0119ciny i szynki. Ta zupa jest spo\u017Cywana na zimno z dodatkiem \u015Bmietany. \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04301. JPG \t\t\t Klasyczna okroszka z wo\u0142owin\u0105. Obok \u015Bmietana, specjalny sos (ubite \u017C\u00F3\u0142tka, rosyjska musztarda, chrzan, zielona cebulka, s\u00F3l) oraz kwas chlebowy~. \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04302. JPG \t\t\t Okroszka, dodano sos. \t\t\t \t\t \t\t \t\t\t\u041E\u043A\u0440\u043E\u0448\u043A\u04303."@pl ,
+		"\u041E\u043A\u0440\u043E\u0301\u0448\u043A\u0430 (\u043E\u0442 \u0433\u043B\u0430\u0433\u043E\u043B\u0430 \u043A\u0440\u043E\u0448\u0438\u0442\u044C\u00A0\u2014 \u043C\u0435\u043B\u043A\u043E \u043D\u0430\u0440\u0435\u0437\u0430\u0301\u0442\u044C)\u00A0\u2014 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0431\u043B\u044E\u0434\u043E \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0440\u0443\u0441\u0441\u043A\u043E\u0439 \u0438 \u0443\u043A\u0440\u0430\u0438\u043D\u0441\u043A\u043E\u0439 \u043A\u0443\u0445\u043D\u0438, \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u0443\u043F. \u0412\u043F\u0435\u0440\u0432\u044B\u0435 \u043E\u043F\u0438\u0441\u0430\u043D\u0430 \u0432 \u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435 \u0432 \u043A\u043E\u0433\u0434\u0430-\u0442\u043E \u0437\u043D\u0430\u043C\u0435\u043D\u0438\u0442\u043E\u0439 \u043A\u043D\u0438\u0433\u0435 \u0415\u043B\u0435\u043D\u044B \u0418\u0432\u0430\u043D\u043E\u0432\u043D\u044B \u041C\u043E\u043B\u043E\u0445\u043E\u0432\u0435\u0446 \u00AB\u041F\u043E\u0434\u0430\u0440\u043E\u043A \u043C\u043E\u043B\u043E\u0434\u044B\u043C \u0445\u043E\u0437\u044F\u0439\u043A\u0430\u043C\u00BB."@ru ,
+		"L'okrochka est une soupe froide russe. Son nom vient du russe krochit qui signifie \"\u00E9mietter en petit morceau\"."@fr ,
+		"Okroshka in russo: \u043E\u043A\u0440\u043E\u0448\u043A\u0430 \u00E8 una zuppa fredda, parte della cucina nazionale ucraina e russa. Il nome probabilmente deriva da \"kroshit'\" (\u043A\u0440\u043E\u0448\u0438\u0442\u044C) che vuol dire tagliare o rompere in piccoli pezzi. La zuppa classica \u00E8 un mix di verdure per lo pi\u00F9 crude, come cetrioli e cipolle invernali, patate lesse, uova e manzo o vitello lesso o salsicce o prosciutto con il kvas, la cos\u00EC chiamata bevanda di pane, moderatamente alcolica e ottenuta da pane nero fermentato o di segale."@it ,
+		"Okroshka es una sopa fr\u00EDa muy popular en la cocina rusa. El nombre proviene del ruso \"kroshit\" (\u043A\u0440\u043E\u0448\u0438\u0442\u044C) que significa picar (en peque\u00F1as partes). La versi\u00F3n cl\u00E1sica de esta sopa consiste en una mezcla de verduras crudas, patatas cocidas, huevo, jam\u00F3n con la bebida kvas. Es posible reemplazar el kvas con k\u00E9fir y \u00E1cido c\u00EDtrico. La okroshka es considerada una sopa ideal para el verano y se toma para refrescar."@es ;
+	foaf:name	"Okroshka"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kvass-okroshka.jpg/200px-Kvass-okroshka.jpg> ;
+	dbpedia-owl:wikiPageExternalLink	<http://rbth.ru/articles/2009/09/03/030909_okroshka.html> ,
+		<http://cuceesprouts.com/2012/08/russian-gazpacho-okroshka/> ;
+	dbpprop:caption	"Okroshka made with kvass"@en ;
+	dbpprop:country	dbpedia:Russia ;
+	dbpprop:mainIngredient	"Raw vegetables , boiled potatoes, eggs, meat , kvass, sour cream"@en ;
+	dbpprop:name	"Okroshka"@en ;
+	dbpprop:served	"Cold"@en ;
+	dbpprop:type	dbpedia:Soup ;
+	foaf:isPrimaryTopicOf	ns37:Okroshka ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Okroshka?oldid=542436988> ;
+	dbpprop:hasPhotoCollection	ns39:Okroshka ;
+	dbpedia-owl:wikiPageInLinkCount	24 ;
+	dbpedia-owl:wikiPageOutLinkCount	36 .
+dbpedia:Tarator	rdf:type	yago:Soup107583197 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Dish107557434 ,
+		yago:Matter100020827 ,
+		dbpedia-owl:Food ,
+		yago:Food100021265 ,
+		yago:Substance100020090 ,
+		yago:Nutriment107570720 ,
+		yago:ColdSoups ,
+		owl:Thing ;
+	owl:sameAs	ns6:Таратор ,
+		<http://rdf.freebase.com/ns/m.061dy3> ,
+		ns25:Tarator ,
+		ns30:Tarator ,
+		ns16:Таратор ,
+		ns15:Tarator ,
+		ns28:Tarator .
+@prefix ns60:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Tarator	owl:sameAs	ns60:Tarator ,
+		ns10:Q736824 ,
+		ns26:Tarator ,
+		ns19:Tarator ,
+		ns7:Tarator ,
+		ns21:Ταρατόρ ,
+		ns27:آب‌دوغ_خیار ,
+		ns12:Tarator ,
+		ns50:Таратор ,
+		ns11:Tarator ,
+		ns29:Таратор ,
+		ns18:Tarator ,
+		ns17:טרטור ,
+		ns24:Tarator ,
+		ns20:Tarator ,
+		ns48:Таратур ,
+		ns23:Tarator ;
+	dcterms:subject	category:Turkish_cuisine ,
+		category:Bulgarian_cuisine ,
+		category:Cold_soups ,
+		category:Cypriot_cuisine ,
+		category:Republic_of_Macedonia_cuisine ,
+		category:Albanian_cuisine ;
+	dbpedia-owl:abstract	"Le tarator est une soupe froide (ou salade liquide) tr\u00E8s appr\u00E9ci\u00E9e en \u00E9t\u00E9, qui est consomm\u00E9e en Bulgarie, en Mac\u00E9doine et en Albanie. Elle est pr\u00E9par\u00E9e \u00E0 partir de yaourt, concombres, ail, noix, aneth, huile v\u00E9g\u00E9tale et eau. Elle peut \u00EAtre servie avec des gla\u00E7ons. Des variantes locales remplacent le yaourt par de l'eau et du vinaigre, omettent les noix mais ajoutent du pain. D'autres tr\u00E8s rares variantes remplacent les concombres par de la laitue ou des carottes. La tarator est consomm\u00E9e soit comme une soupe avant le plat principal, soit comme une salade en accompagnement du plat principal."@fr ,
+		"Tarator ist eine kalte Gurkensuppe in der Balkank\u00FCche, bei der zumeist Gurken, Knoblauch, Dill und Oliven\u00F6l sowie eventuell zerstampfte Walnusskerne in eiskalten Joghurt ger\u00FChrt werden. Sie wird besonders an hei\u00DFen sommerlichen Tagen als Vorspeise serviert. Urspr\u00FCnglich kommt sie aus Albanien."@de ,
+		"\u0422\u0430\u0440\u0430\u0442\u043E\u0301\u0440\u00A0\u2014 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u0443\u043F, \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0432 \u043B\u0435\u0442\u043D\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0432 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 \u0438 \u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0438\u0438. \u041E\u0431\u044B\u0447\u043D\u043E \u043F\u043E\u0434\u0430\u0451\u0442\u0441\u044F \u043F\u0435\u0440\u0435\u0434 \u0432\u0442\u043E\u0440\u044B\u043C\u0438 \u0431\u043B\u044E\u0434\u0430\u043C\u0438 \u0438\u043B\u0438 \u043E\u0434\u043D\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E \u0441 \u0432\u0442\u043E\u0440\u044B\u043C \u0431\u043B\u044E\u0434\u043E\u043C (\u0438\u043D\u043E\u0433\u0434\u0430 \u0432 \u0441\u0442\u0430\u043A\u0430\u043D\u0435, \u0435\u0441\u043B\u0438 \u0436\u0438\u0434\u043A\u0438\u0439). \u041E\u0441\u043D\u043E\u0432\u043D\u044B\u0435 \u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u044B: \u043A\u0438\u0441\u043B\u043E\u0435 \u043C\u043E\u043B\u043E\u043A\u043E, \u043E\u0433\u0443\u0440\u0446\u044B, \u0447\u0435\u0441\u043D\u043E\u043A, \u0433\u0440\u0435\u0446\u043A\u0438\u0439 \u043E\u0440\u0435\u0445, \u0443\u043A\u0440\u043E\u043F, \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u043C\u0430\u0441\u043B\u043E, \u0432\u043E\u0434\u0430, \u0441\u043E\u043B\u044C, \u0441\u043F\u0435\u0446\u0438\u0438. \u041C\u043E\u0436\u0435\u0442 \u043F\u043E\u0434\u0430\u0432\u0430\u0442\u044C\u0441\u044F \u0441\u043E \u043B\u044C\u0434\u043E\u043C. \u041A\u0430\u043A \u0432\u0430\u0440\u0438\u0430\u043D\u0442, \u043A\u0438\u0441\u043B\u043E\u0435 \u043C\u043E\u043B\u043E\u043A\u043E \u043C\u043E\u0436\u0435\u0442 \u0437\u0430\u043C\u0435\u0449\u0430\u0442\u044C\u0441\u044F \u0432\u043E\u0434\u043E\u0439, \u043F\u043E\u0434\u043A\u0438\u0441\u043B\u0435\u043D\u043D\u043E\u0439 \u0443\u043A\u0441\u0443\u0441\u043E\u043C. \u0418\u043D\u043E\u0433\u0434\u0430 \u043E\u0433\u0443\u0440\u0446\u044B \u0442\u0430\u043A\u0436\u0435 \u0437\u0430\u043C\u0435\u043D\u044F\u044E\u0442\u0441\u044F \u0437\u0435\u043B\u0451\u043D\u044B\u043C \u0441\u0430\u043B\u0430\u0442\u043E\u043C. \u0412 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 \u043F\u0440\u043E\u0434\u0430\u044E\u0442\u0441\u044F \u0440\u0430\u0441\u0444\u0430\u0441\u043E\u0432\u0430\u043D\u044B\u0435 \u043D\u0430\u0431\u043E\u0440\u044B \u0441\u043F\u0435\u0446\u0438\u0439 \u0434\u043B\u044F \u0442\u0430\u0440\u0430\u0442\u043E\u0440\u0430. \u0412 \u043E\u0442\u043B\u0438\u0447\u0438\u0435 \u043E\u0442 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u0431\u043B\u044E\u0434\u0430 \u0436\u0438\u0434\u043A\u0438\u0439 \u0442\u0430\u0440\u0430\u0442\u043E\u0440 \u0432 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 \u0438\u043D\u043E\u0433\u0434\u0430 \u043D\u0430\u043B\u0438\u0432\u0430\u044E\u0442 \u0432 \u0441\u0442\u0430\u043A\u0430\u043D \u0438 \u043F\u043E\u0434\u0430\u044E\u0442 \u0441 \u0432\u0442\u043E\u0440\u044B\u043C \u0431\u043B\u044E\u0434\u043E\u043C. \u0421 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u043C\u0438 \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044F\u043C\u0438 \u044D\u0442\u043E \u0431\u043B\u044E\u0434\u043E \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u043E \u0438 \u0432 \u0441\u043E\u0441\u0435\u0434\u043D\u0438\u0445 \u0441\u0442\u0440\u0430\u043D\u0430\u0445\u00A0\u2014 \u0422\u0443\u0440\u0446\u0438\u0438 (\u043E\u0434\u043D\u0430\u043A\u043E \u0442\u0430\u043C \u043F\u043E\u0434\u0430\u0451\u0442\u0441\u044F \u0438 \u0441\u0435\u0440\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u0437\u0430\u043A\u0443\u0441\u043A\u0430, \u043C\u0435\u0437\u0435) \u0438 \u0410\u043B\u0431\u0430\u043D\u0438\u0438 (\u0433\u0434\u0435 \u043E\u0431\u044B\u0447\u043D\u043E \u043D\u0435 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442\u0441\u044F \u043E\u0440\u0435\u0445\u0438, \u0443\u043A\u0440\u043E\u043F \u0438 \u0432\u043E\u0434\u0430). \u0422\u0430\u043A\u0436\u0435 \u0441\u0445\u043E\u0434\u043D\u044B\u0439 \u0441\u043E\u0441\u0442\u0430\u0432 \u0438\u043C\u0435\u0435\u0442 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u043E\u0443\u0441 \u0446\u0430\u0446\u0438\u043A\u0438 (\u0442\u0430\u0440\u0442\u0430\u0440). \u0418\u043D\u043E\u0433\u0434\u0430 \u0442\u0430\u0440\u0430\u0442\u043E\u0440 \u0435\u0434\u044F\u0442 \u0438 \u043D\u0430 \u0423\u043A\u0440\u0430\u0438\u043D\u0435, \u0437\u0430\u043C\u0435\u043D\u044F\u044F \u043D\u0430\u0440\u0435\u0437\u0430\u043D\u043D\u044B\u0435 \u043E\u0433\u0443\u0440\u0446\u044B \u043F\u0435\u0440\u0435\u0442\u0435\u0440\u0442\u044B\u043C\u0438."@ru ,
+		"Tarator, bu\u0142g. \u0422\u0430\u0440\u0430\u0442\u043E\u0440 \u2013 rodzaj zupy-ch\u0142odnika, charakterystyczna dla kuchni bu\u0142garskiej."@pl ,
+		"Il tarat\u00F2r o taratur, \u00E8 un piatto tradizionale ottomano. Si tratta di una zuppa fredda popolare in estate in Bulgaria, Albania, Macedonia, nel sud-est della Serbia, Turchia, Iran, Armenia e Cipro (dove \u00E8 conosciuto come Ttalattouri). \u00C8 preparato con yogurt, cetrioli, aglio, noci, aneto, olio vegetale e acqua, ed \u00E8 servito freddo o anche con ghiaccio. Esistono tuttavia molte varianti regionali."@it ,
+		"Tarator or Taratur, is a traditional Balkan dish. It is a cold soup (or a liquid salad), popular in the summertime in Albania, Armenia, Bulgaria, the Republic of Macedonia, southeastern Serbia, Turkey, Azerbaijan, Iraq, Iran, Lebanon, Syria, Jordan, Israel, Palestine, and in Cyprus (where it is known as Ttalattouri). It is made of yogurt, cucumber, garlic, walnut, dill, vegetable oil, and water, and is served chilled or even with ice. Local variations may replace yogurt with water and vinegar, omit nuts or dill, or add bread. The cucumbers may on rare occasions be replaced with lettuce or carrots."@en ,
+		"Tarator \u00E9 uma sopa de iogurte muito popular no ver\u00E3o na Bulg\u00E1ria. \u00C9 de origem oriental, tal como sucede como as sopas frias de outros pa\u00EDses, por exemplo, o okroshka na R\u00FAssia, o gaspacho em Espanha e o diadjik na Turquia. O tarator \u00E9 feito com iogurte, pepinos, alho, nozes, endro, \u00F3leo vegetal e \u00E1gua. Pode ser servido com cubos de gelo."@pt ,
+		"Tarator es una sopa fr\u00EDa t\u00EDpica de las cocinas de los Balcanes, que contiene yogur, pepinos, ajo, agua, ajos tiernos, nueces, eneldo, perejil y un chorro de aceite de oliva. Se suele servir fr\u00EDo en un cuenco como un refresco que ayuda a pasar los calurosos d\u00EDas de verano en Albania y Bulgaria. Es considerado un aperitivo que se sirve s\u00F3lo, para ser bebido. Es muy similar a la salsa turca Cacik y al acompa\u00F1amiento de platos con carne griego denominado Tzatziki."@es ;
+	dbpedia-owl:alias	"Ttalattouri"@en ;
+	dbpedia-owl:ingredient	dbpedia:Water ,
+		dbpedia:Dill ,
+		dbpedia:Garlic ,
+		dbpedia:Yogurt ,
+		dbpedia:Vegetable_oil ,
+		dbpedia:Walnut ,
+		dbpedia:Cucumber ;
+	dbpedia-owl:servingTemperature	"Cold"@en ;
+	dbpedia-owl:wikiPageID	1856356 ;
+	dbpedia-owl:wikiPageRevisionID	539236185 ;
+	rdfs:label	"Tarator"@fr ,
+		"Tarator"@de ,
+		"Tarator"@en ,
+		"Tarator"@pl ,
+		"Tarator"@es ,
+		"\u0422\u0430\u0440\u0430\u0442\u043E\u0440"@ru ,
+		"Tarator"@pt ,
+		"Tarator"@it ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/1/19/TaratorBg.jpg> ;
+	rdfs:comment	"\u0422\u0430\u0440\u0430\u0442\u043E\u0301\u0440\u00A0\u2014 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u0439 \u0441\u0443\u043F, \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0432 \u043B\u0435\u0442\u043D\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0432 \u0411\u043E\u043B\u0433\u0430\u0440\u0438\u0438 \u0438 \u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0438\u0438. \u041E\u0431\u044B\u0447\u043D\u043E \u043F\u043E\u0434\u0430\u0451\u0442\u0441\u044F \u043F\u0435\u0440\u0435\u0434 \u0432\u0442\u043E\u0440\u044B\u043C\u0438 \u0431\u043B\u044E\u0434\u0430\u043C\u0438 \u0438\u043B\u0438 \u043E\u0434\u043D\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E \u0441 \u0432\u0442\u043E\u0440\u044B\u043C \u0431\u043B\u044E\u0434\u043E\u043C (\u0438\u043D\u043E\u0433\u0434\u0430 \u0432 \u0441\u0442\u0430\u043A\u0430\u043D\u0435, \u0435\u0441\u043B\u0438 \u0436\u0438\u0434\u043A\u0438\u0439). \u041E\u0441\u043D\u043E\u0432\u043D\u044B\u0435 \u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u044B: \u043A\u0438\u0441\u043B\u043E\u0435 \u043C\u043E\u043B\u043E\u043A\u043E, \u043E\u0433\u0443\u0440\u0446\u044B, \u0447\u0435\u0441\u043D\u043E\u043A, \u0433\u0440\u0435\u0446\u043A\u0438\u0439 \u043E\u0440\u0435\u0445, \u0443\u043A\u0440\u043E\u043F, \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u043C\u0430\u0441\u043B\u043E, \u0432\u043E\u0434\u0430, \u0441\u043E\u043B\u044C, \u0441\u043F\u0435\u0446\u0438\u0438. \u041C\u043E\u0436\u0435\u0442 \u043F\u043E\u0434\u0430\u0432\u0430\u0442\u044C\u0441\u044F \u0441\u043E \u043B\u044C\u0434\u043E\u043C. \u041A\u0430\u043A \u0432\u0430\u0440\u0438\u0430\u043D\u0442, \u043A\u0438\u0441\u043B\u043E\u0435 \u043C\u043E\u043B\u043E\u043A\u043E \u043C\u043E\u0436\u0435\u0442 \u0437\u0430\u043C\u0435\u0449\u0430\u0442\u044C\u0441\u044F \u0432\u043E\u0434\u043E\u0439, \u043F\u043E\u0434\u043A\u0438\u0441\u043B\u0435\u043D\u043D\u043E\u0439 \u0443\u043A\u0441\u0443\u0441\u043E\u043C. \u0418\u043D\u043E\u0433\u0434\u0430 \u043E\u0433\u0443\u0440\u0446\u044B \u0442\u0430\u043A\u0436\u0435 \u0437\u0430\u043C\u0435\u043D\u044F\u044E\u0442\u0441\u044F \u0437\u0435\u043B\u0451\u043D\u044B\u043C \u0441\u0430\u043B\u0430\u0442\u043E\u043C."@ru ,
+		"Tarator, bu\u0142g. \u0422\u0430\u0440\u0430\u0442\u043E\u0440 \u2013 rodzaj zupy-ch\u0142odnika, charakterystyczna dla kuchni bu\u0142garskiej."@pl ,
+		"Le tarator est une soupe froide (ou salade liquide) tr\u00E8s appr\u00E9ci\u00E9e en \u00E9t\u00E9, qui est consomm\u00E9e en Bulgarie, en Mac\u00E9doine et en Albanie. Elle est pr\u00E9par\u00E9e \u00E0 partir de yaourt, concombres, ail, noix, aneth, huile v\u00E9g\u00E9tale et eau. Elle peut \u00EAtre servie avec des gla\u00E7ons. Des variantes locales remplacent le yaourt par de l'eau et du vinaigre, omettent les noix mais ajoutent du pain. D'autres tr\u00E8s rares variantes remplacent les concombres par de la laitue ou des carottes."@fr ,
+		"Il tarat\u00F2r o taratur, \u00E8 un piatto tradizionale ottomano. Si tratta di una zuppa fredda popolare in estate in Bulgaria, Albania, Macedonia, nel sud-est della Serbia, Turchia, Iran, Armenia e Cipro (dove \u00E8 conosciuto come Ttalattouri). \u00C8 preparato con yogurt, cetrioli, aglio, noci, aneto, olio vegetale e acqua, ed \u00E8 servito freddo o anche con ghiaccio. Esistono tuttavia molte varianti regionali."@it ,
+		"Tarator es una sopa fr\u00EDa t\u00EDpica de las cocinas de los Balcanes, que contiene yogur, pepinos, ajo, agua, ajos tiernos, nueces, eneldo, perejil y un chorro de aceite de oliva. Se suele servir fr\u00EDo en un cuenco como un refresco que ayuda a pasar los calurosos d\u00EDas de verano en Albania y Bulgaria. Es considerado un aperitivo que se sirve s\u00F3lo, para ser bebido. Es muy similar a la salsa turca Cacik y al acompa\u00F1amiento de platos con carne griego denominado Tzatziki."@es ,
+		"Tarator \u00E9 uma sopa de iogurte muito popular no ver\u00E3o na Bulg\u00E1ria. \u00C9 de origem oriental, tal como sucede como as sopas frias de outros pa\u00EDses, por exemplo, o okroshka na R\u00FAssia, o gaspacho em Espanha e o diadjik na Turquia. O tarator \u00E9 feito com iogurte, pepinos, alho, nozes, endro, \u00F3leo vegetal e \u00E1gua. Pode ser servido com cubos de gelo."@pt ,
+		"Tarator or Taratur, is a traditional Balkan dish. It is a cold soup (or a liquid salad), popular in the summertime in Albania, Armenia, Bulgaria, the Republic of Macedonia, southeastern Serbia, Turkey, Azerbaijan, Iraq, Iran, Lebanon, Syria, Jordan, Israel, Palestine, and in Cyprus (where it is known as Ttalattouri). It is made of yogurt, cucumber, garlic, walnut, dill, vegetable oil, and water, and is served chilled or even with ice."@en ,
+		"Tarator ist eine kalte Gurkensuppe in der Balkank\u00FCche, bei der zumeist Gurken, Knoblauch, Dill und Oliven\u00F6l sowie eventuell zerstampfte Walnusskerne in eiskalten Joghurt ger\u00FChrt werden. Sie wird besonders an hei\u00DFen sommerlichen Tagen als Vorspeise serviert. Urspr\u00FCnglich kommt sie aus Albanien."@de ;
+	foaf:name	"Tarator"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TaratorBg.jpg/200px-TaratorBg.jpg> ;
+	dbpprop:alternateName	"Ttalattouri"@en ;
+	dbpprop:caption	"Bulgarian tarator"@en ;
+	dbpprop:mainIngredient	"Yogurt, cucumber, garlic, walnuts, dill, vegetable oil, water"@en ;
+	dbpprop:name	"Tarator"@en ;
+	dbpprop:served	"Cold"@en ;
+	dbpprop:type	dbpedia:Soup ;
+	foaf:isPrimaryTopicOf	ns37:Tarator ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tarator?oldid=539236185> ;
+	dbpprop:hasPhotoCollection	ns39:Tarator ;
+	dbpedia-owl:wikiPageInLinkCount	24 ;
+	dbpedia-owl:wikiPageOutLinkCount	81 .
+dbpedia:Cucumber_sandwich	rdf:type	yago:BritishSandwiches ,
+		yago:Matter100020827 ,
+		dbpedia-owl:Food ,
+		yago:Nutriment107570720 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Food100021265 ,
+		owl:Thing ,
+		yago:Substance100020090 ,
+		yago:SnackFood107712382 ,
+		yago:Dish107557434 ,
+		yago:Sandwich107695965 ;
+	owl:sameAs	ns26:Cucumber_sandwich ,
+		ns10:Q872503 ,
+		ns17:כריך_מלפפון ,
+		ns40:오이_샌드위치 ,
+		ns25:Sándwich_de_pepino ,
+		<http://rdf.freebase.com/ns/m.0314qb> ;
+	dcterms:subject	category:English_cuisine ,
+		category:British_sandwiches ;
+	dbpedia-owl:abstract	"The traditional cucumber sandwich is composed of paper-thin slices of cucumber placed between two thin slices of crustless, lightly buttered white (or wheat in some cases) bread. As the thinness of the bread is a point of pride in the kitchen, a dense-textured white Pullman loaf is cut with a wide-bladed knife, which guides the cut; daylight should pass through the resulting fine pores. The peel of the cucumber is either removed or scored lengthwise with a fork before the cucumber is sliced. The slices of bread are carefully buttered all the way to the edges in the thinnest coating, which is only to protect the bread from becoming damp with cucumber juice, and the slices of cucumber, which have been dashed with salt and lemon juice, are placed in the sandwich just before serving in order to prevent the sandwich from becoming damp enough to moisten the eater's fingers. The crusts of the bread are cut away cleanly and the sandwich sliced diagonally twice, creating four small triangular tea sandwiches. The traditional cucumber sandwich is of British origin. Modern variants (largely of American origin) exist, involving cream cheese, chopped dill or spices, brown bread, salmon, and even bread with crusts left intact. One specific American variant includes benedictine, a green soft spread based on cucumbers and cream cheese. Cucumber sandwiches are most often served for a light snack or at afternoon tea, a formal light meal served at four in the afternoon or early evening before the main supper. In addition, cucumber sandwiches are supposed to be served in the tea break at club cricket matches in England. Because of English influence on Indian culture, cucumber sandwiches are popular during cricket matches and weekend picnics. The Indian variant is flavoured with green chutney and sometimes contains slices of boiled potatoes. Because of cucumber's cooling nature, cucumber sandwiches are often eaten in the summer months or in warmer climates, such as in parts of India. Indian Airlines used to serve cucumber sandwiches as part of its usual vegetarian inflight meal in short-haul domestic flights."@en ,
+		"El s\u00E1ndwich de pepino, en ingl\u00E9s \"cucumber sandwich\"), es un s\u00E1ndwich elaborado con rodajas fin\u00EDsimas de pepino puestas sobre dos rebanadas triangulares de pan untado con mantequilla. Es uno de los s\u00E1ndwiches m\u00E1s tradicionales de los cream tea ingleses, asociados a la aristocracia."@es ;
+	dbpedia-owl:ingredient	dbpedia:Cucumber ,
+		dbpedia:White_bread ,
+		dbpedia:Butter ;
+	dbpedia-owl:origin	dbpedia:United_Kingdom ;
+	dbpedia-owl:wikiPageID	666553 ;
+	dbpedia-owl:wikiPageRevisionID	542568666 ;
+	rdfs:label	"S\u00E1ndwich de pepino"@es ,
+		"Cucumber sandwich"@en ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/4/4a/Flickr_bitboy_204619671--Cucumber_sandwiches_with_tea.jpg> ;
+	rdfs:comment	"El s\u00E1ndwich de pepino, en ingl\u00E9s \"cucumber sandwich\"), es un s\u00E1ndwich elaborado con rodajas fin\u00EDsimas de pepino puestas sobre dos rebanadas triangulares de pan untado con mantequilla. Es uno de los s\u00E1ndwiches m\u00E1s tradicionales de los cream tea ingleses, asociados a la aristocracia."@es ,
+		"The traditional cucumber sandwich is composed of paper-thin slices of cucumber placed between two thin slices of crustless, lightly buttered white (or wheat in some cases) bread. As the thinness of the bread is a point of pride in the kitchen, a dense-textured white Pullman loaf is cut with a wide-bladed knife, which guides the cut; daylight should pass through the resulting fine pores. The peel of the cucumber is either removed or scored lengthwise with a fork before the cucumber is sliced."@en ;
+	foaf:name	"Cucumber sandwich"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flickr_bitboy_204619671--Cucumber_sandwiches_with_tea.jpg/200px-Flickr_bitboy_204619671--Cucumber_sandwiches_with_tea.jpg> ;
+	dbpprop:caption	"Cucumber sandwiches and tea"@en ;
+	dbpprop:country	dbpedia:United_Kingdom ;
+	dbpprop:mainIngredient	dbpedia:Butter ,
+		dbpedia:White_bread ,
+		dbpedia:Cucumber ;
+	dbpprop:name	"Cucumber sandwich"@en ;
+	dbpprop:type	dbpedia:Sandwich ;
+	foaf:isPrimaryTopicOf	ns37:Cucumber_sandwich ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cucumber_sandwich?oldid=542568666> ;
+	dbpprop:hasPhotoCollection	ns39:Cucumber_sandwich ;
+	dbpedia-owl:wikiPageInLinkCount	13 ;
+	dbpedia-owl:wikiPageOutLinkCount	50 .
+<http://dbpedia.org/resource/%C3%87oban_salatas%C4%B1>	rdf:type	yago:Salads ,
+		yago:PhysicalEntity100001930 ,
+		yago:Salad107806221 ,
+		dbpedia-owl:Food ,
+		yago:Dish107557434 ,
+		owl:Thing ,
+		yago:Food100021265 ,
+		yago:Matter100020827 ,
+		yago:Substance100020090 ,
+		yago:Nutriment107570720 ;
+	owl:sameAs	ns26:Çoban_salatası ,
+		ns10:Q8077757 ,
+		ns25:Çoban_salatası ,
+		<http://rdf.freebase.com/ns/m.0c_pwn> ;
+	dcterms:subject	category:Salads ,
+		category:Turkish_words_and_phrases ;
+	dbpedia-owl:abstract	"La \u00C7oban Salatas\u0131 (A veces tambi\u00E9n como ensalada choban) es una ensalada tradicional de la cocina turca. Es una ensalada muy popular de Turqu\u00EDa y del norte de Chipre. Es considerada por los turcos como una ensalada ligera, ideal para los d\u00EDas calurosos de verano, que es la \u00E9poca en la que se consume con mayor frecuencia. El nombre de esta ensalada en turco significa \"ensalada del pastor\"."@es ,
+		"\u00C7oban Salatas\u0131 or Choban salad (Turkish for \"Shepherd's Salad\") is a Turkish salad. It is one of the most popular salads in Turkey. It is considered by many as light, refreshing and easy to make and is especially popular during summer. It is a combination of finely chopped tomatoes, cucumbers, onions, green peppers and flat-leaf parsley. The dressing consists of lemon juice, olive oil and salt."@en ;
+	dbpedia-owl:alias	"Choban salad"@en ;
+	dbpedia-owl:ingredient	dbpedia:Bell_pepper ,
+		dbpedia:Parsley ,
+		dbpedia:Onion ,
+		dbpedia:Cucumber ,
+		dbpedia:Tomato ;
+	dbpedia-owl:origin	dbpedia:Turkey ;
+	dbpedia-owl:wikiPageID	5031617 ;
+	dbpedia-owl:wikiPageRevisionID	546569417 ;
+	rdfs:label	"\u00C7oban salatas\u0131"@es ,
+		"\u00C7oban salatas\u0131"@en ;
+	rdfs:comment	"\u00C7oban Salatas\u0131 or Choban salad (Turkish for \"Shepherd's Salad\") is a Turkish salad. It is one of the most popular salads in Turkey. It is considered by many as light, refreshing and easy to make and is especially popular during summer. It is a combination of finely chopped tomatoes, cucumbers, onions, green peppers and flat-leaf parsley. The dressing consists of lemon juice, olive oil and salt."@en ,
+		"La \u00C7oban Salatas\u0131 (A veces tambi\u00E9n como ensalada choban) es una ensalada tradicional de la cocina turca. Es una ensalada muy popular de Turqu\u00EDa y del norte de Chipre. Es considerada por los turcos como una ensalada ligera, ideal para los d\u00EDas calurosos de verano, que es la \u00E9poca en la que se consume con mayor frecuencia. El nombre de esta ensalada en turco significa \"ensalada del pastor\"."@es ;
+	foaf:name	"\u00C7oban salatas\u0131"@en ;
+	dbpprop:alternateName	"Choban salad"@en ;
+	dbpprop:country	dbpedia:Turkey ;
+	dbpprop:mainIngredient	"Tomatoes, cucumbers, onions, green peppers and flat-leaf parsley"@en ;
+	dbpprop:name	"\u00C7oban salatas\u0131"@en ;
+	dbpprop:type	dbpedia:Salad ;
+	foaf:isPrimaryTopicOf	ns37:Çoban_salatası ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u00C7oban_salatas\u0131?oldid=546569417> ;
+	dbpprop:hasPhotoCollection	ns39:Çoban_salatası ;
+	dbpedia-owl:wikiPageInLinkCount	12 ;
+	dbpedia-owl:wikiPageOutLinkCount	19 .
+dbpedia:Cucumis_sativus	rdf:type	dbpedia-owl:Species ,
+		owl:Thing ,
+		dbpedia-owl:Eukaryote ;
+	dcterms:subject	category:Cucurbitaceae ;
+	dbpedia-owl:wikiPageID	434429 ;
+	dbpedia-owl:wikiPageRevisionID	56663989 ;
+	rdfs:label	"Cucumis sativus"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Cucumis_sativus ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cucumis_sativus?oldid=56663989> .
+dbpedia:Seven-layer_salad	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:Artifact100021939 ,
+		yago:Dish103206908 ,
+		dbpedia-owl:Food ,
+		yago:Ware104550840 ,
+		yago:Container103094503 ,
+		yago:Crockery103133538 ,
+		yago:Tableware104381994 ,
+		yago:BaconDishes ,
+		owl:Thing ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:Instrumentality103575240 ,
+		yago:Article100022903 ;
+	owl:sameAs	ns27:سالاد_هفت‌لایه ,
+		ns26:Seven-layer_salad ,
+		<http://rdf.freebase.com/ns/m.054y44k> ,
+		ns25:Ensalada_de_siete_capas ,
+		ns10:Q7457147 ;
+	dcterms:subject	category:Salads ,
+		category:Cuisine_of_the_Midwestern_United_States ,
+		category:Cuisine_of_Minnesota ,
+		category:Bacon_dishes ;
+	dbpedia-owl:abstract	"Seven-layer salad is an American dish that includes a colorful combination of seven layers of ingredients: iceberg lettuce, tomatoes, cucumbers, onions, sweet peas, hard boiled eggs, sharp cheddar cheese, and bacon pieces. The salad is topped with a mayonnaise-based dressing and sometimes sour cream is added. It is served in a glass bowl or large pan so the layers can be observed. The dish is often associated with potlucks, picnics, and barbecues, where a large gathering of people takes place and many people need to be fed. There are many variants on the seven-layer salad and it can be made with additional (or sometimes fewer) layers, making it (for example) an eight-layer salad instead."@en ,
+		"La ensalada de siete capas es un plato estadounidense que incluye una colorida combinaci\u00F3n de siete capas de ingredientes: lechuga iceberg, tomate, pepino, cebolla, guisantes, huevo duro, queso cheddar y trozos de panceta. La ensalada se cubre con un ali\u00F1o a base de mahonesa y a veces se a\u00F1ade nata agria. Se sirve en un bol de cristal, de forma que las capas puedan verse. La receta se asocia a menudo con potlucks, picnics y parrilladas, cuando se re\u00FAne mucha gente para comer. Hay muchas variantes de la ensalada de siete capas, pudi\u00E9ndose elaborar con capas adicionales (a veces con menos)."@es ;
+	dbpedia-owl:ingredient	dbpedia:Bacon ,
+		dbpedia:Lettuce ,
+		dbpedia:Boiled_egg ,
+		dbpedia:Tomato ,
+		dbpedia:Cheddar_cheese ,
+		dbpedia:Cucumber ,
+		dbpedia:Onion ,
+		dbpedia:Sweet_pea ;
+	dbpedia-owl:origin	dbpedia:United_States ,
+		dbpedia:Southern_United_States ;
+	dbpedia-owl:servingTemperature	"Cold"@en ;
+	dbpedia-owl:wikiPageID	20755581 ;
+	dbpedia-owl:wikiPageRevisionID	545521899 ;
+	rdfs:label	"Ensalada de siete capas"@es ,
+		"Seven-layer salad"@en ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/a/a3/Seven_layer_salad.jpg> ;
+	rdfs:comment	"Seven-layer salad is an American dish that includes a colorful combination of seven layers of ingredients: iceberg lettuce, tomatoes, cucumbers, onions, sweet peas, hard boiled eggs, sharp cheddar cheese, and bacon pieces. The salad is topped with a mayonnaise-based dressing and sometimes sour cream is added. It is served in a glass bowl or large pan so the layers can be observed."@en ,
+		"La ensalada de siete capas es un plato estadounidense que incluye una colorida combinaci\u00F3n de siete capas de ingredientes: lechuga iceberg, tomate, pepino, cebolla, guisantes, huevo duro, queso cheddar y trozos de panceta. La ensalada se cubre con un ali\u00F1o a base de mahonesa y a veces se a\u00F1ade nata agria. Se sirve en un bol de cristal, de forma que las capas puedan verse. La receta se asocia a menudo con potlucks, picnics y parrilladas, cuando se re\u00FAne mucha gente para comer."@es ;
+	foaf:name	"Seven-layer salad"@en ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Seven_layer_salad.jpg/200px-Seven_layer_salad.jpg> ;
+	dbpedia-owl:type	dbpedia:Salad ;
+	dbpprop:country	dbpedia:United_States ;
+	dbpprop:course	dbpedia:Salad ;
+	dbpprop:mainIngredient	"Iceberg lettuce, tomatoes, cucumbers, onions, sweet peas, hard boiled eggs, sharp cheddar cheese, and bacon pieces"@en ;
+	dbpprop:name	"Seven-layer salad"@en ;
+	dbpprop:region	dbpedia:Southern_United_States ;
+	dbpprop:served	"Cold"@en ;
+	foaf:isPrimaryTopicOf	ns37:Seven-layer_salad ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Seven-layer_salad?oldid=545521899> ;
+	dbpprop:hasPhotoCollection	ns39:Seven-layer_salad ;
+	dbpedia-owl:wikiPageInLinkCount	5 ;
+	dbpedia-owl:wikiPageOutLinkCount	32 .
+dbpedia-owl:wikiPageDisambiguates	rdf:type	owl:ObjectProperty ;
+	rdfs:label	"Wikipage disambiguates"@en ;
+	rdfs:comment	"Reserved for DBpedia."@en .
+dbpedia-owl:wikiPageRedirects	rdf:type	owl:ObjectProperty ;
+	rdfs:label	"Wikipage redirect"@en ;
+	rdfs:comment	"Reserved for DBpedia."@en .
+dbpprop:mainIngredient	rdf:type	rdf:Property ;
+	rdfs:label	"main ingredient"@en .
+dbpedia:Cucumbers	dbpedia-owl:wikiPageID	333437 ;
+	dbpedia-owl:wikiPageRevisionID	16199253 ;
+	rdfs:label	"Cucumbers"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Cucumbers ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cucumbers?oldid=16199253> .
+dbpedia:Raita	rdf:type	owl:Thing ,
+		dbpedia-owl:Food ;
+	owl:sameAs	ns19:Raita ,
+		<http://fi.dbpedia.org/resource/Raita_(ruoka)> .
+@prefix ns61:	<http://gu.dbpedia.org/resource/> .
+dbpedia:Raita	owl:sameAs	ns61:રાઈતું ,
+		ns20:Raita ,
+		<http://rdf.freebase.com/ns/m.0405cd> .
+@prefix ns62:	<http://hi.dbpedia.org/resource/> .
+dbpedia:Raita	owl:sameAs	ns62:रायता ,
+		ns28:Raita ,
+		ns25:Raita ,
+		ns10:Q1483397 ,
+		ns57:Raita ,
+		ns5:Raita ,
+		ns7:Raita ,
+		ns12:Raïta ,
+		ns18:Raita ;
+	dcterms:subject	category:Bihari_cuisine ,
+		category:Uttar_Pradeshi_cuisine ,
+		category:Indian_condiments ,
+		category:Mughlai_cuisine ,
+		category:Yogurts ,
+		category:Bengali_cuisine ,
+		category:Pakistani_cuisine ,
+		category:Punjabi_cuisine ;
+	dbpedia-owl:abstract	"Raita \u2013 potrawa kuchni indyjskiej, rodzaj dipu na bazie jogurtu z r\u00F3\u017Cnymi przyprawami, towarzysz\u0105ca cz\u0119sto daniu g\u0142\u00F3wnemu."@pl ,
+		"Le ra\u00EFta est une sauce indienne qui permet d'adoucir le go\u00FBt des mets \u00E9pic\u00E9s. Son go\u00FBt est tr\u00E8s frais. Il est constitu\u00E9e de yaourt frais et de l\u00E9gumes comme le concombre, les carottes, \u00E9ventuellement du piment vert, des morceaux d'oignon, des tomates. Le ra\u00EFta accompagne notamment tr\u00E8s bien le biryani."@fr ,
+		"Raita es una salsa t\u00EDpica de la cocina india, que se emplea como condimento. En algunas ocasiones es una especie de ensalada y/o entrante de otros platos de la comida india."@es ,
+		"Raita (anche Rava o Ravida) \u00E8 un tipo di insalata vegetale con yogurt o curd (latte acido molto denso) tipica della cucina del subcontinente indiano. Assai semplice, si basa su cetrioli, pomodori, cavolo bianco tagliati fini e conditi con yogurt, ginger, sale."@it ,
+		"Raita ou raitha \u00E9 um molho indiano \u00E0 base de iogurte. O iogurte pode ser temperado com coentros, cominhos, hortel\u00E3 e pimenta-caiena, entre outras ervas e especiarias poss\u00EDveis. Pode tamb\u00E9m incluir sementes de alcaravia fritas com mostarda vermelha. No fim da prepara\u00E7\u00E3o, s\u00E3o misturados vegetais tais como pepino, cebola e, por vezes, tamb\u00E9m alho e ainda sumo de lim\u00E3o. Antes de ser servida, a raita pode ser temperada com malaguetas e noz-moscada. Possui um efeito refrescante, o que a torna adequada para ser consumida com pratos indianos picantes. \u00C9 tamb\u00E9m frequentemente consumida com kebab. Deve ser servida fria. Na cozinha do sul da \u00CDndia, como por exemplo em Bangalore, \u00E9 poss\u00EDvel encontrar varia\u00E7\u00F5es de raita com cenoura cortada em cubos pequeninos. \u00C9 tamb\u00E9m t\u00EDpica da culin\u00E1ria do Paquist\u00E3o, onde \u00E9 poss\u00EDvel encontrar varia\u00E7\u00F5es com batata ou com tomate. Possui algumas semelhan\u00E7as com o tzatziki, da culin\u00E1ria da Gr\u00E9cia."@pt ,
+		"Raita ist ein indisches Gericht oder eine Beilage auf Joghurtbasis. Im Gegensatz zu verwandten europ\u00E4ischen Vorspeisen, wie dem griechischen Tsatsiki, dem t\u00FCrkischen Cac\u0131k oder auch dem bulgarischen Tarator, basiert Raita auf einer flexibleren Zutatenkomposition. So werden zwar auch im Raita oftmals Gurken oder Knoblauch, aber auch Tomaten, Karotten, milde und scharfe Paprika, Zwiebeln, teilweise auch eingelegtes Gem\u00FCse und Gew\u00FCrze wie Kreuzk\u00FCmmel oder Kurkuma in den verschiedensten Mengenverh\u00E4ltnissen verwendet."@de ,
+		"Raita is an Indian, Pakistani and Bangladeshi condiment made with yogurt and used as a sauce or dip. The yogurt may be seasoned with coriander, cumin, mint, cayenne pepper, and other herbs and spices."@en ,
+		"Raita \u00E4r en indisk yoghurts\u00E5s. Svalkande till heta r\u00E4tter. I Sverige kan man k\u00F6pa Raita som en f\u00E4rdig kryddblandning som man sedan sj\u00E4lv blandar med matlagningsyoghurt."@sv ;
+	dbpedia-owl:alias	"Pachadi"@en ;
+	dbpedia-owl:ingredient	dbpedia:Yogurt ,
+		dbpedia:Cucumber ,
+		dbpedia:Mentha ;
+	dbpedia-owl:origin	dbpedia:Bangladesh ,
+		dbpedia:Pakistan ,
+		dbpedia:Sylhet ,
+		dbpedia:India ,
+		dbpedia:North_India ;
+	dbpedia-owl:servingTemperature	"Cold"@en ;
+	dbpedia-owl:wikiPageID	1034478 ;
+	dbpedia-owl:wikiPageRevisionID	548623245 ;
+	rdfs:label	"Ra\u00EFta"@fr ,
+		"Raita"@sv ,
+		"Raita"@pl ,
+		"Raita"@en ,
+		"Raita"@de ,
+		"Raita"@it ,
+		"Raita"@es ,
+		"Raita"@pt ;
+	foaf:depiction	<http://upload.wikimedia.org/wikipedia/commons/3/31/Kafta_Raita.JPG> ;
+	rdfs:comment	"Raita \u00E4r en indisk yoghurts\u00E5s. Svalkande till heta r\u00E4tter. I Sverige kan man k\u00F6pa Raita som en f\u00E4rdig kryddblandning som man sedan sj\u00E4lv blandar med matlagningsyoghurt."@sv ,
+		"Raita (anche Rava o Ravida) \u00E8 un tipo di insalata vegetale con yogurt o curd (latte acido molto denso) tipica della cucina del subcontinente indiano. Assai semplice, si basa su cetrioli, pomodori, cavolo bianco tagliati fini e conditi con yogurt, ginger, sale."@it ,
+		"Raita ou raitha \u00E9 um molho indiano \u00E0 base de iogurte. O iogurte pode ser temperado com coentros, cominhos, hortel\u00E3 e pimenta-caiena, entre outras ervas e especiarias poss\u00EDveis. Pode tamb\u00E9m incluir sementes de alcaravia fritas com mostarda vermelha. No fim da prepara\u00E7\u00E3o, s\u00E3o misturados vegetais tais como pepino, cebola e, por vezes, tamb\u00E9m alho e ainda sumo de lim\u00E3o. Antes de ser servida, a raita pode ser temperada com malaguetas e noz-moscada."@pt ,
+		"Raita ist ein indisches Gericht oder eine Beilage auf Joghurtbasis. Im Gegensatz zu verwandten europ\u00E4ischen Vorspeisen, wie dem griechischen Tsatsiki, dem t\u00FCrkischen Cac\u0131k oder auch dem bulgarischen Tarator, basiert Raita auf einer flexibleren Zutatenkomposition."@de ,
+		"Raita es una salsa t\u00EDpica de la cocina india, que se emplea como condimento. En algunas ocasiones es una especie de ensalada y/o entrante de otros platos de la comida india."@es ,
+		"Raita \u2013 potrawa kuchni indyjskiej, rodzaj dipu na bazie jogurtu z r\u00F3\u017Cnymi przyprawami, towarzysz\u0105ca cz\u0119sto daniu g\u0142\u00F3wnemu."@pl ,
+		"Le ra\u00EFta est une sauce indienne qui permet d'adoucir le go\u00FBt des mets \u00E9pic\u00E9s. Son go\u00FBt est tr\u00E8s frais. Il est constitu\u00E9e de yaourt frais et de l\u00E9gumes comme le concombre, les carottes, \u00E9ventuellement du piment vert, des morceaux d'oignon, des tomates. Le ra\u00EFta accompagne notamment tr\u00E8s bien le biryani."@fr ,
+		"Raita is an Indian, Pakistani and Bangladeshi condiment made with yogurt and used as a sauce or dip. The yogurt may be seasoned with coriander, cumin, mint, cayenne pepper, and other herbs and spices."@en ;
+	foaf:name	"Raita"@en ;
+	dbpedia-owl:hasVariant	dbpedia:Pachadi ,
+		dbpedia:Dahi_chutney ;
+	dbpedia-owl:thumbnail	<http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kafta_Raita.JPG/200px-Kafta_Raita.JPG> ;
+	dbpprop:alternateName	"Pachadi"@en ;
+	dbpprop:calories	46 ;
+	dbpprop:caption	"A cucumber and mint raita"@en ;
+	dbpprop:country	"Pakistan, India and Bangladesh"@en ;
+	dbpprop:course	"Main course"@en ;
+	dbpprop:mainIngredient	dbpedia:Cucumber ,
+		dbpedia:Mentha ,
+		dbpedia:Yogurt ;
+	dbpprop:name	"Raita"@en ;
+	dbpprop:region	dbpedia:North_India ,
+		dbpedia:Sylhet ,
+		dbpedia:Pakistan ;
+	dbpprop:served	"Cold"@en ;
+	dbpprop:variations	dbpedia:Pachadi ,
+		dbpedia:Dahi_chutney ;
+	foaf:isPrimaryTopicOf	ns37:Raita ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Raita?oldid=548623245> ;
+	dbpprop:hasPhotoCollection	ns39:Raita ;
+	dbpedia-owl:wikiPageInLinkCount	53 ;
+	dbpedia-owl:wikiPageOutLinkCount	86 .
+dbpedia:Apple_cucumber	dbpedia-owl:wikiPageID	28338119 ;
+	dbpedia-owl:wikiPageRevisionID	378468709 ;
+	rdfs:label	"Apple cucumber"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Apple_cucumber ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Apple_cucumber?oldid=378468709> .
+dbpedia:Dosakai	dbpedia-owl:wikiPageID	13251993 ;
+	dbpedia-owl:wikiPageRevisionID	157689391 ;
+	rdfs:label	"Dosakai"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Dosakai ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dosakai?oldid=157689391> .
+dbpedia:Garden_cucumber	dbpedia-owl:wikiPageID	13575375 ;
+	dbpedia-owl:wikiPageRevisionID	162376090 ;
+	rdfs:label	"Garden cucumber"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Garden_cucumber ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Garden_cucumber?oldid=162376090> .
+dbpedia:Mentimun	dcterms:subject	category:Redirects_from_alternative_languages ;
+	dbpedia-owl:wikiPageID	32352627 ;
+	dbpedia-owl:wikiPageRevisionID	438516805 ;
+	rdfs:label	"Mentimun"@en ;
+	dbpedia-owl:wikiPageRedirects	dbpedia:Cucumber ;
+	foaf:isPrimaryTopicOf	ns37:Mentimun ;
+	ns38:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mentimun?oldid=438516805> .
