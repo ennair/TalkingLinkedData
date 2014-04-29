@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vxml version = "2.1" >
+<property name="inputmodes" value="dtmf" /> 
+
+ <form id="menu0">
+   <block>
+   	<prompt bargein="true">Welcome to the voice application for D B pedia.</prompt>
+	<goto next="#menu1"/>
+   </block>
+ </form>
+
+ <form id="menu1">
+   <field name="page">
+	<prompt bargein="true">To go back you can always press 0.
+		Which page would you like to read?
+		<enumerate>For <value expr="_prompt"/>, press <value expr="_dtmf"/>.</enumerate>
+	</prompt>
+	<option dtmf="1" value="Carrot">Carrot</option>
+	<option dtmf="2" value="Cucumber">Cucumber</option>
+	<option dtmf="3" value="Maize">Maize</option>
+	<option dtmf="4" value="Potato">Potato</option>
+	<option dtmf="5" value="Tomato">Tomato</option>
+	<option dtmf="0" value="Back">Repeat menu options</option>          
+  	<noinput>Please enter a number.<reprompt/></noinput>      
+  	<nomatch>This is no option. Try again.<reprompt/></nomatch>
+   <filled namelist="page">
+	<if cond="page == 'Back'">
+		<goto next="backup-dbpedia.xml"/>
+	<else />
+		<submit next="backup-dbpedia-page.php" namelist="page"/>
+	</if>
+  </filled>
+  </field>
+ </form>
+
+ </vxml>
