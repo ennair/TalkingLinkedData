@@ -1,5 +1,6 @@
 <?php
-	$page = $_GET["page"];
+	//$page = $_GET["page"];
+	$page = 'Maize';
 
 	$myquery = "
 	SELECT DISTINCT ?label ?value
@@ -10,13 +11,13 @@
 	?value2 ?property <http://dbpedia.org/resource/" . $page . "> .
 	?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
 	?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
-	MINUS {?value2 <http://dbpedia.org/ontology/wikiPageRedirects> ?x} .
-	MINUS {?value2 <http://dbpedia.org/ontology/wikiPageDisambiguates> ?x} .
-	MINUS {?value2 <http://dbpedia.org/property/aux> ?x} .
-	MINUS {?value2 <http://dbpedia.org/property/data> ?x} .
-	MINUS {?value2 <http://dbpedia.org/property/sub> ?x} .
-	MINUS {?value2 <http://dbpedia.org/property/resources> ?x} .
-	FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+	FILTER NOT EXISTS {?value2 <http://dbpedia.org/ontology/wikiPageRedirects> ?x} .
+	FILTER NOT EXISTS {?value2 <http://dbpedia.org/ontology/wikiPageDisambiguates> ?x} .
+	FILTER NOT EXISTS {?value2 <http://dbpedia.org/property/aux> ?x} .
+	FILTER NOT EXISTS {?value2 <http://dbpedia.org/property/data> ?x} .
+	FILTER NOT EXISTS {?value2 <http://dbpedia.org/property/sub> ?x} .
+	FILTER NOT EXISTS {?value2 <http://dbpedia.org/property/resources> ?x} .
+	FILTER (LANG(?label) = 'en' && LANG(?value) = 'en')
 	}
 	}
         
@@ -28,7 +29,7 @@
             <http://dbpedia.org/resource/" . $page . "> ?property ?value .
             ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
             ?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
-            FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+            FILTER (LANG(?label) = 'en' && LANG(?value) = 'en')
       	    }
             }
             
@@ -40,8 +41,8 @@
 	    <http://dbpedia.org/resource/" . $page . "> ?property ?value2 .
 	    ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
 	    ?value2 <http://www.w3.org/2000/01/rdf-schema#label> ?value .
-	    MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
-	    FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
+	    FILTER NOT EXISTS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
+	    FILTER (LANG(?label) = 'en' && LANG(?value) = 'en')
 	    }
       	    }
             
@@ -51,15 +52,15 @@
 	    WHERE {
 	    <http://dbpedia.org/resource/" . $page . "> ?property ?value .
 	    ?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
-	    MINUS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
-	    MINUS {?value <http://www.w3.org/2000/01/rdf-schema#label> ?x} .
-	    MINUS {?property <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty>} .
-	    MINUS {?property <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty>} .
-	    MINUS {?x <http://dbpedia.org/property/align> ?value} .
-	    MINUS {?x <http://dbpedia.org/property/caption> ?value} .
-	    MINUS {?x <http://dbpedia.org/property/image> ?value} .
-	    MINUS {?x <http://dbpedia.org/property/imageCaption> ?value} .
-	    MINUS {?x <http://dbpedia.org/property/note> ?value} .
+	    FILTER NOT EXISTS {?property <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string>} .
+	    FILTER NOT EXISTS {?value <http://www.w3.org/2000/01/rdf-schema#label> ?x} .
+	    FILTER NOT EXISTS {?property <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty>} .
+	    FILTER NOT EXISTS {?property <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty>} .
+	    FILTER NOT EXISTS {?x <http://dbpedia.org/property/align> ?value} .
+	    FILTER NOT EXISTS {?x <http://dbpedia.org/property/caption> ?value} .
+	    FILTER NOT EXISTS {?x <http://dbpedia.org/property/image> ?value} .
+	    FILTER NOT EXISTS {?x <http://dbpedia.org/property/imageCaption> ?value} .
+	    FILTER NOT EXISTS {?x <http://dbpedia.org/property/note> ?value} .
 	    FILTER (LANG(?label) = 'en')
 	    }
       }
@@ -71,7 +72,7 @@
 	";
 
 	$encoded_query = urlencode($myquery);
-        $myurl = 'http://dbpedia.org/sparql?query=' .$encoded_query;
+        $myurl = 'http://eculture.cs.vu.nl:1717/sparql/?query=' .$encoded_query. '&default-graph-uri=http%3A%2F%2Fdbpedia.org&format=application%2Fsparql-results%2Bxml&timeout=30000&debug=on';
 
 	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"menu1\" accept-charset=\"UTF-8\">\n <field name=\"section\"> \n<prompt>\n";
 	print "You have chosen ";
@@ -82,6 +83,9 @@
 	print "\n</enumerate> \n </prompt>";
 
 	$query = file_get_contents($myurl);
+	var_dump($query);
+	//$xmlresult = simplexml_load_string($query);
+	//print $xmlresult;
 	//$encodedquery = json_encode($query, true);
 	//$result = json_decode($encodedquery, true);
 
