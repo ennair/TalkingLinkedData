@@ -19,7 +19,7 @@
 	<option dtmf="2" value="Cucumber">Cucumber</option>
 	<option dtmf="3" value="Maize">Maize</option>
 	<option dtmf="4" value="Potato">Potato</option>
-	<option dtmf="5" value="Tomato">Tomato</option>
+	<option dtmf="5" value="Pumpkin">Pumpkin</option>
 	<option dtmf="0" value="Back">Repeat menu options</option>          
   	<noinput>Please enter a number.<reprompt/></noinput>      
   	<nomatch>This is no option. Try again.<reprompt/></nomatch>
