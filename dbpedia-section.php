@@ -4,9 +4,6 @@
 	$sectionHeader = $keywords[0];
 	$page = $keywords[1];
 
-	//$sectionHeader = 'Nutritional values';
-	//$page = 'Carrot';
-
 	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />";  
 	print "\n<form id=\"menu0\">\n <block> \n";
 	
@@ -154,7 +151,7 @@
 	print ".";
 
 	$abstractquery = "
-	SELECT ?label ?value
+	SELECT DISTINCT ?label ?value
 	WHERE {
 		<http://dbpedia.org/resource/" . $page . "> <http://dbpedia.org/ontology/abstract> ?value .
 		<http://dbpedia.org/ontology/abstract> <http://www.w3.org/2000/01/rdf-schema#label> ?label .
