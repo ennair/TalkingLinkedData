@@ -1,7 +1,7 @@
 <?php
 	$page = $_GET["page"];
 
-	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"menu1\" accept-charset=\"UTF-8\">\n <field name=\"section\"> \n<prompt bargein=\"true\">\n";
+	print "<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"menu1\" accept-charset=\"UTF-8\">\n <field name=\"section\"> \n<prompt bargein=\"true\">\n";
 	print "You have chosen ";
 	print $page;
 	print ". Which section would you like to read?";
