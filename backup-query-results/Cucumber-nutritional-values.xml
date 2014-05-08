@@ -1,0 +1,48 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">carbs</literal></binding>
+   <binding name="value"><literal>3.63 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">protein</literal></binding>
+   <binding name="value"><literal>0.65 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fiber</literal></binding>
+   <binding name="value"><literal>0.5 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fat</literal></binding>
+   <binding name="value"><literal>0.11 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitC mg</literal></binding>
+   <binding name="value"><literal>2.8 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">iron mg</literal></binding>
+   <binding name="value"><literal>0.28 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">pantothenic mg</literal></binding>
+   <binding name="value"><literal>0.259 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">zinc mg</literal></binding>
+   <binding name="value"><literal>0.2 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">niacin mg</literal></binding>
+   <binding name="value"><literal>0.098 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">manganese mg</literal></binding>
+   <binding name="value"><literal>0.079 milligram</literal></binding>
+  </result>
+ </results>
+</sparql>

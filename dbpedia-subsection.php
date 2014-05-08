@@ -5,10 +5,6 @@
 	$sectionHeader = $keywords[1];
 	$page = $keywords[2];
 
-	//$subsectionHeader = 'sugars';
-	//$sectionHeader = 'Nutritional values';
-	//$page = 'Tomato';
-
 	print "\n<vxml version = \"2.1\"> \n  <property name=\"inputmodes\" value=\"dtmf\" />  <form id=\"result\">\n <block> \n<prompt bargein=\"true\">\n";
 	print "You have chosen ";
 	print $subsectionHeader;

@@ -1,0 +1,48 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">Water</literal></binding>
+   <binding name="value"><literal>75.0 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fiber</literal></binding>
+   <binding name="value"><literal>2.2 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">protein</literal></binding>
+   <binding name="value"><literal>2.0 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">carbs</literal></binding>
+   <binding name="value"><literal>17.47 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">starch</literal></binding>
+   <binding name="value"><literal>15.44 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fat</literal></binding>
+   <binding name="value"><literal>0.1 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitC mg</literal></binding>
+   <binding name="value"><literal>19.7 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">niacin mg</literal></binding>
+   <binding name="value"><literal>1.05 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">iron mg</literal></binding>
+   <binding name="value"><literal>0.78 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">pantothenic mg</literal></binding>
+   <binding name="value"><literal>0.296 milligram</literal></binding>
+  </result>
+ </results>
+</sparql>

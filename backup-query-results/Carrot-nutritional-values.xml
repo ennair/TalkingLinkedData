@@ -1,0 +1,48 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">carbs</literal></binding>
+   <binding name="value"><literal>9.6 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">sugars</literal></binding>
+   <binding name="value"><literal>4.7 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fibre</literal></binding>
+   <binding name="value"><literal>2.8 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">protein</literal></binding>
+   <binding name="value"><literal>0.93 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fat</literal></binding>
+   <binding name="value"><literal>0.24 gram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitK mg</literal></binding>
+   <binding name="value"><literal>13.2 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitC mg</literal></binding>
+   <binding name="value"><literal>5.9 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">niacin mg</literal></binding>
+   <binding name="value"><literal>0.983 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitE mg</literal></binding>
+   <binding name="value"><literal>0.66 milligram</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">iron mg</literal></binding>
+   <binding name="value"><literal>0.3 milligram</literal></binding>
+  </result>
+ </results>
+</sparql>

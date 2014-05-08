@@ -1,0 +1,164 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Carrot cake</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pot pie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Curtido</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Ulmyeon</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Minestrone</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pamirdin</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Soup alla Canavese</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cazuela (Peru)</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Acar</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Dressed herring</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">SteckrÃ¼beneintopf</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Maconochie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Sklandrausis</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Garnache</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cawl</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Fish chowder</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Irish stew</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Kaldereta</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">SalatÄƒ de boeuf</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Sopa de mondongo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Japanese curry</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Guo Bao Rou</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pisca Andina</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">PurÃ©e Mongole</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Woolton pie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Bob chorba</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Rabbit pie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Jello salad</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Meat and potato pie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Bosnian Pot</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cream Stew</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pichelsteiner</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Caldillo de congrio</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Popiah</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Chikuzenni</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Ollada</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cezerye</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Brown Windsor soup</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Chairo</literal></binding>
+  </result>
+ </results>
+</sparql>

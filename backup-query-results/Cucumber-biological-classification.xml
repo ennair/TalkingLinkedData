@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">binomial authority</literal></binding>
+   <binding name="value"><literal xml:lang="en">Carl Linnaeus</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">class</literal></binding>
+   <binding name="value"><literal xml:lang="en">Eudicots</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">division</literal></binding>
+   <binding name="value"><literal xml:lang="en">Flowering plant</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">family</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cucurbitaceae</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">genus</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cucumis</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">kingdom</literal></binding>
+   <binding name="value"><literal xml:lang="en">Plant</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">order</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cucurbitales</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">order</literal></binding>
+   <binding name="value"><literal xml:lang="en">Rosids</literal></binding>
+  </result>
+ </results>
+</sparql>

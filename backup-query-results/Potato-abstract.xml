@@ -1,0 +1,12 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">has abstract</literal></binding>
+   <binding name="value"><literal xml:lang="en">The potato is a starchy, tuberous crop from the perennial Solanum tuberosum of the Solanaceae family (also known as the nightshades). The word may refer to the plant itself as well as the edible tuber. In the region of the Andes, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region four centuries ago, and have become an integral part of much of the world&#39;s cuisine. It is the world&#39;s fourth-largest food crop, following rice, wheat and maize. Long-term storage of potatoes requires specialised care in cold warehouses. Wild potato species occur throughout the Americas, from the United States to southern Chile. The potato was originally believed to have been domesticated independently in multiple locations, but later genetic testing of the wide variety of cultivars and wild species proved a single origin for potatoes in the area of present-day southern Peru and extreme northwestern Bolivia (from a species in the Solanum brevicaule complex), where they were domesticated 7,000â€“10,000 years ago. Following centuries of selective breeding, there are now over a thousand different types of potatoes. Of these subspecies, a variety that at one point grew in the ChiloÃ© Archipelago left its germplasm on over 99% of the cultivated potatoes worldwide. The annual diet of an average global citizen in the first decade of the 21st century included about 33Â kg of potato. However, the local importance of potato is extremely variable and rapidly changing. It remains an essential crop in Europe (especially eastern and central Europe), where per capita production is still the highest in the world, but the most rapid expansion over the past few decades has occurred in southern and eastern Asia. China is now the world&#39;s largest potato-producing country, and nearly a third of the world&#39;s potatoes are harvested in China and India.</literal></binding>
+  </result>
+ </results>
+</sparql>

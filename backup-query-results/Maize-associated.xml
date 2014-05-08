@@ -1,0 +1,208 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn flakes</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pinole</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Bombay mix</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cocoa Puffs</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn soup</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Aish Merahrah</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Kenkey</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">MoÄnik</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">CC&#39;s</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Asham</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Nicuatole</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cheese bun</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">MÄƒmÄƒligÄƒ</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn cookie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn tortilla</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">AlmojÃ¡bana</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Fish chowder</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Sadza</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pudding corn</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">GÃ¼irila</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Rubaboo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cocktion</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Taco soup</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cachapa</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Brunswick stew</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Totopo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Kettle corn</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Jhajariya</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Gachas</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Frangollo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Humita</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Injera</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Curau</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">PÃ¢tÃ© chinois</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Talo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pamonha</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Salt-rising bread</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn chowder</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Twibap</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Milho Frito</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Bulalo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">known for</literal></binding>
+   <binding name="value"><literal xml:lang="en">Hugh Iltis</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">known for</literal></binding>
+   <binding name="value"><literal xml:lang="en">Barbara McClintock</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">known for</literal></binding>
+   <binding name="value"><literal xml:lang="en">Baldev Singh Dhillon</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">Global Bio-Chem</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">Adler Seeds</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">SLC AgrÃ­cola</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">KWS Saat</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">Mriya Agro Holding</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">English Indian Clays</literal></binding>
+  </result>
+ </results>
+</sparql>

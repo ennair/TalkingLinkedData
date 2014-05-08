@@ -1,0 +1,68 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+  <variable name="value"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">FilhÃ³s</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Conkies</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pumpkin soup</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Coconut custard</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Fanesca</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Orama</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Hobakjuk</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pumpkin pie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Fish tea</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Ghapama</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Dhansak</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pumpkin bread</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Blachindla</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Torta alla Monferrina</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Santula</literal></binding>
+  </result>
+ </results>
+</sparql>
