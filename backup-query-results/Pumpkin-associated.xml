@@ -6,15 +6,7 @@
  <results distinct="false" ordered="true">
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">FilhÃ³s</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Conkies</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Pumpkin soup</literal></binding>
+   <binding name="value"><literal xml:lang="en">Blachindla</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -22,19 +14,19 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Conkies</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Dhansak</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
    <binding name="value"><literal xml:lang="en">Fanesca</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Orama</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Hobakjuk</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Pumpkin pie</literal></binding>
+   <binding name="value"><literal xml:lang="en">FilhÃ³s</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -46,7 +38,11 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Dhansak</literal></binding>
+   <binding name="value"><literal xml:lang="en">Hobakjuk</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Orama</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -54,15 +50,19 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Blachindla</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pumpkin pie</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Torta alla Monferrina</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pumpkin soup</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
    <binding name="value"><literal xml:lang="en">Santula</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Torta alla Monferrina</literal></binding>
   </result>
  </results>
 </sparql>

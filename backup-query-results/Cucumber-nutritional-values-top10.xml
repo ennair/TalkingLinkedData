@@ -44,17 +44,5 @@
    <binding name="label"><literal xml:lang="en">manganese mg</literal></binding>
    <binding name="value"><literal>0.079 milligram</literal></binding>
   </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">vitB6 mg</literal></binding>
-   <binding name="value"><literal>0.04 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">riboflavin mg</literal></binding>
-   <binding name="value"><literal>0.033 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">thiamin mg</literal></binding>
-   <binding name="value"><literal>0.027 milligram</literal></binding>
-  </result>
  </results>
 </sparql>

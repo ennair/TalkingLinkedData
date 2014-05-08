@@ -49,8 +49,6 @@
 		}
 		ORDER BY DESC(?number)}
 		}
-
-		LIMIT 10
 		";
 
 	} elseif (strcmp($sectionHeader, 'Biological classification') == 0) {
@@ -63,7 +61,7 @@
 			?value2 rdfs:label ?value .
 			FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
 		}
-		ORDER BY ASC(?label)
+		ORDER BY ASC(?label) ASC(?value)
 		";
 
 	} else { //strcmp($sectionHeader, 'Associated food persons and organizations') == 0
@@ -102,7 +100,7 @@
 			FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
 		}}}
 
-		ORDER BY ASC(?label)
+		ORDER BY ASC(?label) ASC(?value)
 		";
 	}
 

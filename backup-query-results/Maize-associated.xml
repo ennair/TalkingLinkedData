@@ -6,63 +6,7 @@
  <results distinct="false" ordered="true">
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Corn flakes</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Pinole</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Bombay mix</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Cocoa Puffs</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Corn soup</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
    <binding name="value"><literal xml:lang="en">Aish Merahrah</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Kenkey</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">MoÄnik</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">CC&#39;s</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Asham</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Nicuatole</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Cheese bun</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">MÄƒmÄƒligÄƒ</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Corn cookie</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Corn tortilla</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -70,35 +14,11 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Fish chowder</literal></binding>
+   <binding name="value"><literal xml:lang="en">Asham</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Sadza</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Pudding corn</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">GÃ¼irila</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Rubaboo</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Cocktion</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Taco soup</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Cachapa</literal></binding>
+   <binding name="value"><literal xml:lang="en">Bombay mix</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -106,15 +26,59 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Totopo</literal></binding>
+   <binding name="value"><literal xml:lang="en">Bulalo</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Kettle corn</literal></binding>
+   <binding name="value"><literal xml:lang="en">CC&#39;s</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Jhajariya</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cachapa</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cheese bun</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cocktion</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cocoa Puffs</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn chowder</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn cookie</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn flakes</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn soup</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Corn tortilla</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Curau</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Fish chowder</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Frangollo</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -122,7 +86,7 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Frangollo</literal></binding>
+   <binding name="value"><literal xml:lang="en">GÃ¼irila</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -134,31 +98,15 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Curau</literal></binding>
+   <binding name="value"><literal xml:lang="en">Jhajariya</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">PÃ¢tÃ© chinois</literal></binding>
+   <binding name="value"><literal xml:lang="en">Kenkey</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Talo</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Pamonha</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Salt-rising bread</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Corn chowder</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Twibap</literal></binding>
+   <binding name="value"><literal xml:lang="en">Kettle corn</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -166,11 +114,63 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Bulalo</literal></binding>
+   <binding name="value"><literal xml:lang="en">MoÄnik</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">MÄƒmÄƒligÄƒ</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Nicuatole</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pamonha</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pinole</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pudding corn</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">PÃ¢tÃ© chinois</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Rubaboo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Sadza</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Salt-rising bread</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Taco soup</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Talo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Totopo</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Twibap</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">known for</literal></binding>
-   <binding name="value"><literal xml:lang="en">Hugh Iltis</literal></binding>
+   <binding name="value"><literal xml:lang="en">Baldev Singh Dhillon</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">known for</literal></binding>
@@ -178,11 +178,7 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">known for</literal></binding>
-   <binding name="value"><literal xml:lang="en">Baldev Singh Dhillon</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">product</literal></binding>
-   <binding name="value"><literal xml:lang="en">Global Bio-Chem</literal></binding>
+   <binding name="value"><literal xml:lang="en">Hugh Iltis</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">product</literal></binding>
@@ -190,7 +186,11 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">product</literal></binding>
-   <binding name="value"><literal xml:lang="en">SLC AgrÃ­cola</literal></binding>
+   <binding name="value"><literal xml:lang="en">English Indian Clays</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">product</literal></binding>
+   <binding name="value"><literal xml:lang="en">Global Bio-Chem</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">product</literal></binding>
@@ -202,7 +202,7 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">product</literal></binding>
-   <binding name="value"><literal xml:lang="en">English Indian Clays</literal></binding>
+   <binding name="value"><literal xml:lang="en">SLC AgrÃ­cola</literal></binding>
   </result>
  </results>
 </sparql>

@@ -44,29 +44,5 @@
    <binding name="label"><literal xml:lang="en">pantothenic mg</literal></binding>
    <binding name="value"><literal>0.296 milligram</literal></binding>
   </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">vitB6 mg</literal></binding>
-   <binding name="value"><literal>0.295 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">zinc mg</literal></binding>
-   <binding name="value"><literal>0.29 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">manganese mg</literal></binding>
-   <binding name="value"><literal>0.153 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">thiamin mg</literal></binding>
-   <binding name="value"><literal>0.08 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">riboflavin mg</literal></binding>
-   <binding name="value"><literal>0.03 milligram</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">vitE mg</literal></binding>
-   <binding name="value"><literal>0.01 milligram</literal></binding>
-  </result>
  </results>
 </sparql>

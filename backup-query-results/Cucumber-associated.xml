@@ -6,7 +6,11 @@
  <results distinct="false" ordered="true">
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Tzatziki</literal></binding>
+   <binding name="value"><literal xml:lang="en">Chef salad</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Cucumber sandwich</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -18,19 +22,7 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Kerala pachadi</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Snow White salad</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Chef salad</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Rosolnyk</literal></binding>
+   <binding name="value"><literal xml:lang="en">Greek salad</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -38,11 +30,11 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Pasembur</literal></binding>
+   <binding name="value"><literal xml:lang="en">Israeli salad</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Shopska salad</literal></binding>
+   <binding name="value"><literal xml:lang="en">Kerala pachadi</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -50,31 +42,23 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Serbian salad</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Israeli salad</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Greek salad</literal></binding>
-  </result>
-  <result>
-   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
    <binding name="value"><literal xml:lang="en">Okroshka</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Tarator</literal></binding>
+   <binding name="value"><literal xml:lang="en">Pasembur</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Cucumber sandwich</literal></binding>
+   <binding name="value"><literal xml:lang="en">Raita</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Ã‡oban salatasÄ±</literal></binding>
+   <binding name="value"><literal xml:lang="en">Rosolnyk</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Serbian salad</literal></binding>
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
@@ -82,7 +66,23 @@
   </result>
   <result>
    <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
-   <binding name="value"><literal xml:lang="en">Raita</literal></binding>
+   <binding name="value"><literal xml:lang="en">Shopska salad</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Snow White salad</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Tarator</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Tzatziki</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">ingredient</literal></binding>
+   <binding name="value"><literal xml:lang="en">Ã‡oban salatasÄ±</literal></binding>
   </result>
  </results>
 </sparql>
