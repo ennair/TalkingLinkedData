@@ -27,10 +27,10 @@
 
 	if (strcmp($sectionHeader, 'Nutritional values') == 0) {
 		$myquery = "
-		SELECT DISTINCT ?label ?value
+		SELECT DISTINCT ?label
 		WHERE {
 
-		{SELECT ?label (CONCAT(?number, \" gram\") AS ?value)
+		{SELECT ?label
 		WHERE {
 			<http://dbpedia.org/resource/" . $page . "> ?property ?number .
 			?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -41,7 +41,7 @@
 
 		UNION
 
-		{SELECT ?label (CONCAT(?number, \" milligram\") AS ?value	)
+		{SELECT ?label 
 		WHERE {
 			<http://dbpedia.org/resource/" . $page . "> ?property ?number .
 			?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -53,7 +53,7 @@
 
 	} elseif (strcmp($sectionHeader, 'Biological classification') == 0) {
 		$myquery = "
-		SELECT DISTINCT ?label ?value
+		SELECT DISTINCT ?label
 		WHERE {
 			<http://dbpedia.org/resource/" . $page . "> ?property ?value2 .
 			?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -61,15 +61,15 @@
 			?value2 rdfs:label ?value .
 			FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
 		}
-		ORDER BY ASC(?label) ASC(?value)
+		ORDER BY ASC(?label)
 		";
 
 	} else { //strcmp($sectionHeader, 'Associated food persons and organizations') == 0
 		$myquery = "
-		SELECT DISTINCT ?label ?value 
+		SELECT DISTINCT ?label
 		WHERE {
 
-		{SELECT ?label ?value 
+		{SELECT ?label
 		WHERE {
 			?value2 ?property <http://dbpedia.org/resource/" . $page . "> .
 			?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -80,7 +80,7 @@
 
 		UNION
 
-		{SELECT ?label ?value 
+		{SELECT ?label
 		WHERE {
 			?value2 ?property <http://dbpedia.org/resource/" . $page . "> .
 			?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -91,7 +91,7 @@
 
 		UNION
 
-		{SELECT ?label ?value 
+		{SELECT ?label
 		WHERE {
 			?value2 ?property <http://dbpedia.org/resource/" . $page . "> .
 			?property <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -100,7 +100,7 @@
 			FILTER (LANG(?label) = 'en' and LANG(?value) = 'en')
 		}}}
 
-		ORDER BY ASC(?label) ASC(?value)
+		ORDER BY ASC(?label)
 		";
 	}
 
@@ -112,22 +112,13 @@
 	$html->loadXML($query);
 
 	$i = 1;
-	$d = 1;
-	$string;
 
 	print "\n<option dtmf=\"0\" value=\"Back\">Go back to main menu</option>";
 	
 	foreach($html->getElementsByTagName('binding') as $section) {  
-		if($i % 2 != 0) {
-			$sectionName = $section->nodeValue;
+		$sectionName = $section->nodeValue;
 		
-			if(strcmp($sectionName, $string) != 0) {
-				print "\n<option dtmf=\"" . $d . "\" value=\"" . $sectionName . "," . $sectionHeader . "," . $page . "\">". $sectionName . "</option>";
-				$d++;
-			}
-				
-			$string = $sectionName;
-		}
+		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $sectionHeader . "," . $page . "\">". $sectionName . "</option>";
 	
 		$i++;
     	} 
