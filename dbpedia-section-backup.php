@@ -29,11 +29,11 @@
 
 
 	if (strcmp($sectionHeader, 'Nutritional values') == 0) {
-		$url = "http://neosound.nl/rianne/backup-query-results/" . $page . "-nutritional-values.xml";
+		$url = "http://neosound.nl/rianne/backup-query-results/" . $page . "-label-nutritional-values.xml";
 	} elseif (strcmp($sectionHeader, 'Biological classification') == 0) {
-		$url = "http://neosound.nl/rianne/backup-query-results/" . $page . "-biological-classification.xml";
+		$url = "http://neosound.nl/rianne/backup-query-results/" . $page . "-label-biological-classification.xml";
 	} else { //strcmp($sectionHeader, 'Associated food persons and organizations') == 0
-		$url = "http://neosound.nl/rianne/backup-query-results/" . $page . "-associated.xml";
+		$url = "http://neosound.nl/rianne/backup-query-results/" . $page . "-label-associated.xml";
 	}
 
 	$query = file_get_contents($url);
@@ -42,23 +42,14 @@
 	$html->loadXML($query);
 
 	$i = 1;
-	$d = 1;
-	$string;
 
 	print "\n<option dtmf=\"0\" value=\"Back\">Go back to main menu</option>";
 	
 	foreach($html->getElementsByTagName('binding') as $section) {  
-		if($i % 2 != 0) {
-			$sectionName = $section->nodeValue;
+		$sectionName = $section->nodeValue;
 		
-			if(strcmp($sectionName, $string) != 0) {
-				print "\n<option dtmf=\"" . $d . "\" value=\"" . $sectionName . "," . $sectionHeader . "," . $page . "\">". $sectionName . "</option>";
-				$d++;
-			}
-				
-			$string = $sectionName;
-		}
-	
+		print "\n<option dtmf=\"" . $i . "\" value=\"" . $sectionName . "," . $sectionHeader . "," . $page . "\">". $sectionName . "</option>";
+			
 		$i++;
     	} 
 

@@ -4,6 +4,9 @@
 	$sectionHeader = $keywords[0];
 	$page = $keywords[1];
 
+	$sectionHeader = 'Associated food persons and organizations';
+	$page = 'Pumpkin';
+
 	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />";  
 	print "\n<form id=\"menu0\">\n <block> \n";
 	
@@ -107,7 +110,8 @@
 	$encoded_query = urlencode($myquery);
         $url = 'http://dbpedia.org/sparql?query=' .$encoded_query;
 
-	$query = file_get_contents($url);	
+	$query = file_get_contents($url);
+	var_dump($query);	
 	$html = new DOMDocument();
 	$html->loadXML($query);
 

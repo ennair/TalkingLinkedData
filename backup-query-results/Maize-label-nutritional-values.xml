@@ -1,0 +1,109 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="label"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="label"><literal xml:lang="en">Water</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">sugars</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">starch</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">protein</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fiber</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">carbs</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">fat</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">glutamic acid</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">leucine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">alanine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">proline</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">aspartic acid</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">valine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">serine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">phenylalanine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">lysine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">arginine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">isoleucine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">threonine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">glycine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">tyrosine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">histidine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">methionine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">cystine</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">tryptophan</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitC mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">niacin mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">pantothenic mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">iron mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">zinc mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">manganese mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">thiamin mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">vitB6 mg</literal></binding>
+  </result>
+  <result>
+   <binding name="label"><literal xml:lang="en">riboflavin mg</literal></binding>
+  </result>
+ </results>
+</sparql>
