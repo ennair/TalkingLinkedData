@@ -4,9 +4,6 @@
 	$sectionHeader = $keywords[0];
 	$page = $keywords[1];
 
-	$sectionHeader = 'Associated food persons and organizations';
-	$page = 'Pumpkin';
-
 	print "\n<vxml version = \"2.1\" > \n  <property name=\"inputmodes\" value=\"dtmf\" />";  
 	print "\n<form id=\"menu0\">\n <block> \n";
 	
@@ -110,8 +107,7 @@
 	$encoded_query = urlencode($myquery);
         $url = 'http://dbpedia.org/sparql?query=' .$encoded_query;
 
-	$query = file_get_contents($url);
-	var_dump($query);	
+	$query = file_get_contents($url);	
 	$html = new DOMDocument();
 	$html->loadXML($query);
 
@@ -144,7 +140,7 @@
 	print ".";
 
 	$abstractquery = "
-	SELECT DISTINCT ?label ?value
+	SELECT DISTINCT ?value
 	WHERE {
 		<http://dbpedia.org/resource/" . $page . "> <http://dbpedia.org/ontology/abstract> ?value .
 		<http://dbpedia.org/ontology/abstract> <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -159,7 +155,7 @@
 	$html = new DOMDocument();
 	$html->loadXML($query);
 
-	$content = $html->getElementsByTagName('binding')->item(1)->nodeValue;
+	$content = $html->getElementsByTagName('binding')->item(0)->nodeValue;
 	print "<p>" . $content . "</p>";
 
 	print "\n </prompt> \n <prompt>You will now return to the main menu.</prompt> \n<goto next=\"dbpedia.xml\"/>\n</block> \n </form>";

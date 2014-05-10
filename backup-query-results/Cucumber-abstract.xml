@@ -1,11 +1,9 @@
 <sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
  <head>
-  <variable name="label"/>
   <variable name="value"/>
  </head>
  <results distinct="false" ordered="true">
   <result>
-   <binding name="label"><literal xml:lang="en">has abstract</literal></binding>
    <binding name="value"><literal xml:lang="en">The cucumber (Cucumis sativus) is a widely cultivated plant in the gourd family Cucurbitaceae. It is a creeping vine which bears cylindrical edible fruit when ripe. There are three main varieties of cucumber: &quot;slicing&quot;, &quot;pickling&quot;, and &quot;burpless&quot;. Within these varieties, several different cultivars have emerged. The cucumber is originally from India but is now grown on most continents. Many different varieties are traded on the global market.</literal></binding>
   </result>
  </results>

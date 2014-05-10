@@ -75,7 +75,7 @@
 	$html = new DOMDocument();
 	$html->loadXML($query);
 
-	$content = $html->getElementsByTagName('binding')->item(1)->nodeValue;
+	$content = $html->getElementsByTagName('binding')->item(0)->nodeValue;
 	print "<p>" . $content . "</p>";
 
 	print "\n </prompt> \n <prompt>You will now return to the main menu.</prompt> \n<goto next=\"dbpedia-backup.xml\"/>\n</block> \n </form>";

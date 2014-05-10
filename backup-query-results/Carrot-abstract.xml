@@ -1,11 +1,9 @@
 <sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
  <head>
-  <variable name="label"/>
   <variable name="value"/>
  </head>
  <results distinct="false" ordered="true">
   <result>
-   <binding name="label"><literal xml:lang="en">has abstract</literal></binding>
    <binding name="value"><literal xml:lang="en">The carrot is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist. It has a crisp texture when fresh. The most commonly eaten part of a carrot is a taproot, although the greens are edible as well. It is a domesticated form of the wild carrot Daucus carota, native to Europe and southwestern Asia. The domestic carrot has been selectively bred for its greatly enlarged and more palatable, less woody-textured edible taproot. The Food and Agriculture Organization of the United Nations (FAO) reports that world production of carrots and turnips (these plants are combined by the FAO for reporting purposes) for calendar year 2011 was almost 35.658 million tonnes. Almost half were grown in China.</literal></binding>
   </result>
  </results>
