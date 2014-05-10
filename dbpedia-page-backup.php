@@ -13,7 +13,7 @@
 	print "\n<option dtmf=\"1\" value=\"Abstract," . $page . "\">Abstract</option>";
 	print "\n<option dtmf=\"2\" value=\"Nutritional values," . $page . "\">Nutritional values</option>";
 	print "\n<option dtmf=\"3\" value=\"Biological classification," . $page . "\">Biological classification</option>";
-	print "\n<option dtmf=\"4\" value=\"Associated food persons and organizations," . $page . "\">Associated food, person's and organization's</option>";
+	print "\n<option dtmf=\"4\" value=\"Associated food persons and organizations," . $page . "\">Associated food, persons and organizations</option>";
 
 	print "\n<noinput>Please enter a number.<reprompt/></noinput>";      
   	print "\n<nomatch>This is no option. Try again.<reprompt/></nomatch>";
